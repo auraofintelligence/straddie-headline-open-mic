@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ABC News",
+    "country": "Australia",
+    "type": "public broadcaster / print-style newsroom",
+    "feed_url": "https://www.abc.net.au/news/feed/51120/rss.xml"
+  },
+  {
+    "name": "The Guardian Australia",
+    "country": "Australia",
+    "type": "newspaper",
+    "feed_url": "https://www.theguardian.com/australia-news/rss"
+  },
+  {
+    "name": "The Guardian World",
+    "country": "United Kingdom",
+    "type": "newspaper",
+    "feed_url": "https://www.theguardian.com/world/rss"
+  },
+  {
+    "name": "BBC News",
+    "country": "United Kingdom",
+    "type": "public broadcaster / print-style newsroom",
+    "feed_url": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "name": "The New York Times",
+    "country": "United States",
+    "type": "newspaper",
+    "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+  },
+  {
+    "name": "New York Post Weird But True",
+    "country": "United States",
+    "type": "newspaper offbeat section",
+    "feed_url": "https://nypost.com/weird-but-true/feed/"
+  },
+  {
+    "name": "Mirror Weird News",
+    "country": "United Kingdom",
+    "type": "newspaper offbeat section",
+    "feed_url": "https://www.mirror.co.uk/news/weird-news/?service=rss"
+  },
+  {
+    "name": "Metro Weird News",
+    "country": "United Kingdom",
+    "type": "newspaper offbeat section",
+    "feed_url": "https://metro.co.uk/news/weird/feed/"
+  },
+  {
+    "name": "RNZ News",
+    "country": "New Zealand",
+    "type": "public broadcaster / print-style newsroom",
+    "feed_url": "https://www.rnz.co.nz/rss/news.xml"
+  },
+  {
+    "name": "The Irish Times",
+    "country": "Ireland",
+    "type": "newspaper",
+    "feed_url": "https://www.irishtimes.com/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  {
+    "name": "The Independent",
+    "country": "United Kingdom",
+    "type": "newspaper",
+    "feed_url": "https://www.independent.co.uk/news/rss"
+  }
+]

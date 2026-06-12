@@ -1,0 +1,155 @@
+{
+  "site": "Straddie Headline Open Mic",
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T19:53:30.065761+10:00",
+  "generated_label": "12 Jun 2026, 07:53 PM AEST",
+  "source_count": 11,
+  "headline_count": 10,
+  "headlines": [
+    {
+      "id": "i-witnessed-a-real-alien-autopsy-but-government-insisted-3e6e7157d8",
+      "title": "'I witnessed a real alien autopsy - but government insisted on denying everything'",
+      "url": "https://www.mirror.co.uk/news/uk-news/alien-autopsy-scandal-ufo-coverup-37275505",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "published": "2026-06-11T17:38:42+10:00",
+      "score": 15,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "A serious-news word is sharing a sentence with something very ordinary."
+      ]
+    },
+    {
+      "id": "mystery-of-how-someone-left-giant-8647-message-on-nation-af398bcf50",
+      "title": "Mystery of how someone left giant ‘8647’ message on National Mall under investigation",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/8647-national-mall-washington-monument-comey-b2994314.html",
+      "source": "The Independent",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "published": "2026-06-12T18:47:29+10:00",
+      "score": 15,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The scale is doing deadpan comedy.",
+        "It reads like the setup to a very dry question."
+      ]
+    },
+    {
+      "id": "bona-fide-t-rex-leather-purse-is-going-up-for-auction-an-43a02b45ba",
+      "title": "Bona fide T. rex leather purse is going up for auction — and it could fetch $500K",
+      "url": "https://nypost.com/2026/06/10/lifestyle/worlds-first-t-rex-leather-bag-to-be-auctioned-for-500k/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "published": "2026-06-11T01:28:29+10:00",
+      "score": 14,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "The object list sounds like someone shuffled three different stories together."
+      ]
+    },
+    {
+      "id": "danes-show-off-their-manes-in-denmark-s-national-mullet--080739b77d",
+      "title": "Danes show off their manes in Denmark’s national mullet championship",
+      "url": "https://nypost.com/2026/06/07/world-news/danes-show-off-their-manes-in-denmarks-national-mullet-championship/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "published": "2026-06-08T07:29:11+10:00",
+      "score": 10,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage."
+      ]
+    },
+    {
+      "id": "europe-s-largest-hotel-with-epic-waterpark-is-opening-2--4e7727dd05",
+      "title": "'Europe's largest hotel' with epic waterpark is opening 2 hours from the UK this summer",
+      "url": "https://www.mirror.co.uk/travel/europes-largest-hotel-epic-waterpark-37272986",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "published": "2026-06-12T19:19:41+10:00",
+      "score": 10,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage."
+      ]
+    },
+    {
+      "id": "morrisons-shoppers-left-baffled-when-they-spot-price-of--8a834d29d1",
+      "title": "Morrisons shoppers left baffled when they spot price of huge Toblerone bar",
+      "url": "https://www.mirror.co.uk/money/shopping-deals/morrisons-shoppers-left-baffled-spot-37281154",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "published": "2026-06-12T00:45:08+10:00",
+      "score": 10,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage."
+      ]
+    },
+    {
+      "id": "man-buys-food-at-london-s-most-expensive-fish-and-chip-s-99eafc17c5",
+      "title": "Man buys food at London's 'most expensive' fish and chip shop and price stuns him",
+      "url": "https://www.mirror.co.uk/lifestyle/food-drink/man-buys-food-londons-most-37280456",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "published": "2026-06-11T22:45:07+10:00",
+      "score": 10,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage."
+      ]
+    },
+    {
+      "id": "i-m-the-psychic-who-predicted-covid-my-warning-for-engla-2da317eb65",
+      "title": "'I'm the psychic who predicted Covid - my warning for England's World Cup'",
+      "url": "https://www.mirror.co.uk/news/weird-news/im-psychic-who-predicted-covid-37279036",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "published": "2026-06-11T19:25:41+10:00",
+      "score": 10,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage."
+      ]
+    },
+    {
+      "id": "bavarian-sausage-queen-makes-meat-footballers-for-world--59aa0a9405",
+      "title": "Bavarian sausage queen makes meat footballers for World Cup",
+      "url": "https://metro.co.uk/2026/06/10/bavarian-sausage-queen-makes-special-snack-world-cup-28725544/",
+      "source": "Metro Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "published": "2026-06-11T02:07:39+10:00",
+      "score": 9,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news."
+      ]
+    },
+    {
+      "id": "alleged-drug-dealer-caught-after-trading-cannabis-for-ca-238b7301a2",
+      "title": "Alleged drug dealer caught after trading cannabis for cat food",
+      "url": "https://www.abc.net.au/news/2026-06-12/nt-police-arrest-woman-allegedly-dealing-cannabis-for-cat-food/106792796",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "published": "2026-06-12T19:42:15+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ]
+    }
+  ],
+  "feed_errors": []
+}

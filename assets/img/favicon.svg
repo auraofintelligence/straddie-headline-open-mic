@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Headline open mic mark">
+  <rect width="64" height="64" rx="10" fill="#15110f"/>
+  <path d="M22 13h20a5 5 0 0 1 5 5v11a15 15 0 0 1-30 0V18a5 5 0 0 1 5-5Z" fill="#fffaf1"/>
+  <path d="M22 24h20M22 30h20M30 44v8M22 52h20" fill="none" stroke="#15110f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M18 29a14 14 0 0 0 28 0" fill="none" stroke="#e6a84b" stroke-width="4" stroke-linecap="round"/>
+</svg>
