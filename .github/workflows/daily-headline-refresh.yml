@@ -32,7 +32,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/data/headlines.json data/archive docs/site-map.md *.html
+          git add assets/data/headlines.json assets/data/headline-images data/archive docs/site-map.md *.html
           if git diff --cached --quiet; then
             echo "No headline changes to commit."
           else

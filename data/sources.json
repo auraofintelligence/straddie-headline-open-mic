@@ -1,68 +1,106 @@
 [
   {
+    "name": "NT News",
+    "country": "Australia",
+    "type": "Darwin newspaper / prime front-page target",
+    "feed_url": "https://news.google.com/rss/search?q=site:ntnews.com.au%20when:14d&hl=en-AU&gl=AU&ceid=AU:en",
+    "priority": "prime",
+    "reputation_note": "Prime front and centre: Darwin front-page energy, bold local wording, and the headline tradition this site is trying to catch."
+  },
+  {
     "name": "ABC News",
     "country": "Australia",
     "type": "public broadcaster / print-style newsroom",
-    "feed_url": "https://www.abc.net.au/news/feed/51120/rss.xml"
+    "feed_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
+    "priority": "standard"
   },
   {
     "name": "The Guardian Australia",
     "country": "Australia",
     "type": "newspaper",
-    "feed_url": "https://www.theguardian.com/australia-news/rss"
+    "feed_url": "https://www.theguardian.com/australia-news/rss",
+    "priority": "standard"
   },
   {
     "name": "The Guardian World",
     "country": "United Kingdom",
     "type": "newspaper",
-    "feed_url": "https://www.theguardian.com/world/rss"
+    "feed_url": "https://www.theguardian.com/world/rss",
+    "priority": "standard"
   },
   {
     "name": "BBC News",
     "country": "United Kingdom",
     "type": "public broadcaster / print-style newsroom",
-    "feed_url": "https://feeds.bbci.co.uk/news/rss.xml"
+    "feed_url": "https://feeds.bbci.co.uk/news/rss.xml",
+    "priority": "standard"
   },
   {
     "name": "The New York Times",
     "country": "United States",
     "type": "newspaper",
-    "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "priority": "standard"
   },
   {
     "name": "New York Post Weird But True",
     "country": "United States",
     "type": "newspaper offbeat section",
-    "feed_url": "https://nypost.com/weird-but-true/feed/"
+    "feed_url": "https://nypost.com/weird-but-true/feed/",
+    "priority": "tabloid-offbeat",
+    "reputation_note": "A loud offbeat print-news target with strange objects, odd claims, and very clickable headline grammar."
   },
   {
     "name": "Mirror Weird News",
     "country": "United Kingdom",
     "type": "newspaper offbeat section",
-    "feed_url": "https://www.mirror.co.uk/news/weird-news/?service=rss"
+    "feed_url": "https://www.mirror.co.uk/news/weird-news/?service=rss",
+    "priority": "tabloid-offbeat",
+    "reputation_note": "UK tabloid weird-news section. Useful for odd phrasing and everyday objects made newsworthy."
+  },
+  {
+    "name": "Daily Star Weird News",
+    "country": "United Kingdom",
+    "type": "newspaper offbeat section",
+    "feed_url": "https://www.dailystar.co.uk/news/weird-news/?service=rss",
+    "priority": "tabloid-offbeat",
+    "reputation_note": "UK red-top weird-news feed. Kept behind the harm filter because it can swing from funny to grim quickly."
   },
   {
     "name": "Metro Weird News",
     "country": "United Kingdom",
     "type": "newspaper offbeat section",
-    "feed_url": "https://metro.co.uk/news/weird/feed/"
+    "feed_url": "https://metro.co.uk/news/weird/feed/",
+    "priority": "tabloid-offbeat",
+    "reputation_note": "A softer UK weird-news feed that often has the small-absurdity flavour."
+  },
+  {
+    "name": "Daily Mail Science",
+    "country": "United Kingdom",
+    "type": "newspaper science / odd discoveries",
+    "feed_url": "https://www.dailymail.co.uk/sciencetech/index.rss",
+    "priority": "tabloid",
+    "reputation_note": "Broad tabloid science feed. Good for strange discovery headlines, but ranked below the dedicated offbeat feeds."
   },
   {
     "name": "RNZ News",
     "country": "New Zealand",
     "type": "public broadcaster / print-style newsroom",
-    "feed_url": "https://www.rnz.co.nz/rss/news.xml"
+    "feed_url": "https://www.rnz.co.nz/rss/news.xml",
+    "priority": "standard"
   },
   {
     "name": "The Irish Times",
     "country": "Ireland",
     "type": "newspaper",
-    "feed_url": "https://www.irishtimes.com/arc/outboundfeeds/rss/?outputType=xml"
+    "feed_url": "https://www.irishtimes.com/arc/outboundfeeds/rss/?outputType=xml",
+    "priority": "standard"
   },
   {
     "name": "The Independent",
     "country": "United Kingdom",
     "type": "newspaper",
-    "feed_url": "https://www.independent.co.uk/news/rss"
+    "feed_url": "https://www.independent.co.uk/news/rss",
+    "priority": "standard"
   }
 ]

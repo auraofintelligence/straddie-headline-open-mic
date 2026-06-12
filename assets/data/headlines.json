@@ -1,126 +1,45 @@
 {
   "site": "Straddie Headline Open Mic",
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T19:53:30.065761+10:00",
-  "generated_label": "12 Jun 2026, 07:53 PM AEST",
-  "source_count": 11,
-  "headline_count": 10,
+  "generated_at": "2026-06-12T21:55:50.429685+10:00",
+  "generated_label": "12 Jun 2026, 09:55 PM AEST",
+  "source_count": 14,
+  "headline_count": 22,
   "headlines": [
     {
-      "id": "i-witnessed-a-real-alien-autopsy-but-government-insisted-3e6e7157d8",
-      "title": "'I witnessed a real alien autopsy - but government insisted on denying everything'",
-      "url": "https://www.mirror.co.uk/news/uk-news/alien-autopsy-scandal-ufo-coverup-37275505",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "published": "2026-06-11T17:38:42+10:00",
-      "score": 15,
+      "id": "world-s-largest-mud-crab-mural-transforms-vacant-city-bl-976275dafe",
+      "title": "World’s largest mud crab mural transforms vacant city block",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeFJTUmlWTl9pWElBR2lzdXdzR0tHOFZ5LTZHREVydGNnUVQxd3NsdjBaZ0JNVEFiREhJdklFSTBRWE5naU5lWjJabWJ1SU5rYVBkdzd1cG9lU1h6M1lCV3NjbG5VZTEwMkRJTy1EendEQlVScVo2bEFXaUdDekV3V0JmNkgwUnhtODBrNUd4SVprUGRpZWRuS2V2WVBuQUVjQXpOSXVtRWdHWm91RXI2ZnJJcFJsenhWYkhBbHpNQlBRbjd6cVVuejc4ZXJtanZZbWVKUzhlbw?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-06-12T17:30:00+10:00",
+      "score": 41,
       "why": "A wonderfully specific detail has taken centre stage.",
       "signals": [
         "A wonderfully specific detail has taken centre stage.",
-        "A serious-news word is sharing a sentence with something very ordinary."
-      ]
+        "The object list sounds like someone shuffled three different stories together.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/world-s-largest-mud-crab-mural-transforms-vacant-city-bl-976275dafe.svg"
     },
     {
-      "id": "mystery-of-how-someone-left-giant-8647-message-on-nation-af398bcf50",
-      "title": "Mystery of how someone left giant ‘8647’ message on National Mall under investigation",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/8647-national-mall-washington-monument-comey-b2994314.html",
-      "source": "The Independent",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
-      "published": "2026-06-12T18:47:29+10:00",
-      "score": 15,
+      "id": "intrigue-around-popovic-s-starting-xi-tour-mystery-3b0ba47e18",
+      "title": "Intrigue around Popovic’s starting XI, Touré mystery",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYlRvSnktUHlYc0dUMnJjV29fUEhOeGQyUFc5c3p3dmJ6YXltVmpjUW1tR29ZNXFlYVlfZHRDa3diTC1KNnZ0Q25tVlBncnB3aDBzUmllM3o0NnY1WlBTYW9Qb013dnpaNGhzSlNSMVBGMzJ6OWRHbmtybkc3YnQ4cUt0YW5nWF9YT1NzT3gwMkhVcVAtRkotYW9KY2E2LUt2QTI5clhUR3RyV2U1WjNybGFueUduWjZtMFMxZw?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-06-12T11:39:11+10:00",
+      "score": 33,
       "why": "A mystery is doing a lot of work in a very small sentence.",
       "signals": [
         "A mystery is doing a lot of work in a very small sentence.",
-        "The scale is doing deadpan comedy.",
-        "It reads like the setup to a very dry question."
-      ]
-    },
-    {
-      "id": "bona-fide-t-rex-leather-purse-is-going-up-for-auction-an-43a02b45ba",
-      "title": "Bona fide T. rex leather purse is going up for auction — and it could fetch $500K",
-      "url": "https://nypost.com/2026/06/10/lifestyle/worlds-first-t-rex-leather-bag-to-be-auctioned-for-500k/",
-      "source": "New York Post Weird But True",
-      "country": "United States",
-      "source_type": "newspaper offbeat section",
-      "published": "2026-06-11T01:28:29+10:00",
-      "score": 14,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "The object list sounds like someone shuffled three different stories together."
-      ]
-    },
-    {
-      "id": "danes-show-off-their-manes-in-denmark-s-national-mullet--080739b77d",
-      "title": "Danes show off their manes in Denmark’s national mullet championship",
-      "url": "https://nypost.com/2026/06/07/world-news/danes-show-off-their-manes-in-denmarks-national-mullet-championship/",
-      "source": "New York Post Weird But True",
-      "country": "United States",
-      "source_type": "newspaper offbeat section",
-      "published": "2026-06-08T07:29:11+10:00",
-      "score": 10,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage."
-      ]
-    },
-    {
-      "id": "europe-s-largest-hotel-with-epic-waterpark-is-opening-2--4e7727dd05",
-      "title": "'Europe's largest hotel' with epic waterpark is opening 2 hours from the UK this summer",
-      "url": "https://www.mirror.co.uk/travel/europes-largest-hotel-epic-waterpark-37272986",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "published": "2026-06-12T19:19:41+10:00",
-      "score": 10,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage."
-      ]
-    },
-    {
-      "id": "morrisons-shoppers-left-baffled-when-they-spot-price-of--8a834d29d1",
-      "title": "Morrisons shoppers left baffled when they spot price of huge Toblerone bar",
-      "url": "https://www.mirror.co.uk/money/shopping-deals/morrisons-shoppers-left-baffled-spot-37281154",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "published": "2026-06-12T00:45:08+10:00",
-      "score": 10,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage."
-      ]
-    },
-    {
-      "id": "man-buys-food-at-london-s-most-expensive-fish-and-chip-s-99eafc17c5",
-      "title": "Man buys food at London's 'most expensive' fish and chip shop and price stuns him",
-      "url": "https://www.mirror.co.uk/lifestyle/food-drink/man-buys-food-londons-most-37280456",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "published": "2026-06-11T22:45:07+10:00",
-      "score": 10,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage."
-      ]
-    },
-    {
-      "id": "i-m-the-psychic-who-predicted-covid-my-warning-for-engla-2da317eb65",
-      "title": "'I'm the psychic who predicted Covid - my warning for England's World Cup'",
-      "url": "https://www.mirror.co.uk/news/weird-news/im-psychic-who-predicted-covid-37279036",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "published": "2026-06-11T19:25:41+10:00",
-      "score": 10,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage."
-      ]
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/intrigue-around-popovic-s-starting-xi-tour-mystery-3b0ba47e18.svg"
     },
     {
       "id": "bavarian-sausage-queen-makes-meat-footballers-for-world--59aa0a9405",
@@ -129,12 +48,290 @@
       "source": "Metro Weird News",
       "country": "United Kingdom",
       "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
       "published": "2026-06-11T02:07:39+10:00",
-      "score": 9,
+      "score": 27,
       "why": "A very ordinary object has wandered into serious news.",
       "signals": [
-        "A very ordinary object has wandered into serious news."
-      ]
+        "A very ordinary object has wandered into serious news.",
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/bavarian-sausage-queen-makes-meat-footballers-for-world--59aa0a9405.svg"
+    },
+    {
+      "id": "i-witnessed-a-real-alien-autopsy-but-government-insisted-3e6e7157d8",
+      "title": "'I witnessed a real alien autopsy - but government insisted on denying everything'",
+      "url": "https://www.mirror.co.uk/news/uk-news/alien-autopsy-scandal-ufo-coverup-37275505",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-06-11T17:38:42+10:00",
+      "score": 25,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "A serious-news word is sharing a sentence with something very ordinary.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/i-witnessed-a-real-alien-autopsy-but-government-insisted-3e6e7157d8.svg"
+    },
+    {
+      "id": "bona-fide-t-rex-leather-purse-is-going-up-for-auction-an-43a02b45ba",
+      "title": "Bona fide T. rex leather purse is going up for auction — and it could fetch $500K",
+      "url": "https://nypost.com/2026/06/10/lifestyle/worlds-first-t-rex-leather-bag-to-be-auctioned-for-500k/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-06-11T01:28:29+10:00",
+      "score": 24,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "The object list sounds like someone shuffled three different stories together.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/bona-fide-t-rex-leather-purse-is-going-up-for-auction-an-43a02b45ba.svg"
+    },
+    {
+      "id": "danes-show-off-their-manes-in-denmark-s-national-mullet--080739b77d",
+      "title": "Danes show off their manes in Denmark’s national mullet championship",
+      "url": "https://nypost.com/2026/06/07/world-news/danes-show-off-their-manes-in-denmarks-national-mullet-championship/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-06-08T07:29:11+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/danes-show-off-their-manes-in-denmark-s-national-mullet--080739b77d.svg"
+    },
+    {
+      "id": "europe-s-largest-hotel-with-epic-waterpark-is-opening-2--4e7727dd05",
+      "title": "'Europe's largest hotel' with epic waterpark is opening 2 hours from the UK this summer",
+      "url": "https://www.mirror.co.uk/travel/europes-largest-hotel-epic-waterpark-37272986",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-06-12T19:19:41+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/europe-s-largest-hotel-with-epic-waterpark-is-opening-2--4e7727dd05.svg"
+    },
+    {
+      "id": "morrisons-shoppers-left-baffled-when-they-spot-price-of--8a834d29d1",
+      "title": "Morrisons shoppers left baffled when they spot price of huge Toblerone bar",
+      "url": "https://www.mirror.co.uk/money/shopping-deals/morrisons-shoppers-left-baffled-spot-37281154",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-06-12T00:45:08+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/morrisons-shoppers-left-baffled-when-they-spot-price-of--8a834d29d1.svg"
+    },
+    {
+      "id": "man-buys-food-at-london-s-most-expensive-fish-and-chip-s-99eafc17c5",
+      "title": "Man buys food at London's 'most expensive' fish and chip shop and price stuns him",
+      "url": "https://www.mirror.co.uk/lifestyle/food-drink/man-buys-food-londons-most-37280456",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-06-11T22:45:07+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/man-buys-food-at-london-s-most-expensive-fish-and-chip-s-99eafc17c5.svg"
+    },
+    {
+      "id": "i-m-the-psychic-who-predicted-covid-my-warning-for-engla-2da317eb65",
+      "title": "'I'm the psychic who predicted Covid - my warning for England's World Cup'",
+      "url": "https://www.mirror.co.uk/news/weird-news/im-psychic-who-predicted-covid-37279036",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-06-11T19:25:41+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/i-m-the-psychic-who-predicted-covid-my-warning-for-engla-2da317eb65.svg"
+    },
+    {
+      "id": "fisherman-wrestles-great-white-shark-with-his-bare-hands-48e8573d67",
+      "title": "Fisherman wrestles Great White shark with his bare hands after accidentally reeling in beast",
+      "url": "https://www.dailystar.co.uk/news/latest-news/fisherman-wrestles-great-white-shark-37285400",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-06-12T21:15:52+10:00",
+      "score": 20,
+      "why": "It has the magic news word: accidentally.",
+      "signals": [
+        "It has the magic news word: accidentally.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/fisherman-wrestles-great-white-shark-with-his-bare-hands-48e8573d67.svg"
+    },
+    {
+      "id": "psychic-warns-evil-aliens-will-abduct-700-players-and-fa-9315f018e9",
+      "title": "Psychic warns 'evil aliens' will abduct 700 players and fans during World Cup",
+      "url": "https://www.dailystar.co.uk/news/latest-news/psychic-warns-evil-aliens-abduct-37284206",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-06-12T19:19:56+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/psychic-warns-evil-aliens-will-abduct-700-players-and-fa-9315f018e9.svg"
+    },
+    {
+      "id": "cia-s-bombshell-ties-to-ufos-and-alien-tech-revealed-in--98be1a7e60",
+      "title": "CIA's bombshell ties to UFOs and alien tech revealed in exposed documents",
+      "url": "https://www.dailymail.com/sciencetech/article-15889719/bombshell-ufo-report-cia-alien-technology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-06-11T17:39:04+10:00",
+      "score": 15,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/cia-s-bombshell-ties-to-ufos-and-alien-tech-revealed-in--98be1a7e60.svg"
+    },
+    {
+      "id": "ufo-whistleblowers-storm-capitol-hill-with-explosive-cla-98880d6a61",
+      "title": "UFO whistleblowers storm Capitol Hill with explosive claims about alien life",
+      "url": "https://www.dailymail.com/sciencetech/article-15886551/ufo-whistleblower-david-grusch-capitol-hill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-06-11T03:11:27+10:00",
+      "score": 15,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/ufo-whistleblowers-storm-capitol-hill-with-explosive-cla-98880d6a61.svg"
+    },
+    {
+      "id": "meet-the-muttley-crew-of-underdogs-struggling-to-find-ho-02f45c2b08",
+      "title": "Meet the Muttley Crew of 'Underdogs' struggling to find homes due to their unusual appearances",
+      "url": "https://www.dailymail.com/sciencetech/article-15867753/Meet-Muttley-Crew-Underdogs-struggling-homes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-06-06T18:07:29+10:00",
+      "score": 15,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/meet-the-muttley-crew-of-underdogs-struggling-to-find-ho-02f45c2b08.svg"
+    },
+    {
+      "id": "scientists-issue-first-contact-plan-as-they-await-messag-f4b45c9a29",
+      "title": "Scientists issue first-contact plan as they await message from alien civilization",
+      "url": "https://www.dailymail.com/sciencetech/article-15877969/scientists-plan-alien-contact-signal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-06-06T04:12:37+10:00",
+      "score": 15,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/scientists-issue-first-contact-plan-as-they-await-messag-f4b45c9a29.svg"
+    },
+    {
+      "id": "mystery-of-how-someone-left-giant-8647-message-on-nation-af398bcf50",
+      "title": "Mystery of how someone left giant ‘8647’ message on National Mall under investigation",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/8647-national-mall-washington-monument-comey-b2994314.html",
+      "source": "The Independent",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-06-12T18:47:29+10:00",
+      "score": 15,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The scale is doing deadpan comedy.",
+        "It reads like the setup to a very dry question."
+      ],
+      "image": "assets/data/headline-images/mystery-of-how-someone-left-giant-8647-message-on-nation-af398bcf50.svg"
+    },
+    {
+      "id": "mystery-of-america-s-nessie-deepens-as-strange-creature--8103fee5ee",
+      "title": "Mystery of America's Nessie deepens as strange creature appears behind boat in chilling video",
+      "url": "https://www.dailymail.com/sciencetech/article-15876823/Mystery-Americas-Nessie-deepens-strange-creature-appears-boat-chilling-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-06-07T02:51:47+10:00",
+      "score": 14,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/mystery-of-america-s-nessie-deepens-as-strange-creature--8103fee5ee.svg"
+    },
+    {
+      "id": "as-ufos-go-mainstream-the-jury-is-out-on-what-the-existe-9d7e2aeb9a",
+      "title": "As UFOs go mainstream, the jury is out on what the existence of alien life might mean for religion",
+      "url": "https://www.independent.co.uk/news/ufos-catholic-church-belief-earth-steven-spielberg-b2994644.html",
+      "source": "The Independent",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-06-12T21:01:04+10:00",
+      "score": 8,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage."
+      ],
+      "image": "assets/data/headline-images/as-ufos-go-mainstream-the-jury-is-out-on-what-the-existe-9d7e2aeb9a.svg"
     },
     {
       "id": "alleged-drug-dealer-caught-after-trading-cannabis-for-ca-238b7301a2",
@@ -143,12 +340,46 @@
       "source": "ABC News",
       "country": "Australia",
       "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
       "published": "2026-06-12T19:42:15+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
-      ]
+      ],
+      "image": "assets/data/headline-images/alleged-drug-dealer-caught-after-trading-cannabis-for-ca-238b7301a2.svg"
+    },
+    {
+      "id": "trump-allies-defy-judge-in-bid-to-keep-his-name-on-kenne-370968661f",
+      "title": "Trump allies defy judge in bid to keep his name on Kennedy Center facade",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rename-kennedy-center-judge-b2994631.html",
+      "source": "The Independent",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-06-12T20:47:45+10:00",
+      "score": 7,
+      "why": "It has that classic official-plan-meets-real-life shape.",
+      "signals": [
+        "It has that classic official-plan-meets-real-life shape."
+      ],
+      "image": "assets/data/headline-images/trump-allies-defy-judge-in-bid-to-keep-his-name-on-kenne-370968661f.svg"
+    },
+    {
+      "id": "tarik-skubal-the-cleveland-browns-and-other-athletes-cre-01caf9ebba",
+      "title": "Tarik Skubal, the Cleveland Browns and other athletes credit a tiny new scope for faster recoveries",
+      "url": "https://www.independent.co.uk/news/cleveland-browns-nfl-chicago-los-angeles-dodgers-los-angeles-rams-b2994592.html",
+      "source": "The Independent",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-06-12T20:00:07+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/tarik-skubal-the-cleveland-browns-and-other-athletes-cre-01caf9ebba.svg"
     }
   ],
   "feed_errors": []

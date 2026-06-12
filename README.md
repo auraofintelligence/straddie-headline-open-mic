@@ -21,8 +21,9 @@ GitHub Actions runs `tools/refresh_site.py` every day at 7:35am Brisbane time. T
 2. Fetches public RSS and Atom feeds.
 3. Filters out heavy harm stories.
 4. Scores headlines with transparent humour rules.
-5. Writes `assets/data/headlines.json` and `data/archive/YYYY-MM-DD.json`.
-6. Regenerates the static HTML pages.
+5. Gives NT News the strongest source boost, with smaller boosts for tabloid/offbeat print-news sources.
+6. Writes `assets/data/headlines.json`, `assets/data/headline-images/*.svg`, and `data/archive/YYYY-MM-DD.json`.
+7. Regenerates the static HTML pages with a visible record-update timestamp.
 
 Run it locally:
 
@@ -38,7 +39,9 @@ python -m http.server 4173
 
 ## Generated images
 
-The page hero images were generated as project assets and saved in `assets/img/`. The daily workflow refreshes headline content, not image assets, so it does not need an API key.
+The page hero images were generated as project assets, converted to WebP, and saved in `assets/img/`. The daily workflow refreshes headline content and generates small SVG newspaper-style headline images, so it does not need an API key.
+
+NT News is deliberately prime front and centre. The direct NT News RSS endpoint currently returns a cookie wall or empty response to Python, so the automation uses a Google News RSS search for `site:ntnews.com.au` and labels it transparently as NT News in the source list.
 
 ## Editing the source list
 

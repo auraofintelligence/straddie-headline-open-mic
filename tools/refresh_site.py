@@ -26,6 +26,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCES_PATH = ROOT / "data" / "sources.json"
 ARCHIVE_DIR = ROOT / "data" / "archive"
 PUBLIC_DATA = ROOT / "assets" / "data" / "headlines.json"
+HEADLINE_IMAGE_DIR = ROOT / "assets" / "data" / "headline-images"
 LOCAL_TZ = timezone(timedelta(hours=10), "AEST")
 USER_AGENT = (
     "StraddieHeadlineOpenMic/1.0 "
@@ -42,12 +43,12 @@ NAV = [
 ]
 
 HERO_IMAGES = {
-    "home": ("assets/img/hero-home.png", "A comedy microphone beside a stack of newspapers on a warm coastal stage."),
-    "headlines": ("assets/img/hero-headlines.png", "A neat editorial desk with newspapers, a pencil, and warm newsroom light."),
-    "open-mic": ("assets/img/hero-open-mic.png", "A small community hall stage set for an open mic night."),
-    "sources": ("assets/img/hero-sources.png", "A tidy source-checking desk with maps, paper slips, and a microphone lamp."),
-    "archive": ("assets/img/hero-archive.png", "A warm archive room with newspapers, date tabs, and open mic objects."),
-    "site-map": ("assets/img/hero-site-map.png", "A community noticeboard style map of page cards and newspaper clippings."),
+    "home": ("../img/hero-home.webp", "A comedy microphone beside a stack of newspapers on a warm coastal stage."),
+    "headlines": ("../img/hero-headlines.webp", "A neat editorial desk with newspapers, a pencil, and warm newsroom light."),
+    "open-mic": ("../img/hero-open-mic.webp", "A small community hall stage set for an open mic night."),
+    "sources": ("../img/hero-sources.webp", "A tidy source-checking desk with maps, paper slips, and a microphone lamp."),
+    "archive": ("../img/hero-archive.webp", "A warm archive room with newspapers, date tabs, and open mic objects."),
+    "site-map": ("../img/hero-site-map.webp", "A community noticeboard style map of page cards and newspaper clippings."),
 }
 
 SENSITIVE_TERMS = {
@@ -59,6 +60,9 @@ SENSITIVE_TERMS = {
     "cancer",
     "capsize",
     "crash",
+    "drown",
+    "drowns",
+    "drowned",
     "dead",
     "death",
     "dies",
@@ -83,8 +87,11 @@ SENSITIVE_TERMS = {
     "parasite-ridden",
     "raid",
     "rescued",
+    "riot",
+    "rioters",
     "shooting",
     "shootings",
+    "panic",
     "sentenced",
     "suicide",
     "terror",
@@ -130,8 +137,8 @@ SIGNALS: list[tuple[str, int, str]] = [
     (r"\b(?:cheese|sausage|sandwich|potato|banana|cake|biscuit|pie|pizza|chocolate)\b", 7, "A very ordinary object has wandered into serious news."),
     (r"\b(?:toilet|trousers|pants|hat|sock|bin|wheelie bin)\b", 8, "A household object has somehow reached the news desk."),
     (r"\b(?:world record|record-breaking|loose|caught|stolen|surprise|auction)\b", 5, "It has the shape of a tiny adventure reported with a straight face."),
-    (r"\b(?:mullet|viagra|aliens?|scrambled letters|psychic|toblerone|fish and chip|waterpark)\b", 8, "A wonderfully specific detail has taken centre stage."),
-    (r"\bt\.\s*rex\b|\bdinosaur\b|\bpurse\b", 7, "The object list sounds like someone shuffled three different stories together."),
+    (r"\b(?:mullet|mud crab|viagra|aliens?|scrambled letters|psychic|toblerone|fish and chip|waterpark|sausage queen)\b", 8, "A wonderfully specific detail has taken centre stage."),
+    (r"\bt\.\s*rex\b|\bdinosaur\b|\bpurse\b|\bmural\b", 7, "The object list sounds like someone shuffled three different stories together."),
     (r"\b(?:robot|ai|drone)\b", 1, "Technology is present, which means dignity may be optional."),
     (r"\bwhy\b|\bhow\b", 1, "It reads like the setup to a very dry question."),
     (r"\bnot\b.+\b(?:expected|planned|allowed|invited)\b", 5, "The headline has a neat little reversal."),
@@ -178,6 +185,23 @@ def clean_text(value: str | None) -> str:
     value = re.sub(r"<[^>]+>", " ", value)
     value = re.sub(r"\s+", " ", value)
     return value.strip()
+
+
+def clean_feed_title(title: str, source_name: str) -> str:
+    title = clean_text(title)
+    suffixes = {
+        source_name,
+        source_name.replace("The ", ""),
+        "NT News",
+        "Daily Mail",
+        "Daily Star",
+        "Mirror",
+        "Metro",
+        "New York Post",
+    }
+    for suffix in sorted(suffixes, key=len, reverse=True):
+        title = re.sub(rf"\s[-|]\s{re.escape(suffix)}$", "", title, flags=re.IGNORECASE)
+    return title.strip()
 
 
 def repair_mojibake(value: str) -> str:
@@ -314,6 +338,17 @@ def score_title(title: str) -> tuple[int, list[str]]:
     return score, reasons
 
 
+def priority_boost(source: dict[str, str]) -> tuple[int, str | None]:
+    priority = source.get("priority", "standard")
+    if priority == "prime":
+        return 24, "Prime NT News target: Darwin front-page energy gets first look."
+    if priority == "tabloid-offbeat":
+        return 10, "Offbeat tabloid target: this source is built for odd headline wording."
+    if priority == "tabloid":
+        return 5, "Tabloid target: ranked up when the wording already has a wobble."
+    return 0, None
+
+
 def slugify(value: str) -> str:
     value = re.sub(r"[^a-z0-9]+", "-", value.lower())
     return value.strip("-")[:56] or "headline"
@@ -322,6 +357,111 @@ def slugify(value: str) -> str:
 def item_id(item: FeedItem) -> str:
     digest = hashlib.sha1(f"{item.title}|{item.link}".encode("utf-8")).hexdigest()[:10]
     return f"{slugify(item.title)}-{digest}"
+
+
+def wrap_words(text: str, max_chars: int, max_lines: int) -> list[str]:
+    words = text.split()
+    lines: list[str] = []
+    current: list[str] = []
+    for word in words:
+        candidate = " ".join(current + [word])
+        if current and len(candidate) > max_chars:
+            lines.append(" ".join(current))
+            current = [word]
+            if len(lines) == max_lines:
+                break
+        else:
+            current.append(word)
+    if current and len(lines) < max_lines:
+        lines.append(" ".join(current))
+    if words and len(lines) == max_lines:
+        used_words = " ".join(lines).split()
+        if len(used_words) < len(words):
+            lines[-1] = re.sub(r"[.,;:!?]*$", "", lines[-1]) + "..."
+    return lines
+
+
+def headline_svg(item: dict[str, object]) -> str:
+    title_lines = wrap_words(str(item["title"]), 22, 5)
+    why_lines = wrap_words(str(item.get("why", "")), 36, 2)
+    title_text = "\n".join(
+        f'<text x="48" y="{132 + index * 58}" class="headline">{esc(line)}</text>'
+        for index, line in enumerate(title_lines)
+    )
+    why_text = "\n".join(
+        f'<text x="48" y="{470 + index * 26}" class="why">{esc(line)}</text>'
+        for index, line in enumerate(why_lines)
+    )
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-label="Headline card: {esc(item["title"])}">
+  <defs>
+    <filter id="paper-shadow" x="-8%" y="-8%" width="116%" height="116%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#2c1c12" flood-opacity="0.18"/>
+    </filter>
+    <pattern id="paper" width="52" height="52" patternUnits="userSpaceOnUse">
+      <rect width="52" height="52" fill="#fffaf1"/>
+      <path d="M0 51H52M51 0V52" stroke="#15110f" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect x="18" y="18" width="724" height="484" rx="10" fill="url(#paper)" filter="url(#paper-shadow)"/>
+  <rect x="18" y="18" width="724" height="484" rx="10" fill="none" stroke="#15110f" stroke-opacity="0.18"/>
+  <rect x="18" y="18" width="724" height="58" rx="10" fill="#15110f"/>
+  <text x="48" y="55" class="masthead">{esc(item["source"])}</text>
+  <text x="712" y="55" class="date" text-anchor="end">{esc(human_date(str(item["published"])))}</text>
+  <line x1="48" y1="94" x2="712" y2="94" stroke="#8f2d2d" stroke-width="6"/>
+  {title_text}
+  <line x1="48" y1="414" x2="712" y2="414" stroke="#15110f" stroke-opacity="0.16" stroke-width="2"/>
+  <text x="48" y="440" class="label">WHY IT MADE THE BILL</text>
+  {why_text}
+  <style>
+    .masthead {{ fill: #fffaf1; font-family: Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }}
+    .date {{ fill: #fffaf1; font-family: Arial, sans-serif; font-size: 18px; font-weight: 700; letter-spacing: 0; }}
+    .headline {{ fill: #15110f; font-family: Georgia, 'Times New Roman', serif; font-size: 50px; font-weight: 800; letter-spacing: 0; }}
+    .label {{ fill: #267b75; font-family: Arial, sans-serif; font-size: 16px; font-weight: 900; letter-spacing: 2px; }}
+    .why {{ fill: #521b1b; font-family: Arial, sans-serif; font-size: 21px; font-weight: 800; letter-spacing: 0; }}
+  </style>
+</svg>
+"""
+
+
+def write_headline_image(item: dict[str, object]) -> str:
+    HEADLINE_IMAGE_DIR.mkdir(parents=True, exist_ok=True)
+    filename = f"{item['id']}.svg"
+    path = HEADLINE_IMAGE_DIR / filename
+    path.write_text(headline_svg(item), encoding="utf-8")
+    return f"assets/data/headline-images/{filename}"
+
+
+def collect_headline_image_names(payload: dict[str, object]) -> set[str]:
+    keep: set[str] = set()
+
+    def add_from(items: object) -> None:
+        if not isinstance(items, list):
+            return
+        for item in items:
+            if isinstance(item, dict) and item.get("image"):
+                keep.add(Path(str(item["image"])).name)
+
+    add_from(payload.get("headlines"))
+    if ARCHIVE_DIR.exists():
+        for archive_path in ARCHIVE_DIR.glob("*.json"):
+            try:
+                archive = json.loads(archive_path.read_text(encoding="utf-8-sig"))
+            except json.JSONDecodeError:
+                continue
+            if isinstance(archive, dict):
+                add_from(archive.get("headlines"))
+    return keep
+
+
+def prune_headline_images(payload: dict[str, object]) -> None:
+    if not HEADLINE_IMAGE_DIR.exists():
+        return
+    keep = collect_headline_image_names(payload)
+    if not keep:
+        return
+    for image_path in HEADLINE_IMAGE_DIR.glob("*.svg"):
+        if image_path.name not in keep:
+            image_path.unlink()
 
 
 def collect_headlines(sources: list[dict[str, str]], limit: int = 24) -> tuple[list[dict[str, object]], list[dict[str, str]]]:
@@ -337,17 +477,24 @@ def collect_headlines(sources: list[dict[str, str]], limit: int = 24) -> tuple[l
             continue
 
         for item in items:
-            title = clean_text(item.title)
+            title = clean_feed_title(item.title, item.source_name)
+            item.title = title
             published = item.published
             if published and published < datetime.now(LOCAL_TZ) - timedelta(days=10):
                 continue
             media_text = f"{item.link} {title}".lower()
             if any(marker in media_text for marker in MEDIA_MARKERS):
                 continue
-            if not title or len(title) > 180:
+            if title.lower().startswith("file:"):
+                continue
+            if not title or len(title) > 150:
                 continue
             score, reasons = score_title(title)
+            boost, boost_reason = priority_boost(source)
             if score >= 5:
+                score += boost
+                if boost_reason:
+                    reasons.append(boost_reason)
                 candidates.append((score, item, reasons))
 
     candidates.sort(key=lambda row: row[0], reverse=True)
@@ -359,25 +506,31 @@ def collect_headlines(sources: list[dict[str, str]], limit: int = 24) -> tuple[l
         key = re.sub(r"\W+", "", item.title.lower())
         if key in seen:
             continue
-        if by_source.get(item.source_name, 0) >= 5:
+        source_config = next(
+            (source for source in sources if source["name"] == item.source_name),
+            {},
+        )
+        source_limit = 4 if source_config.get("priority") == "prime" else 5
+        if by_source.get(item.source_name, 0) >= source_limit:
             continue
         seen.add(key)
         by_source[item.source_name] = by_source.get(item.source_name, 0) + 1
         published = item.published or datetime.now(LOCAL_TZ)
-        selected.append(
-            {
-                "id": item_id(item),
-                "title": clean_text(item.title),
-                "url": item.link,
-                "source": item.source_name,
-                "country": item.country,
-                "source_type": item.source_type,
-                "published": published.isoformat(),
-                "score": score,
-                "why": reasons[0] if reasons else "The wording has a straight-faced wobble.",
-                "signals": reasons[:3],
-            }
-        )
+        record = {
+            "id": item_id(item),
+            "title": clean_text(item.title),
+            "url": item.link,
+            "source": item.source_name,
+            "country": item.country,
+            "source_type": item.source_type,
+            "priority": source_config.get("priority", "standard"),
+            "published": published.isoformat(),
+            "score": score,
+            "why": reasons[0] if reasons else "The wording has a straight-faced wobble.",
+            "signals": reasons[:3],
+        }
+        record["image"] = write_headline_image(record)
+        selected.append(record)
         if len(selected) >= limit:
             break
 
@@ -454,18 +607,17 @@ def footer_html(generated_label: str) -> str:
 """.strip()
 
 
-def hero_html(page_key: str, title: str, intro: str, actions: str = "") -> str:
+def hero_html(page_key: str, title: str, intro: str, actions: str = "", stamp: str = "") -> str:
     image, alt = HERO_IMAGES[page_key]
     action_block = f"\n    {actions}" if actions else ""
+    stamp_block = f'\n    <p class="record-stamp">Record updated: {esc(stamp)}</p>' if stamp else ""
     return f"""
-<section class="page-hero">
+<section class="page-hero" style="--hero-image: url('{image}')" aria-label="{esc(alt)}">
+  <div class="hero-shade" aria-hidden="true"></div>
   <div class="hero-copy">
     <h1>{title}</h1>
-    <p>{intro}</p>{action_block}
+    <p>{intro}</p>{stamp_block}{action_block}
   </div>
-  <figure class="hero-art">
-    <img src="{image}" alt="{esc(alt)}" loading="eager">
-  </figure>
 </section>
 """.strip()
 
@@ -502,8 +654,16 @@ def headline_card(item: dict[str, object]) -> str:
     search = " ".join(
         str(item.get(key, "")) for key in ["title", "source", "country", "why"]
     ).lower()
+    image = item.get("image", "")
+    image_html = ""
+    if image:
+        image_html = f"""
+  <a class="headline-image-link" href="{esc(item["url"])}" target="_blank" rel="noopener noreferrer" aria-label="Open source story for {esc(item["title"])}">
+    <img class="headline-image" src="{esc(image)}" alt="Newspaper-style image for headline: {esc(item["title"])}">
+  </a>"""
     return f"""
 <article class="headline-card" data-headline-card data-source="{esc(item["source"])}" data-search="{esc(search)}">
+{image_html}
   <div class="card-topline">
     <span>{esc(item["source"])}</span>
     <span>{esc(item["country"])}</span>
@@ -537,6 +697,7 @@ def build_home(payload: dict[str, object], generated_label: str) -> str:
     "Today&apos;s odd headlines, read like an open mic bill",
     "A small daily scrape of English-language print news headlines that made the room laugh, blink, or ask one more question.",
     '<div class="hero-actions"><a class="button" href="headlines.html">Read today&apos;s bill</a><a class="button secondary" href="open-mic.html">Float a comedy night</a></div>',
+    stamp=generated_label,
 )}
 <section class="section tight">
   <h2>Today&apos;s bill</h2>
@@ -583,6 +744,7 @@ def build_headlines(payload: dict[str, object], generated_label: str) -> str:
     "headlines",
     "The headline bill",
     "The latest daily picks, linked back to the original sources. Search the room, pick a source, or follow a headline out to the full story.",
+    stamp=generated_label,
 )}
 <section class="section tight">
   <h2>Latest picks</h2>
@@ -619,6 +781,7 @@ def build_open_mic(generated_label: str) -> str:
     "Should Straddie try a comedy open mic?",
     "A soft question, not a campaign. If the island wants it, this could become a regular night for short sets, odd headline readings, and low-stakes laughter.",
     '<div class="hero-actions"><a class="button" href="headlines.html">Read headline prompts</a><a class="button secondary" href="sources.html">Check the source rules</a></div>',
+    stamp=generated_label,
 )}
 <section class="section tight split">
   <div>
@@ -660,9 +823,11 @@ def build_sources(payload: dict[str, object], sources: list[dict[str, str]], gen
     error_rows = payload.get("feed_errors", [])
     source_cards = "\n".join(
         f"""
-<article class="source-card">
+<article class="source-card source-card-{esc(source.get("priority", "standard"))}">
+  <div class="card-topline"><span>{esc(source.get("priority", "standard").replace("-", " "))}</span></div>
   <h3>{esc(source["name"])}</h3>
   <p>{esc(source["country"])}. {esc(source["type"])}.</p>
+  <p>{esc(source.get("reputation_note", "Standard headline source. Included for breadth and comparison."))}</p>
   <p><a href="{esc(source["feed_url"])}">RSS / Atom feed</a></p>
 </article>
 """.strip()
@@ -685,19 +850,20 @@ def build_sources(payload: dict[str, object], sources: list[dict[str, str]], gen
     "sources",
     "Sources and selection rules",
     "The daily scout reads public RSS and Atom feeds, keeps the headline and link, then scores odd wording. It does not copy article bodies.",
+    stamp=generated_label,
 )}
 <section class="section tight">
   <h2>The current feed list</h2>
-  <p class="section-lead">The source mix leans toward English-language newspaper, news-agency, and print-style newsroom feeds from Australia, the UK, the US, Canada, New Zealand, Ireland, and international outlets.</p>
+  <p class="section-lead">NT News is the prime target. Similar tabloid and offbeat print-news feeds get a smaller lift, while standard news feeds stay in the mix for the occasional straight-faced accident.</p>
   <div class="source-grid">{source_cards}</div>
 </section>
 <section class="section band">
   <div class="band-inner">
     <h2>How a headline gets picked</h2>
     <div class="principle-grid">
-      <article class="note-card"><h3>Look for odd wording</h3><p>The script scores words like mystery, accidentally, bizarre, tiny, giant, and other straight-faced signals.</p></article>
+      <article class="note-card"><h3>Put Darwin first</h3><p>NT News gets the strongest source boost. If it has a usable odd headline, it should naturally float near the top of the bill.</p></article>
+      <article class="note-card"><h3>Look for odd wording</h3><p>The script scores words like mystery, accidentally, bizarre, tiny, giant, mud crab, mullet, and other straight-faced signals.</p></article>
       <article class="note-card"><h3>Leave harm alone</h3><p>Stories about death, assault, disasters, war, and similar heavy subjects are filtered out before scoring.</p></article>
-      <article class="note-card"><h3>Link back</h3><p>Each card links to the source. The site stores the headline, source, date, URL, and a short note about the wording.</p></article>
     </div>
   </div>
 </section>
@@ -739,6 +905,7 @@ def build_archive(archives: list[dict[str, object]], generated_label: str) -> st
     "archive",
     "The old bills",
     "A dated record of earlier headline boards, kept so the room can remember which strange sentence got the laugh last time.",
+    stamp=generated_label,
 )}
 {archive_html}
 """
@@ -766,6 +933,7 @@ def build_site_map(generated_label: str) -> str:
     "site-map",
     "Site map",
     "A plain map of the public pages, data files, and daily automation path.",
+    stamp=generated_label,
 )}
 <section class="section tight">
   <h2>Pages</h2>
@@ -856,6 +1024,7 @@ def main() -> int:
     }
     write_json(PUBLIC_DATA, payload)
     write_json(ARCHIVE_DIR / f"{now.date().isoformat()}.json", payload)
+    prune_headline_images(payload)
     write_pages(payload, sources)
     print(f"Built {len(headlines)} headline cards from {len(sources)} feeds.")
     if errors:

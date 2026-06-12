@@ -6,7 +6,7 @@
   <title>Sources and selection rules | Straddie Headline Open Mic</title>
   <meta name="description" content="Source feeds and plain-language rules for the daily headline scout.">
   <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="assets/css/site.css?v=202606121953">
+  <link rel="stylesheet" href="assets/css/site.css?v=202606122156">
 </head>
 <body data-page="sources">
   <div class="site-shell">
@@ -27,71 +27,113 @@
   </div>
 </header>
     <main>
-<section class="page-hero">
+<section class="page-hero" style="--hero-image: url('../img/hero-sources.webp')" aria-label="A tidy source-checking desk with maps, paper slips, and a microphone lamp.">
+  <div class="hero-shade" aria-hidden="true"></div>
   <div class="hero-copy">
     <h1>Sources and selection rules</h1>
     <p>The daily scout reads public RSS and Atom feeds, keeps the headline and link, then scores odd wording. It does not copy article bodies.</p>
+    <p class="record-stamp">Record updated: 12 Jun 2026, 09:55 PM AEST</p>
   </div>
-  <figure class="hero-art">
-    <img src="assets/img/hero-sources.png" alt="A tidy source-checking desk with maps, paper slips, and a microphone lamp." loading="eager">
-  </figure>
 </section>
 <section class="section tight">
   <h2>The current feed list</h2>
-  <p class="section-lead">The source mix leans toward English-language newspaper, news-agency, and print-style newsroom feeds from Australia, the UK, the US, Canada, New Zealand, Ireland, and international outlets.</p>
-  <div class="source-grid"><article class="source-card">
+  <p class="section-lead">NT News is the prime target. Similar tabloid and offbeat print-news feeds get a smaller lift, while standard news feeds stay in the mix for the occasional straight-faced accident.</p>
+  <div class="source-grid"><article class="source-card source-card-prime">
+  <div class="card-topline"><span>prime</span></div>
+  <h3>NT News</h3>
+  <p>Australia. Darwin newspaper / prime front-page target.</p>
+  <p>Prime front and centre: Darwin front-page energy, bold local wording, and the headline tradition this site is trying to catch.</p>
+  <p><a href="https://news.google.com/rss/search?q=site:ntnews.com.au%20when:14d&amp;hl=en-AU&amp;gl=AU&amp;ceid=AU:en">RSS / Atom feed</a></p>
+</article>
+<article class="source-card source-card-standard">
+  <div class="card-topline"><span>standard</span></div>
   <h3>ABC News</h3>
   <p>Australia. public broadcaster / print-style newsroom.</p>
+  <p>Standard headline source. Included for breadth and comparison.</p>
   <p><a href="https://www.abc.net.au/news/feed/51120/rss.xml">RSS / Atom feed</a></p>
 </article>
-<article class="source-card">
+<article class="source-card source-card-standard">
+  <div class="card-topline"><span>standard</span></div>
   <h3>The Guardian Australia</h3>
   <p>Australia. newspaper.</p>
+  <p>Standard headline source. Included for breadth and comparison.</p>
   <p><a href="https://www.theguardian.com/australia-news/rss">RSS / Atom feed</a></p>
 </article>
-<article class="source-card">
+<article class="source-card source-card-standard">
+  <div class="card-topline"><span>standard</span></div>
   <h3>The Guardian World</h3>
   <p>United Kingdom. newspaper.</p>
+  <p>Standard headline source. Included for breadth and comparison.</p>
   <p><a href="https://www.theguardian.com/world/rss">RSS / Atom feed</a></p>
 </article>
-<article class="source-card">
+<article class="source-card source-card-standard">
+  <div class="card-topline"><span>standard</span></div>
   <h3>BBC News</h3>
   <p>United Kingdom. public broadcaster / print-style newsroom.</p>
+  <p>Standard headline source. Included for breadth and comparison.</p>
   <p><a href="https://feeds.bbci.co.uk/news/rss.xml">RSS / Atom feed</a></p>
 </article>
-<article class="source-card">
+<article class="source-card source-card-standard">
+  <div class="card-topline"><span>standard</span></div>
   <h3>The New York Times</h3>
   <p>United States. newspaper.</p>
+  <p>Standard headline source. Included for breadth and comparison.</p>
   <p><a href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml">RSS / Atom feed</a></p>
 </article>
-<article class="source-card">
+<article class="source-card source-card-tabloid-offbeat">
+  <div class="card-topline"><span>tabloid offbeat</span></div>
   <h3>New York Post Weird But True</h3>
   <p>United States. newspaper offbeat section.</p>
+  <p>A loud offbeat print-news target with strange objects, odd claims, and very clickable headline grammar.</p>
   <p><a href="https://nypost.com/weird-but-true/feed/">RSS / Atom feed</a></p>
 </article>
-<article class="source-card">
+<article class="source-card source-card-tabloid-offbeat">
+  <div class="card-topline"><span>tabloid offbeat</span></div>
   <h3>Mirror Weird News</h3>
   <p>United Kingdom. newspaper offbeat section.</p>
+  <p>UK tabloid weird-news section. Useful for odd phrasing and everyday objects made newsworthy.</p>
   <p><a href="https://www.mirror.co.uk/news/weird-news/?service=rss">RSS / Atom feed</a></p>
 </article>
-<article class="source-card">
+<article class="source-card source-card-tabloid-offbeat">
+  <div class="card-topline"><span>tabloid offbeat</span></div>
+  <h3>Daily Star Weird News</h3>
+  <p>United Kingdom. newspaper offbeat section.</p>
+  <p>UK red-top weird-news feed. Kept behind the harm filter because it can swing from funny to grim quickly.</p>
+  <p><a href="https://www.dailystar.co.uk/news/weird-news/?service=rss">RSS / Atom feed</a></p>
+</article>
+<article class="source-card source-card-tabloid-offbeat">
+  <div class="card-topline"><span>tabloid offbeat</span></div>
   <h3>Metro Weird News</h3>
   <p>United Kingdom. newspaper offbeat section.</p>
+  <p>A softer UK weird-news feed that often has the small-absurdity flavour.</p>
   <p><a href="https://metro.co.uk/news/weird/feed/">RSS / Atom feed</a></p>
 </article>
-<article class="source-card">
+<article class="source-card source-card-tabloid">
+  <div class="card-topline"><span>tabloid</span></div>
+  <h3>Daily Mail Science</h3>
+  <p>United Kingdom. newspaper science / odd discoveries.</p>
+  <p>Broad tabloid science feed. Good for strange discovery headlines, but ranked below the dedicated offbeat feeds.</p>
+  <p><a href="https://www.dailymail.co.uk/sciencetech/index.rss">RSS / Atom feed</a></p>
+</article>
+<article class="source-card source-card-standard">
+  <div class="card-topline"><span>standard</span></div>
   <h3>RNZ News</h3>
   <p>New Zealand. public broadcaster / print-style newsroom.</p>
+  <p>Standard headline source. Included for breadth and comparison.</p>
   <p><a href="https://www.rnz.co.nz/rss/news.xml">RSS / Atom feed</a></p>
 </article>
-<article class="source-card">
+<article class="source-card source-card-standard">
+  <div class="card-topline"><span>standard</span></div>
   <h3>The Irish Times</h3>
   <p>Ireland. newspaper.</p>
+  <p>Standard headline source. Included for breadth and comparison.</p>
   <p><a href="https://www.irishtimes.com/arc/outboundfeeds/rss/?outputType=xml">RSS / Atom feed</a></p>
 </article>
-<article class="source-card">
+<article class="source-card source-card-standard">
+  <div class="card-topline"><span>standard</span></div>
   <h3>The Independent</h3>
   <p>United Kingdom. newspaper.</p>
+  <p>Standard headline source. Included for breadth and comparison.</p>
   <p><a href="https://www.independent.co.uk/news/rss">RSS / Atom feed</a></p>
 </article></div>
 </section>
@@ -99,9 +141,9 @@
   <div class="band-inner">
     <h2>How a headline gets picked</h2>
     <div class="principle-grid">
-      <article class="note-card"><h3>Look for odd wording</h3><p>The script scores words like mystery, accidentally, bizarre, tiny, giant, and other straight-faced signals.</p></article>
+      <article class="note-card"><h3>Put Darwin first</h3><p>NT News gets the strongest source boost. If it has a usable odd headline, it should naturally float near the top of the bill.</p></article>
+      <article class="note-card"><h3>Look for odd wording</h3><p>The script scores words like mystery, accidentally, bizarre, tiny, giant, mud crab, mullet, and other straight-faced signals.</p></article>
       <article class="note-card"><h3>Leave harm alone</h3><p>Stories about death, assault, disasters, war, and similar heavy subjects are filtered out before scoring.</p></article>
-      <article class="note-card"><h3>Link back</h3><p>Each card links to the source. The site stores the headline, source, date, URL, and a short note about the wording.</p></article>
     </div>
   </div>
 </section>
@@ -111,7 +153,7 @@
     <div>
       <strong>Straddie Headline Open Mic</strong>
       <p>Daily headline scouting with source links, a light touch, and no claim that the internet has finished being strange.</p>
-      <p>Last rebuilt: 12 Jun 2026, 07:53 PM AEST.</p>
+      <p>Last rebuilt: 12 Jun 2026, 09:55 PM AEST.</p>
     </div>
     <nav class="footer-nav" aria-label="Footer navigation">
       <a href="index.html" data-nav="home">Home</a>
@@ -125,6 +167,6 @@
 </footer>
   </div>
   <button class="to-top" type="button" aria-label="Back to top">^</button>
-  <script src="assets/js/site.js?v=202606121953"></script>
+  <script src="assets/js/site.js?v=202606122156"></script>
 </body>
 </html>
