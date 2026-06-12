@@ -77,6 +77,7 @@ SENSITIVE_TERMS = {
     "flood",
     "funeral",
     "genocide",
+    "handgun",
     "hostage",
     "hospital",
     "killed",
@@ -102,9 +103,23 @@ SENSITIVE_TERMS = {
 
 SENSITIVE_PHRASES = (
     "body cavity",
+    "body is found",
+    "body found",
     "medical condition",
+    "missing scientist",
     "military spending",
     "pulse nightclub",
+    "troubling new theories",
+)
+
+SCAREBAIT_PATTERNS = (
+    r"\bpsychic\b",
+    r"\b(?:covid|coronavirus|pandemic)\b",
+    r"\babduct(?:s|ed|ion)?\b",
+    r"\bevil aliens?\b",
+    r"\b(?:warns?|warning|predicted)\b.*\b(?:covid|coronavirus|pandemic|world cup|aliens?|ufo|ufos)\b",
+    r"\b(?:aliens?|ufos?)\b.*\b(?:cover[- ]?up|government insisted|whistleblower|explosive claims|cia|bombshell)\b",
+    r"\b(?:cover[- ]?up|government insisted|whistleblower|explosive claims|cia|bombshell)\b.*\b(?:aliens?|ufos?)\b",
 )
 
 SERIOUS_TERMS = {
@@ -137,7 +152,7 @@ SIGNALS: list[tuple[str, int, str]] = [
     (r"\b(?:cheese|sausage|sandwich|potato|banana|cake|biscuit|pie|pizza|chocolate)\b", 7, "A very ordinary object has wandered into serious news."),
     (r"\b(?:toilet|trousers|pants|hat|sock|bin|wheelie bin)\b", 8, "A household object has somehow reached the news desk."),
     (r"\b(?:world record|record-breaking|loose|caught|stolen|surprise|auction)\b", 5, "It has the shape of a tiny adventure reported with a straight face."),
-    (r"\b(?:mullet|mud crab|viagra|aliens?|scrambled letters|psychic|toblerone|fish and chip|waterpark|sausage queen)\b", 8, "A wonderfully specific detail has taken centre stage."),
+    (r"\b(?:mullet|mud crab|viagra|aliens?|scrambled letters|toblerone|fish and chip|waterpark|sausage queen)\b", 8, "A wonderfully specific detail has taken centre stage."),
     (r"\bt\.\s*rex\b|\bdinosaur\b|\bpurse\b|\bmural\b", 7, "The object list sounds like someone shuffled three different stories together."),
     (r"\b(?:robot|ai|drone)\b", 1, "Technology is present, which means dignity may be optional."),
     (r"\bwhy\b|\bhow\b", 1, "It reads like the setup to a very dry question."),
@@ -294,6 +309,8 @@ def looks_english(title: str) -> bool:
 def is_sensitive(title: str) -> bool:
     lower = title.lower()
     if any(phrase in lower for phrase in SENSITIVE_PHRASES):
+        return True
+    if any(re.search(pattern, lower) for pattern in SCAREBAIT_PATTERNS):
         return True
     words = set(re.findall(r"[a-z']+", title.lower()))
     return bool(words & SENSITIVE_TERMS)
@@ -701,7 +718,7 @@ def build_home(payload: dict[str, object], generated_label: str) -> str:
 )}
 <section class="section tight">
   <h2>Today&apos;s bill</h2>
-  <p class="section-lead">These are linked headlines from the latest run. The script avoids tragedy and heavy harm stories, then looks for deadpan wording, strange scale, accidental comedy, and official sentences that have wandered into the wrong room.</p>
+  <p class="section-lead">These are linked headlines from the latest run. The script avoids tragedy, heavy harm, and scarebait prediction stories, then looks for deadpan wording, strange scale, accidental comedy, and official sentences that have wandered into the wrong room.</p>
   {headline_grid(headlines, limit=6)}
 </section>
 <section class="section band">
@@ -863,7 +880,7 @@ def build_sources(payload: dict[str, object], sources: list[dict[str, str]], gen
     <div class="principle-grid">
       <article class="note-card"><h3>Put Darwin first</h3><p>NT News gets the strongest source boost. If it has a usable odd headline, it should naturally float near the top of the bill.</p></article>
       <article class="note-card"><h3>Look for odd wording</h3><p>The script scores words like mystery, accidentally, bizarre, tiny, giant, mud crab, mullet, and other straight-faced signals.</p></article>
-      <article class="note-card"><h3>Leave harm alone</h3><p>Stories about death, assault, disasters, war, and similar heavy subjects are filtered out before scoring.</p></article>
+      <article class="note-card"><h3>Leave harm alone</h3><p>Stories about death, assault, disasters, war, pandemic claims, psychic warnings, abductions, and conspiracy-scare phrasing are filtered out before scoring.</p></article>
     </div>
   </div>
 </section>

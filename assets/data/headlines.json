@@ -1,10 +1,10 @@
 {
   "site": "Straddie Headline Open Mic",
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T21:55:50.429685+10:00",
-  "generated_label": "12 Jun 2026, 09:55 PM AEST",
+  "generated_at": "2026-06-12T22:26:00.812038+10:00",
+  "generated_label": "12 Jun 2026, 10:26 PM AEST",
   "source_count": 14,
-  "headline_count": 22,
+  "headline_count": 19,
   "headlines": [
     {
       "id": "world-s-largest-mud-crab-mural-transforms-vacant-city-bl-976275dafe",
@@ -58,24 +58,6 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/bavarian-sausage-queen-makes-meat-footballers-for-world--59aa0a9405.svg"
-    },
-    {
-      "id": "i-witnessed-a-real-alien-autopsy-but-government-insisted-3e6e7157d8",
-      "title": "'I witnessed a real alien autopsy - but government insisted on denying everything'",
-      "url": "https://www.mirror.co.uk/news/uk-news/alien-autopsy-scandal-ufo-coverup-37275505",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-06-11T17:38:42+10:00",
-      "score": 25,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "A serious-news word is sharing a sentence with something very ordinary.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/i-witnessed-a-real-alien-autopsy-but-government-insisted-3e6e7157d8.svg"
     },
     {
       "id": "bona-fide-t-rex-leather-purse-is-going-up-for-auction-an-43a02b45ba",
@@ -164,23 +146,6 @@
       "image": "assets/data/headline-images/man-buys-food-at-london-s-most-expensive-fish-and-chip-s-99eafc17c5.svg"
     },
     {
-      "id": "i-m-the-psychic-who-predicted-covid-my-warning-for-engla-2da317eb65",
-      "title": "'I'm the psychic who predicted Covid - my warning for England's World Cup'",
-      "url": "https://www.mirror.co.uk/news/weird-news/im-psychic-who-predicted-covid-37279036",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-06-11T19:25:41+10:00",
-      "score": 20,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/i-m-the-psychic-who-predicted-covid-my-warning-for-engla-2da317eb65.svg"
-    },
-    {
       "id": "fisherman-wrestles-great-white-shark-with-his-bare-hands-48e8573d67",
       "title": "Fisherman wrestles Great White shark with his bare hands after accidentally reeling in beast",
       "url": "https://www.dailystar.co.uk/news/latest-news/fisherman-wrestles-great-white-shark-37285400",
@@ -198,55 +163,22 @@
       "image": "assets/data/headline-images/fisherman-wrestles-great-white-shark-with-his-bare-hands-48e8573d67.svg"
     },
     {
-      "id": "psychic-warns-evil-aliens-will-abduct-700-players-and-fa-9315f018e9",
-      "title": "Psychic warns 'evil aliens' will abduct 700 players and fans during World Cup",
-      "url": "https://www.dailystar.co.uk/news/latest-news/psychic-warns-evil-aliens-abduct-37284206",
-      "source": "Daily Star Weird News",
+      "id": "people-are-only-just-realising-how-sudocrem-got-its-name-269ae7830b",
+      "title": "People are only just realising how Sudocrem got its name after nearly 100 years",
+      "url": "https://www.mirror.co.uk/lifestyle/people-only-just-realising-how-37285294",
+      "source": "Mirror Weird News",
       "country": "United Kingdom",
       "source_type": "newspaper offbeat section",
       "priority": "tabloid-offbeat",
-      "published": "2026-06-12T19:19:56+10:00",
-      "score": 20,
-      "why": "A wonderfully specific detail has taken centre stage.",
+      "published": "2026-06-12T21:21:18+10:00",
+      "score": 15,
+      "why": "It reads like the setup to a very dry question.",
       "signals": [
-        "A wonderfully specific detail has taken centre stage.",
+        "It reads like the setup to a very dry question.",
+        "The specific number gives the line a dry little thud.",
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
-      "image": "assets/data/headline-images/psychic-warns-evil-aliens-will-abduct-700-players-and-fa-9315f018e9.svg"
-    },
-    {
-      "id": "cia-s-bombshell-ties-to-ufos-and-alien-tech-revealed-in--98be1a7e60",
-      "title": "CIA's bombshell ties to UFOs and alien tech revealed in exposed documents",
-      "url": "https://www.dailymail.com/sciencetech/article-15889719/bombshell-ufo-report-cia-alien-technology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-06-11T17:39:04+10:00",
-      "score": 15,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/cia-s-bombshell-ties-to-ufos-and-alien-tech-revealed-in--98be1a7e60.svg"
-    },
-    {
-      "id": "ufo-whistleblowers-storm-capitol-hill-with-explosive-cla-98880d6a61",
-      "title": "UFO whistleblowers storm Capitol Hill with explosive claims about alien life",
-      "url": "https://www.dailymail.com/sciencetech/article-15886551/ufo-whistleblower-david-grusch-capitol-hill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-06-11T03:11:27+10:00",
-      "score": 15,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/ufo-whistleblowers-storm-capitol-hill-with-explosive-cla-98880d6a61.svg"
+      "image": "assets/data/headline-images/people-are-only-just-realising-how-sudocrem-got-its-name-269ae7830b.svg"
     },
     {
       "id": "meet-the-muttley-crew-of-underdogs-struggling-to-find-ho-02f45c2b08",
@@ -316,6 +248,24 @@
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
       "image": "assets/data/headline-images/mystery-of-america-s-nessie-deepens-as-strange-creature--8103fee5ee.svg"
+    },
+    {
+      "id": "giant-scorpions-the-size-of-labradors-roamed-britain-415-72e9201390",
+      "title": "Giant scorpions the size of LABRADORS roamed Britain 415 million years ago, study finds",
+      "url": "https://www.dailymail.com/sciencetech/article-15867169/Giant-scorpions-roamed-Britain-million-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-06-03T16:43:49+10:00",
+      "score": 14,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "The specific number gives the line a dry little thud.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/giant-scorpions-the-size-of-labradors-roamed-britain-415-72e9201390.svg"
     },
     {
       "id": "as-ufos-go-mainstream-the-jury-is-out-on-what-the-existe-9d7e2aeb9a",

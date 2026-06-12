@@ -19,7 +19,7 @@ GitHub Actions runs `tools/refresh_site.py` every day at 7:35am Brisbane time. T
 
 1. Reads `data/sources.json`.
 2. Fetches public RSS and Atom feeds.
-3. Filters out heavy harm stories.
+3. Filters out heavy harm stories and scarebait-style prediction/conspiracy headlines.
 4. Scores headlines with transparent humour rules.
 5. Gives NT News the strongest source boost, with smaller boosts for tabloid/offbeat print-news sources.
 6. Writes `assets/data/headlines.json`, `assets/data/headline-images/*.svg`, and `data/archive/YYYY-MM-DD.json`.
