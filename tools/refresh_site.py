@@ -604,12 +604,36 @@ def nav_html() -> str:
 """.strip()
 
 
-def footer_html(generated_label: str) -> str:
+def footer_sequence_html(page_key: str) -> str:
+    index = next((idx for idx, (key, _, _) in enumerate(NAV) if key == page_key), 0)
+    previous_page = NAV[index - 1] if index > 0 else None
+    next_page = NAV[index + 1] if index + 1 < len(NAV) else None
+
+    def sequence_link(page: tuple[str, str, str] | None, direction: str) -> str:
+        if page is None:
+            return '<span class="sequence-spacer" aria-hidden="true"></span>'
+        _, label, href = page
+        return f"""
+    <a class="sequence-link sequence-link-{direction}" href="{href}">
+      <span>{'Previous page' if direction == 'previous' else 'Next page'}</span>
+      <strong>{esc(label)}</strong>
+    </a>""".rstrip()
+
+    return f"""
+  <nav class="footer-sequence" aria-label="Previous and next pages">
+{sequence_link(previous_page, "previous")}
+{sequence_link(next_page, "next")}
+  </nav>
+""".rstrip()
+
+
+def footer_html(page_key: str, generated_label: str) -> str:
     links = "\n".join(
         f'<a href="{href}" data-nav="{key}">{label}</a>' for key, label, href in NAV
     )
     return f"""
 <footer class="site-footer">
+{footer_sequence_html(page_key)}
   <div class="footer-inner">
     <div>
       <strong>Straddie Headline Open Mic</strong>
@@ -658,7 +682,7 @@ def page_shell(page_key: str, title: str, description: str, generated_label: str
     <main>
 {rendered_main}
     </main>
-    {footer_html(generated_label)}
+    {footer_html(page_key, generated_label)}
   </div>
   <button class="to-top" type="button" aria-label="Back to top">^</button>
   <script src="assets/js/site.js?v={cache}"></script>

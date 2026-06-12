@@ -1,10 +1,10 @@
 {
   "site": "Straddie Headline Open Mic",
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T22:26:00.812038+10:00",
-  "generated_label": "12 Jun 2026, 10:26 PM AEST",
+  "generated_at": "2026-06-12T22:51:20.243180+10:00",
+  "generated_label": "12 Jun 2026, 10:51 PM AEST",
   "source_count": 14,
-  "headline_count": 19,
+  "headline_count": 20,
   "headlines": [
     {
       "id": "world-s-largest-mud-crab-mural-transforms-vacant-city-bl-976275dafe",
@@ -266,6 +266,22 @@
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
       "image": "assets/data/headline-images/giant-scorpions-the-size-of-labradors-roamed-britain-415-72e9201390.svg"
+    },
+    {
+      "id": "texas-woman-injured-by-mcdonald-s-sausage-mcmuffin-wholl-10682b83e2",
+      "title": "Texas woman injured by McDonald’s Sausage McMuffin ‘wholly unfit for human consumption’: suit",
+      "url": "https://www.independent.co.uk/news/world/americas/mcdonalds-sausage-mcmuffin-food-poisoning-lawsuit-b2994290.html",
+      "source": "The Independent",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-06-12T22:44:14+10:00",
+      "score": 9,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news."
+      ],
+      "image": "assets/data/headline-images/texas-woman-injured-by-mcdonald-s-sausage-mcmuffin-wholl-10682b83e2.svg"
     },
     {
       "id": "as-ufos-go-mainstream-the-jury-is-out-on-what-the-existe-9d7e2aeb9a",
