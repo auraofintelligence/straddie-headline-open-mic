@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-label="Headline card: Making a Cake for America’s 250th Birthday">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-label="Headline card: Mark Moriarty: Two brilliant recipes to celebrate the US - Maine lobster roll and Key lime pie">
   <defs>
     <filter id="paper-shadow" x="-8%" y="-8%" width="116%" height="116%">
       <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#2c1c12" flood-opacity="0.18"/>
@@ -11,12 +11,14 @@
   <rect x="18" y="18" width="724" height="484" rx="10" fill="url(#paper)" filter="url(#paper-shadow)"/>
   <rect x="18" y="18" width="724" height="484" rx="10" fill="none" stroke="#15110f" stroke-opacity="0.18"/>
   <rect x="18" y="18" width="724" height="58" rx="10" fill="#15110f"/>
-  <text x="48" y="55" class="masthead">The New York Times</text>
-  <text x="712" y="55" class="date" text-anchor="end">05 Jul 2026</text>
+  <text x="48" y="55" class="masthead">The Irish Times</text>
+  <text x="712" y="55" class="date" text-anchor="end">04 Jul 2026</text>
   <line x1="48" y1="94" x2="712" y2="94" stroke="#8f2d2d" stroke-width="6"/>
-  <text x="48" y="132" class="headline">Making a Cake for</text>
-<text x="48" y="190" class="headline">America’s 250th</text>
-<text x="48" y="248" class="headline">Birthday</text>
+  <text x="48" y="132" class="headline">Mark Moriarty: Two</text>
+<text x="48" y="190" class="headline">brilliant recipes to</text>
+<text x="48" y="248" class="headline">celebrate the US -</text>
+<text x="48" y="306" class="headline">Maine lobster roll and</text>
+<text x="48" y="364" class="headline">Key lime pie</text>
   <line x1="48" y1="414" x2="712" y2="414" stroke="#15110f" stroke-opacity="0.16" stroke-width="2"/>
   <text x="48" y="440" class="label">WHY IT MADE THE BILL</text>
   <text x="48" y="470" class="why">A very ordinary object has wandered</text>
