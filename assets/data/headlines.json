@@ -1,11 +1,79 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T07:42:13.633488+10:00",
-  "generated_label": "10 Oct 2026, 07:42 AM AEST",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T07:40:43.590397+10:00",
+  "generated_label": "11 Oct 2026, 07:40 AM AEST",
   "source_count": 14,
-  "headline_count": 12,
+  "headline_count": 20,
   "headlines": [
+    {
+      "id": "you-failed-us-frydenberg-s-shock-new-tell-all-on-canberr-952e08edd1",
+      "title": "‘You failed us’: Frydenberg’s shock new tell-all on Canberra’s chaos",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPTDdZZUxSclN3RTlteXN1QlJGb1RWRUNjMU54NHR0TkZnM29PSk14VHJaaFJqYzJvRHAxUE0xWnNFOXBnSlloSEYzQkxqVndEX2JKSHlyVWhnV29Ybm5DVV9rZWhFdFNROW1lVVQwbDl5V3hqa2JVY0YtMzR0eWJxekl3NVJacDhhMXhXRG1TVHhnRE5qdE5iMEQ1YWNUbTQ3QU1qLWc0M09JU0dsdTRDYmcyZTkteDNrdml1Vk5FZzFNcmUtZ3dXem5zdWNVdmQwWHVZeW9oZlJhQUhjUWpZS3pCSEZ6OVZnMkMyRks2SjBjZ2ZIbmpyUGZzVWtSQ0x2am1heFA2XzQzdURIcFhTZWtJTGhWOURGV0prUGdJYmRIRUxYb21VMA?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-11T04:03:54+10:00",
+      "score": 32,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/you-failed-us-frydenberg-s-shock-new-tell-all-on-canberr-952e08edd1.svg"
+    },
+    {
+      "id": "used-car-giant-collapses-90-workers-sacked-32c5d7515b",
+      "title": "Used car giant collapses, 90 workers sacked",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcVRsaThvakNnNTNXMW16Zk5TYU5fVGNXdEVkc3Q3YXhJdlVxSllNTy1NMWEwZFl5a3VNV2JXRzg1QWx2TkZjcktma3hqRTR5SkkzY21xMjhHZkxfSDBmU0FoYzBnSTRrYjRIOXhFSHhoQ3RBemd5MFdadDdHa3F5c0NJT0d4OXItSi1qT04wbm9BaHNoQnFJSGRMV2x1SVZadzhqOTIxNVJSM3RxZXp2Q2ppa2JaSVNiN1ZjRmFqSkdDY2IxY1BJLWg3bFMta1FuMF8yY1VoN3lqUmRBR3FGNw?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-10T20:24:41+10:00",
+      "score": 31,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/used-car-giant-collapses-90-workers-sacked-32c5d7515b.svg"
+    },
+    {
+      "id": "darwin-real-estate-the-latest-auction-and-sales-results--a82dbbdd9c",
+      "title": "Darwin real estate: The latest auction and sales results for week ending October 10",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQmFzN2w5Z2ExaVFlWnB5UE1GMkNSMmlmOGotSm5pQW5qN1lHbU1XQ3BhS1FyZ0JBckRydWxfTUZaNXBQMmJrSUhXN0xvVGFKR0RLUGdBbk05dk84QkJkY1BveE44X0gzOGs3Qzc1bHd5Nk1fUEVPeFRyZnFWdHRFWmxyYUVmOG5yQXJrWWNuUmkxMHNDUlZyempveGkwZDYzUlFLa2F5dW5ZRzEybUt0VGxhYXRySkI5QWpzcGxnMDZZUDA3dVhLckpEd0FPT3I5MDRXU0VQOGFfaGUtVlRoMDVrem1HMzBuQVJQQmk4dU9vUmU4M0N2c1M5ZmJNZnpRTEtJR0JkVVFqSE04ZEQ2b2lpdEVGUQ?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-11T01:10:51+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--a82dbbdd9c.svg"
+    },
+    {
+      "id": "politician-hitler-mussolini-crowned-mayor-in-bizarre-dem-f969dc846d",
+      "title": "Politician Hitler Mussolini crowned mayor in bizarre democratic local result",
+      "url": "https://www.dailystar.co.uk/news/weird-news/politician-hitler-mussolini-crowned-mayor-37756829",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-10T07:49:01+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/politician-hitler-mussolini-crowned-mayor-in-bizarre-dem-f969dc846d.svg"
+    },
     {
       "id": "passenger-with-unexplained-bulge-had-10-live-birds-stuff-d105f2c5f8",
       "title": "Passenger with 'unexplained bulge' had 10 live birds stuffed down his pants",
@@ -162,21 +230,53 @@
       "image": "assets/data/headline-images/beware-the-giant-googly-eyes-scientists-deploy-floating--29c8ae3489.svg"
     },
     {
-      "id": "giant-wave-thousands-of-miles-wide-barrels-toward-us-as--f0a9b91498",
-      "title": "Giant 'wave' thousands of miles wide barrels toward US as scientists warn of 'quintuple whammy' for California",
-      "url": "https://www.dailymail.com/sciencetech/article-16169455/kelvin-wave-california-coast-flooding.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
+      "id": "like-a-drill-going-into-my-eye-why-the-mystery-over-hava-0955f7df22",
+      "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+      "source": "The Guardian World",
       "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-09-30T22:32:13+10:00",
-      "score": 12,
-      "why": "The scale is doing deadpan comedy.",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-10T15:00:48+10:00",
+      "score": 10,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
       "signals": [
-        "The scale is doing deadpan comedy.",
-        "Tabloid target: ranked up when the wording already has a wobble."
+        "A mystery is doing a lot of work in a very small sentence.",
+        "It reads like the setup to a very dry question."
       ],
-      "image": "assets/data/headline-images/giant-wave-thousands-of-miles-wide-barrels-toward-us-as--f0a9b91498.svg"
+      "image": "assets/data/headline-images/like-a-drill-going-into-my-eye-why-the-mystery-over-hava-0955f7df22.svg"
+    },
+    {
+      "id": "ruthless-taranaki-clinch-npc-semifinal-spot-after-bradle-be319cacfd",
+      "title": "Ruthless Taranaki clinch NPC semifinal spot after Bradley Slater hat-trick against North Harbour",
+      "url": "https://www.rnz.co.nz/news/sport/1828323/ruthless-taranaki-clinch-npc-semifinal-spot-after-bradley-slater-hat-trick-against-north-harbour",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-10T13:55:30+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk."
+      ],
+      "image": "assets/data/headline-images/ruthless-taranaki-clinch-npc-semifinal-spot-after-bradle-be319cacfd.svg"
+    },
+    {
+      "id": "frank-mcdonald-solves-the-mystery-of-columns-5d506f8f72",
+      "title": "Frank McDonald solves the mystery of columns",
+      "url": "https://www.irishtimes.com/opinion/letters/2026/10/10/frank-mcdonald-solves-the-mystery-of-columns/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-10T15:00:01+10:00",
+      "score": 9,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence."
+      ],
+      "image": "assets/data/headline-images/frank-mcdonald-solves-the-mystery-of-columns-5d506f8f72.svg"
     },
     {
       "id": "how-a-plant-selfie-in-colombian-jungle-led-to-jaw-droppi-38208a7a49",
@@ -210,6 +310,38 @@
         "The scale is doing deadpan comedy."
       ],
       "image": "assets/data/headline-images/scientists-discover-180-000-giant-tortoises-on-one-seych-6ae90fe752.svg"
+    },
+    {
+      "id": "victorian-silver-tea-service-from-the-maud-gonne-collect-a0fe454fa3",
+      "title": "Victorian silver tea service from the Maud Gonne collection for auction",
+      "url": "https://www.irishtimes.com/life-style/fine-art-antiques/2026/10/10/victorian-silver-tea-service-from-the-maud-gonne-collection-for-auction/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-10T14:00:00+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/victorian-silver-tea-service-from-the-maud-gonne-collect-a0fe454fa3.svg"
+    },
+    {
+      "id": "john-mcgahern-a-writing-life-biography-of-literary-giant-2464afc5a1",
+      "title": "John McGahern, A Writing Life: Biography of literary giant who understood the human condition",
+      "url": "https://www.irishtimes.com/culture/books/review/2026/10/10/john-mcgahern-a-writing-life-biography-of-literary-giant-who-understood-the-human-condition/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-10T13:14:00+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/john-mcgahern-a-writing-life-biography-of-literary-giant-2464afc5a1.svg"
     }
   ],
   "feed_errors": [
