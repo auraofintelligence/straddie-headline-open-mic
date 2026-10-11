@@ -1,0 +1,319 @@
+{
+  "site": "Straddie Headline Open Mic",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T07:41:32.709225+10:00",
+  "generated_label": "12 Oct 2026, 07:41 AM AEST",
+  "source_count": 14,
+  "headline_count": 18,
+  "headlines": [
+    {
+      "id": "you-failed-us-frydenberg-s-shock-new-tell-all-on-canberr-952e08edd1",
+      "title": "‘You failed us’: Frydenberg’s shock new tell-all on Canberra’s chaos",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPTDdZZUxSclN3RTlteXN1QlJGb1RWRUNjMU54NHR0TkZnM29PSk14VHJaaFJqYzJvRHAxUE0xWnNFOXBnSlloSEYzQkxqVndEX2JKSHlyVWhnV29Ybm5DVV9rZWhFdFNROW1lVVQwbDl5V3hqa2JVY0YtMzR0eWJxekl3NVJacDhhMXhXRG1TVHhnRE5qdE5iMEQ1YWNUbTQ3QU1qLWc0M09JU0dsdTRDYmcyZTkteDNrdml1Vk5FZzFNcmUtZ3dXem5zdWNVdmQwWHVZeW9oZlJhQUhjUWpZS3pCSEZ6OVZnMkMyRks2SjBjZ2ZIbmpyUGZzVWtSQ0x2am1heFA2XzQzdURIcFhTZWtJTGhWOURGV0prUGdJYmRIRUxYb21VMA?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-11T04:03:54+10:00",
+      "score": 32,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/you-failed-us-frydenberg-s-shock-new-tell-all-on-canberr-952e08edd1.svg"
+    },
+    {
+      "id": "darwin-real-estate-the-latest-auction-and-sales-results--a82dbbdd9c",
+      "title": "Darwin real estate: The latest auction and sales results for week ending October 10",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQmFzN2w5Z2ExaVFlWnB5UE1GMkNSMmlmOGotSm5pQW5qN1lHbU1XQ3BhS1FyZ0JBckRydWxfTUZaNXBQMmJrSUhXN0xvVGFKR0RLUGdBbk05dk84QkJkY1BveE44X0gzOGs3Qzc1bHd5Nk1fUEVPeFRyZnFWdHRFWmxyYUVmOG5yQXJrWWNuUmkxMHNDUlZyempveGkwZDYzUlFLa2F5dW5ZRzEybUt0VGxhYXRySkI5QWpzcGxnMDZZUDA3dVhLckpEd0FPT3I5MDRXU0VQOGFfaGUtVlRoMDVrem1HMzBuQVJQQmk4dU9vUmU4M0N2c1M5ZmJNZnpRTEtJR0JkVVFqSE04ZEQ2b2lpdEVGUQ?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-11T11:28:00+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--a82dbbdd9c.svg"
+    },
+    {
+      "id": "politician-hitler-mussolini-crowned-mayor-in-bizarre-dem-f969dc846d",
+      "title": "Politician Hitler Mussolini crowned mayor in bizarre democratic local result",
+      "url": "https://www.dailystar.co.uk/news/weird-news/politician-hitler-mussolini-crowned-mayor-37756829",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-10T07:49:01+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/politician-hitler-mussolini-crowned-mayor-in-bizarre-dem-f969dc846d.svg"
+    },
+    {
+      "id": "passenger-with-unexplained-bulge-had-10-live-birds-stuff-d105f2c5f8",
+      "title": "Passenger with 'unexplained bulge' had 10 live birds stuffed down his pants",
+      "url": "https://www.dailystar.co.uk/news/latest-news/passenger-unexplained-bulge-10-live-37748725",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-08T20:14:43+10:00",
+      "score": 20,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/passenger-with-unexplained-bulge-had-10-live-birds-stuff-d105f2c5f8.svg"
+    },
+    {
+      "id": "expert-settles-debate-on-if-cheese-before-bed-causes-nig-fff5e95a6b",
+      "title": "Expert settles debate on if cheese before bed causes nightmares",
+      "url": "https://www.mirror.co.uk/news/health/expert-settles-debate-cheese-before-37754202",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-09T21:52:04+10:00",
+      "score": 19,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/expert-settles-debate-on-if-cheese-before-bed-causes-nig-fff5e95a6b.svg"
+    },
+    {
+      "id": "200-year-old-giant-tortoise-holds-the-key-to-humans-livi-4f3155cdd6",
+      "title": "200-year-old giant tortoise holds the key to humans living until the 2200s",
+      "url": "https://www.dailystar.co.uk/news/latest-news/200-year-old-giant-tortoise-37744468",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-08T07:27:48+10:00",
+      "score": 19,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/200-year-old-giant-tortoise-holds-the-key-to-humans-livi-4f3155cdd6.svg"
+    },
+    {
+      "id": "our-48-hours-of-passion-was-mind-blowing-now-mystery-lov-7ffedc6dda",
+      "title": "'Our 48 hours of passion was mind blowing – now mystery lover is blanking me'",
+      "url": "https://www.dailystar.co.uk/just-jane/our-48-hours-passion-mind-37689797",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-08T04:00:00+10:00",
+      "score": 19,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/our-48-hours-of-passion-was-mind-blowing-now-mystery-lov-7ffedc6dda.svg"
+    },
+    {
+      "id": "mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705",
+      "title": "Mars mystery solved: Scientists reveal the secret behind 'impossible' giant cloud that appears and vanishes every day",
+      "url": "https://www.dailymail.com/sciencetech/article-16189261/Mars-mystery-solved-impossible-cloud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-08T01:18:07+10:00",
+      "score": 19,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The scale is doing deadpan comedy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705.svg"
+    },
+    {
+      "id": "i-m-sure-sneaky-mate-is-sleeping-with-my-man-he-says-i-v-95b71b1e3a",
+      "title": "'I'm sure sneaky mate is sleeping with my man – he says I've got a screw loose'",
+      "url": "https://www.dailystar.co.uk/just-jane/im-sure-sneaky-mate-sleeping-37690339",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-08T16:00:00+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/i-m-sure-sneaky-mate-is-sleeping-with-my-man-he-says-i-v-95b71b1e3a.svg"
+    },
+    {
+      "id": "mystery-man-made-mounds-in-the-deep-south-are-older-than-81554c78b4",
+      "title": "Mystery man-made mounds in the Deep South are older than the Great Pyramid... and leave experts baffled over their creation",
+      "url": "https://www.dailymail.com/sciencetech/article-16193579/watson-brake-mounds-louisiana-pyramid-creation-mystery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-09T09:54:47+10:00",
+      "score": 12,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/mystery-man-made-mounds-in-the-deep-south-are-older-than-81554c78b4.svg"
+    },
+    {
+      "id": "world-s-heaviest-insect-makes-astonishing-comeback-after-dc0c7e6152",
+      "title": "World's heaviest insect makes astonishing comeback after conservationists save giant bug from extinction",
+      "url": "https://www.dailymail.com/sciencetech/article-16186569/Worlds-heaviest-insect-comeback-conservation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-06T21:42:21+10:00",
+      "score": 12,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/world-s-heaviest-insect-makes-astonishing-comeback-after-dc0c7e6152.svg"
+    },
+    {
+      "id": "like-a-drill-going-into-my-eye-why-the-mystery-over-hava-0955f7df22",
+      "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-10T15:00:48+10:00",
+      "score": 10,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "It reads like the setup to a very dry question."
+      ],
+      "image": "assets/data/headline-images/like-a-drill-going-into-my-eye-why-the-mystery-over-hava-0955f7df22.svg"
+    },
+    {
+      "id": "dollywood-down-under-dolly-parton-fans-and-drag-queens-t-0c900b483c",
+      "title": "Dollywood down under: Dolly Parton fans and drag queens turn a tiny Australian town pink",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/dollywood-down-under-dolly-parton-super-fans-and-drag-queens-turn-a-tiny-australian-town-pink-narromine",
+      "source": "The Guardian Australia",
+      "country": "Australia",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-12T00:00:29+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/dollywood-down-under-dolly-parton-fans-and-drag-queens-t-0c900b483c.svg"
+    },
+    {
+      "id": "scientists-discover-180-000-giant-tortoises-on-one-seych-6ae90fe752",
+      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-09T06:20:31+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/scientists-discover-180-000-giant-tortoises-on-one-seych-6ae90fe752.svg"
+    },
+    {
+      "id": "zack-polanski-signals-green-party-overhaul-after-row-ove-9050a47db7",
+      "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
+      "url": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-12T01:00:29+10:00",
+      "score": 7,
+      "why": "It turns a small thing into a public argument.",
+      "signals": [
+        "It turns a small thing into a public argument."
+      ],
+      "image": "assets/data/headline-images/zack-polanski-signals-green-party-overhaul-after-row-ove-9050a47db7.svg"
+    },
+    {
+      "id": "a-russian-spy-s-lone-regret-i-got-caught-1a738743c5",
+      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+      "url": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
+      "source": "The New York Times",
+      "country": "United States",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-11T19:00:28+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/a-russian-spy-s-lone-regret-i-got-caught-1a738743c5.svg"
+    },
+    {
+      "id": "zelenskyy-signals-surprise-at-trump-claim-of-russia-ukra-3a9f81c5a4",
+      "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-12T04:36:54+10:00",
+      "score": 5,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/zelenskyy-signals-surprise-at-trump-claim-of-russia-ukra-3a9f81c5a4.svg"
+    },
+    {
+      "id": "why-fussy-eating-didn-t-exist-100-years-ago-1e46714c9e",
+      "title": "Why fussy eating didn't exist 100 years ago",
+      "url": "https://www.rnz.co.nz/life/wellbeing/why-fussy-eating-didn-t-exist-100-years-ago",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-12T04:10:51+10:00",
+      "score": 5,
+      "why": "It reads like the setup to a very dry question.",
+      "signals": [
+        "It reads like the setup to a very dry question.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/why-fussy-eating-didn-t-exist-100-years-ago-1e46714c9e.svg"
+    }
+  ],
+  "feed_errors": [
+    {
+      "source": "The Independent",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
+}

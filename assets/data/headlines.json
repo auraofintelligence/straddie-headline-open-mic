@@ -1,10 +1,10 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T07:40:43.590397+10:00",
-  "generated_label": "11 Oct 2026, 07:40 AM AEST",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T07:41:32.709225+10:00",
+  "generated_label": "12 Oct 2026, 07:41 AM AEST",
   "source_count": 14,
-  "headline_count": 20,
+  "headline_count": 18,
   "headlines": [
     {
       "id": "you-failed-us-frydenberg-s-shock-new-tell-all-on-canberr-952e08edd1",
@@ -24,23 +24,6 @@
       "image": "assets/data/headline-images/you-failed-us-frydenberg-s-shock-new-tell-all-on-canberr-952e08edd1.svg"
     },
     {
-      "id": "used-car-giant-collapses-90-workers-sacked-32c5d7515b",
-      "title": "Used car giant collapses, 90 workers sacked",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcVRsaThvakNnNTNXMW16Zk5TYU5fVGNXdEVkc3Q3YXhJdlVxSllNTy1NMWEwZFl5a3VNV2JXRzg1QWx2TkZjcktma3hqRTR5SkkzY21xMjhHZkxfSDBmU0FoYzBnSTRrYjRIOXhFSHhoQ3RBemd5MFdadDdHa3F5c0NJT0d4OXItSi1qT04wbm9BaHNoQnFJSGRMV2x1SVZadzhqOTIxNVJSM3RxZXp2Q2ppa2JaSVNiN1ZjRmFqSkdDY2IxY1BJLWg3bFMta1FuMF8yY1VoN3lqUmRBR3FGNw?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-10T20:24:41+10:00",
-      "score": 31,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/used-car-giant-collapses-90-workers-sacked-32c5d7515b.svg"
-    },
-    {
       "id": "darwin-real-estate-the-latest-auction-and-sales-results--a82dbbdd9c",
       "title": "Darwin real estate: The latest auction and sales results for week ending October 10",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQmFzN2w5Z2ExaVFlWnB5UE1GMkNSMmlmOGotSm5pQW5qN1lHbU1XQ3BhS1FyZ0JBckRydWxfTUZaNXBQMmJrSUhXN0xvVGFKR0RLUGdBbk05dk84QkJkY1BveE44X0gzOGs3Qzc1bHd5Nk1fUEVPeFRyZnFWdHRFWmxyYUVmOG5yQXJrWWNuUmkxMHNDUlZyempveGkwZDYzUlFLa2F5dW5ZRzEybUt0VGxhYXRySkI5QWpzcGxnMDZZUDA3dVhLckpEd0FPT3I5MDRXU0VQOGFfaGUtVlRoMDVrem1HMzBuQVJQQmk4dU9vUmU4M0N2c1M5ZmJNZnpRTEtJR0JkVVFqSE04ZEQ2b2lpdEVGUQ?oc=5",
@@ -48,7 +31,7 @@
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-11T01:10:51+10:00",
+      "published": "2026-10-11T11:28:00+10:00",
       "score": 31,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
@@ -213,23 +196,6 @@
       "image": "assets/data/headline-images/world-s-heaviest-insect-makes-astonishing-comeback-after-dc0c7e6152.svg"
     },
     {
-      "id": "beware-the-giant-googly-eyes-scientists-deploy-floating--29c8ae3489",
-      "title": "Beware the giant googly eyes! Scientists deploy 'floating scarecrows' off the coast of Cornwall to deter seagulls",
-      "url": "https://www.dailymail.com/sciencetech/article-16172199/floating-scarecrows-googly-eyes-Cornwall-seagulls.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-10-01T10:42:07+10:00",
-      "score": 12,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/beware-the-giant-googly-eyes-scientists-deploy-floating--29c8ae3489.svg"
-    },
-    {
       "id": "like-a-drill-going-into-my-eye-why-the-mystery-over-hava-0955f7df22",
       "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
@@ -247,53 +213,20 @@
       "image": "assets/data/headline-images/like-a-drill-going-into-my-eye-why-the-mystery-over-hava-0955f7df22.svg"
     },
     {
-      "id": "ruthless-taranaki-clinch-npc-semifinal-spot-after-bradle-be319cacfd",
-      "title": "Ruthless Taranaki clinch NPC semifinal spot after Bradley Slater hat-trick against North Harbour",
-      "url": "https://www.rnz.co.nz/news/sport/1828323/ruthless-taranaki-clinch-npc-semifinal-spot-after-bradley-slater-hat-trick-against-north-harbour",
-      "source": "RNZ News",
-      "country": "New Zealand",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-10-10T13:55:30+10:00",
-      "score": 10,
-      "why": "A household object has somehow reached the news desk.",
-      "signals": [
-        "A household object has somehow reached the news desk."
-      ],
-      "image": "assets/data/headline-images/ruthless-taranaki-clinch-npc-semifinal-spot-after-bradle-be319cacfd.svg"
-    },
-    {
-      "id": "frank-mcdonald-solves-the-mystery-of-columns-5d506f8f72",
-      "title": "Frank McDonald solves the mystery of columns",
-      "url": "https://www.irishtimes.com/opinion/letters/2026/10/10/frank-mcdonald-solves-the-mystery-of-columns/",
-      "source": "The Irish Times",
-      "country": "Ireland",
+      "id": "dollywood-down-under-dolly-parton-fans-and-drag-queens-t-0c900b483c",
+      "title": "Dollywood down under: Dolly Parton fans and drag queens turn a tiny Australian town pink",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/dollywood-down-under-dolly-parton-super-fans-and-drag-queens-turn-a-tiny-australian-town-pink-narromine",
+      "source": "The Guardian Australia",
+      "country": "Australia",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-10T15:00:01+10:00",
-      "score": 9,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
-      "signals": [
-        "A mystery is doing a lot of work in a very small sentence."
-      ],
-      "image": "assets/data/headline-images/frank-mcdonald-solves-the-mystery-of-columns-5d506f8f72.svg"
-    },
-    {
-      "id": "how-a-plant-selfie-in-colombian-jungle-led-to-jaw-droppi-38208a7a49",
-      "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-09T14:00:37+10:00",
-      "score": 8,
+      "published": "2026-10-12T00:00:29+10:00",
+      "score": 7,
       "why": "The scale is doing deadpan comedy.",
       "signals": [
-        "The scale is doing deadpan comedy.",
-        "It reads like the setup to a very dry question."
+        "The scale is doing deadpan comedy."
       ],
-      "image": "assets/data/headline-images/how-a-plant-selfie-in-colombian-jungle-led-to-jaw-droppi-38208a7a49.svg"
+      "image": "assets/data/headline-images/dollywood-down-under-dolly-parton-fans-and-drag-queens-t-0c900b483c.svg"
     },
     {
       "id": "scientists-discover-180-000-giant-tortoises-on-one-seych-6ae90fe752",
@@ -312,36 +245,69 @@
       "image": "assets/data/headline-images/scientists-discover-180-000-giant-tortoises-on-one-seych-6ae90fe752.svg"
     },
     {
-      "id": "victorian-silver-tea-service-from-the-maud-gonne-collect-a0fe454fa3",
-      "title": "Victorian silver tea service from the Maud Gonne collection for auction",
-      "url": "https://www.irishtimes.com/life-style/fine-art-antiques/2026/10/10/victorian-silver-tea-service-from-the-maud-gonne-collection-for-auction/",
-      "source": "The Irish Times",
-      "country": "Ireland",
+      "id": "zack-polanski-signals-green-party-overhaul-after-row-ove-9050a47db7",
+      "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
+      "url": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-10T14:00:00+10:00",
+      "published": "2026-10-12T01:00:29+10:00",
+      "score": 7,
+      "why": "It turns a small thing into a public argument.",
+      "signals": [
+        "It turns a small thing into a public argument."
+      ],
+      "image": "assets/data/headline-images/zack-polanski-signals-green-party-overhaul-after-row-ove-9050a47db7.svg"
+    },
+    {
+      "id": "a-russian-spy-s-lone-regret-i-got-caught-1a738743c5",
+      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+      "url": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
+      "source": "The New York Times",
+      "country": "United States",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-11T19:00:28+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/victorian-silver-tea-service-from-the-maud-gonne-collect-a0fe454fa3.svg"
+      "image": "assets/data/headline-images/a-russian-spy-s-lone-regret-i-got-caught-1a738743c5.svg"
     },
     {
-      "id": "john-mcgahern-a-writing-life-biography-of-literary-giant-2464afc5a1",
-      "title": "John McGahern, A Writing Life: Biography of literary giant who understood the human condition",
-      "url": "https://www.irishtimes.com/culture/books/review/2026/10/10/john-mcgahern-a-writing-life-biography-of-literary-giant-who-understood-the-human-condition/",
-      "source": "The Irish Times",
-      "country": "Ireland",
+      "id": "zelenskyy-signals-surprise-at-trump-claim-of-russia-ukra-3a9f81c5a4",
+      "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-10T13:14:00+10:00",
-      "score": 7,
-      "why": "The scale is doing deadpan comedy.",
+      "published": "2026-10-12T04:36:54+10:00",
+      "score": 5,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "The scale is doing deadpan comedy."
+        "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/john-mcgahern-a-writing-life-biography-of-literary-giant-2464afc5a1.svg"
+      "image": "assets/data/headline-images/zelenskyy-signals-surprise-at-trump-claim-of-russia-ukra-3a9f81c5a4.svg"
+    },
+    {
+      "id": "why-fussy-eating-didn-t-exist-100-years-ago-1e46714c9e",
+      "title": "Why fussy eating didn't exist 100 years ago",
+      "url": "https://www.rnz.co.nz/life/wellbeing/why-fussy-eating-didn-t-exist-100-years-ago",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-12T04:10:51+10:00",
+      "score": 5,
+      "why": "It reads like the setup to a very dry question.",
+      "signals": [
+        "It reads like the setup to a very dry question.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/why-fussy-eating-didn-t-exist-100-years-ago-1e46714c9e.svg"
     }
   ],
   "feed_errors": [
