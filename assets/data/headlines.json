@@ -1,27 +1,27 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T07:41:32.709225+10:00",
-  "generated_label": "12 Oct 2026, 07:41 AM AEST",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T07:41:58.291081+10:00",
+  "generated_label": "13 Oct 2026, 07:41 AM AEST",
   "source_count": 14,
-  "headline_count": 18,
+  "headline_count": 16,
   "headlines": [
     {
-      "id": "you-failed-us-frydenberg-s-shock-new-tell-all-on-canberr-952e08edd1",
-      "title": "‘You failed us’: Frydenberg’s shock new tell-all on Canberra’s chaos",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPTDdZZUxSclN3RTlteXN1QlJGb1RWRUNjMU54NHR0TkZnM29PSk14VHJaaFJqYzJvRHAxUE0xWnNFOXBnSlloSEYzQkxqVndEX2JKSHlyVWhnV29Ybm5DVV9rZWhFdFNROW1lVVQwbDl5V3hqa2JVY0YtMzR0eWJxekl3NVJacDhhMXhXRG1TVHhnRE5qdE5iMEQ1YWNUbTQ3QU1qLWc0M09JU0dsdTRDYmcyZTkteDNrdml1Vk5FZzFNcmUtZ3dXem5zdWNVdmQwWHVZeW9oZlJhQUhjUWpZS3pCSEZ6OVZnMkMyRks2SjBjZ2ZIbmpyUGZzVWtSQ0x2am1heFA2XzQzdURIcFhTZWtJTGhWOURGV0prUGdJYmRIRUxYb21VMA?oc=5",
+      "id": "minister-downplays-chaos-after-huge-nt-outage-d10cbc04db",
+      "title": "Minister downplays chaos after huge NT outage",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcjBJWUFINGY4WmVsTWdyTElZLUtZM2pzZkpDMVl1bHVyZ3cyREtnLXdpT01xbDJHWWhTY1ZOY3RPdjhjMlI2dndnNmxYR2REa3FtNU9MZG9DM0pDUHVraC1rUUl1SS1Bb3R5NjRmd1NXeEZPeUpwdjB3SzJCQUs1SXk3QWFyOTFsYmJnT0RjamQ5bXdiUjlQTldJbzE5N0l3UXhRZWlrMUNRNUg4MERoS1V0ZWxZeXZxYTc5UmozaTlhMVJCRTY1NDRqOEI3QjRCM25KSk9nVEVOMFNwcXVPUFR0Zldocl9rVFlpa3hZVnE0aWhnQXc4YzRn?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-11T04:03:54+10:00",
+      "published": "2026-10-13T03:53:34+10:00",
       "score": 32,
       "why": "The word chaos gives it open-mic energy.",
       "signals": [
         "The word chaos gives it open-mic energy.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/you-failed-us-frydenberg-s-shock-new-tell-all-on-canberr-952e08edd1.svg"
+      "image": "assets/data/headline-images/minister-downplays-chaos-after-huge-nt-outage-d10cbc04db.svg"
     },
     {
       "id": "darwin-real-estate-the-latest-auction-and-sales-results--a82dbbdd9c",
@@ -41,6 +41,23 @@
       "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--a82dbbdd9c.svg"
     },
     {
+      "id": "darwin-real-estate-the-latest-auction-and-sales-results--574d8a2963",
+      "title": "Darwin real estate: The latest auction and sales results for week ending October 11",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVFRRd3BmSnJRNHBQMnY5Q21pVEpRQXhKYjUzeHRvbnpDSTlMSUhXbTY2Z0ROSVg3WFNYQWR5LTgtWmZVRUQ3MXdEZTRyTHg4ZUZodHQyVzEtejN0Xy15WVZ2TUJjcy03cUhNQzI1WDNiS3EyV2ZRWVdTenRYb0szcS1jVlFYNzJOVnZ4dkFsbDRjN05va3hEeGhETUQ1bVFlNEpNMnNyTzhiOElfZU9ucmNXMzZjbHNucTUxcUVIR1MxejRhRDNLLWF1U3hGRjRtb2NTckdmYnBTSFJOVlZuY21TVHBaXzlpR2ktajBxalVIeXlLcWhCNmppRGhhc0QwTFRZSTFsWnFpVzdaVHI2TGVHYVlZQQ?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-13T04:33:34+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--574d8a2963.svg"
+    },
+    {
       "id": "politician-hitler-mussolini-crowned-mayor-in-bizarre-dem-f969dc846d",
       "title": "Politician Hitler Mussolini crowned mayor in bizarre democratic local result",
       "url": "https://www.dailystar.co.uk/news/weird-news/politician-hitler-mussolini-crowned-mayor-37756829",
@@ -56,23 +73,6 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/politician-hitler-mussolini-crowned-mayor-in-bizarre-dem-f969dc846d.svg"
-    },
-    {
-      "id": "passenger-with-unexplained-bulge-had-10-live-birds-stuff-d105f2c5f8",
-      "title": "Passenger with 'unexplained bulge' had 10 live birds stuffed down his pants",
-      "url": "https://www.dailystar.co.uk/news/latest-news/passenger-unexplained-bulge-10-live-37748725",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-08T20:14:43+10:00",
-      "score": 20,
-      "why": "A household object has somehow reached the news desk.",
-      "signals": [
-        "A household object has somehow reached the news desk.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/passenger-with-unexplained-bulge-had-10-live-birds-stuff-d105f2c5f8.svg"
     },
     {
       "id": "expert-settles-debate-on-if-cheese-before-bed-causes-nig-fff5e95a6b",
@@ -92,39 +92,21 @@
       "image": "assets/data/headline-images/expert-settles-debate-on-if-cheese-before-bed-causes-nig-fff5e95a6b.svg"
     },
     {
-      "id": "200-year-old-giant-tortoise-holds-the-key-to-humans-livi-4f3155cdd6",
-      "title": "200-year-old giant tortoise holds the key to humans living until the 2200s",
-      "url": "https://www.dailystar.co.uk/news/latest-news/200-year-old-giant-tortoise-37744468",
+      "id": "amelia-earhart-mystery-could-be-solved-in-days-as-team-i-9a45b7fe35",
+      "title": "Amelia Earhart mystery 'could be solved in days' as team inspects 'plane-shaped object'",
+      "url": "https://www.dailystar.co.uk/news/latest-news/amelia-earhart-mystery-could-solved-37763269",
       "source": "Daily Star Weird News",
       "country": "United Kingdom",
       "source_type": "newspaper offbeat section",
       "priority": "tabloid-offbeat",
-      "published": "2026-10-08T07:27:48+10:00",
-      "score": 19,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "The specific number gives the line a dry little thud.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/200-year-old-giant-tortoise-holds-the-key-to-humans-livi-4f3155cdd6.svg"
-    },
-    {
-      "id": "our-48-hours-of-passion-was-mind-blowing-now-mystery-lov-7ffedc6dda",
-      "title": "'Our 48 hours of passion was mind blowing – now mystery lover is blanking me'",
-      "url": "https://www.dailystar.co.uk/just-jane/our-48-hours-passion-mind-37689797",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-08T04:00:00+10:00",
+      "published": "2026-10-12T23:37:01+10:00",
       "score": 19,
       "why": "A mystery is doing a lot of work in a very small sentence.",
       "signals": [
         "A mystery is doing a lot of work in a very small sentence.",
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
-      "image": "assets/data/headline-images/our-48-hours-of-passion-was-mind-blowing-now-mystery-lov-7ffedc6dda.svg"
+      "image": "assets/data/headline-images/amelia-earhart-mystery-could-be-solved-in-days-as-team-i-9a45b7fe35.svg"
     },
     {
       "id": "mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705",
@@ -145,21 +127,55 @@
       "image": "assets/data/headline-images/mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705.svg"
     },
     {
-      "id": "i-m-sure-sneaky-mate-is-sleeping-with-my-man-he-says-i-v-95b71b1e3a",
-      "title": "'I'm sure sneaky mate is sleeping with my man – he says I've got a screw loose'",
-      "url": "https://www.dailystar.co.uk/just-jane/im-sure-sneaky-mate-sleeping-37690339",
-      "source": "Daily Star Weird News",
+      "id": "own-your-very-own-bond-villain-lair-as-this-incredible-s-4a66d4f059",
+      "title": "Own your very own Bond villain lair as this incredible site goes up for auction",
+      "url": "https://www.mirror.co.uk/news/weird-news/your-very-bond-villain-lair-37755052",
+      "source": "Mirror Weird News",
       "country": "United Kingdom",
       "source_type": "newspaper offbeat section",
       "priority": "tabloid-offbeat",
-      "published": "2026-10-08T16:00:00+10:00",
+      "published": "2026-10-12T17:10:32+10:00",
       "score": 17,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face.",
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
-      "image": "assets/data/headline-images/i-m-sure-sneaky-mate-is-sleeping-with-my-man-he-says-i-v-95b71b1e3a.svg"
+      "image": "assets/data/headline-images/own-your-very-own-bond-villain-lair-as-this-incredible-s-4a66d4f059.svg"
+    },
+    {
+      "id": "family-home-up-for-auction-conceals-utterly-amazing-secr-8886ed6ded",
+      "title": "Family home up for auction conceals 'utterly amazing' secret beneath floorboards",
+      "url": "https://www.dailystar.co.uk/news/latest-news/family-home-up-auction-conceals-37764499",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-13T04:18:42+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/family-home-up-for-auction-conceals-utterly-amazing-secr-8886ed6ded.svg"
+    },
+    {
+      "id": "caught-looking-straight-women-enjoy-gazing-at-attractive-ef59dccb08",
+      "title": "Caught looking! Straight women enjoy gazing at attractive females just as much as handsome men, study finds",
+      "url": "https://www.dailymail.com/sciencetech/article-16192377/Straight-women-attractive-females-handsome-men.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-11T18:39:00+10:00",
+      "score": 12,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/caught-looking-straight-women-enjoy-gazing-at-attractive-ef59dccb08.svg"
     },
     {
       "id": "mystery-man-made-mounds-in-the-deep-south-are-older-than-81554c78b4",
@@ -196,37 +212,38 @@
       "image": "assets/data/headline-images/world-s-heaviest-insect-makes-astonishing-comeback-after-dc0c7e6152.svg"
     },
     {
-      "id": "like-a-drill-going-into-my-eye-why-the-mystery-over-hava-0955f7df22",
-      "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
-      "source": "The Guardian World",
+      "id": "why-gen-z-never-answers-the-phone-young-people-say-surpr-af86739625",
+      "title": "Why Gen Z NEVER answers the phone: Young people say surprise calls trigger anxiety and feel like a demand for 'immediate attention'",
+      "url": "https://www.dailymail.com/sciencetech/article-16202833/Gen-Z-NEVER-answers-phone-anxiety.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
       "country": "United Kingdom",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-10T15:00:48+10:00",
-      "score": 10,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-13T01:32:10+10:00",
+      "score": 11,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "A mystery is doing a lot of work in a very small sentence.",
-        "It reads like the setup to a very dry question."
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "It reads like the setup to a very dry question.",
+        "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/like-a-drill-going-into-my-eye-why-the-mystery-over-hava-0955f7df22.svg"
+      "image": "assets/data/headline-images/why-gen-z-never-answers-the-phone-young-people-say-surpr-af86739625.svg"
     },
     {
-      "id": "dollywood-down-under-dolly-parton-fans-and-drag-queens-t-0c900b483c",
-      "title": "Dollywood down under: Dolly Parton fans and drag queens turn a tiny Australian town pink",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/dollywood-down-under-dolly-parton-super-fans-and-drag-queens-turn-a-tiny-australian-town-pink-narromine",
-      "source": "The Guardian Australia",
-      "country": "Australia",
+      "id": "frank-mcnally-solves-the-mystery-of-columns-9d06af462a",
+      "title": "Frank McNally solves the mystery of columns",
+      "url": "https://www.irishtimes.com/opinion/letters/2026/10/12/frank-mcnally-solves-the-mystery-of-columns/",
+      "source": "The Irish Times",
+      "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-12T00:00:29+10:00",
-      "score": 7,
-      "why": "The scale is doing deadpan comedy.",
+      "published": "2026-10-10T15:00:01+10:00",
+      "score": 9,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
       "signals": [
-        "The scale is doing deadpan comedy."
+        "A mystery is doing a lot of work in a very small sentence."
       ],
-      "image": "assets/data/headline-images/dollywood-down-under-dolly-parton-fans-and-drag-queens-t-0c900b483c.svg"
+      "image": "assets/data/headline-images/frank-mcnally-solves-the-mystery-of-columns-9d06af462a.svg"
     },
     {
       "id": "scientists-discover-180-000-giant-tortoises-on-one-seych-6ae90fe752",
@@ -245,69 +262,20 @@
       "image": "assets/data/headline-images/scientists-discover-180-000-giant-tortoises-on-one-seych-6ae90fe752.svg"
     },
     {
-      "id": "zack-polanski-signals-green-party-overhaul-after-row-ove-9050a47db7",
-      "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
-      "url": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-12T01:00:29+10:00",
-      "score": 7,
-      "why": "It turns a small thing into a public argument.",
-      "signals": [
-        "It turns a small thing into a public argument."
-      ],
-      "image": "assets/data/headline-images/zack-polanski-signals-green-party-overhaul-after-row-ove-9050a47db7.svg"
-    },
-    {
-      "id": "a-russian-spy-s-lone-regret-i-got-caught-1a738743c5",
-      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
-      "url": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
+      "id": "a-trove-of-truman-capote-s-possessions-is-up-for-auction-75e93c7bc3",
+      "title": "A Trove of Truman Capote’s Possessions Is Up for Auction",
+      "url": "https://www.nytimes.com/2026/10/12/t-magazine/truman-capote-possessions-auction.html",
       "source": "The New York Times",
       "country": "United States",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-11T19:00:28+10:00",
+      "published": "2026-10-13T02:15:34+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/a-russian-spy-s-lone-regret-i-got-caught-1a738743c5.svg"
-    },
-    {
-      "id": "zelenskyy-signals-surprise-at-trump-claim-of-russia-ukra-3a9f81c5a4",
-      "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-12T04:36:54+10:00",
-      "score": 5,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
-      ],
-      "image": "assets/data/headline-images/zelenskyy-signals-surprise-at-trump-claim-of-russia-ukra-3a9f81c5a4.svg"
-    },
-    {
-      "id": "why-fussy-eating-didn-t-exist-100-years-ago-1e46714c9e",
-      "title": "Why fussy eating didn't exist 100 years ago",
-      "url": "https://www.rnz.co.nz/life/wellbeing/why-fussy-eating-didn-t-exist-100-years-ago",
-      "source": "RNZ News",
-      "country": "New Zealand",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-10-12T04:10:51+10:00",
-      "score": 5,
-      "why": "It reads like the setup to a very dry question.",
-      "signals": [
-        "It reads like the setup to a very dry question.",
-        "The specific number gives the line a dry little thud."
-      ],
-      "image": "assets/data/headline-images/why-fussy-eating-didn-t-exist-100-years-ago-1e46714c9e.svg"
+      "image": "assets/data/headline-images/a-trove-of-truman-capote-s-possessions-is-up-for-auction-75e93c7bc3.svg"
     }
   ],
   "feed_errors": [
