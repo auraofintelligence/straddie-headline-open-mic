@@ -1,0 +1,239 @@
+{
+  "site": "Straddie Headline Open Mic",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T07:39:44.160796+10:00",
+  "generated_label": "14 Oct 2026, 07:39 AM AEST",
+  "source_count": 14,
+  "headline_count": 13,
+  "headlines": [
+    {
+      "id": "minister-downplays-chaos-after-huge-nt-outage-d10cbc04db",
+      "title": "Minister downplays chaos after huge NT outage",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcjBJWUFINGY4WmVsTWdyTElZLUtZM2pzZkpDMVl1bHVyZ3cyREtnLXdpT01xbDJHWWhTY1ZOY3RPdjhjMlI2dndnNmxYR2REa3FtNU9MZG9DM0pDUHVraC1rUUl1SS1Bb3R5NjRmd1NXeEZPeUpwdjB3SzJCQUs1SXk3QWFyOTFsYmJnT0RjamQ5bXdiUjlQTldJbzE5N0l3UXhRZWlrMUNRNUg4MERoS1V0ZWxZeXZxYTc5UmozaTlhMVJCRTY1NDRqOEI3QjRCM25KSk9nVEVOMFNwcXVPUFR0Zldocl9rVFlpa3hZVnE0aWhnQXc4YzRn?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-13T09:50:00+10:00",
+      "score": 32,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/minister-downplays-chaos-after-huge-nt-outage-d10cbc04db.svg"
+    },
+    {
+      "id": "20-year-old-lost-in-thailand-after-missing-flight-back-t-ec7f0109e3",
+      "title": "20-year-old lost in Thailand after missing flight back to UK",
+      "url": "https://www.mirror.co.uk/news/uk-news/20-year-old-lost-thailand-37765443",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-13T17:32:51+10:00",
+      "score": 20,
+      "why": "The second half quietly trips over the first half.",
+      "signals": [
+        "The second half quietly trips over the first half.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/20-year-old-lost-in-thailand-after-missing-flight-back-t-ec7f0109e3.svg"
+    },
+    {
+      "id": "woman-marries-18-year-old-in-record-breaking-wedding-wit-41b99a7603",
+      "title": "Woman marries 18-year-old in record-breaking wedding with 78-year age gap",
+      "url": "https://www.dailystar.co.uk/news/weird-news/woman-marries-18-year-old-37766084",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-13T21:38:39+10:00",
+      "score": 19,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/woman-marries-18-year-old-in-record-breaking-wedding-wit-41b99a7603.svg"
+    },
+    {
+      "id": "amelia-earhart-mystery-could-be-solved-in-days-as-team-i-9a45b7fe35",
+      "title": "Amelia Earhart mystery 'could be solved in days' as team inspects 'plane-shaped object'",
+      "url": "https://www.dailystar.co.uk/news/latest-news/amelia-earhart-mystery-could-solved-37763269",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-12T23:37:01+10:00",
+      "score": 19,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/amelia-earhart-mystery-could-be-solved-in-days-as-team-i-9a45b7fe35.svg"
+    },
+    {
+      "id": "say-cheese-nasa-reveals-stunning-image-of-giant-cosmic-s-b74a3fa7fb",
+      "title": "Say cheese! NASA reveals stunning image of giant 'cosmic smile' created by warped spacetime",
+      "url": "https://www.dailymail.com/sciencetech/article-16204571/NASA-reveals-image-cosmic-smile.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-13T19:29:57+10:00",
+      "score": 19,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "A very ordinary object has wandered into serious news.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/say-cheese-nasa-reveals-stunning-image-of-giant-cosmic-s-b74a3fa7fb.svg"
+    },
+    {
+      "id": "mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705",
+      "title": "Mars mystery solved: Scientists reveal the secret behind 'impossible' giant cloud that appears and vanishes every day",
+      "url": "https://www.dailymail.com/sciencetech/article-16189261/Mars-mystery-solved-impossible-cloud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-08T01:18:07+10:00",
+      "score": 19,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The scale is doing deadpan comedy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705.svg"
+    },
+    {
+      "id": "family-home-up-for-auction-conceals-utterly-amazing-secr-8886ed6ded",
+      "title": "Family home up for auction conceals 'utterly amazing' secret beneath floorboards",
+      "url": "https://www.dailystar.co.uk/news/latest-news/family-home-up-auction-conceals-37764499",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-13T04:18:42+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/family-home-up-for-auction-conceals-utterly-amazing-secr-8886ed6ded.svg"
+    },
+    {
+      "id": "caught-looking-straight-women-enjoy-gazing-at-attractive-ef59dccb08",
+      "title": "Caught looking! Straight women enjoy gazing at attractive females just as much as handsome men, study finds",
+      "url": "https://www.dailymail.com/sciencetech/article-16192377/Straight-women-attractive-females-handsome-men.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-11T18:39:00+10:00",
+      "score": 12,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/caught-looking-straight-women-enjoy-gazing-at-attractive-ef59dccb08.svg"
+    },
+    {
+      "id": "mystery-man-made-mounds-in-the-deep-south-are-older-than-81554c78b4",
+      "title": "Mystery man-made mounds in the Deep South are older than the Great Pyramid... and leave experts baffled over their creation",
+      "url": "https://www.dailymail.com/sciencetech/article-16193579/watson-brake-mounds-louisiana-pyramid-creation-mystery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-09T09:54:47+10:00",
+      "score": 12,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/mystery-man-made-mounds-in-the-deep-south-are-older-than-81554c78b4.svg"
+    },
+    {
+      "id": "world-s-heaviest-insect-makes-astonishing-comeback-after-dc0c7e6152",
+      "title": "World's heaviest insect makes astonishing comeback after conservationists save giant bug from extinction",
+      "url": "https://www.dailymail.com/sciencetech/article-16186569/Worlds-heaviest-insect-comeback-conservation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-06T21:42:21+10:00",
+      "score": 12,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/world-s-heaviest-insect-makes-astonishing-comeback-after-dc0c7e6152.svg"
+    },
+    {
+      "id": "mystery-of-large-pool-of-blood-found-in-wellington-pedes-45b50790b1",
+      "title": "Mystery of large pool of blood found in Wellington pedestrian tunnel solved",
+      "url": "https://www.rnz.co.nz/news/emergencies_local/1871395/mystery-of-large-pool-of-blood-found-in-wellington-pedestrian-tunnel-solved",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-13T11:16:56+10:00",
+      "score": 9,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence."
+      ],
+      "image": "assets/data/headline-images/mystery-of-large-pool-of-blood-found-in-wellington-pedes-45b50790b1.svg"
+    },
+    {
+      "id": "athletics-wishes-it-could-scrub-the-women-s-marathon-wor-43541e6828",
+      "title": "Athletics wishes it could scrub the women’s marathon world record – what can be done?",
+      "url": "https://www.irishtimes.com/sport/athletics/2026/10/13/athletics-wishes-it-could-scrub-the-womens-marathon-world-record-what-can-be-done/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-13T22:07:14+10:00",
+      "score": 8,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "The question mark makes it feel like the host has paused for the room."
+      ],
+      "image": "assets/data/headline-images/athletics-wishes-it-could-scrub-the-women-s-marathon-wor-43541e6828.svg"
+    },
+    {
+      "id": "scientists-discover-180-000-giant-tortoises-on-one-seych-6ae90fe752",
+      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-09T06:20:31+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/scientists-discover-180-000-giant-tortoises-on-one-seych-6ae90fe752.svg"
+    }
+  ],
+  "feed_errors": [
+    {
+      "source": "The Independent",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
+}
