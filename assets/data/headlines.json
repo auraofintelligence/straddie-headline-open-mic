@@ -1,27 +1,27 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T07:39:44.160796+10:00",
-  "generated_label": "14 Oct 2026, 07:39 AM AEST",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T07:39:42.046821+10:00",
+  "generated_label": "15 Oct 2026, 07:39 AM AEST",
   "source_count": 14,
   "headline_count": 13,
   "headlines": [
     {
-      "id": "minister-downplays-chaos-after-huge-nt-outage-d10cbc04db",
-      "title": "Minister downplays chaos after huge NT outage",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcjBJWUFINGY4WmVsTWdyTElZLUtZM2pzZkpDMVl1bHVyZ3cyREtnLXdpT01xbDJHWWhTY1ZOY3RPdjhjMlI2dndnNmxYR2REa3FtNU9MZG9DM0pDUHVraC1rUUl1SS1Bb3R5NjRmd1NXeEZPeUpwdjB3SzJCQUs1SXk3QWFyOTFsYmJnT0RjamQ5bXdiUjlQTldJbzE5N0l3UXhRZWlrMUNRNUg4MERoS1V0ZWxZeXZxYTc5UmozaTlhMVJCRTY1NDRqOEI3QjRCM25KSk9nVEVOMFNwcXVPUFR0Zldocl9rVFlpa3hZVnE0aWhnQXc4YzRn?oc=5",
+      "id": "barcola-breaks-duck-with-hat-trick-a070fea67d",
+      "title": "Barcola breaks duck with hat trick",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGpWYVU1NnJpU1lkc3NseXMxTTFMd1RDejBYdmg0MzZlVHVvV3Z4QlhxQ21BN25vMFNzczZBLUJ5NGdpRlZPMjItbWd3NzE4bkVNbldsd29YaG93cVhHU0lyZGpGZDIybzN5ZmkzbHlYbFpNaDdJdU5hTWpFQ2NPdXBHblFCYlY2NGdVZzJoa1hNRlQ3ZmtyNFZzRHpSZmdnNVZqRDZ2djludkhtdVVGT1k4NEo?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-13T09:50:00+10:00",
-      "score": 32,
-      "why": "The word chaos gives it open-mic energy.",
+      "published": "2026-10-15T06:28:21+10:00",
+      "score": 34,
+      "why": "A household object has somehow reached the news desk.",
       "signals": [
-        "The word chaos gives it open-mic energy.",
+        "A household object has somehow reached the news desk.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/minister-downplays-chaos-after-huge-nt-outage-d10cbc04db.svg"
+      "image": "assets/data/headline-images/barcola-breaks-duck-with-hat-trick-a070fea67d.svg"
     },
     {
       "id": "20-year-old-lost-in-thailand-after-missing-flight-back-t-ec7f0109e3",
@@ -42,6 +42,23 @@
       "image": "assets/data/headline-images/20-year-old-lost-in-thailand-after-missing-flight-back-t-ec7f0109e3.svg"
     },
     {
+      "id": "i-saw-doctors-about-a-mystery-lump-in-my-stomach-and-gav-c8718d359a",
+      "title": "'I saw doctors about a mystery lump in my stomach - and gave birth a day later'",
+      "url": "https://www.mirror.co.uk/news/health/i-saw-doctors-mystery-lump-37769684",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-14T17:59:38+10:00",
+      "score": 19,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/i-saw-doctors-about-a-mystery-lump-in-my-stomach-and-gav-c8718d359a.svg"
+    },
+    {
       "id": "woman-marries-18-year-old-in-record-breaking-wedding-wit-41b99a7603",
       "title": "Woman marries 18-year-old in record-breaking wedding with 78-year age gap",
       "url": "https://www.dailystar.co.uk/news/weird-news/woman-marries-18-year-old-37766084",
@@ -58,23 +75,6 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/woman-marries-18-year-old-in-record-breaking-wedding-wit-41b99a7603.svg"
-    },
-    {
-      "id": "amelia-earhart-mystery-could-be-solved-in-days-as-team-i-9a45b7fe35",
-      "title": "Amelia Earhart mystery 'could be solved in days' as team inspects 'plane-shaped object'",
-      "url": "https://www.dailystar.co.uk/news/latest-news/amelia-earhart-mystery-could-solved-37763269",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-12T23:37:01+10:00",
-      "score": 19,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
-      "signals": [
-        "A mystery is doing a lot of work in a very small sentence.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/amelia-earhart-mystery-could-be-solved-in-days-as-team-i-9a45b7fe35.svg"
     },
     {
       "id": "say-cheese-nasa-reveals-stunning-image-of-giant-cosmic-s-b74a3fa7fb",
@@ -113,21 +113,22 @@
       "image": "assets/data/headline-images/mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705.svg"
     },
     {
-      "id": "family-home-up-for-auction-conceals-utterly-amazing-secr-8886ed6ded",
-      "title": "Family home up for auction conceals 'utterly amazing' secret beneath floorboards",
-      "url": "https://www.dailystar.co.uk/news/latest-news/family-home-up-auction-conceals-37764499",
-      "source": "Daily Star Weird News",
+      "id": "hidden-for-3-000-years-giant-statues-of-ramses-ii-emerge-a21ed8a772",
+      "title": "Hidden for 3,000 years: Giant statues of Ramses II emerge from Egyptian village after farmer spots mysterious stone block in his field",
+      "url": "https://www.dailymail.com/sciencetech/article-16207903/Giant-statues-Ramses-II-Egyptian-village.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
       "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-13T04:18:42+10:00",
-      "score": 17,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-14T18:52:20+10:00",
+      "score": 12,
+      "why": "The scale is doing deadpan comedy.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
+        "The scale is doing deadpan comedy.",
+        "The specific number gives the line a dry little thud.",
+        "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/family-home-up-for-auction-conceals-utterly-amazing-secr-8886ed6ded.svg"
+      "image": "assets/data/headline-images/hidden-for-3-000-years-giant-statues-of-ramses-ii-emerge-a21ed8a772.svg"
     },
     {
       "id": "caught-looking-straight-women-enjoy-gazing-at-attractive-ef59dccb08",
@@ -164,70 +165,68 @@
       "image": "assets/data/headline-images/mystery-man-made-mounds-in-the-deep-south-are-older-than-81554c78b4.svg"
     },
     {
-      "id": "world-s-heaviest-insect-makes-astonishing-comeback-after-dc0c7e6152",
-      "title": "World's heaviest insect makes astonishing comeback after conservationists save giant bug from extinction",
-      "url": "https://www.dailymail.com/sciencetech/article-16186569/Worlds-heaviest-insect-comeback-conservation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
+      "id": "toilet-paper-and-secret-recorders-what-we-know-about-the-558b0b9d59",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-10-06T21:42:21+10:00",
-      "score": 12,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/world-s-heaviest-insect-makes-astonishing-comeback-after-dc0c7e6152.svg"
-    },
-    {
-      "id": "mystery-of-large-pool-of-blood-found-in-wellington-pedes-45b50790b1",
-      "title": "Mystery of large pool of blood found in Wellington pedestrian tunnel solved",
-      "url": "https://www.rnz.co.nz/news/emergencies_local/1871395/mystery-of-large-pool-of-blood-found-in-wellington-pedestrian-tunnel-solved",
-      "source": "RNZ News",
-      "country": "New Zealand",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-13T11:16:56+10:00",
-      "score": 9,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "published": "2026-10-15T01:54:04+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
       "signals": [
-        "A mystery is doing a lot of work in a very small sentence."
+        "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/mystery-of-large-pool-of-blood-found-in-wellington-pedes-45b50790b1.svg"
+      "image": "assets/data/headline-images/toilet-paper-and-secret-recorders-what-we-know-about-the-558b0b9d59.svg"
     },
     {
-      "id": "athletics-wishes-it-could-scrub-the-women-s-marathon-wor-43541e6828",
-      "title": "Athletics wishes it could scrub the women’s marathon world record – what can be done?",
-      "url": "https://www.irishtimes.com/sport/athletics/2026/10/13/athletics-wishes-it-could-scrub-the-womens-marathon-world-record-what-can-be-done/",
+      "id": "bradley-barcola-s-clinical-hat-trick-inspires-liverpool--2a0c998c26",
+      "title": "Bradley Barcola’s clinical hat-trick inspires Liverpool to 6-3 rout at LASK",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/10/14/bradley-barcolas-clinical-hat-trick-inspires-liverpool-to-6-3-rout-at-lask/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-13T22:07:14+10:00",
-      "score": 8,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "published": "2026-10-15T05:19:36+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "The question mark makes it feel like the host has paused for the room."
+        "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/athletics-wishes-it-could-scrub-the-women-s-marathon-wor-43541e6828.svg"
+      "image": "assets/data/headline-images/bradley-barcola-s-clinical-hat-trick-inspires-liverpool--2a0c998c26.svg"
     },
     {
-      "id": "scientists-discover-180-000-giant-tortoises-on-one-seych-6ae90fe752",
-      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
+      "id": "a-spicy-taco-sausage-named-the-best-in-new-zealand-b418ad90aa",
+      "title": "A spicy taco sausage named the best in New Zealand",
+      "url": "https://www.rnz.co.nz/life/food/a-spicy-taco-sausage-named-the-best-in-new-zealand",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-09T06:20:31+10:00",
-      "score": 7,
-      "why": "The scale is doing deadpan comedy.",
+      "published": "2026-10-14T18:33:16+10:00",
+      "score": 9,
+      "why": "A very ordinary object has wandered into serious news.",
       "signals": [
-        "The scale is doing deadpan comedy."
+        "A very ordinary object has wandered into serious news."
       ],
-      "image": "assets/data/headline-images/scientists-discover-180-000-giant-tortoises-on-one-seych-6ae90fe752.svg"
+      "image": "assets/data/headline-images/a-spicy-taco-sausage-named-the-best-in-new-zealand-b418ad90aa.svg"
+    },
+    {
+      "id": "one-stolen-every-four-minutes-inside-the-police-battle-a-b253491177",
+      "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-14T15:01:07+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/one-stolen-every-four-minutes-inside-the-police-battle-a-b253491177.svg"
     }
   ],
   "feed_errors": [

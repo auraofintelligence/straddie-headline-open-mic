@@ -1,0 +1,238 @@
+{
+  "site": "Straddie Headline Open Mic",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T07:39:42.046821+10:00",
+  "generated_label": "15 Oct 2026, 07:39 AM AEST",
+  "source_count": 14,
+  "headline_count": 13,
+  "headlines": [
+    {
+      "id": "barcola-breaks-duck-with-hat-trick-a070fea67d",
+      "title": "Barcola breaks duck with hat trick",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGpWYVU1NnJpU1lkc3NseXMxTTFMd1RDejBYdmg0MzZlVHVvV3Z4QlhxQ21BN25vMFNzczZBLUJ5NGdpRlZPMjItbWd3NzE4bkVNbldsd29YaG93cVhHU0lyZGpGZDIybzN5ZmkzbHlYbFpNaDdJdU5hTWpFQ2NPdXBHblFCYlY2NGdVZzJoa1hNRlQ3ZmtyNFZzRHpSZmdnNVZqRDZ2djludkhtdVVGT1k4NEo?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-15T06:28:21+10:00",
+      "score": 34,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/barcola-breaks-duck-with-hat-trick-a070fea67d.svg"
+    },
+    {
+      "id": "20-year-old-lost-in-thailand-after-missing-flight-back-t-ec7f0109e3",
+      "title": "20-year-old lost in Thailand after missing flight back to UK",
+      "url": "https://www.mirror.co.uk/news/uk-news/20-year-old-lost-thailand-37765443",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-13T17:32:51+10:00",
+      "score": 20,
+      "why": "The second half quietly trips over the first half.",
+      "signals": [
+        "The second half quietly trips over the first half.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/20-year-old-lost-in-thailand-after-missing-flight-back-t-ec7f0109e3.svg"
+    },
+    {
+      "id": "i-saw-doctors-about-a-mystery-lump-in-my-stomach-and-gav-c8718d359a",
+      "title": "'I saw doctors about a mystery lump in my stomach - and gave birth a day later'",
+      "url": "https://www.mirror.co.uk/news/health/i-saw-doctors-mystery-lump-37769684",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-14T17:59:38+10:00",
+      "score": 19,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/i-saw-doctors-about-a-mystery-lump-in-my-stomach-and-gav-c8718d359a.svg"
+    },
+    {
+      "id": "woman-marries-18-year-old-in-record-breaking-wedding-wit-41b99a7603",
+      "title": "Woman marries 18-year-old in record-breaking wedding with 78-year age gap",
+      "url": "https://www.dailystar.co.uk/news/weird-news/woman-marries-18-year-old-37766084",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-13T21:38:39+10:00",
+      "score": 19,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/woman-marries-18-year-old-in-record-breaking-wedding-wit-41b99a7603.svg"
+    },
+    {
+      "id": "say-cheese-nasa-reveals-stunning-image-of-giant-cosmic-s-b74a3fa7fb",
+      "title": "Say cheese! NASA reveals stunning image of giant 'cosmic smile' created by warped spacetime",
+      "url": "https://www.dailymail.com/sciencetech/article-16204571/NASA-reveals-image-cosmic-smile.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-13T19:29:57+10:00",
+      "score": 19,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "A very ordinary object has wandered into serious news.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/say-cheese-nasa-reveals-stunning-image-of-giant-cosmic-s-b74a3fa7fb.svg"
+    },
+    {
+      "id": "mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705",
+      "title": "Mars mystery solved: Scientists reveal the secret behind 'impossible' giant cloud that appears and vanishes every day",
+      "url": "https://www.dailymail.com/sciencetech/article-16189261/Mars-mystery-solved-impossible-cloud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-08T01:18:07+10:00",
+      "score": 19,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The scale is doing deadpan comedy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705.svg"
+    },
+    {
+      "id": "hidden-for-3-000-years-giant-statues-of-ramses-ii-emerge-a21ed8a772",
+      "title": "Hidden for 3,000 years: Giant statues of Ramses II emerge from Egyptian village after farmer spots mysterious stone block in his field",
+      "url": "https://www.dailymail.com/sciencetech/article-16207903/Giant-statues-Ramses-II-Egyptian-village.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-14T18:52:20+10:00",
+      "score": 12,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "The specific number gives the line a dry little thud.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/hidden-for-3-000-years-giant-statues-of-ramses-ii-emerge-a21ed8a772.svg"
+    },
+    {
+      "id": "caught-looking-straight-women-enjoy-gazing-at-attractive-ef59dccb08",
+      "title": "Caught looking! Straight women enjoy gazing at attractive females just as much as handsome men, study finds",
+      "url": "https://www.dailymail.com/sciencetech/article-16192377/Straight-women-attractive-females-handsome-men.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-11T18:39:00+10:00",
+      "score": 12,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/caught-looking-straight-women-enjoy-gazing-at-attractive-ef59dccb08.svg"
+    },
+    {
+      "id": "mystery-man-made-mounds-in-the-deep-south-are-older-than-81554c78b4",
+      "title": "Mystery man-made mounds in the Deep South are older than the Great Pyramid... and leave experts baffled over their creation",
+      "url": "https://www.dailymail.com/sciencetech/article-16193579/watson-brake-mounds-louisiana-pyramid-creation-mystery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-09T09:54:47+10:00",
+      "score": 12,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/mystery-man-made-mounds-in-the-deep-south-are-older-than-81554c78b4.svg"
+    },
+    {
+      "id": "toilet-paper-and-secret-recorders-what-we-know-about-the-558b0b9d59",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-15T01:54:04+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk."
+      ],
+      "image": "assets/data/headline-images/toilet-paper-and-secret-recorders-what-we-know-about-the-558b0b9d59.svg"
+    },
+    {
+      "id": "bradley-barcola-s-clinical-hat-trick-inspires-liverpool--2a0c998c26",
+      "title": "Bradley Barcola’s clinical hat-trick inspires Liverpool to 6-3 rout at LASK",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/10/14/bradley-barcolas-clinical-hat-trick-inspires-liverpool-to-6-3-rout-at-lask/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-15T05:19:36+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk."
+      ],
+      "image": "assets/data/headline-images/bradley-barcola-s-clinical-hat-trick-inspires-liverpool--2a0c998c26.svg"
+    },
+    {
+      "id": "a-spicy-taco-sausage-named-the-best-in-new-zealand-b418ad90aa",
+      "title": "A spicy taco sausage named the best in New Zealand",
+      "url": "https://www.rnz.co.nz/life/food/a-spicy-taco-sausage-named-the-best-in-new-zealand",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-14T18:33:16+10:00",
+      "score": 9,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news."
+      ],
+      "image": "assets/data/headline-images/a-spicy-taco-sausage-named-the-best-in-new-zealand-b418ad90aa.svg"
+    },
+    {
+      "id": "one-stolen-every-four-minutes-inside-the-police-battle-a-b253491177",
+      "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-14T15:01:07+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/one-stolen-every-four-minutes-inside-the-police-battle-a-b253491177.svg"
+    }
+  ],
+  "feed_errors": [
+    {
+      "source": "The Independent",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
+}
