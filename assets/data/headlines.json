@@ -1,45 +1,46 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T07:39:42.046821+10:00",
-  "generated_label": "15 Oct 2026, 07:39 AM AEST",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T07:40:01.026085+10:00",
+  "generated_label": "16 Oct 2026, 07:40 AM AEST",
   "source_count": 14,
-  "headline_count": 13,
+  "headline_count": 11,
   "headlines": [
     {
-      "id": "barcola-breaks-duck-with-hat-trick-a070fea67d",
-      "title": "Barcola breaks duck with hat trick",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGpWYVU1NnJpU1lkc3NseXMxTTFMd1RDejBYdmg0MzZlVHVvV3Z4QlhxQ21BN25vMFNzczZBLUJ5NGdpRlZPMjItbWd3NzE4bkVNbldsd29YaG93cVhHU0lyZGpGZDIybzN5ZmkzbHlYbFpNaDdJdU5hTWpFQ2NPdXBHblFCYlY2NGdVZzJoa1hNRlQ3ZmtyNFZzRHpSZmdnNVZqRDZ2djludkhtdVVGT1k4NEo?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-15T06:28:21+10:00",
-      "score": 34,
-      "why": "A household object has somehow reached the news desk.",
-      "signals": [
-        "A household object has somehow reached the news desk.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/barcola-breaks-duck-with-hat-trick-a070fea67d.svg"
-    },
-    {
-      "id": "20-year-old-lost-in-thailand-after-missing-flight-back-t-ec7f0109e3",
-      "title": "20-year-old lost in Thailand after missing flight back to UK",
-      "url": "https://www.mirror.co.uk/news/uk-news/20-year-old-lost-thailand-37765443",
-      "source": "Mirror Weird News",
+      "id": "nasa-probe-snaps-2-5-mile-alien-mothership-zooming-past--53ca1c4fa3",
+      "title": "NASA probe snaps '2.5-mile alien mothership' zooming past Sun at speed of light",
+      "url": "https://www.dailystar.co.uk/news/latest-news/nasa-probe-snaps-25-mile-37776062",
+      "source": "Daily Star Weird News",
       "country": "United Kingdom",
       "source_type": "newspaper offbeat section",
       "priority": "tabloid-offbeat",
-      "published": "2026-10-13T17:32:51+10:00",
-      "score": 20,
-      "why": "The second half quietly trips over the first half.",
+      "published": "2026-10-16T00:23:30+10:00",
+      "score": 25,
+      "why": "A wonderfully specific detail has taken centre stage.",
       "signals": [
-        "The second half quietly trips over the first half.",
+        "A wonderfully specific detail has taken centre stage.",
+        "A serious-news word is sharing a sentence with something very ordinary.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/nasa-probe-snaps-2-5-mile-alien-mothership-zooming-past--53ca1c4fa3.svg"
+    },
+    {
+      "id": "humans-captured-aliens-80-years-ago-but-they-died-after--73ee8cd69f",
+      "title": "Humans captured aliens 80 years ago but they 'died after refusing to eat American food'",
+      "url": "https://www.dailystar.co.uk/news/weird-news/humans-captured-aliens-80-years-37777400",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-16T07:08:07+10:00",
+      "score": 22,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
         "The specific number gives the line a dry little thud.",
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
-      "image": "assets/data/headline-images/20-year-old-lost-in-thailand-after-missing-flight-back-t-ec7f0109e3.svg"
+      "image": "assets/data/headline-images/humans-captured-aliens-80-years-ago-but-they-died-after--73ee8cd69f.svg"
     },
     {
       "id": "i-saw-doctors-about-a-mystery-lump-in-my-stomach-and-gav-c8718d359a",
@@ -57,24 +58,6 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/i-saw-doctors-about-a-mystery-lump-in-my-stomach-and-gav-c8718d359a.svg"
-    },
-    {
-      "id": "woman-marries-18-year-old-in-record-breaking-wedding-wit-41b99a7603",
-      "title": "Woman marries 18-year-old in record-breaking wedding with 78-year age gap",
-      "url": "https://www.dailystar.co.uk/news/weird-news/woman-marries-18-year-old-37766084",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-13T21:38:39+10:00",
-      "score": 19,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "The specific number gives the line a dry little thud.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/woman-marries-18-year-old-in-record-breaking-wedding-wit-41b99a7603.svg"
     },
     {
       "id": "say-cheese-nasa-reveals-stunning-image-of-giant-cosmic-s-b74a3fa7fb",
@@ -111,6 +94,23 @@
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
       "image": "assets/data/headline-images/mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705.svg"
+    },
+    {
+      "id": "inside-the-weirdly-popular-world-of-animatronics-and-the-164309944e",
+      "title": "Inside the weirdly popular world of animatronics — and the fascination behind Kelly Clarkson’s bizarre bird bot drama",
+      "url": "https://nypost.com/2026/10/15/lifestyle/kelly-clarkson-leads-a-list-gen-z-animatronics-obsession/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-16T05:18:35+10:00",
+      "score": 18,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/inside-the-weirdly-popular-world-of-animatronics-and-the-164309944e.svg"
     },
     {
       "id": "hidden-for-3-000-years-giant-statues-of-ramses-ii-emerge-a21ed8a772",
@@ -165,68 +165,37 @@
       "image": "assets/data/headline-images/mystery-man-made-mounds-in-the-deep-south-are-older-than-81554c78b4.svg"
     },
     {
-      "id": "toilet-paper-and-secret-recorders-what-we-know-about-the-558b0b9d59",
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "country": "United Kingdom",
-      "source_type": "public broadcaster / print-style newsroom",
+      "id": "spot-the-banana-shark-30-years-of-bondi-s-sculpture-by-t-01dfcd7ec9",
+      "title": "Spot the banana shark: 30 years of Bondi’s Sculpture by the Sea – in pictures",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/15/30-years-of-sculpture-by-the-sea-bondi-sydney-in-pictures",
+      "source": "The Guardian Australia",
+      "country": "Australia",
+      "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-15T01:54:04+10:00",
-      "score": 10,
-      "why": "A household object has somehow reached the news desk.",
+      "published": "2026-10-16T00:00:17+10:00",
+      "score": 11,
+      "why": "A very ordinary object has wandered into serious news.",
       "signals": [
-        "A household object has somehow reached the news desk."
+        "A very ordinary object has wandered into serious news.",
+        "The specific number gives the line a dry little thud."
       ],
-      "image": "assets/data/headline-images/toilet-paper-and-secret-recorders-what-we-know-about-the-558b0b9d59.svg"
+      "image": "assets/data/headline-images/spot-the-banana-shark-30-years-of-bondi-s-sculpture-by-t-01dfcd7ec9.svg"
     },
     {
-      "id": "bradley-barcola-s-clinical-hat-trick-inspires-liverpool--2a0c998c26",
-      "title": "Bradley Barcola’s clinical hat-trick inspires Liverpool to 6-3 rout at LASK",
-      "url": "https://www.irishtimes.com/sport/soccer/2026/10/14/bradley-barcolas-clinical-hat-trick-inspires-liverpool-to-6-3-rout-at-lask/",
+      "id": "restaurant-review-dylan-mcgrath-s-latest-offering-delive-175b3a553a",
+      "title": "Restaurant review: Dylan McGrath’s latest offering delivers an expertly executed pizza party",
+      "url": "https://www.irishtimes.com/food/restaurants/review/2026/10/15/restaurant-review-fade-st-tavern-steps-into-dublins-pizza-wars-with-all-guns-blazing/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-15T05:19:36+10:00",
-      "score": 10,
-      "why": "A household object has somehow reached the news desk.",
-      "signals": [
-        "A household object has somehow reached the news desk."
-      ],
-      "image": "assets/data/headline-images/bradley-barcola-s-clinical-hat-trick-inspires-liverpool--2a0c998c26.svg"
-    },
-    {
-      "id": "a-spicy-taco-sausage-named-the-best-in-new-zealand-b418ad90aa",
-      "title": "A spicy taco sausage named the best in New Zealand",
-      "url": "https://www.rnz.co.nz/life/food/a-spicy-taco-sausage-named-the-best-in-new-zealand",
-      "source": "RNZ News",
-      "country": "New Zealand",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-10-14T18:33:16+10:00",
+      "published": "2026-10-15T14:00:00+10:00",
       "score": 9,
       "why": "A very ordinary object has wandered into serious news.",
       "signals": [
         "A very ordinary object has wandered into serious news."
       ],
-      "image": "assets/data/headline-images/a-spicy-taco-sausage-named-the-best-in-new-zealand-b418ad90aa.svg"
-    },
-    {
-      "id": "one-stolen-every-four-minutes-inside-the-police-battle-a-b253491177",
-      "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "country": "United Kingdom",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-10-14T15:01:07+10:00",
-      "score": 7,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
-      ],
-      "image": "assets/data/headline-images/one-stolen-every-four-minutes-inside-the-police-battle-a-b253491177.svg"
+      "image": "assets/data/headline-images/restaurant-review-dylan-mcgrath-s-latest-offering-delive-175b3a553a.svg"
     }
   ],
   "feed_errors": [
