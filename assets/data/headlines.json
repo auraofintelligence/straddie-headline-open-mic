@@ -1,11 +1,28 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T07:40:01.026085+10:00",
-  "generated_label": "16 Oct 2026, 07:40 AM AEST",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T07:38:57.499932+10:00",
+  "generated_label": "17 Oct 2026, 07:38 AM AEST",
   "source_count": 14,
-  "headline_count": 11,
+  "headline_count": 14,
   "headlines": [
+    {
+      "id": "blues-rocked-by-another-ban-after-defender-caught-drink--2da13ee122",
+      "title": "Blues rocked by another ban after defender caught drink driving",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYXRkTGlLa2s0aURYRVN3QU1yazR0dUY2NTJMRUNOZTRjOUVkVXkzX2ZBT1lqNUFmMTMyN29jNDUxMmxfNmJpUEVmaHFUNzNGMnhjWWtEbWh5QUZ2TEd1b05xVDJTMWRzNWdGRUEwcmVQbFlKQmxPbFpMdU0tSElMclU1dmhDWmxrVFQ0Uk5HZFliUVhJWFZqSnFYSGJQdGNOYXFXdjdoU1RlZjMtOWhMaDFTdDNGSF90YUdZMW1nR3BPeTNOeHo1bTVfM1I3VmNSQ24zd3ZnNkxvaTBJLXNHN1lXLTZmaldIcVgxNXU0eGwyM1NrUlE4YTN1WGZZUmd4SHdPTUpvR002NnF4Y2c?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-17T00:09:04+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/blues-rocked-by-another-ban-after-defender-caught-drink--2da13ee122.svg"
+    },
     {
       "id": "nasa-probe-snaps-2-5-mile-alien-mothership-zooming-past--53ca1c4fa3",
       "title": "NASA probe snaps '2.5-mile alien mothership' zooming past Sun at speed of light",
@@ -165,37 +182,68 @@
       "image": "assets/data/headline-images/mystery-man-made-mounds-in-the-deep-south-are-older-than-81554c78b4.svg"
     },
     {
-      "id": "spot-the-banana-shark-30-years-of-bondi-s-sculpture-by-t-01dfcd7ec9",
-      "title": "Spot the banana shark: 30 years of Bondi’s Sculpture by the Sea – in pictures",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/15/30-years-of-sculpture-by-the-sea-bondi-sydney-in-pictures",
+      "id": "as-trump-chaos-builds-ahead-of-the-midterms-albanese-mus-b597c60a21",
+      "title": "As Trump chaos builds ahead of the midterms, Albanese must tread carefully | Tom McIlroy",
+      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/oct/17/trump-chaos-us-midterms-albanese-must-tread-carefully",
       "source": "The Guardian Australia",
       "country": "Australia",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-16T00:00:17+10:00",
-      "score": 11,
-      "why": "A very ordinary object has wandered into serious news.",
+      "published": "2026-10-17T00:00:12+10:00",
+      "score": 8,
+      "why": "The word chaos gives it open-mic energy.",
       "signals": [
-        "A very ordinary object has wandered into serious news.",
-        "The specific number gives the line a dry little thud."
+        "The word chaos gives it open-mic energy."
       ],
-      "image": "assets/data/headline-images/spot-the-banana-shark-30-years-of-bondi-s-sculpture-by-t-01dfcd7ec9.svg"
+      "image": "assets/data/headline-images/as-trump-chaos-builds-ahead-of-the-midterms-albanese-mus-b597c60a21.svg"
     },
     {
-      "id": "restaurant-review-dylan-mcgrath-s-latest-offering-delive-175b3a553a",
-      "title": "Restaurant review: Dylan McGrath’s latest offering delivers an expertly executed pizza party",
-      "url": "https://www.irishtimes.com/food/restaurants/review/2026/10/15/restaurant-review-fade-st-tavern-steps-into-dublins-pizza-wars-with-all-guns-blazing/",
+      "id": "mine-owner-convinced-tiny-town-s-lead-poisoning-concerns-a0b71fa039",
+      "title": "Mine owner convinced tiny town's lead poisoning concerns are unfounded",
+      "url": "https://www.abc.net.au/news/2026-10-17/ipc-hearing-on-bowdens-silver-mine-concludes/107274218",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-17T05:37:49+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/mine-owner-convinced-tiny-town-s-lead-poisoning-concerns-a0b71fa039.svg"
+    },
+    {
+      "id": "met-police-investigating-row-over-founding-of-your-party-b70168f520",
+      "title": "Met police investigating row over founding of Your Party",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/16/met-police-investigating-row-over-founding-of-your-party",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-17T03:29:54+10:00",
+      "score": 7,
+      "why": "It turns a small thing into a public argument.",
+      "signals": [
+        "It turns a small thing into a public argument."
+      ],
+      "image": "assets/data/headline-images/met-police-investigating-row-over-founding-of-your-party-b70168f520.svg"
+    },
+    {
+      "id": "judge-tells-man-caught-driving-at-184km-h-you-would-have-e9831b848f",
+      "title": "Judge tells man caught driving at 184km/h: ‘You would have made mincemeat of a child’",
+      "url": "https://www.irishtimes.com/crime-law/courts/2026/10/16/judge-tells-man-caught-driving-at-184kmh-you-would-have-made-mincemeat-of-a-child/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-15T14:00:00+10:00",
-      "score": 9,
-      "why": "A very ordinary object has wandered into serious news.",
+      "published": "2026-10-16T17:38:06+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "A very ordinary object has wandered into serious news."
+        "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/restaurant-review-dylan-mcgrath-s-latest-offering-delive-175b3a553a.svg"
+      "image": "assets/data/headline-images/judge-tells-man-caught-driving-at-184km-h-you-would-have-e9831b848f.svg"
     }
   ],
   "feed_errors": [
