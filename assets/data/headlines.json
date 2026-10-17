@@ -1,27 +1,44 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T07:38:57.499932+10:00",
-  "generated_label": "17 Oct 2026, 07:38 AM AEST",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T07:38:03.961543+10:00",
+  "generated_label": "18 Oct 2026, 07:38 AM AEST",
   "source_count": 14,
-  "headline_count": 14,
+  "headline_count": 17,
   "headlines": [
     {
-      "id": "blues-rocked-by-another-ban-after-defender-caught-drink--2da13ee122",
-      "title": "Blues rocked by another ban after defender caught drink driving",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYXRkTGlLa2s0aURYRVN3QU1yazR0dUY2NTJMRUNOZTRjOUVkVXkzX2ZBT1lqNUFmMTMyN29jNDUxMmxfNmJpUEVmaHFUNzNGMnhjWWtEbWh5QUZ2TEd1b05xVDJTMWRzNWdGRUEwcmVQbFlKQmxPbFpMdU0tSElMclU1dmhDWmxrVFQ0Uk5HZFliUVhJWFZqSnFYSGJQdGNOYXFXdjdoU1RlZjMtOWhMaDFTdDNGSF90YUdZMW1nR3BPeTNOeHo1bTVfM1I3VmNSQ24zd3ZnNkxvaTBJLXNHN1lXLTZmaldIcVgxNXU0eGwyM1NrUlE4YTN1WGZZUmd4SHdPTUpvR002NnF4Y2c?oc=5",
+      "id": "real-reason-behind-model-s-unusual-diet-fbac8916af",
+      "title": "Real reason behind model’s unusual diet",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRlBJYi1vVFhGcnl0dGpCSExWVnN6RUxyWUJtejFyWEpSZzFNd1NMa2VHb18zWlRLMW9SRDlkNkRRRlRkV3hXQmZOaE16U2JKbmNGT3ZseXhTU0xQdWpPYkE3NXFfcXd6OGlXV1BtU1FPRDJEWXdqVHhQSWZzOU1uc3pmc011YkV6c29zQmtQMHBYc1hmMU11dzVSWmJjM09NbVR2V3dPVlFSX2F4ZkdKVEhEOV9ISEtfZ0NHbVlPWV9rWHFIeXc5MWVkTXFOb01ZX1MtYzNTdk1GaEJZb01PN1FwZG93clFOcnBtQUFwdFRtc3Ju?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-17T00:09:04+10:00",
-      "score": 31,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "published": "2026-10-18T05:24:43+10:00",
+      "score": 34,
+      "why": "The headline is already trying not to laugh.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
+        "The headline is already trying not to laugh.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/blues-rocked-by-another-ban-after-defender-caught-drink--2da13ee122.svg"
+      "image": "assets/data/headline-images/real-reason-behind-model-s-unusual-diet-fbac8916af.svg"
+    },
+    {
+      "id": "trump-s-savage-takedown-of-paid-protester-sparks-rally-c-7ab234a17a",
+      "title": "Trump’s savage takedown of ‘paid protester’ sparks rally chaos",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSzBCN0IzMzl6Q1ZSX3Y5NEFYVGNlQjl6d2RZNUx2NktFb1JFLWFpS20tM0ROd1VJakpja0tEUDBrRkt6X0Z4RF9UVGV0dk1NWnFCSGJDUHpmdlVOUzkyNENDTHd6TERTRnlnUThYTHR6eUdBMGRXUVpPTXNkeGJWVHFaWnFraFFSQ3I1NEw4UkdodG56RjBuWFZlRWIyUTMtZWxZa0pSdy01T3lsdHMxdk9iR2JCWTFPcF9ibXdmYkhvN0FBakR5XzNJQnVfTy11VTQzUw?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-17T12:21:02+10:00",
+      "score": 32,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/trump-s-savage-takedown-of-paid-protester-sparks-rally-c-7ab234a17a.svg"
     },
     {
       "id": "nasa-probe-snaps-2-5-mile-alien-mothership-zooming-past--53ca1c4fa3",
@@ -60,21 +77,38 @@
       "image": "assets/data/headline-images/humans-captured-aliens-80-years-ago-but-they-died-after--73ee8cd69f.svg"
     },
     {
-      "id": "i-saw-doctors-about-a-mystery-lump-in-my-stomach-and-gav-c8718d359a",
-      "title": "'I saw doctors about a mystery lump in my stomach - and gave birth a day later'",
-      "url": "https://www.mirror.co.uk/news/health/i-saw-doctors-mystery-lump-37769684",
-      "source": "Mirror Weird News",
+      "id": "nasa-s-top-boss-refuses-to-rule-out-alien-life-existing--2456257d2f",
+      "title": "NASA's top boss refuses to rule out alien life existing as 'we need to be open minded'",
+      "url": "https://www.dailystar.co.uk/news/us-news/nasas-top-boss-refuses-rule-37783372",
+      "source": "Daily Star Weird News",
       "country": "United Kingdom",
       "source_type": "newspaper offbeat section",
       "priority": "tabloid-offbeat",
-      "published": "2026-10-14T17:59:38+10:00",
-      "score": 19,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "published": "2026-10-18T03:16:49+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
       "signals": [
-        "A mystery is doing a lot of work in a very small sentence.",
+        "A wonderfully specific detail has taken centre stage.",
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
-      "image": "assets/data/headline-images/i-saw-doctors-about-a-mystery-lump-in-my-stomach-and-gav-c8718d359a.svg"
+      "image": "assets/data/headline-images/nasa-s-top-boss-refuses-to-rule-out-alien-life-existing--2456257d2f.svg"
+    },
+    {
+      "id": "uk-doctors-under-strain-removing-objects-from-rectums-ph-96d8c9112e",
+      "title": "UK doctors under strain removing objects from rectums – phones, potato and egg",
+      "url": "https://www.dailystar.co.uk/news/weird-news/thousands-items-removed-rectums-uk-37782292",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-17T18:20:25+10:00",
+      "score": 19,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/uk-doctors-under-strain-removing-objects-from-rectums-ph-96d8c9112e.svg"
     },
     {
       "id": "say-cheese-nasa-reveals-stunning-image-of-giant-cosmic-s-b74a3fa7fb",
@@ -95,24 +129,6 @@
       "image": "assets/data/headline-images/say-cheese-nasa-reveals-stunning-image-of-giant-cosmic-s-b74a3fa7fb.svg"
     },
     {
-      "id": "mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705",
-      "title": "Mars mystery solved: Scientists reveal the secret behind 'impossible' giant cloud that appears and vanishes every day",
-      "url": "https://www.dailymail.com/sciencetech/article-16189261/Mars-mystery-solved-impossible-cloud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-10-08T01:18:07+10:00",
-      "score": 19,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
-      "signals": [
-        "A mystery is doing a lot of work in a very small sentence.",
-        "The scale is doing deadpan comedy.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/mars-mystery-solved-scientists-reveal-the-secret-behind--b609f9c705.svg"
-    },
-    {
       "id": "inside-the-weirdly-popular-world-of-animatronics-and-the-164309944e",
       "title": "Inside the weirdly popular world of animatronics — and the fascination behind Kelly Clarkson’s bizarre bird bot drama",
       "url": "https://nypost.com/2026/10/15/lifestyle/kelly-clarkson-leads-a-list-gen-z-animatronics-obsession/",
@@ -128,6 +144,23 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/inside-the-weirdly-popular-world-of-animatronics-and-the-164309944e.svg"
+    },
+    {
+      "id": "k-piti-coast-pizza-store-owner-gets-10-months-home-deten-91a5214e37",
+      "title": "Kāpiti Coast pizza store owner gets 10 months' home detention for tax evasion",
+      "url": "https://www.rnz.co.nz/news/crime-and-justice/1971475/kapiti-coast-pizza-store-owner-gets-10-months-home-detention-for-tax-evasion",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-17T12:51:30+10:00",
+      "score": 14,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "A serious-news word is sharing a sentence with something very ordinary."
+      ],
+      "image": "assets/data/headline-images/k-piti-coast-pizza-store-owner-gets-10-months-home-deten-91a5214e37.svg"
     },
     {
       "id": "hidden-for-3-000-years-giant-statues-of-ramses-ii-emerge-a21ed8a772",
@@ -182,68 +215,88 @@
       "image": "assets/data/headline-images/mystery-man-made-mounds-in-the-deep-south-are-older-than-81554c78b4.svg"
     },
     {
-      "id": "as-trump-chaos-builds-ahead-of-the-midterms-albanese-mus-b597c60a21",
-      "title": "As Trump chaos builds ahead of the midterms, Albanese must tread carefully | Tom McIlroy",
-      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/oct/17/trump-chaos-us-midterms-albanese-must-tread-carefully",
-      "source": "The Guardian Australia",
-      "country": "Australia",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-17T00:00:12+10:00",
-      "score": 8,
-      "why": "The word chaos gives it open-mic energy.",
+      "id": "why-gen-z-never-answers-the-phone-young-people-say-surpr-af86739625",
+      "title": "Why Gen Z NEVER answers the phone: Young people say surprise calls trigger anxiety and feel like a demand for 'immediate attention'",
+      "url": "https://www.dailymail.com/sciencetech/article-16202833/Gen-Z-NEVER-answers-phone-anxiety.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-13T01:32:10+10:00",
+      "score": 11,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "The word chaos gives it open-mic energy."
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "It reads like the setup to a very dry question.",
+        "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/as-trump-chaos-builds-ahead-of-the-midterms-albanese-mus-b597c60a21.svg"
+      "image": "assets/data/headline-images/why-gen-z-never-answers-the-phone-young-people-say-surpr-af86739625.svg"
     },
     {
-      "id": "mine-owner-convinced-tiny-town-s-lead-poisoning-concerns-a0b71fa039",
-      "title": "Mine owner convinced tiny town's lead poisoning concerns are unfounded",
-      "url": "https://www.abc.net.au/news/2026-10-17/ipc-hearing-on-bowdens-silver-mine-concludes/107274218",
-      "source": "ABC News",
-      "country": "Australia",
+      "id": "isle-of-wight-fossil-identified-as-new-dinosaur-species-202e0d4336",
+      "title": "Isle of Wight fossil identified as new dinosaur species",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgx70v9vrjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-17T05:37:49+10:00",
-      "score": 7,
-      "why": "The scale is doing deadpan comedy.",
+      "published": "2026-10-14T15:09:46+10:00",
+      "score": 9,
+      "why": "The object list sounds like someone shuffled three different stories together.",
       "signals": [
-        "The scale is doing deadpan comedy."
+        "The object list sounds like someone shuffled three different stories together."
       ],
-      "image": "assets/data/headline-images/mine-owner-convinced-tiny-town-s-lead-poisoning-concerns-a0b71fa039.svg"
+      "image": "assets/data/headline-images/isle-of-wight-fossil-identified-as-new-dinosaur-species-202e0d4336.svg"
     },
     {
-      "id": "met-police-investigating-row-over-founding-of-your-party-b70168f520",
-      "title": "Met police investigating row over founding of Your Party",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/16/met-police-investigating-row-over-founding-of-your-party",
+      "id": "plaque-telling-story-of-african-caribbean-prisoners-in-b-5b1a1caa12",
+      "title": "Plaque telling story of African-Caribbean prisoners in Britain stolen within days",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/17/plaque-honouring-african-caribbean-prisoners-in-britain-stolen-portchester-castle",
       "source": "The Guardian World",
       "country": "United Kingdom",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-17T03:29:54+10:00",
-      "score": 7,
-      "why": "It turns a small thing into a public argument.",
-      "signals": [
-        "It turns a small thing into a public argument."
-      ],
-      "image": "assets/data/headline-images/met-police-investigating-row-over-founding-of-your-party-b70168f520.svg"
-    },
-    {
-      "id": "judge-tells-man-caught-driving-at-184km-h-you-would-have-e9831b848f",
-      "title": "Judge tells man caught driving at 184km/h: ‘You would have made mincemeat of a child’",
-      "url": "https://www.irishtimes.com/crime-law/courts/2026/10/16/judge-tells-man-caught-driving-at-184kmh-you-would-have-made-mincemeat-of-a-child/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-16T17:38:06+10:00",
+      "published": "2026-10-18T01:57:07+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/judge-tells-man-caught-driving-at-184km-h-you-would-have-e9831b848f.svg"
+      "image": "assets/data/headline-images/plaque-telling-story-of-african-caribbean-prisoners-in-b-5b1a1caa12.svg"
+    },
+    {
+      "id": "50-years-in-what-s-the-point-of-u2-bono-and-the-edge-hav-71de71f994",
+      "title": "50 Years In, What’s the Point of U2? Bono and the Edge Have Answers.",
+      "url": "https://www.nytimes.com/2026/10/17/magazine/bono-and-the-edge-interview.html",
+      "source": "The New York Times",
+      "country": "United States",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-17T22:50:15+10:00",
+      "score": 5,
+      "why": "The question mark makes it feel like the host has paused for the room.",
+      "signals": [
+        "The question mark makes it feel like the host has paused for the room.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/50-years-in-what-s-the-point-of-u2-bono-and-the-edge-hav-71de71f994.svg"
+    },
+    {
+      "id": "how-ireland-s-first-national-public-sector-strike-in-17--7baa24ceda",
+      "title": "How Ireland’s first national public sector strike in 17 years left unions strong and Jack Chambers ‘scrambling’",
+      "url": "https://www.irishtimes.com/politics/2026/10/17/strike-success-leaves-unions-in-position-of-strength-and-jack-chambers-scrambling/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-17T15:00:00+10:00",
+      "score": 5,
+      "why": "It reads like the setup to a very dry question.",
+      "signals": [
+        "It reads like the setup to a very dry question.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/how-ireland-s-first-national-public-sector-strike-in-17--7baa24ceda.svg"
     }
   ],
   "feed_errors": [
