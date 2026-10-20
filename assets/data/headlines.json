@@ -1,80 +1,11 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T07:39:32.265217+10:00",
-  "generated_label": "20 Oct 2026, 07:39 AM AEST",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T07:39:48.394394+10:00",
+  "generated_label": "21 Oct 2026, 07:39 AM AEST",
   "source_count": 14,
-  "headline_count": 23,
+  "headline_count": 13,
   "headlines": [
-    {
-      "id": "no-magic-or-mystery-how-hales-jnr-met-dutton-9b6f0b21e2",
-      "title": "‘No magic or mystery’: How Hales Jnr met Dutton",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ09mckIzRXcxVWFHWDhmVXJZb1pWX1pCVjFUYnVtZndvTUtHblVSd09EOC14U3FOaTBjR0xVWUN6aGVJMUllOVlIM2tjVFhFN1FHdW5hSHFtUHRmenR2ekxITGFibkpaQmdvOENKeEEybVFOdUNYeDY1a2FmUEdZVmRNbkpmRWk2UFRwS1R2STlsVEtydm1RbS1UVHk5cVk2dkFCRFpTZ2c0akdVMWp1eTdRZmZkUTQw?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-16T14:18:14+10:00",
-      "score": 34,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
-      "signals": [
-        "A mystery is doing a lot of work in a very small sentence.",
-        "It reads like the setup to a very dry question.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/no-magic-or-mystery-how-hales-jnr-met-dutton-9b6f0b21e2.svg"
-    },
-    {
-      "id": "woman-s-bizarre-stunt-divides-internet-68fe5e9741",
-      "title": "Woman’s bizarre stunt divides internet",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV2hMenloUVoxWUtqMHp2SldMTUNiMHZlU1k2ZjF5NElBWUIyUTBlWFFmd1BNVXRMRkRKTUpHQnFnT09TV0MtX2JMY0l0NW5tWTBVM3RLS3hkM0ZmQkFzTFBhLTFhT2dqVmk0TmVoUlpNUGhUWUI2VHdtOHR3WE9Qb0JSci1mYmFJMC04Tk1ReGZNTlJ3NzI1WXdIMGZFMTJWUWdCY3BSdGs4NzEzXzNqY0VCRHpmc0NSTnQwb0FHZk1mVlQwTHktZnBFQ3J0NUI4MmpuMWJRbGhtdHI4NkVqeF85MmJFMDRIbkhYRDMwcXh3M3B4cGtj?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-19T19:49:21+10:00",
-      "score": 34,
-      "why": "The headline is already trying not to laugh.",
-      "signals": [
-        "The headline is already trying not to laugh.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/woman-s-bizarre-stunt-divides-internet-68fe5e9741.svg"
-    },
-    {
-      "id": "chaos-as-100-plus-youths-embroiled-in-adelaide-beach-fig-8a27bf36d9",
-      "title": "Chaos as 100-plus youths embroiled in Adelaide beach fight",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVk5KazdCakg4RDhwdzJ3Sm9PNVdJM0lZRHMzbGs3dzZEbmx6aDVpVG9kb1hOcW9uMWllcTRMYkJYT19WbFJ2RFMyMVBia29zblRZUS1pRmlqd1dvc0FXbGNSWG1tMzF4bE9vOUVxcnJRdld2UXlORktQSkhuTkpBT1RoM1pIcGdFdzl3WndNbW1xNi1YS2t2anh3WEM2UkxnX3BiN2t4eDhKMkdZMkhUblZad2t6OVItZ1J6VnJaYWlHMXhGMGlFclh3eXpzMnlCOHhULVhVRnB5VDRHTGlTaEZn?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-18T18:32:35+10:00",
-      "score": 32,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/chaos-as-100-plus-youths-embroiled-in-adelaide-beach-fig-8a27bf36d9.svg"
-    },
-    {
-      "id": "darwin-real-estate-the-latest-auction-and-sales-results--adfdb59200",
-      "title": "Darwin real estate: The latest auction and sales results for week ending October 18",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVG1FcjBULWRFS1FSRDJ6cy11M3pPR1E1cmdsNEducG41c0ItMmVZUFVUbHlVYTFqOGJrSzYtSlQxR0RSSnFhZUsxNmVWMXNmR1J5TGJrajFvWnZPX0lKR3E3eUlsVDhxSUV5OFBHMXl2dTM3WkNxbFVsSlFXS1dRWHRpUzFLZ0pSaEpzeUxlTG9WVFhHM0lDdWl0ZkhCclNsTHFhZDlqRzVmSEFXN1haamlWUW5OT3BvZXNsRlFTWWdMbFU2NWZCZ25qWHZhb3I5cTdacWNDN2NrRnhaUDUtM05aVlVRNElSOHptRlVyRnoxQVVnNkIzUFFrOG9nZ0hVQWpfeVlUVm9fUkc0X05FeGdGSVRtZw?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-19T21:50:16+10:00",
-      "score": 31,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--adfdb59200.svg"
-    },
     {
       "id": "audiologist-says-limit-earphone-use-to-60-minutes-a-day--274929698a",
       "title": "Audiologist says limit earphone use to 60 minutes a day and eat chocolate",
@@ -180,21 +111,56 @@
       "image": "assets/data/headline-images/inside-the-weirdly-popular-world-of-animatronics-and-the-164309944e.svg"
     },
     {
-      "id": "russell-brand-had-maniacal-grin-as-he-dragged-woman-into-b39914d036",
-      "title": "Russell Brand had ‘maniacal grin’ as he dragged woman into toilet and raped her, court told",
-      "url": "https://www.irishtimes.com/world/uk/2026/10/19/russell-brand-had-maniacal-grin-as-he-dragged-woman-into-toilet-and-raped-her-court-told/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-19T23:08:45+10:00",
+      "id": "eerie-ufo-cloud-over-washington-dc-sparks-claim-of-cloak-08ccbdc482",
+      "title": "Eerie 'UFO cloud' over Washington DC sparks claim of cloaked alien craft hiding in the sky",
+      "url": "https://www.dailymail.com/sciencetech/article-16221643/cloaked-alien-craft-UFO-cloud-washington-dc.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-21T06:59:57+10:00",
       "score": 15,
-      "why": "A household object has somehow reached the news desk.",
+      "why": "A wonderfully specific detail has taken centre stage.",
       "signals": [
-        "A household object has somehow reached the news desk.",
-        "A serious-news word is sharing a sentence with something very ordinary."
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/russell-brand-had-maniacal-grin-as-he-dragged-woman-into-b39914d036.svg"
+      "image": "assets/data/headline-images/eerie-ufo-cloud-over-washington-dc-sparks-claim-of-cloak-08ccbdc482.svg"
+    },
+    {
+      "id": "forgotten-particle-could-answer-mystery-of-why-we-exist--68324b59fb",
+      "title": "Forgotten particle could answer mystery of why we exist, say physicists",
+      "url": "https://www.dailymail.com/sciencetech/article-16220693/Forgotten-particle-answer-mystery-exist.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-20T09:01:59+10:00",
+      "score": 15,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "It reads like the setup to a very dry question.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/forgotten-particle-could-answer-mystery-of-why-we-exist--68324b59fb.svg"
+    },
+    {
+      "id": "chaos-as-massive-google-outage-crashes-banking-apps-with-15814eb6c8",
+      "title": "Chaos as massive Google outage crashes banking apps, with NHS and court service also affected",
+      "url": "https://www.dailymail.com/sciencetech/article-16223219/Google-Huge-outage-hits-hundreds-websites-apps-Google-Cloud-service-issues.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-21T02:29:39+10:00",
+      "score": 13,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/chaos-as-massive-google-outage-crashes-banking-apps-with-15814eb6c8.svg"
     },
     {
       "id": "giant-pacific-wave-heads-for-us-coast-as-scientists-warn-7518ef6e57",
@@ -204,7 +170,7 @@
       "country": "United Kingdom",
       "source_type": "newspaper science / odd discoveries",
       "priority": "tabloid",
-      "published": "2026-10-20T04:59:18+10:00",
+      "published": "2026-10-20T14:42:04+10:00",
       "score": 12,
       "why": "The scale is doing deadpan comedy.",
       "signals": [
@@ -214,121 +180,36 @@
       "image": "assets/data/headline-images/giant-pacific-wave-heads-for-us-coast-as-scientists-warn-7518ef6e57.svg"
     },
     {
-      "id": "hidden-for-3-000-years-giant-statues-of-ramses-ii-emerge-a21ed8a772",
-      "title": "Hidden for 3,000 years: Giant statues of Ramses II emerge from Egyptian village after farmer spots mysterious stone block in his field",
-      "url": "https://www.dailymail.com/sciencetech/article-16207903/Giant-statues-Ramses-II-Egyptian-village.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-10-14T18:52:20+10:00",
-      "score": 12,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "The specific number gives the line a dry little thud.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/hidden-for-3-000-years-giant-statues-of-ramses-ii-emerge-a21ed8a772.svg"
-    },
-    {
-      "id": "caught-looking-straight-women-enjoy-gazing-at-attractive-ef59dccb08",
-      "title": "Caught looking! Straight women enjoy gazing at attractive females just as much as handsome men, study finds",
-      "url": "https://www.dailymail.com/sciencetech/article-16192377/Straight-women-attractive-females-handsome-men.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-10-11T18:39:00+10:00",
-      "score": 12,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/caught-looking-straight-women-enjoy-gazing-at-attractive-ef59dccb08.svg"
-    },
-    {
-      "id": "why-gen-z-never-answers-the-phone-young-people-say-surpr-af86739625",
-      "title": "Why Gen Z NEVER answers the phone: Young people say surprise calls trigger anxiety and feel like a demand for 'immediate attention'",
-      "url": "https://www.dailymail.com/sciencetech/article-16202833/Gen-Z-NEVER-answers-phone-anxiety.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-10-13T01:32:10+10:00",
-      "score": 11,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "It reads like the setup to a very dry question.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/why-gen-z-never-answers-the-phone-young-people-say-surpr-af86739625.svg"
-    },
-    {
-      "id": "tricky-time-for-lunchboxes-banana-shortage-hits-supermar-4d4e2c630a",
-      "title": "Tricky time for lunchboxes: banana shortage hits supermarket shelves after cool weather in Queensland",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/tricky-time-for-lunchboxes-banana-shortage-hits-supermarket-shelves-after-cool-weather-in-queensland",
-      "source": "The Guardian Australia",
-      "country": "Australia",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-20T00:00:03+10:00",
-      "score": 9,
-      "why": "A very ordinary object has wandered into serious news.",
-      "signals": [
-        "A very ordinary object has wandered into serious news."
-      ],
-      "image": "assets/data/headline-images/tricky-time-for-lunchboxes-banana-shortage-hits-supermar-4d4e2c630a.svg"
-    },
-    {
-      "id": "it-s-sliced-cheese-on-bread-and-it-s-rocking-copenhagen--9b2eb02f58",
-      "title": "It’s Sliced Cheese on Bread. And It’s Rocking Copenhagen’s World.",
-      "url": "https://www.nytimes.com/2026/10/19/dining/copenhagen-denmark-bread-bmo.html",
-      "source": "The New York Times",
-      "country": "United States",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-19T23:51:34+10:00",
-      "score": 9,
-      "why": "A very ordinary object has wandered into serious news.",
-      "signals": [
-        "A very ordinary object has wandered into serious news."
-      ],
-      "image": "assets/data/headline-images/it-s-sliced-cheese-on-bread-and-it-s-rocking-copenhagen--9b2eb02f58.svg"
-    },
-    {
-      "id": "as-trump-chaos-builds-ahead-of-the-midterms-albanese-mus-b597c60a21",
-      "title": "As Trump chaos builds ahead of the midterms, Albanese must tread carefully | Tom McIlroy",
-      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/oct/17/trump-chaos-us-midterms-albanese-must-tread-carefully",
-      "source": "The Guardian Australia",
-      "country": "Australia",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-17T00:00:12+10:00",
-      "score": 8,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy."
-      ],
-      "image": "assets/data/headline-images/as-trump-chaos-builds-ahead-of-the-midterms-albanese-mus-b597c60a21.svg"
-    },
-    {
-      "id": "no-chaos-in-the-courts-jim-o-callaghan-says-as-legal-aid-541c7d4b15",
-      "title": "No chaos in the courts, Jim O’Callaghan says, as legal aid dispute ramps up",
-      "url": "https://www.irishtimes.com/politics/2026/10/19/no-chaos-in-the-courts-jim-ocallaghan-says-as-legal-aid-dispute-ramps-up/",
+      "id": "phil-foden-hat-trick-helps-manchester-city-cut-through-n-2fddc89643",
+      "title": "Phil Foden hat-trick helps Manchester City cut through noise to crush AEK Athens",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/10/20/phil-foden-hat-trick-helps-manchester-city-cut-through-noise-to-crush-aek-athens/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-19T21:08:57+10:00",
-      "score": 8,
-      "why": "The word chaos gives it open-mic energy.",
+      "published": "2026-10-21T07:25:49+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
       "signals": [
-        "The word chaos gives it open-mic energy."
+        "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/no-chaos-in-the-courts-jim-o-callaghan-says-as-legal-aid-541c7d4b15.svg"
+      "image": "assets/data/headline-images/phil-foden-hat-trick-helps-manchester-city-cut-through-n-2fddc89643.svg"
+    },
+    {
+      "id": "bread-butter-and-a-slice-of-cheese-it-s-copenhagen-s-coo-5fe7ca50fe",
+      "title": "Bread, butter and a slice of cheese: It’s Copenhagen’s coolest breakfast",
+      "url": "https://www.irishtimes.com/food/drink/2026/10/20/bread-butter-and-a-slice-of-cheese-its-copenhagens-coolest-breakfast/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-20T20:00:00+10:00",
+      "score": 9,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news."
+      ],
+      "image": "assets/data/headline-images/bread-butter-and-a-slice-of-cheese-it-s-copenhagen-s-coo-5fe7ca50fe.svg"
     },
     {
       "id": "rare-moa-egg-set-to-return-to-nz-after-selling-at-us-auc-f3f2a169cd",
@@ -338,61 +219,13 @@
       "country": "New Zealand",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-20T05:02:48+10:00",
+      "published": "2026-10-20T14:01:00+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
       "image": "assets/data/headline-images/rare-moa-egg-set-to-return-to-nz-after-selling-at-us-auc-f3f2a169cd.svg"
-    },
-    {
-      "id": "i-have-never-felt-anything-so-painful-in-my-life-irish-c-e8494004d6",
-      "title": "‘I have never felt anything so painful in my life’: Irish caught in French riots",
-      "url": "https://www.irishtimes.com/world/europe/2026/10/19/it-was-like-having-tabasco-poured-in-my-eyes-irish-caught-in-french-riots-recall-chaos/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-20T02:01:35+10:00",
-      "score": 7,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
-      ],
-      "image": "assets/data/headline-images/i-have-never-felt-anything-so-painful-in-my-life-irish-c-e8494004d6.svg"
-    },
-    {
-      "id": "new-battery-electric-trains-due-to-arrive-next-year-in-b-07a6410987",
-      "title": "New battery-electric trains due to arrive next year in bid to relieve overcrowding on services",
-      "url": "https://www.irishtimes.com/transport/2026/10/19/no-rail-overcrowding-relief-until-new-battery-electric-trains-enter-service-at-end-of-2027/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-20T00:53:13+10:00",
-      "score": 7,
-      "why": "It has that classic official-plan-meets-real-life shape.",
-      "signals": [
-        "It has that classic official-plan-meets-real-life shape."
-      ],
-      "image": "assets/data/headline-images/new-battery-electric-trains-due-to-arrive-next-year-in-b-07a6410987.svg"
-    },
-    {
-      "id": "french-prime-minister-calls-for-partial-curfews-in-bid-t-f2af6364e4",
-      "title": "French prime minister calls for partial curfews in bid to quell unrest",
-      "url": "https://www.irishtimes.com/world/europe/2026/10/19/emmanuel-macron-turns-down-french-interior-ministers-offer-to-resign/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-20T02:16:33+10:00",
-      "score": 7,
-      "why": "It has that classic official-plan-meets-real-life shape.",
-      "signals": [
-        "It has that classic official-plan-meets-real-life shape."
-      ],
-      "image": "assets/data/headline-images/french-prime-minister-calls-for-partial-curfews-in-bid-t-f2af6364e4.svg"
     }
   ],
   "feed_errors": [
