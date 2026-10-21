@@ -1,79 +1,45 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T07:39:48.394394+10:00",
-  "generated_label": "21 Oct 2026, 07:39 AM AEST",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T07:41:11.778005+10:00",
+  "generated_label": "22 Oct 2026, 07:41 AM AEST",
   "source_count": 14,
-  "headline_count": 13,
+  "headline_count": 15,
   "headlines": [
     {
-      "id": "audiologist-says-limit-earphone-use-to-60-minutes-a-day--274929698a",
-      "title": "Audiologist says limit earphone use to 60 minutes a day and eat chocolate",
-      "url": "https://www.mirror.co.uk/news/health/audiologist-says-limit-earphone-use-37785856",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-19T17:44:02+10:00",
-      "score": 21,
-      "why": "A very ordinary object has wandered into serious news.",
+      "id": "roosters-emerge-as-surprise-favourites-to-land-storm-sta-7fcfe45823",
+      "title": "Roosters emerge as surprise favourites to land Storm star Stefano Utoikamanu",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVjBSam1JaHl6Y05feVBnUTVmazVUVjA3NTlGZ2U1UTZvbzNQcXYtMXRTZERxZUxOZEloclZhTkVRZmNQeVg2UGlEZlpKcER4b1RFRUROZE1CZXZ2TGk2Wm9uTXZILUtadGM4N0dkX2tDYnZubXA1SnZjTi13OGtKd1BPMzhHZ0ttM2RMMUJjWVYzWFNlQzB4V0ZjTngzR0d4Vmt1eVJTRTl2d0xYcGNFRlhhVmFmNTVmYW1OWkliX3BpZUhMT3QxenlXYWVVWnJLQW9JRThBRkFYV0duSjljNkNJWllGLURm?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-22T02:46:19+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "A very ordinary object has wandered into serious news.",
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/roosters-emerge-as-surprise-favourites-to-land-storm-sta-7fcfe45823.svg"
+    },
+    {
+      "id": "how-territorians-scoffed-two-tons-of-spuds-in-10-days-2cf2085870",
+      "title": "How Territorians scoffed two tons of spuds in 10 days",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZTQtUS1VdGpjRGVlSWdsVGhhY21MNWowVldwN3hQaDZxV2NqdGVDQlNNMTA4ODZxdzRIcGdWY2xVOU81LXVJWjVVWEZCUkR5NkNZT0lPWlVBZXFybWo5V2hPVlpuTWZNYkRWQ3hvN0dNaXVWSHVwTDA1SElPcXlvaHRYbVZJLXBfRXZnR2xWTUZ1T0E0ZVpRYnRPUDJCVV9ubEhTQi1CZVdIMkxVU2FKWThBYmZkXzJtU2t6bE1ZN0NXUW90N3dSem55YzFsVHRVMUpYUXdrMDQ1Z05MR0hEY2ZNQXRobVJtdnM1SHV4cWhDVXNzQ3NhV2JtWk84a1JvNW9qdg?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-21T07:39:00+10:00",
+      "score": 29,
+      "why": "It reads like the setup to a very dry question.",
+      "signals": [
+        "It reads like the setup to a very dry question.",
         "The specific number gives the line a dry little thud.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
+        "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/audiologist-says-limit-earphone-use-to-60-minutes-a-day--274929698a.svg"
-    },
-    {
-      "id": "secret-area-51-battle-saw-us-soldier-killed-by-reptilian-f45297e29a",
-      "title": "Secret Area 51 battle saw US soldier 'killed by reptilian alien', sniper claims",
-      "url": "https://www.dailystar.co.uk/news/us-news/secret-area-51-battle-saw-37785402",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-19T06:35:21+10:00",
-      "score": 20,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/secret-area-51-battle-saw-us-soldier-killed-by-reptilian-f45297e29a.svg"
-    },
-    {
-      "id": "nasa-s-top-boss-refuses-to-rule-out-alien-life-existing--2456257d2f",
-      "title": "NASA's top boss refuses to rule out alien life existing as 'we need to be open minded'",
-      "url": "https://www.dailystar.co.uk/news/us-news/nasas-top-boss-refuses-rule-37783372",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-18T03:16:49+10:00",
-      "score": 20,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/nasa-s-top-boss-refuses-to-rule-out-alien-life-existing--2456257d2f.svg"
-    },
-    {
-      "id": "uk-doctors-under-strain-removing-objects-from-rectums-ph-96d8c9112e",
-      "title": "UK doctors under strain removing objects from rectums – phones, potato and egg",
-      "url": "https://www.dailystar.co.uk/news/weird-news/thousands-items-removed-rectums-uk-37782292",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-17T18:20:25+10:00",
-      "score": 19,
-      "why": "A very ordinary object has wandered into serious news.",
-      "signals": [
-        "A very ordinary object has wandered into serious news.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/uk-doctors-under-strain-removing-objects-from-rectums-ph-96d8c9112e.svg"
+      "image": "assets/data/headline-images/how-territorians-scoffed-two-tons-of-spuds-in-10-days-2cf2085870.svg"
     },
     {
       "id": "say-cheese-nasa-reveals-stunning-image-of-giant-cosmic-s-b74a3fa7fb",
@@ -180,55 +146,130 @@
       "image": "assets/data/headline-images/giant-pacific-wave-heads-for-us-coast-as-scientists-warn-7518ef6e57.svg"
     },
     {
-      "id": "phil-foden-hat-trick-helps-manchester-city-cut-through-n-2fddc89643",
-      "title": "Phil Foden hat-trick helps Manchester City cut through noise to crush AEK Athens",
-      "url": "https://www.irishtimes.com/sport/soccer/2026/10/20/phil-foden-hat-trick-helps-manchester-city-cut-through-noise-to-crush-aek-athens/",
+      "id": "germany-accidentally-hikes-cigarette-prices-by-4-a-packe-f20df0062b",
+      "title": "Germany accidentally hikes cigarette prices by €4 a packet overnight",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/21/germany-accidentally-hikes-cigarette-prices-by-4-a-packet-overnight/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-21T07:25:49+10:00",
+      "published": "2026-10-22T00:31:50+10:00",
       "score": 10,
-      "why": "A household object has somehow reached the news desk.",
+      "why": "It has the magic news word: accidentally.",
       "signals": [
-        "A household object has somehow reached the news desk."
+        "It has the magic news word: accidentally."
       ],
-      "image": "assets/data/headline-images/phil-foden-hat-trick-helps-manchester-city-cut-through-n-2fddc89643.svg"
+      "image": "assets/data/headline-images/germany-accidentally-hikes-cigarette-prices-by-4-a-packe-f20df0062b.svg"
     },
     {
-      "id": "bread-butter-and-a-slice-of-cheese-it-s-copenhagen-s-coo-5fe7ca50fe",
-      "title": "Bread, butter and a slice of cheese: It’s Copenhagen’s coolest breakfast",
-      "url": "https://www.irishtimes.com/food/drink/2026/10/20/bread-butter-and-a-slice-of-cheese-its-copenhagens-coolest-breakfast/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-20T20:00:00+10:00",
-      "score": 9,
-      "why": "A very ordinary object has wandered into serious news.",
-      "signals": [
-        "A very ordinary object has wandered into serious news."
-      ],
-      "image": "assets/data/headline-images/bread-butter-and-a-slice-of-cheese-it-s-copenhagen-s-coo-5fe7ca50fe.svg"
-    },
-    {
-      "id": "rare-moa-egg-set-to-return-to-nz-after-selling-at-us-auc-f3f2a169cd",
-      "title": "Rare moa egg set to return to NZ after selling at US auction",
-      "url": "https://www.rnz.co.nz/news/science-and-technology/2030542/rare-moa-egg-set-to-return-to-nz-after-selling-at-us-auction",
-      "source": "RNZ News",
-      "country": "New Zealand",
+      "id": "why-jackdaw-decision-ignites-row-over-climate-and-costs-051fdbacee",
+      "title": "Why Jackdaw decision ignites row over climate and costs",
+      "url": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-20T14:01:00+10:00",
+      "published": "2026-10-21T23:46:34+10:00",
+      "score": 8,
+      "why": "It turns a small thing into a public argument.",
+      "signals": [
+        "It turns a small thing into a public argument.",
+        "It reads like the setup to a very dry question."
+      ],
+      "image": "assets/data/headline-images/why-jackdaw-decision-ignites-row-over-climate-and-costs-051fdbacee.svg"
+    },
+    {
+      "id": "lawyer-caught-by-bbc-offering-to-make-illegal-worker-fin-fa276c1657",
+      "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
+      "url": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-21T15:00:35+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/rare-moa-egg-set-to-return-to-nz-after-selling-at-us-auc-f3f2a169cd.svg"
+      "image": "assets/data/headline-images/lawyer-caught-by-bbc-offering-to-make-illegal-worker-fin-fa276c1657.svg"
+    },
+    {
+      "id": "supreme-court-appeal-opens-in-row-over-super-junior-mini-cc4138674f",
+      "title": "Supreme Court appeal opens in row over super junior ministers attending at cabinet",
+      "url": "https://www.irishtimes.com/crime-law/courts/2026/10/21/supreme-court-appeal-opens-in-row-over-super-junior-ministers-attending-at-cabinet/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-22T06:16:36+10:00",
+      "score": 7,
+      "why": "It turns a small thing into a public argument.",
+      "signals": [
+        "It turns a small thing into a public argument."
+      ],
+      "image": "assets/data/headline-images/supreme-court-appeal-opens-in-row-over-super-junior-mini-cc4138674f.svg"
+    },
+    {
+      "id": "teenager-drove-stolen-car-wrong-way-on-m50-before-crashi-3ee542ab4a",
+      "title": "Teenager drove stolen car wrong way on M50 before crashing into garden, court told",
+      "url": "https://www.irishtimes.com/crime-law/courts/2026/10/21/teenager-drove-stolen-car-wrong-way-on-m50-before-crashing-into-garden-court-told/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-22T03:44:57+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/teenager-drove-stolen-car-wrong-way-on-m50-before-crashi-3ee542ab4a.svg"
+    },
+    {
+      "id": "new-battery-electric-trains-due-to-arrive-next-year-in-b-07a6410987",
+      "title": "New battery-electric trains due to arrive next year in bid to relieve overcrowding on services",
+      "url": "https://www.irishtimes.com/transport/2026/10/19/no-rail-overcrowding-relief-until-new-battery-electric-trains-enter-service-at-end-of-2027/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-20T00:53:13+10:00",
+      "score": 7,
+      "why": "It has that classic official-plan-meets-real-life shape.",
+      "signals": [
+        "It has that classic official-plan-meets-real-life shape."
+      ],
+      "image": "assets/data/headline-images/new-battery-electric-trains-due-to-arrive-next-year-in-b-07a6410987.svg"
+    },
+    {
+      "id": "chip-muffin-bacon-and-egg-soda-how-just-eat-s-ai-struggl-eb7bdc0462",
+      "title": "Chip muffin? Bacon and egg soda? How Just Eat's AI struggled to depict Britain's regional dishes",
+      "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-22T03:04:13+10:00",
+      "score": 5,
+      "why": "Technology is present, which means dignity may be optional.",
+      "signals": [
+        "Technology is present, which means dignity may be optional.",
+        "It reads like the setup to a very dry question.",
+        "The question mark makes it feel like the host has paused for the room."
+      ],
+      "image": "assets/data/headline-images/chip-muffin-bacon-and-egg-soda-how-just-eat-s-ai-struggl-eb7bdc0462.svg"
     }
   ],
   "feed_errors": [
+    {
+      "source": "Mirror Weird News",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Daily Star Weird News",
+      "error": "HTTP Error 403: Forbidden"
+    },
     {
       "source": "The Independent",
       "error": "not well-formed (invalid token): line 1, column 0"
