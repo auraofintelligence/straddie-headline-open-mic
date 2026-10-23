@@ -1,28 +1,62 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T07:39:33.602378+10:00",
-  "generated_label": "23 Oct 2026, 07:39 AM AEST",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T07:39:18.440908+10:00",
+  "generated_label": "24 Oct 2026, 07:39 AM AEST",
   "source_count": 14,
-  "headline_count": 13,
+  "headline_count": 15,
   "headlines": [
     {
-      "id": "tech-giant-urges-australia-to-lead-ai-revolution-8ea07ea83f",
-      "title": "Tech giant urges Australia to lead AI revolution",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXh6WjRXRE9CRXVtWjhqclhKTjV1YnJXNmlQYXZDZXRIZGxLX2J6R2lwdlZFRGxvbGRmb241TnBFc0I5ZWtjOWd4eXRCTmhOYU5xT1lSeTVEdU83bWoycXRrRXA5ajhkYlV1cFAyWDllTGo5aHhTQXB4UnNkVnk3N0tOb3pQdm1HcnBHcVdTLXRhTml1dzdoSWZRZC1iVWdNTlcyMndGd1hMYTQzT0t2SjhKSGVMLTItRjNMeXJvZURQMnlybGc0QnQyMDk4SXdYejVOeDZVbDlhWUhUR3YzMkhZeXo?oc=5",
+      "id": "council-s-plan-to-cover-230k-toilet-bill-f41b03d4cd",
+      "title": "Council’s plan to cover $230k toilet bill",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTWJpcld3TzM0NjAyTUwtdHgxcW0temdpWE5uZVZUUm1mWWxsanRHdmRQT3VXSFh3eHI2ZkFfWktOQnNLVXRnOUl4U1R4UXY4UThSMEk3N19lT1JMaUQ0c3RfbWhSMHRHSVZESUxPRGN4TFZTYmkzdjhmdWtXcmZfT1U3R0w4YjdpN1VjQ29Ed0tnc3VFXzhJTDJKSFdfZHA1by1COUhkNDVkSlNJdTlGVDMzbDhtSzB1WXFORWxTakEwczl1ZVZ1OFBHVHVnS0dsa0lJUXR3bXZVRDVtS3hKTVlmMmJ5Y2c?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-23T01:26:07+10:00",
-      "score": 32,
-      "why": "The scale is doing deadpan comedy.",
+      "published": "2026-10-24T05:36:20+10:00",
+      "score": 39,
+      "why": "A household object has somehow reached the news desk.",
       "signals": [
-        "The scale is doing deadpan comedy.",
-        "Technology is present, which means dignity may be optional.",
+        "A household object has somehow reached the news desk.",
+        "A serious-news word is sharing a sentence with something very ordinary.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/tech-giant-urges-australia-to-lead-ai-revolution-8ea07ea83f.svg"
+      "image": "assets/data/headline-images/council-s-plan-to-cover-230k-toilet-bill-f41b03d4cd.svg"
+    },
+    {
+      "id": "masked-axeman-causes-chaos-on-busy-road-ea304f59fb",
+      "title": "Masked axeman causes chaos on busy road",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSjdrTFZxd25IdEQxaUhnV2N2eGVVelg0TlpmLWV0anpuSXI3cmd5TTBTTzhrV2k4UmVDcDIzekdGOXNtUHNEWnR5LXhJckVGbzhjcXJKMkpFbVVFODZVbkZlLXVnYmRxWk9wY1RxY1hwczFyWmVlMGlxWG05YnNZZFlZb1Q3NU5mNzVrR0JQYVJURlRyN0s3bHVYTXhucUVHbTRNOGRacHQ5endzMkFCclJjQ1A2NTNGOTI5ZndXWml2RHd0NUNFMG1ZOXRydEoyTE1VUXFBUVczcGNfUktXb01OWWx4aUxQeUdSemJOYmc1Y3Foa015QjBWbGxxbmNOX2pQRms0ejVhdU1qREhkMmJDeFVidw?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-23T13:07:00+10:00",
+      "score": 32,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/masked-axeman-causes-chaos-on-busy-road-ea304f59fb.svg"
+    },
+    {
+      "id": "surprise-reason-for-energy-price-plunge-a308bd072f",
+      "title": "Surprise reason for energy price plunge",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdnF6UG91V18tR3dqc21PMXl1cVlySHBoTWVDZ1NOeUhaQ21mSk82bDN5eUdqMkJFNlhSTHlaSXNiQlkxZWtwOHNCVG1sWjdaX0FXR3l0Vk5wVVlxTkwtTTBYekswSjFucDRBRWtmNFZZNmRobmVtZ0VzWnh2akRQajRNS282YmRVOUtsa1pmOFZOSjBsMmduNVRoNnc1OU5ueVVKQm9aX1N1WnVPelBNLVF3QmhmWHA1SE1DLXBsdGM3Y2dPZl9XMkRJeXFKSGt4ZG54UEt5NUdrb3cyaFhjUnotdWVzQ3QyNTk5T1ZMRFJ3MlpYTHpfNWhueXZHT0dT?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-24T01:44:59+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/surprise-reason-for-energy-price-plunge-a308bd072f.svg"
     },
     {
       "id": "stunning-polestar-5-springs-a-surprise-7c45ba83bc",
@@ -42,24 +76,6 @@
       "image": "assets/data/headline-images/stunning-polestar-5-springs-a-surprise-7c45ba83bc.svg"
     },
     {
-      "id": "how-territorians-scoffed-two-tons-of-spuds-in-10-days-2cf2085870",
-      "title": "How Territorians scoffed two tons of spuds in 10 days",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZTQtUS1VdGpjRGVlSWdsVGhhY21MNWowVldwN3hQaDZxV2NqdGVDQlNNMTA4ODZxdzRIcGdWY2xVOU81LXVJWjVVWEZCUkR5NkNZT0lPWlVBZXFybWo5V2hPVlpuTWZNYkRWQ3hvN0dNaXVWSHVwTDA1SElPcXlvaHRYbVZJLXBfRXZnR2xWTUZ1T0E0ZVpRYnRPUDJCVV9ubEhTQi1CZVdIMkxVU2FKWThBYmZkXzJtU2t6bE1ZN0NXUW90N3dSem55YzFsVHRVMUpYUXdrMDQ1Z05MR0hEY2ZNQXRobVJtdnM1SHV4cWhDVXNzQ3NhV2JtWk84a1JvNW9qdg?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-21T07:39:00+10:00",
-      "score": 29,
-      "why": "It reads like the setup to a very dry question.",
-      "signals": [
-        "It reads like the setup to a very dry question.",
-        "The specific number gives the line a dry little thud.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/how-territorians-scoffed-two-tons-of-spuds-in-10-days-2cf2085870.svg"
-    },
-    {
       "id": "inside-the-weirdly-popular-world-of-animatronics-and-the-164309944e",
       "title": "Inside the weirdly popular world of animatronics — and the fascination behind Kelly Clarkson’s bizarre bird bot drama",
       "url": "https://nypost.com/2026/10/15/lifestyle/kelly-clarkson-leads-a-list-gen-z-animatronics-obsession/",
@@ -75,6 +91,23 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/inside-the-weirdly-popular-world-of-animatronics-and-the-164309944e.svg"
+    },
+    {
+      "id": "prince-william-makes-surprise-appearance-on-graham-norto-73cbcaa127",
+      "title": "Prince William makes surprise appearance on Graham Norton for Earthshot Prize countdown",
+      "url": "https://www.mirror.co.uk/news/royals/prince-william-graham-norton-show-37801957",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-23T08:11:53+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/prince-william-makes-surprise-appearance-on-graham-norto-73cbcaa127.svg"
     },
     {
       "id": "mary-berry-s-new-chicken-pie-recipe-is-easy-to-make-and--a3be7c60c1",
@@ -163,70 +196,70 @@
       "image": "assets/data/headline-images/giant-pacific-wave-heads-for-us-coast-as-scientists-warn-7518ef6e57.svg"
     },
     {
-      "id": "hidden-for-3-000-years-giant-statues-of-ramses-ii-emerge-a21ed8a772",
-      "title": "Hidden for 3,000 years: Giant statues of Ramses II emerge from Egyptian village after farmer spots mysterious stone block in his field",
-      "url": "https://www.dailymail.com/sciencetech/article-16207903/Giant-statues-Ramses-II-Egyptian-village.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "id": "super-el-nino-is-changing-the-colour-of-the-ocean-nasa-s-1eb250d485",
+      "title": "Super El Nino is changing the colour of the OCEAN: NASA says waters have become bluer as record-breaking temperatures wipe out marine life",
+      "url": "https://www.dailymail.com/sciencetech/article-16219877/super-El-Nino-changing-colour-OCEAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "source": "Daily Mail Science",
       "country": "United Kingdom",
       "source_type": "newspaper science / odd discoveries",
       "priority": "tabloid",
-      "published": "2026-10-14T18:52:20+10:00",
-      "score": 12,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "The specific number gives the line a dry little thud.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/hidden-for-3-000-years-giant-statues-of-ramses-ii-emerge-a21ed8a772.svg"
-    },
-    {
-      "id": "prince-william-makes-surprise-appearance-on-graham-norto-68fc1aa733",
-      "title": "Prince William makes surprise appearance on Graham Norton Show",
-      "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "country": "United Kingdom",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-10-23T07:21:22+10:00",
-      "score": 7,
+      "published": "2026-10-19T22:47:05+10:00",
+      "score": 10,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/prince-william-makes-surprise-appearance-on-graham-norto-68fc1aa733.svg"
+      "image": "assets/data/headline-images/super-el-nino-is-changing-the-colour-of-the-ocean-nasa-s-1eb250d485.svg"
     },
     {
-      "id": "waikato-ecosanctuary-welcomes-more-k-k-p-and-mahoenui-gi-383b6ca4e7",
-      "title": "Waikato ecosanctuary welcomes more kākāpō and Mahoenui giant wētā",
-      "url": "https://www.rnz.co.nz/news/environment/2087780/waikato-ecosanctuary-welcomes-more-kakapo-and-mahoenui-giant-weta",
-      "source": "RNZ News",
-      "country": "New Zealand",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-10-22T16:33:26+10:00",
-      "score": 7,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy."
-      ],
-      "image": "assets/data/headline-images/waikato-ecosanctuary-welcomes-more-k-k-p-and-mahoenui-gi-383b6ca4e7.svg"
-    },
-    {
-      "id": "central-bank-fines-irish-based-unit-of-crypto-giant-coin-27ae4381ad",
-      "title": "Central Bank fines Irish-based unit of crypto giant Coinbase €3.3m",
-      "url": "https://www.irishtimes.com/business/2026/10/22/central-bank-fines-irish-based-unit-of-crypto-giant-coinbase-33m/",
-      "source": "The Irish Times",
-      "country": "Ireland",
+      "id": "mystery-over-source-of-ebola-infection-in-nigeria-fuels--9492be552f",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-22T20:55:52+10:00",
-      "score": 7,
-      "why": "The scale is doing deadpan comedy.",
+      "published": "2026-10-23T23:57:11+10:00",
+      "score": 9,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
       "signals": [
-        "The scale is doing deadpan comedy."
+        "A mystery is doing a lot of work in a very small sentence."
       ],
-      "image": "assets/data/headline-images/central-bank-fines-irish-based-unit-of-crypto-giant-coin-27ae4381ad.svg"
+      "image": "assets/data/headline-images/mystery-over-source-of-ebola-infection-in-nigeria-fuels--9492be552f.svg"
+    },
+    {
+      "id": "trump-drops-some-canada-tariffs-in-bid-to-boost-embattle-bb6eab71ea",
+      "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-24T06:36:12+10:00",
+      "score": 7,
+      "why": "It has that classic official-plan-meets-real-life shape.",
+      "signals": [
+        "It has that classic official-plan-meets-real-life shape."
+      ],
+      "image": "assets/data/headline-images/trump-drops-some-canada-tariffs-in-bid-to-boost-embattle-bb6eab71ea.svg"
+    },
+    {
+      "id": "victorians-can-now-see-a-home-s-reserve-price-before-auc-2c1e80b89f",
+      "title": "Victorians can now see a home’s reserve price before auction. What does this mean for buyers and sellers?",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/victoria-property-sale-laws-published-reserve-prices-auction",
+      "source": "The Guardian Australia",
+      "country": "Australia",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-24T00:00:29+10:00",
+      "score": 6,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "The question mark makes it feel like the host has paused for the room."
+      ],
+      "image": "assets/data/headline-images/victorians-can-now-see-a-home-s-reserve-price-before-auc-2c1e80b89f.svg"
     }
   ],
   "feed_errors": [
