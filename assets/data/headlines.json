@@ -1,10 +1,10 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T07:39:18.440908+10:00",
-  "generated_label": "24 Oct 2026, 07:39 AM AEST",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T07:38:40.489563+10:00",
+  "generated_label": "25 Oct 2026, 07:38 AM AEST",
   "source_count": 14,
-  "headline_count": 15,
+  "headline_count": 16,
   "headlines": [
     {
       "id": "council-s-plan-to-cover-230k-toilet-bill-f41b03d4cd",
@@ -14,7 +14,7 @@
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-24T05:36:20+10:00",
+      "published": "2026-10-24T17:36:24+10:00",
       "score": 39,
       "why": "A household object has somehow reached the news desk.",
       "signals": [
@@ -25,21 +25,39 @@
       "image": "assets/data/headline-images/council-s-plan-to-cover-230k-toilet-bill-f41b03d4cd.svg"
     },
     {
-      "id": "masked-axeman-causes-chaos-on-busy-road-ea304f59fb",
-      "title": "Masked axeman causes chaos on busy road",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSjdrTFZxd25IdEQxaUhnV2N2eGVVelg0TlpmLWV0anpuSXI3cmd5TTBTTzhrV2k4UmVDcDIzekdGOXNtUHNEWnR5LXhJckVGbzhjcXJKMkpFbVVFODZVbkZlLXVnYmRxWk9wY1RxY1hwczFyWmVlMGlxWG05YnNZZFlZb1Q3NU5mNzVrR0JQYVJURlRyN0s3bHVYTXhucUVHbTRNOGRacHQ5endzMkFCclJjQ1A2NTNGOTI5ZndXWml2RHd0NUNFMG1ZOXRydEoyTE1VUXFBUVczcGNfUktXb01OWWx4aUxQeUdSemJOYmc1Y3Foa015QjBWbGxxbmNOX2pQRms0ejVhdU1qREhkMmJDeFVidw?oc=5",
+      "id": "tech-giant-urges-australia-to-lead-ai-revolution-8ea07ea83f",
+      "title": "Tech giant urges Australia to lead AI revolution",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXh6WjRXRE9CRXVtWjhqclhKTjV1YnJXNmlQYXZDZXRIZGxLX2J6R2lwdlZFRGxvbGRmb241TnBFc0I5ZWtjOWd4eXRCTmhOYU5xT1lSeTVEdU83bWoycXRrRXA5ajhkYlV1cFAyWDllTGo5aHhTQXB4UnNkVnk3N0tOb3pQdm1HcnBHcVdTLXRhTml1dzdoSWZRZC1iVWdNTlcyMndGd1hMYTQzT0t2SjhKSGVMLTItRjNMeXJvZURQMnlybGc0QnQyMDk4SXdYejVOeDZVbDlhWUhUR3YzMkhZeXo?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-23T13:07:00+10:00",
+      "published": "2026-10-23T01:26:07+10:00",
+      "score": 32,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Technology is present, which means dignity may be optional.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/tech-giant-urges-australia-to-lead-ai-revolution-8ea07ea83f.svg"
+    },
+    {
+      "id": "double-trade-gf-weekend-chaos-inside-life-of-purple-powe-aed2046a4b",
+      "title": "Double trade, GF weekend chaos: Inside life of purple power couple",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNTnRaRm5MRHZsOUNydDdOZF9aNW44RE96OVMzTmdkLVN4MHRxN2lYMHRoWF9sQlBCUnc4S0lCQXBiRWJ3bjVpY1BFZ2o1NWhQOUxsUU1jTjU3QjRhSktVZjFtdEo3d2QwdzVqblZlWTFTRGpBTFNmblBjTXU0eERRRm16WjltdTFOOHpnZ2N1UnRCekJydmVtcjRBT1JGa1Z6SWJRdnAxYzd6WlVnckhmakpzZy1fOV9DYlJUSXhidkhIckJrN2VQeGxVNnJGY3NqbVlMQVNBNFJtdERuNWhOZXV1RE5Jcm9EdTk1bW56RENTWGNFUTQ3akFFVHZZVjNzTHBRZ3ZydE5Lajl1RDhxMVNOdWVDNl9OMWFZcXlZQjdFYTFrYnBZb0J5VzN4UTBkNUxDeVZzTlFUdHZKN3c?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-24T16:06:43+10:00",
       "score": 32,
       "why": "The word chaos gives it open-mic energy.",
       "signals": [
         "The word chaos gives it open-mic energy.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/masked-axeman-causes-chaos-on-busy-road-ea304f59fb.svg"
+      "image": "assets/data/headline-images/double-trade-gf-weekend-chaos-inside-life-of-purple-powe-aed2046a4b.svg"
     },
     {
       "id": "surprise-reason-for-energy-price-plunge-a308bd072f",
@@ -49,7 +67,7 @@
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-24T01:44:59+10:00",
+      "published": "2026-10-24T17:24:06+10:00",
       "score": 31,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
@@ -59,21 +77,38 @@
       "image": "assets/data/headline-images/surprise-reason-for-energy-price-plunge-a308bd072f.svg"
     },
     {
-      "id": "stunning-polestar-5-springs-a-surprise-7c45ba83bc",
-      "title": "Stunning Polestar 5 springs a surprise",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZmg1amdxUl8wdXRiaWtKcklvNWp2OGwtMWZZY0VXMlM0SFdfanFCR0xfazRnNjBOaVpLVUNWeXE2R2lwdWE4dEdvSUE3aEd5eFlHOGluV3RIb0hKMFR1QmJ0dGo2eVpKdnYxeG1IbVBKNDdURS1UalBhOGtsM184LWtLUzdBUkFEZmRNMDhGLTgzcnpndkhzaGZCWXE2Z2VOeFhJT1RLY2pMZ21nX2tuNllR?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-21T16:54:51+10:00",
-      "score": 29,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "id": "uk-s-controversial-clock-change-bizarre-history-and-grav-02771af1c0",
+      "title": "UK's controversial clock change - bizarre history and grave health warning",
+      "url": "https://www.mirror.co.uk/news/uk-news/clock-change-uk-sunday-2026-37786591",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-24T18:11:02+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Prime NT News target: Darwin front-page energy gets first look."
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
       ],
-      "image": "assets/data/headline-images/stunning-polestar-5-springs-a-surprise-7c45ba83bc.svg"
+      "image": "assets/data/headline-images/uk-s-controversial-clock-change-bizarre-history-and-grav-02771af1c0.svg"
+    },
+    {
+      "id": "pentagon-drops-explosive-new-ufo-files-detailing-alien-c-5b02b9056e",
+      "title": "Pentagon drops explosive new UFO files detailing alien corpses and egg-shaped craft",
+      "url": "https://www.dailystar.co.uk/news/latest-news/pentagon-drops-explosive-new-ufo-37807163",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-25T02:09:51+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/pentagon-drops-explosive-new-ufo-files-detailing-alien-c-5b02b9056e.svg"
     },
     {
       "id": "inside-the-weirdly-popular-world-of-animatronics-and-the-164309944e",
@@ -125,6 +160,23 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/mary-berry-s-new-chicken-pie-recipe-is-easy-to-make-and--a3be7c60c1.svg"
+    },
+    {
+      "id": "we-brought-dying-kim-jong-un-get-well-soon-card-and-chee-368afc3870",
+      "title": "We brought 'dying' Kim Jong-un 'get well soon' card and cheese – but it didn't go to plan",
+      "url": "https://www.dailystar.co.uk/news/latest-news/brought-dying-kim-jong-un-37803959",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-24T23:00:00+10:00",
+      "score": 17,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/we-brought-dying-kim-jong-un-get-well-soon-card-and-chee-368afc3870.svg"
     },
     {
       "id": "eerie-ufo-cloud-over-washington-dc-sparks-claim-of-cloak-08ccbdc482",
@@ -196,21 +248,22 @@
       "image": "assets/data/headline-images/giant-pacific-wave-heads-for-us-coast-as-scientists-warn-7518ef6e57.svg"
     },
     {
-      "id": "super-el-nino-is-changing-the-colour-of-the-ocean-nasa-s-1eb250d485",
-      "title": "Super El Nino is changing the colour of the OCEAN: NASA says waters have become bluer as record-breaking temperatures wipe out marine life",
-      "url": "https://www.dailymail.com/sciencetech/article-16219877/super-El-Nino-changing-colour-OCEAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "id": "dino-mite-discovery-belgian-tourists-discover-the-remain-642afddfcf",
+      "title": "Dino-mite discovery! Belgian tourists discover the remains of a 174 million-year-old giant ichthyosaur while strolling on a beach in Dorset",
+      "url": "https://www.dailymail.com/sciencetech/article-16226753/tourists-discover-giant-ichthyosaur-fossil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "source": "Daily Mail Science",
       "country": "United Kingdom",
       "source_type": "newspaper science / odd discoveries",
       "priority": "tabloid",
-      "published": "2026-10-19T22:47:05+10:00",
-      "score": 10,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "published": "2026-10-22T03:04:50+10:00",
+      "score": 12,
+      "why": "The scale is doing deadpan comedy.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
+        "The scale is doing deadpan comedy.",
+        "The specific number gives the line a dry little thud.",
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/super-el-nino-is-changing-the-colour-of-the-ocean-nasa-s-1eb250d485.svg"
+      "image": "assets/data/headline-images/dino-mite-discovery-belgian-tourists-discover-the-remain-642afddfcf.svg"
     },
     {
       "id": "mystery-over-source-of-ebola-infection-in-nigeria-fuels--9492be552f",
@@ -227,39 +280,6 @@
         "A mystery is doing a lot of work in a very small sentence."
       ],
       "image": "assets/data/headline-images/mystery-over-source-of-ebola-infection-in-nigeria-fuels--9492be552f.svg"
-    },
-    {
-      "id": "trump-drops-some-canada-tariffs-in-bid-to-boost-embattle-bb6eab71ea",
-      "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-24T06:36:12+10:00",
-      "score": 7,
-      "why": "It has that classic official-plan-meets-real-life shape.",
-      "signals": [
-        "It has that classic official-plan-meets-real-life shape."
-      ],
-      "image": "assets/data/headline-images/trump-drops-some-canada-tariffs-in-bid-to-boost-embattle-bb6eab71ea.svg"
-    },
-    {
-      "id": "victorians-can-now-see-a-home-s-reserve-price-before-auc-2c1e80b89f",
-      "title": "Victorians can now see a home’s reserve price before auction. What does this mean for buyers and sellers?",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/24/victoria-property-sale-laws-published-reserve-prices-auction",
-      "source": "The Guardian Australia",
-      "country": "Australia",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-24T00:00:29+10:00",
-      "score": 6,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "The question mark makes it feel like the host has paused for the room."
-      ],
-      "image": "assets/data/headline-images/victorians-can-now-see-a-home-s-reserve-price-before-auc-2c1e80b89f.svg"
     }
   ],
   "feed_errors": [
