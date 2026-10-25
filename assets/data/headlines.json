@@ -1,28 +1,28 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T07:38:40.489563+10:00",
-  "generated_label": "25 Oct 2026, 07:38 AM AEST",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T07:38:48.375265+10:00",
+  "generated_label": "26 Oct 2026, 07:38 AM AEST",
   "source_count": 14,
-  "headline_count": 16,
+  "headline_count": 18,
   "headlines": [
     {
-      "id": "council-s-plan-to-cover-230k-toilet-bill-f41b03d4cd",
-      "title": "Council’s plan to cover $230k toilet bill",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTWJpcld3TzM0NjAyTUwtdHgxcW0temdpWE5uZVZUUm1mWWxsanRHdmRQT3VXSFh3eHI2ZkFfWktOQnNLVXRnOUl4U1R4UXY4UThSMEk3N19lT1JMaUQ0c3RfbWhSMHRHSVZESUxPRGN4TFZTYmkzdjhmdWtXcmZfT1U3R0w4YjdpN1VjQ29Ed0tnc3VFXzhJTDJKSFdfZHA1by1COUhkNDVkSlNJdTlGVDMzbDhtSzB1WXFORWxTakEwczl1ZVZ1OFBHVHVnS0dsa0lJUXR3bXZVRDVtS3hKTVlmMmJ5Y2c?oc=5",
+      "id": "returning-green-reveals-how-low-blow-triggered-unusual-i-95f57c2c4f",
+      "title": "Returning Green reveals how low blow triggered ‘unusual’ injury",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbk5GNmlEQ3Zxd1VYV2xWZmlvcE9oODJtWUdvRUNDSlpURTgtZ2RuVGZ1OGQ2QnluYXZjZXBLS2QwMjJSSUV2ejdGbzc0Tnc3VDQ5dWEzV0dMdXk5dzl4OE1aWk1XZkkyZWF2ZDdPeTlMeWVuLUk0MVA0VjUxX3hJbXAzTHJiS3liQXFRUThyc1J3dUNoT3lnbW5JaUtRSjRPYUxreXZHMHhjaUk4Vkg5cVZqbUxNdll2V1FhRUtwNGVTNmg5U3BrRnEyeURSeEJoRFJ3aGVFbUp6NHJrV282bzNnUTJVaDgxSndKaHlfbVFfOHhPa0dXblFUTUltLWs0?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-24T17:36:24+10:00",
-      "score": 39,
-      "why": "A household object has somehow reached the news desk.",
+      "published": "2026-10-25T17:22:39+10:00",
+      "score": 35,
+      "why": "The headline is already trying not to laugh.",
       "signals": [
-        "A household object has somehow reached the news desk.",
-        "A serious-news word is sharing a sentence with something very ordinary.",
+        "The headline is already trying not to laugh.",
+        "It reads like the setup to a very dry question.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/council-s-plan-to-cover-230k-toilet-bill-f41b03d4cd.svg"
+      "image": "assets/data/headline-images/returning-green-reveals-how-low-blow-triggered-unusual-i-95f57c2c4f.svg"
     },
     {
       "id": "tech-giant-urges-australia-to-lead-ai-revolution-8ea07ea83f",
@@ -32,7 +32,7 @@
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-23T01:26:07+10:00",
+      "published": "2026-10-23T07:21:00+10:00",
       "score": 32,
       "why": "The scale is doing deadpan comedy.",
       "signals": [
@@ -43,38 +43,74 @@
       "image": "assets/data/headline-images/tech-giant-urges-australia-to-lead-ai-revolution-8ea07ea83f.svg"
     },
     {
-      "id": "double-trade-gf-weekend-chaos-inside-life-of-purple-powe-aed2046a4b",
-      "title": "Double trade, GF weekend chaos: Inside life of purple power couple",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNTnRaRm5MRHZsOUNydDdOZF9aNW44RE96OVMzTmdkLVN4MHRxN2lYMHRoWF9sQlBCUnc4S0lCQXBiRWJ3bjVpY1BFZ2o1NWhQOUxsUU1jTjU3QjRhSktVZjFtdEo3d2QwdzVqblZlWTFTRGpBTFNmblBjTXU0eERRRm16WjltdTFOOHpnZ2N1UnRCekJydmVtcjRBT1JGa1Z6SWJRdnAxYzd6WlVnckhmakpzZy1fOV9DYlJUSXhidkhIckJrN2VQeGxVNnJGY3NqbVlMQVNBNFJtdERuNWhOZXV1RE5Jcm9EdTk1bW56RENTWGNFUTQ3akFFVHZZVjNzTHBRZ3ZydE5Lajl1RDhxMVNOdWVDNl9OMWFZcXlZQjdFYTFrYnBZb0J5VzN4UTBkNUxDeVZzTlFUdHZKN3c?oc=5",
+      "id": "darwin-real-estate-the-latest-auction-and-sales-results--51b7d9190b",
+      "title": "Darwin real estate: The latest auction and sales results for week ending October 24",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPd0FFb1RtcWsxU2diOXlrUjFaY1hZMkp0Vm5fTzNPbzhiUy1MOHVsMFF4SnlBSEZJX2s2OVZXbEZtakZvMlo1MG9DWkprSUdDRmRqMkpITzB2Wk5jbFFPQ2dzYTVWZjIyTWhBcHl6TmphbG14enpOZmRaaTNrdE9yUUpLNzE2S05MN3BNMXBCbGtBYnpjcWpYTVhqcjhQcWhhQTNvM1d0ekJZUENCN2s3N0lJWDlxVVQyYlZ5SUtSU1JEV29zLWo1THBiUlFDellTeUFrTlVDaGVWanY3NWs1amVGZ2szbHh0dGVFdDlOS3AtWTdBNkRHUDlkRVBjajAydzVNVGJocFBpVnJSMnloTmNScUFYQQ?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-24T16:06:43+10:00",
-      "score": 32,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/double-trade-gf-weekend-chaos-inside-life-of-purple-powe-aed2046a4b.svg"
-    },
-    {
-      "id": "surprise-reason-for-energy-price-plunge-a308bd072f",
-      "title": "Surprise reason for energy price plunge",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdnF6UG91V18tR3dqc21PMXl1cVlySHBoTWVDZ1NOeUhaQ21mSk82bDN5eUdqMkJFNlhSTHlaSXNiQlkxZWtwOHNCVG1sWjdaX0FXR3l0Vk5wVVlxTkwtTTBYekswSjFucDRBRWtmNFZZNmRobmVtZ0VzWnh2akRQajRNS282YmRVOUtsa1pmOFZOSjBsMmduNVRoNnc1OU5ueVVKQm9aX1N1WnVPelBNLVF3QmhmWHA1SE1DLXBsdGM3Y2dPZl9XMkRJeXFKSGt4ZG54UEt5NUdrb3cyaFhjUnotdWVzQ3QyNTk5T1ZMRFJ3MlpYTHpfNWhueXZHT0dT?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-24T17:24:06+10:00",
+      "published": "2026-10-25T10:00:00+10:00",
       "score": 31,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/surprise-reason-for-energy-price-plunge-a308bd072f.svg"
+      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--51b7d9190b.svg"
+    },
+    {
+      "id": "stunning-polestar-5-springs-a-surprise-7c45ba83bc",
+      "title": "Stunning Polestar 5 springs a surprise",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZmg1amdxUl8wdXRiaWtKcklvNWp2OGwtMWZZY0VXMlM0SFdfanFCR0xfazRnNjBOaVpLVUNWeXE2R2lwdWE4dEdvSUE3aEd5eFlHOGluV3RIb0hKMFR1QmJ0dGo2eVpKdnYxeG1IbVBKNDdURS1UalBhOGtsM184LWtLUzdBUkFEZmRNMDhGLTgzcnpndkhzaGZCWXE2Z2VOeFhJT1RLY2pMZ21nX2tuNllR?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-21T16:54:51+10:00",
+      "score": 29,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/stunning-polestar-5-springs-a-surprise-7c45ba83bc.svg"
+    },
+    {
+      "id": "black-alien-body-modification-addict-shows-what-he-looke-222900f477",
+      "title": "'Black alien' body modification addict shows what he looked like 15 years ago",
+      "url": "https://www.mirror.co.uk/news/weird-news/black-alien-body-modification-addict-37808372",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-25T23:23:09+10:00",
+      "score": 22,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/black-alien-body-modification-addict-shows-what-he-looke-222900f477.svg"
+    },
+    {
+      "id": "black-alien-tattoo-addict-shows-what-he-looked-like-15-y-7045b8d57e",
+      "title": "'Black alien' tattoo addict shows what he looked like 15 years before extreme body mods",
+      "url": "https://www.dailystar.co.uk/real-life/black-alien-tattoo-addict-shows-37808342",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-25T21:32:59+10:00",
+      "score": 22,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/black-alien-tattoo-addict-shows-what-he-looked-like-15-y-7045b8d57e.svg"
     },
     {
       "id": "uk-s-controversial-clock-change-bizarre-history-and-grav-02771af1c0",
@@ -109,23 +145,6 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/pentagon-drops-explosive-new-ufo-files-detailing-alien-c-5b02b9056e.svg"
-    },
-    {
-      "id": "inside-the-weirdly-popular-world-of-animatronics-and-the-164309944e",
-      "title": "Inside the weirdly popular world of animatronics — and the fascination behind Kelly Clarkson’s bizarre bird bot drama",
-      "url": "https://nypost.com/2026/10/15/lifestyle/kelly-clarkson-leads-a-list-gen-z-animatronics-obsession/",
-      "source": "New York Post Weird But True",
-      "country": "United States",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-16T05:18:35+10:00",
-      "score": 18,
-      "why": "The headline is already trying not to laugh.",
-      "signals": [
-        "The headline is already trying not to laugh.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/inside-the-weirdly-popular-world-of-animatronics-and-the-164309944e.svg"
     },
     {
       "id": "prince-william-makes-surprise-appearance-on-graham-norto-73cbcaa127",
@@ -264,6 +283,22 @@
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
       "image": "assets/data/headline-images/dino-mite-discovery-belgian-tourists-discover-the-remain-642afddfcf.svg"
+    },
+    {
+      "id": "magherafelt-end-newbridge-s-hat-trick-ambitions-to-take--52174f0c7e",
+      "title": "Magherafelt end Newbridge’s hat-trick ambitions to take Derry SFC title",
+      "url": "https://www.irishtimes.com/sport/gaelic-games/2026/10/25/magherafelt-end-newbridges-hat-trick-ambitions-to-take-derry-sfc-title/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-26T05:31:36+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk."
+      ],
+      "image": "assets/data/headline-images/magherafelt-end-newbridge-s-hat-trick-ambitions-to-take--52174f0c7e.svg"
     },
     {
       "id": "mystery-over-source-of-ebola-infection-in-nigeria-fuels--9492be552f",
