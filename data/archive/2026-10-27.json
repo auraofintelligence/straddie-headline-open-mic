@@ -1,0 +1,424 @@
+{
+  "site": "Straddie Headline Open Mic",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T07:41:25.400420+10:00",
+  "generated_label": "27 Oct 2026, 07:41 AM AEST",
+  "source_count": 14,
+  "headline_count": 24,
+  "headlines": [
+    {
+      "id": "council-s-plan-to-cover-230k-toilet-bill-f41b03d4cd",
+      "title": "Council’s plan to cover $230k toilet bill",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTWJpcld3TzM0NjAyTUwtdHgxcW0temdpWE5uZVZUUm1mWWxsanRHdmRQT3VXSFh3eHI2ZkFfWktOQnNLVXRnOUl4U1R4UXY4UThSMEk3N19lT1JMaUQ0c3RfbWhSMHRHSVZESUxPRGN4TFZTYmkzdjhmdWtXcmZfT1U3R0w4YjdpN1VjQ29Ed0tnc3VFXzhJTDJKSFdfZHA1by1COUhkNDVkSlNJdTlGVDMzbDhtSzB1WXFORWxTakEwczl1ZVZ1OFBHVHVnS0dsa0lJUXR3bXZVRDVtS3hKTVlmMmJ5Y2c?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-24T18:30:00+10:00",
+      "score": 39,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk.",
+        "A serious-news word is sharing a sentence with something very ordinary.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/council-s-plan-to-cover-230k-toilet-bill-f41b03d4cd.svg"
+    },
+    {
+      "id": "secret-nt-outback-spy-base-expansion-mystery-a4e63597bc",
+      "title": "Secret NT outback spy base expansion mystery",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUjNZRjVQWTVVd2Rwb193VjNKRy1XY2NkQ0YtSF93cFRfdTBDa1BPNlY0ZUxJTzB5VEhyVDhsTDZlTjJ1Q2lTaG5oVmRaMk1jakJxVkt3anl6aTVSLTlVeXAwdTNXeVg5SGZGR2dKSU5SUkZWcEpYV1RWYU4yUUpoR014SzdQeVhVQlZMbXpORzNJQjQ2Z3pxcWdHdHhBMVp0b3FQQ19Vb2JEMllsOHQ5d0ViV1psNkNMNG1vM1JqYkJwMEpjNTg5Vkw0dF9hZUhsaGhFRFhCR2xZa0x4WmViU3JBS3VBRHR3Qkg3RHRzSVVtUQ?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-27T05:39:22+10:00",
+      "score": 33,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/secret-nt-outback-spy-base-expansion-mystery-a4e63597bc.svg"
+    },
+    {
+      "id": "tech-giant-urges-australia-to-lead-ai-revolution-8ea07ea83f",
+      "title": "Tech giant urges Australia to lead AI revolution",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXh6WjRXRE9CRXVtWjhqclhKTjV1YnJXNmlQYXZDZXRIZGxLX2J6R2lwdlZFRGxvbGRmb241TnBFc0I5ZWtjOWd4eXRCTmhOYU5xT1lSeTVEdU83bWoycXRrRXA5ajhkYlV1cFAyWDllTGo5aHhTQXB4UnNkVnk3N0tOb3pQdm1HcnBHcVdTLXRhTml1dzdoSWZRZC1iVWdNTlcyMndGd1hMYTQzT0t2SjhKSGVMLTItRjNMeXJvZURQMnlybGc0QnQyMDk4SXdYejVOeDZVbDlhWUhUR3YzMkhZeXo?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-23T07:21:00+10:00",
+      "score": 32,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Technology is present, which means dignity may be optional.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/tech-giant-urges-australia-to-lead-ai-revolution-8ea07ea83f.svg"
+    },
+    {
+      "id": "darwin-real-estate-the-latest-auction-and-sales-results--af15ab05b2",
+      "title": "Darwin real estate: The latest auction and sales results for week ending October 25",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTkw2YkJ6ZWRYS2d6c0trU3dNQTF1NUMtRVRSdW9kbXgyazZDRzVYWkdUYXVzWVZaZWN0M2xfWHNNdGhxSHB2TU5reWFiMEFsNTlTVlZkTFZKYWpmQncwRXdEcmZPZWNmM2QzaHM1eWpSV3R1WS1ydFZRSnV5WVVZNm9lYWt4Zm5WZ0NZUUhiT3lnQlBiY3NFZXUxTE9vNjNkclhsMnNWYWZJZmJPeGhfdXdnelZUM0pPY2RvLWl4Y19XaDA1M0NRUHJGWExGV0laUDM0cFBNZHdFRVJNWkI3eFVERk93S2w3NEcwWjdvbGt4MGt6dG5BeklpWHVhODhpdzFsX0loWFRTMnpZZENxSXJjYXloZw?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-27T03:30:00+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--af15ab05b2.svg"
+    },
+    {
+      "id": "black-alien-body-modification-addict-shows-what-he-looke-222900f477",
+      "title": "'Black alien' body modification addict shows what he looked like 15 years ago",
+      "url": "https://www.mirror.co.uk/news/weird-news/black-alien-body-modification-addict-37808372",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-25T23:23:09+10:00",
+      "score": 22,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/black-alien-body-modification-addict-shows-what-he-looke-222900f477.svg"
+    },
+    {
+      "id": "black-alien-tattoo-addict-shows-what-he-looked-like-15-y-7045b8d57e",
+      "title": "'Black alien' tattoo addict shows what he looked like 15 years before extreme body mods",
+      "url": "https://www.dailystar.co.uk/real-life/black-alien-tattoo-addict-shows-37808342",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-25T21:32:59+10:00",
+      "score": 22,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/black-alien-tattoo-addict-shows-what-he-looked-like-15-y-7045b8d57e.svg"
+    },
+    {
+      "id": "i-knew-university-wasn-t-for-me-so-i-run-a-fish-and-chip-b4980e8d89",
+      "title": "'I knew university wasn't for me - so I run a fish and chip shop instead'",
+      "url": "https://www.mirror.co.uk/news/real-life-stories/i-knew-university-wasnt-run-37810029",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-26T19:44:51+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/i-knew-university-wasn-t-for-me-so-i-run-a-fish-and-chip-b4980e8d89.svg"
+    },
+    {
+      "id": "uk-s-controversial-clock-change-bizarre-history-and-grav-02771af1c0",
+      "title": "UK's controversial clock change - bizarre history and grave health warning",
+      "url": "https://www.mirror.co.uk/news/uk-news/clock-change-uk-sunday-2026-37786591",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-24T18:11:02+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/uk-s-controversial-clock-change-bizarre-history-and-grav-02771af1c0.svg"
+    },
+    {
+      "id": "usa-wants-to-develop-star-trek-style-space-travel-to-hun-a3049462c9",
+      "title": "USA wants to develop Star Trek-style space travel to hunt down aliens, documents show",
+      "url": "https://www.dailystar.co.uk/news/latest-news/usa-wants-develop-star-trek-37808677",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-26T07:55:24+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/usa-wants-to-develop-star-trek-style-space-travel-to-hun-a3049462c9.svg"
+    },
+    {
+      "id": "pentagon-drops-explosive-new-ufo-files-detailing-alien-c-5b02b9056e",
+      "title": "Pentagon drops explosive new UFO files detailing alien corpses and egg-shaped craft",
+      "url": "https://www.dailystar.co.uk/news/latest-news/pentagon-drops-explosive-new-ufo-37807163",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-25T02:09:51+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/pentagon-drops-explosive-new-ufo-files-detailing-alien-c-5b02b9056e.svg"
+    },
+    {
+      "id": "prince-william-makes-surprise-appearance-on-graham-norto-73cbcaa127",
+      "title": "Prince William makes surprise appearance on Graham Norton for Earthshot Prize countdown",
+      "url": "https://www.mirror.co.uk/news/royals/prince-william-graham-norton-show-37801957",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-23T08:11:53+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/prince-william-makes-surprise-appearance-on-graham-norto-73cbcaa127.svg"
+    },
+    {
+      "id": "mary-berry-s-new-chicken-pie-recipe-is-easy-to-make-and--a3be7c60c1",
+      "title": "Mary Berry's new chicken pie recipe is easy to make and will be 'a hit with the family'",
+      "url": "https://www.mirror.co.uk/lifestyle/food-drink/mary-berrys-new-chicken-pie-37794821",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-21T21:39:07+10:00",
+      "score": 17,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/mary-berry-s-new-chicken-pie-recipe-is-easy-to-make-and--a3be7c60c1.svg"
+    },
+    {
+      "id": "we-brought-dying-kim-jong-un-get-well-soon-card-and-chee-368afc3870",
+      "title": "We brought 'dying' Kim Jong-un 'get well soon' card and cheese – but it didn't go to plan",
+      "url": "https://www.dailystar.co.uk/news/latest-news/brought-dying-kim-jong-un-37803959",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-24T23:00:00+10:00",
+      "score": 17,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/we-brought-dying-kim-jong-un-get-well-soon-card-and-chee-368afc3870.svg"
+    },
+    {
+      "id": "eerie-ufo-cloud-over-washington-dc-sparks-claim-of-cloak-08ccbdc482",
+      "title": "Eerie 'UFO cloud' over Washington DC sparks claim of cloaked alien craft hiding in the sky",
+      "url": "https://www.dailymail.com/sciencetech/article-16221643/cloaked-alien-craft-UFO-cloud-washington-dc.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-21T06:59:57+10:00",
+      "score": 15,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/eerie-ufo-cloud-over-washington-dc-sparks-claim-of-cloak-08ccbdc482.svg"
+    },
+    {
+      "id": "forgotten-particle-could-answer-mystery-of-why-we-exist--68324b59fb",
+      "title": "Forgotten particle could answer mystery of why we exist, say physicists",
+      "url": "https://www.dailymail.com/sciencetech/article-16220693/Forgotten-particle-answer-mystery-exist.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-20T09:01:59+10:00",
+      "score": 15,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "It reads like the setup to a very dry question.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/forgotten-particle-could-answer-mystery-of-why-we-exist--68324b59fb.svg"
+    },
+    {
+      "id": "chaos-as-massive-google-outage-crashes-banking-apps-with-15814eb6c8",
+      "title": "Chaos as massive Google outage crashes banking apps, with NHS and court service also affected",
+      "url": "https://www.dailymail.com/sciencetech/article-16223219/Google-Huge-outage-hits-hundreds-websites-apps-Google-Cloud-service-issues.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-21T02:29:39+10:00",
+      "score": 13,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/chaos-as-massive-google-outage-crashes-banking-apps-with-15814eb6c8.svg"
+    },
+    {
+      "id": "giant-pacific-wave-heads-for-us-coast-as-scientists-warn-7518ef6e57",
+      "title": "Giant Pacific 'wave' heads for US coast as scientists warn of 'quintuple whammy' flooding threat",
+      "url": "https://www.dailymail.com/sciencetech/article-16221201/giant-kelvin-wave-california-floods.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-20T14:42:04+10:00",
+      "score": 12,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/giant-pacific-wave-heads-for-us-coast-as-scientists-warn-7518ef6e57.svg"
+    },
+    {
+      "id": "dino-mite-discovery-belgian-tourists-discover-the-remain-642afddfcf",
+      "title": "Dino-mite discovery! Belgian tourists discover the remains of a 174 million-year-old giant ichthyosaur while strolling on a beach in Dorset",
+      "url": "https://www.dailymail.com/sciencetech/article-16226753/tourists-discover-giant-ichthyosaur-fossil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-22T03:04:50+10:00",
+      "score": 12,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "The specific number gives the line a dry little thud.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/dino-mite-discovery-belgian-tourists-discover-the-remain-642afddfcf.svg"
+    },
+    {
+      "id": "zero-energy-companionship-bizarre-hobby-takes-seed-among-df26996a41",
+      "title": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
+      "url": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-26T19:47:14+10:00",
+      "score": 10,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh."
+      ],
+      "image": "assets/data/headline-images/zero-energy-companionship-bizarre-hobby-takes-seed-among-df26996a41.svg"
+    },
+    {
+      "id": "farmers-wear-cost-as-starving-flying-foxes-damage-banana-347b4d5316",
+      "title": "Farmers wear cost as starving flying foxes damage banana, berry crops",
+      "url": "https://www.abc.net.au/news/2026-10-27/flying-foxes-damage-banana-berry-crops-seeking-food/107301176",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-27T06:00:12+10:00",
+      "score": 9,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news."
+      ],
+      "image": "assets/data/headline-images/farmers-wear-cost-as-starving-flying-foxes-damage-banana-347b4d5316.svg"
+    },
+    {
+      "id": "mystery-over-source-of-ebola-infection-in-nigeria-fuels--9492be552f",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-23T23:57:11+10:00",
+      "score": 9,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence."
+      ],
+      "image": "assets/data/headline-images/mystery-over-source-of-ebola-infection-in-nigeria-fuels--9492be552f.svg"
+    },
+    {
+      "id": "the-chaos-in-france-is-a-warning-signal-for-australia-s--5b661a1a4f",
+      "title": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
+      "url": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-27T00:00:43+10:00",
+      "score": 8,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy."
+      ],
+      "image": "assets/data/headline-images/the-chaos-in-france-is-a-warning-signal-for-australia-s--5b661a1a4f.svg"
+    },
+    {
+      "id": "southern-california-prepares-for-flooding-amid-forecast--c5daefeaf0",
+      "title": "Southern California prepares for flooding amid forecast of ‘record-breaking tides’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-27T04:39:27+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/southern-california-prepares-for-flooding-amid-forecast--c5daefeaf0.svg"
+    },
+    {
+      "id": "versatile-leicester-fainga-anuku-named-as-loose-forward--42146aafa9",
+      "title": "Versatile Leicester Fainga'anuku named as loose forward in All Blacks' northern squad",
+      "url": "https://www.rnz.co.nz/news/sport/2174974/versatile-leicester-fainga-anuku-named-as-loose-forward-in-all-blacks-northern-squad",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-27T06:02:32+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/versatile-leicester-fainga-anuku-named-as-loose-forward--42146aafa9.svg"
+    }
+  ],
+  "feed_errors": [
+    {
+      "source": "The Independent",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
+}
