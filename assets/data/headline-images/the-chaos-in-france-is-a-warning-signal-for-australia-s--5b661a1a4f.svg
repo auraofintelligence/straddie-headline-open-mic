@@ -11,7 +11,7 @@
   <rect x="18" y="18" width="724" height="484" rx="10" fill="url(#paper)" filter="url(#paper-shadow)"/>
   <rect x="18" y="18" width="724" height="484" rx="10" fill="none" stroke="#15110f" stroke-opacity="0.18"/>
   <rect x="18" y="18" width="724" height="58" rx="10" fill="#15110f"/>
-  <text x="48" y="55" class="masthead">The Guardian World</text>
+  <text x="48" y="55" class="masthead">The Guardian Australia</text>
   <text x="712" y="55" class="date" text-anchor="end">27 Oct 2026</text>
   <line x1="48" y1="94" x2="712" y2="94" stroke="#8f2d2d" stroke-width="6"/>
   <text x="48" y="132" class="headline">The chaos in France is</text>
