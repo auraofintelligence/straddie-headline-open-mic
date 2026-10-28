@@ -1,10 +1,10 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T07:38:12.384562+10:00",
-  "generated_label": "28 Oct 2026, 07:38 AM AEST",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T07:37:28.877491+10:00",
+  "generated_label": "29 Oct 2026, 07:37 AM AEST",
   "source_count": 14,
-  "headline_count": 24,
+  "headline_count": 22,
   "headlines": [
     {
       "id": "secret-nt-outback-spy-base-expansion-mystery-a4e63597bc",
@@ -24,21 +24,38 @@
       "image": "assets/data/headline-images/secret-nt-outback-spy-base-expansion-mystery-a4e63597bc.svg"
     },
     {
-      "id": "darwin-real-estate-the-latest-auction-and-sales-results--af15ab05b2",
-      "title": "Darwin real estate: The latest auction and sales results for week ending October 25",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTkw2YkJ6ZWRYS2d6c0trU3dNQTF1NUMtRVRSdW9kbXgyazZDRzVYWkdUYXVzWVZaZWN0M2xfWHNNdGhxSHB2TU5reWFiMEFsNTlTVlZkTFZKYWpmQncwRXdEcmZPZWNmM2QzaHM1eWpSV3R1WS1ydFZRSnV5WVVZNm9lYWt4Zm5WZ0NZUUhiT3lnQlBiY3NFZXUxTE9vNjNkclhsMnNWYWZJZmJPeGhfdXdnelZUM0pPY2RvLWl4Y19XaDA1M0NRUHJGWExGV0laUDM0cFBNZHdFRVJNWkI3eFVERk93S2w3NEcwWjdvbGt4MGt6dG5BeklpWHVhODhpdzFsX0loWFRTMnpZZENxSXJjYXloZw?oc=5",
+      "id": "8-5bn-wiped-car-giant-slumps-slashes-jobs-c8c40f489a",
+      "title": "$8.5bn wiped: Car giant slumps, slashes jobs",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamZzWE1VbmVia1dBeDhXUkdJNmNOTzV1ZWpVeVE4d3Jxd09vMWpaaDlCSE55UW02WVphWU43U2FJNUpLazdzelJrQl9TajNfbUUyQ29Hc0lNTFJYZFdET3JMTnNSZXdUbksza2VyRmx5M25ZN0swX0JGbW0xeWlPSXFvUTNxeE1pSE5NSzFZZEV1dTNVWVl4RGVUam1uTnhLNEpfTWEtM0FKZ2RSVjRCYkY4cXF5RzBwMlhzWHJVWTVIZnEzb01RNmZpcTNpd3h3RkE?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-27T03:30:00+10:00",
+      "published": "2026-10-28T23:01:48+10:00",
       "score": 31,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "why": "The scale is doing deadpan comedy.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
+        "The scale is doing deadpan comedy.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--af15ab05b2.svg"
+      "image": "assets/data/headline-images/8-5bn-wiped-car-giant-slumps-slashes-jobs-c8c40f489a.svg"
+    },
+    {
+      "id": "car-giant-wrong-brings-back-vital-feature-dec59b0ac6",
+      "title": "Car giant wrong, brings back vital feature",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON2hlZ21Dbm45STFNZ3RKaGZzSzNnR0xTUjROLWU5a083SjByMS1QVktPamZJeWFaQnN0bEJsTDJrUUowNnFMVGJLQ3RPczVfUm8yQUZ4WnJ2NnlJZE1ybnZBNlNkSlZyMEM5dmRoandxSmRtZkFTZmV0MnJfOXhCQ1cwNTdIQmUyXzNnbGpHVzhOclBkRjhMcXE5eEJpN3FSdWpCVmswU1NpSnoxUDY1T05qclBCUzdoaUNFQ1lWNHNJdkhLRm5namdBTkJVY1dSMlctaWlFSVNyVWdNNWpISlNvQ1NLVjRhR0daZml3?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-28T16:06:21+10:00",
+      "score": 31,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/car-giant-wrong-brings-back-vital-feature-dec59b0ac6.svg"
     },
     {
       "id": "bradley-walsh-s-first-question-to-an-alien-what-s-your-f-b48ad1d93e",
@@ -129,23 +146,6 @@
       "image": "assets/data/headline-images/i-knew-university-wasn-t-for-me-so-i-run-a-fish-and-chip-b4980e8d89.svg"
     },
     {
-      "id": "uk-s-controversial-clock-change-bizarre-history-and-grav-02771af1c0",
-      "title": "UK's controversial clock change - bizarre history and grave health warning",
-      "url": "https://www.mirror.co.uk/news/uk-news/clock-change-uk-sunday-2026-37786591",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-24T18:11:02+10:00",
-      "score": 20,
-      "why": "The headline is already trying not to laugh.",
-      "signals": [
-        "The headline is already trying not to laugh.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/uk-s-controversial-clock-change-bizarre-history-and-grav-02771af1c0.svg"
-    },
-    {
       "id": "usa-wants-to-develop-star-trek-style-space-travel-to-hun-a3049462c9",
       "title": "USA wants to develop Star Trek-style space travel to hunt down aliens, documents show",
       "url": "https://www.dailystar.co.uk/news/latest-news/usa-wants-develop-star-trek-37808677",
@@ -180,23 +180,6 @@
       "image": "assets/data/headline-images/pentagon-drops-explosive-new-ufo-files-detailing-alien-c-5b02b9056e.svg"
     },
     {
-      "id": "prince-william-makes-surprise-appearance-on-graham-norto-73cbcaa127",
-      "title": "Prince William makes surprise appearance on Graham Norton for Earthshot Prize countdown",
-      "url": "https://www.mirror.co.uk/news/royals/prince-william-graham-norton-show-37801957",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-23T08:11:53+10:00",
-      "score": 17,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/prince-william-makes-surprise-appearance-on-graham-norto-73cbcaa127.svg"
-    },
-    {
       "id": "we-brought-dying-kim-jong-un-get-well-soon-card-and-chee-368afc3870",
       "title": "We brought 'dying' Kim Jong-un 'get well soon' card and cheese – but it didn't go to plan",
       "url": "https://www.dailystar.co.uk/news/latest-news/brought-dying-kim-jong-un-37803959",
@@ -212,6 +195,23 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/we-brought-dying-kim-jong-un-get-well-soon-card-and-chee-368afc3870.svg"
+    },
+    {
+      "id": "a-giant-ball-of-2-800-000-eels-is-having-an-orgy-off-the-578480aba5",
+      "title": "A giant ball of 2,800,000 eels is having an orgy off the coast of Australia",
+      "url": "https://metro.co.uk/2026/10/28/a-giant-ball-2-800-000-eels-orgy-off-coast-australia-29745511/",
+      "source": "Metro Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-28T22:36:43+10:00",
+      "score": 17,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/a-giant-ball-of-2-800-000-eels-is-having-an-orgy-off-the-578480aba5.svg"
     },
     {
       "id": "britain-braces-for-a-winter-of-chaos-after-two-deadly-st-50474f1eb6",
@@ -301,23 +301,6 @@
       "image": "assets/data/headline-images/chaos-as-massive-google-outage-crashes-banking-apps-with-15814eb6c8.svg"
     },
     {
-      "id": "gemma-hayes-on-becoming-a-victim-of-ai-fraud-it-feels-st-9b9b917871",
-      "title": "Gemma Hayes on becoming a victim of AI fraud: ‘It feels strange and odd and dangerous’",
-      "url": "https://www.irishtimes.com/culture/music/2026/10/27/gemma-hayes-on-becoming-a-victim-of-ai-fraud-it-feels-strange-and-odd-and-dangerous/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-28T00:26:36+10:00",
-      "score": 11,
-      "why": "The headline is already trying not to laugh.",
-      "signals": [
-        "The headline is already trying not to laugh.",
-        "Technology is present, which means dignity may be optional."
-      ],
-      "image": "assets/data/headline-images/gemma-hayes-on-becoming-a-victim-of-ai-fraud-it-feels-st-9b9b917871.svg"
-    },
-    {
       "id": "zero-energy-companionship-bizarre-hobby-takes-seed-among-df26996a41",
       "title": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
       "url": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
@@ -334,84 +317,70 @@
       "image": "assets/data/headline-images/zero-energy-companionship-bizarre-hobby-takes-seed-among-df26996a41.svg"
     },
     {
-      "id": "mystery-over-source-of-ebola-infection-in-nigeria-fuels--9492be552f",
-      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
+      "id": "what-will-ocr-surprise-mean-for-home-loan-rates-abbbe568f5",
+      "title": "What will OCR surprise mean for home loan rates?",
+      "url": "https://www.rnz.co.nz/news/business/2205241/what-will-ocr-surprise-mean-for-home-loan-rates",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-23T23:57:11+10:00",
-      "score": 9,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "published": "2026-10-28T15:06:25+10:00",
+      "score": 8,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "A mystery is doing a lot of work in a very small sentence."
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "The question mark makes it feel like the host has paused for the room."
       ],
-      "image": "assets/data/headline-images/mystery-over-source-of-ebola-infection-in-nigeria-fuels--9492be552f.svg"
+      "image": "assets/data/headline-images/what-will-ocr-surprise-mean-for-home-loan-rates-abbbe568f5.svg"
     },
     {
-      "id": "the-chaos-in-france-is-a-warning-signal-for-australia-s--5b661a1a4f",
-      "title": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
-      "url": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
-      "source": "The Guardian Australia",
-      "country": "Australia",
+      "id": "dave-hannigan-baseball-on-brink-of-chaos-as-billionaire--93a5fff0ac",
+      "title": "Dave Hannigan: Baseball on brink of chaos as billionaire owners say players earn too much",
+      "url": "https://www.irishtimes.com/sport/2026/10/28/dave-hannigan-baseball-on-brink-of-chaos-as-billionaire-owners-say-players-earn-too-much/",
+      "source": "The Irish Times",
+      "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-27T08:45:35+10:00",
+      "published": "2026-10-28T22:02:39+10:00",
       "score": 8,
       "why": "The word chaos gives it open-mic energy.",
       "signals": [
         "The word chaos gives it open-mic energy."
       ],
-      "image": "assets/data/headline-images/the-chaos-in-france-is-a-warning-signal-for-australia-s--5b661a1a4f.svg"
+      "image": "assets/data/headline-images/dave-hannigan-baseball-on-brink-of-chaos-as-billionaire--93a5fff0ac.svg"
     },
     {
-      "id": "rare-nanotyrannus-skeleton-sells-for-47-3m-at-new-york-a-e1230cb73c",
-      "title": "Rare Nanotyrannus skeleton, sells for $47.3m at New York auction",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-28T07:16:38+10:00",
-      "score": 7,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
-      ],
-      "image": "assets/data/headline-images/rare-nanotyrannus-skeleton-sells-for-47-3m-at-new-york-a-e1230cb73c.svg"
-    },
-    {
-      "id": "nanotyrannus-skeleton-sells-for-47-3m-in-new-york-auctio-88b3a184e9",
-      "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "country": "United Kingdom",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-10-28T03:10:15+10:00",
-      "score": 7,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
-      ],
-      "image": "assets/data/headline-images/nanotyrannus-skeleton-sells-for-47-3m-in-new-york-auctio-88b3a184e9.svg"
-    },
-    {
-      "id": "rightful-homes-for-more-than-200-stolen-garden-gnomes-so-9ef42a7f45",
-      "title": "Rightful homes for more than 200 stolen garden gnomes sought by police",
-      "url": "https://www.rnz.co.nz/news/crime-and-justice/2194290/rightful-homes-for-more-than-200-stolen-garden-gnomes-sought-by-police",
+      "id": "ocr-surprise-a-mixed-bag-for-retailers-c32abb763b",
+      "title": "OCR surprise a mixed bag for retailers",
+      "url": "https://www.rnz.co.nz/news/business/2211361/ocr-surprise-a-mixed-bag-for-retailers",
       "source": "RNZ News",
       "country": "New Zealand",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-27T16:49:05+10:00",
+      "published": "2026-10-29T05:55:18+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/rightful-homes-for-more-than-200-stolen-garden-gnomes-so-9ef42a7f45.svg"
+      "image": "assets/data/headline-images/ocr-surprise-a-mixed-bag-for-retailers-c32abb763b.svg"
+    },
+    {
+      "id": "can-2-000-people-in-a-hangar-in-sioux-city-influence-the-d4eeeae5ed",
+      "title": "Can 2,000 people in a hangar in Sioux City influence the US midterms? Trump is banking on it",
+      "url": "https://www.irishtimes.com/world/us/2026/10/23/can-2000-people-in-a-hangar-in-sioux-city-influence-the-midterms-trump-is-banking-on-it/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-23T16:00:20+10:00",
+      "score": 5,
+      "why": "The question mark makes it feel like the host has paused for the room.",
+      "signals": [
+        "The question mark makes it feel like the host has paused for the room.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/can-2-000-people-in-a-hangar-in-sioux-city-influence-the-d4eeeae5ed.svg"
     }
   ],
   "feed_errors": [
