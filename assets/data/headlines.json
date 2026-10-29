@@ -1,62 +1,11 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T07:37:28.877491+10:00",
-  "generated_label": "29 Oct 2026, 07:37 AM AEST",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T07:37:39.510403+10:00",
+  "generated_label": "30 Oct 2026, 07:37 AM AEST",
   "source_count": 14,
-  "headline_count": 22,
+  "headline_count": 16,
   "headlines": [
-    {
-      "id": "secret-nt-outback-spy-base-expansion-mystery-a4e63597bc",
-      "title": "Secret NT outback spy base expansion mystery",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUjNZRjVQWTVVd2Rwb193VjNKRy1XY2NkQ0YtSF93cFRfdTBDa1BPNlY0ZUxJTzB5VEhyVDhsTDZlTjJ1Q2lTaG5oVmRaMk1jakJxVkt3anl6aTVSLTlVeXAwdTNXeVg5SGZGR2dKSU5SUkZWcEpYV1RWYU4yUUpoR014SzdQeVhVQlZMbXpORzNJQjQ2Z3pxcWdHdHhBMVp0b3FQQ19Vb2JEMllsOHQ5d0ViV1psNkNMNG1vM1JqYkJwMEpjNTg5Vkw0dF9hZUhsaGhFRFhCR2xZa0x4WmViU3JBS3VBRHR3Qkg3RHRzSVVtUQ?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-27T09:51:00+10:00",
-      "score": 33,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
-      "signals": [
-        "A mystery is doing a lot of work in a very small sentence.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/secret-nt-outback-spy-base-expansion-mystery-a4e63597bc.svg"
-    },
-    {
-      "id": "8-5bn-wiped-car-giant-slumps-slashes-jobs-c8c40f489a",
-      "title": "$8.5bn wiped: Car giant slumps, slashes jobs",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamZzWE1VbmVia1dBeDhXUkdJNmNOTzV1ZWpVeVE4d3Jxd09vMWpaaDlCSE55UW02WVphWU43U2FJNUpLazdzelJrQl9TajNfbUUyQ29Hc0lNTFJYZFdET3JMTnNSZXdUbksza2VyRmx5M25ZN0swX0JGbW0xeWlPSXFvUTNxeE1pSE5NSzFZZEV1dTNVWVl4RGVUam1uTnhLNEpfTWEtM0FKZ2RSVjRCYkY4cXF5RzBwMlhzWHJVWTVIZnEzb01RNmZpcTNpd3h3RkE?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-28T23:01:48+10:00",
-      "score": 31,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/8-5bn-wiped-car-giant-slumps-slashes-jobs-c8c40f489a.svg"
-    },
-    {
-      "id": "car-giant-wrong-brings-back-vital-feature-dec59b0ac6",
-      "title": "Car giant wrong, brings back vital feature",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON2hlZ21Dbm45STFNZ3RKaGZzSzNnR0xTUjROLWU5a083SjByMS1QVktPamZJeWFaQnN0bEJsTDJrUUowNnFMVGJLQ3RPczVfUm8yQUZ4WnJ2NnlJZE1ybnZBNlNkSlZyMEM5dmRoandxSmRtZkFTZmV0MnJfOXhCQ1cwNTdIQmUyXzNnbGpHVzhOclBkRjhMcXE5eEJpN3FSdWpCVmswU1NpSnoxUDY1T05qclBCUzdoaUNFQ1lWNHNJdkhLRm5namdBTkJVY1dSMlctaWlFSVNyVWdNNWpISlNvQ1NLVjRhR0daZml3?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-28T16:06:21+10:00",
-      "score": 31,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/car-giant-wrong-brings-back-vital-feature-dec59b0ac6.svg"
-    },
     {
       "id": "bradley-walsh-s-first-question-to-an-alien-what-s-your-f-b48ad1d93e",
       "title": "Bradley Walsh's first question to an alien ‘What’s your favourite biscuit? Mine’s custard cream’",
@@ -74,24 +23,6 @@
         "The question mark makes it feel like the host has paused for the room."
       ],
       "image": "assets/data/headline-images/bradley-walsh-s-first-question-to-an-alien-what-s-your-f-b48ad1d93e.svg"
-    },
-    {
-      "id": "black-alien-body-modification-addict-shows-what-he-looke-222900f477",
-      "title": "'Black alien' body modification addict shows what he looked like 15 years ago",
-      "url": "https://www.mirror.co.uk/news/weird-news/black-alien-body-modification-addict-37808372",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-25T23:23:09+10:00",
-      "score": 22,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "The specific number gives the line a dry little thud.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/black-alien-body-modification-addict-shows-what-he-looke-222900f477.svg"
     },
     {
       "id": "black-alien-tattoo-addict-shows-what-he-looked-like-15-y-7045b8d57e",
@@ -129,23 +60,6 @@
       "image": "assets/data/headline-images/first-fossil-evidence-of-marine-amphibian-stuns-paleonto-83dbb8dc97.svg"
     },
     {
-      "id": "i-knew-university-wasn-t-for-me-so-i-run-a-fish-and-chip-b4980e8d89",
-      "title": "'I knew university wasn't for me - so I run a fish and chip shop instead'",
-      "url": "https://www.mirror.co.uk/news/real-life-stories/i-knew-university-wasnt-run-37810029",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-26T19:44:51+10:00",
-      "score": 20,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/i-knew-university-wasn-t-for-me-so-i-run-a-fish-and-chip-b4980e8d89.svg"
-    },
-    {
       "id": "usa-wants-to-develop-star-trek-style-space-travel-to-hun-a3049462c9",
       "title": "USA wants to develop Star Trek-style space travel to hunt down aliens, documents show",
       "url": "https://www.dailystar.co.uk/news/latest-news/usa-wants-develop-star-trek-37808677",
@@ -178,6 +92,23 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/pentagon-drops-explosive-new-ufo-files-detailing-alien-c-5b02b9056e.svg"
+    },
+    {
+      "id": "she-wouldn-t-let-go-bride-nearly-borne-aloft-by-giant-ba-ca40ae9af1",
+      "title": "‘She wouldn’t let go:’ Bride nearly borne aloft by giant balloons during windy wedding photo-op",
+      "url": "https://nypost.com/2026/10/29/lifestyle/bride-nearly-borne-aloft-by-giant-balloons-during-windy-wedding-photo-op/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-30T00:32:23+10:00",
+      "score": 17,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/she-wouldn-t-let-go-bride-nearly-borne-aloft-by-giant-ba-ca40ae9af1.svg"
     },
     {
       "id": "we-brought-dying-kim-jong-un-get-well-soon-card-and-chee-368afc3870",
@@ -301,86 +232,52 @@
       "image": "assets/data/headline-images/chaos-as-massive-google-outage-crashes-banking-apps-with-15814eb6c8.svg"
     },
     {
-      "id": "zero-energy-companionship-bizarre-hobby-takes-seed-among-df26996a41",
-      "title": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
-      "url": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
+      "id": "rare-love-letters-to-french-aristocrat-shed-light-on-lou-68bf36b3e9",
+      "title": "Rare love letters to French aristocrat shed light on Louis XVI maritime mystery",
+      "url": "https://www.theguardian.com/world/2026/oct/29/rare-love-letters-french-aristocrat-la-perouse-maritime-mystery",
       "source": "The Guardian World",
       "country": "United Kingdom",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-26T19:47:14+10:00",
-      "score": 10,
-      "why": "The headline is already trying not to laugh.",
+      "published": "2026-10-29T21:00:30+10:00",
+      "score": 9,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
       "signals": [
-        "The headline is already trying not to laugh."
+        "A mystery is doing a lot of work in a very small sentence."
       ],
-      "image": "assets/data/headline-images/zero-energy-companionship-bizarre-hobby-takes-seed-among-df26996a41.svg"
+      "image": "assets/data/headline-images/rare-love-letters-to-french-aristocrat-shed-light-on-lou-68bf36b3e9.svg"
     },
     {
-      "id": "what-will-ocr-surprise-mean-for-home-loan-rates-abbbe568f5",
-      "title": "What will OCR surprise mean for home loan rates?",
-      "url": "https://www.rnz.co.nz/news/business/2205241/what-will-ocr-surprise-mean-for-home-loan-rates",
-      "source": "RNZ News",
-      "country": "New Zealand",
+      "id": "quick-hits-marnus-caught-in-ugly-exchange-after-all-time-74c4a3874f",
+      "title": "Quick hits: Marnus caught in ugly exchange after all-time send off",
+      "url": "https://www.abc.net.au/news/2026-10-30/australia-sa-quick-hits-day-three-labuschagne-drs-bavuma/107325486",
+      "source": "ABC News",
+      "country": "Australia",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-28T15:06:25+10:00",
-      "score": 8,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "The question mark makes it feel like the host has paused for the room."
-      ],
-      "image": "assets/data/headline-images/what-will-ocr-surprise-mean-for-home-loan-rates-abbbe568f5.svg"
-    },
-    {
-      "id": "dave-hannigan-baseball-on-brink-of-chaos-as-billionaire--93a5fff0ac",
-      "title": "Dave Hannigan: Baseball on brink of chaos as billionaire owners say players earn too much",
-      "url": "https://www.irishtimes.com/sport/2026/10/28/dave-hannigan-baseball-on-brink-of-chaos-as-billionaire-owners-say-players-earn-too-much/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-28T22:02:39+10:00",
-      "score": 8,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy."
-      ],
-      "image": "assets/data/headline-images/dave-hannigan-baseball-on-brink-of-chaos-as-billionaire--93a5fff0ac.svg"
-    },
-    {
-      "id": "ocr-surprise-a-mixed-bag-for-retailers-c32abb763b",
-      "title": "OCR surprise a mixed bag for retailers",
-      "url": "https://www.rnz.co.nz/news/business/2211361/ocr-surprise-a-mixed-bag-for-retailers",
-      "source": "RNZ News",
-      "country": "New Zealand",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-10-29T05:55:18+10:00",
+      "published": "2026-10-30T05:54:18+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/ocr-surprise-a-mixed-bag-for-retailers-c32abb763b.svg"
+      "image": "assets/data/headline-images/quick-hits-marnus-caught-in-ugly-exchange-after-all-time-74c4a3874f.svg"
     },
     {
-      "id": "can-2-000-people-in-a-hangar-in-sioux-city-influence-the-d4eeeae5ed",
-      "title": "Can 2,000 people in a hangar in Sioux City influence the US midterms? Trump is banking on it",
-      "url": "https://www.irishtimes.com/world/us/2026/10/23/can-2000-people-in-a-hangar-in-sioux-city-influence-the-midterms-trump-is-banking-on-it/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
+      "id": "george-michael-s-faith-guitar-sells-for-180k-after-aucti-b15786fa9b",
+      "title": "George Michael's Faith guitar sells for £180k after auction row",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-23T16:00:20+10:00",
-      "score": 5,
-      "why": "The question mark makes it feel like the host has paused for the room.",
+      "published": "2026-10-30T04:26:42+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "The question mark makes it feel like the host has paused for the room.",
-        "The specific number gives the line a dry little thud."
+        "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/can-2-000-people-in-a-hangar-in-sioux-city-influence-the-d4eeeae5ed.svg"
+      "image": "assets/data/headline-images/george-michael-s-faith-guitar-sells-for-180k-after-aucti-b15786fa9b.svg"
     }
   ],
   "feed_errors": [
