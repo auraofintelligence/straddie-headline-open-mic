@@ -1,0 +1,305 @@
+{
+  "site": "Straddie Headline Open Mic",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T07:36:16.585473+10:00",
+  "generated_label": "31 Oct 2026, 07:36 AM AEST",
+  "source_count": 14,
+  "headline_count": 17,
+  "headlines": [
+    {
+      "id": "australia-s-banana-industry-warns-of-risks-posed-by-impo-c756879b98",
+      "title": "Australia’s banana industry warns of risks posed by imported fruit",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeDVYdkFSQjQ3X3dFc0pBM3d3QmFWTnhQc1JlZ25xMlZiTHFOVFBQZEQ0bTl0aHFmQjBZMlJzQWhrTEtnS0tNTmlDTEh2NUNYQWNIOWI5N1Ata2hsckhwbE5PNTV0T0ctQXJ1NVFyREhnQ244YmEyX2tfU0hLTk9Sak50MnZlWGRwdm5MWC1xV2JBYmxOaDVfS3FrNW00aWhqMWNpSVppR0t0OE5CTzdlNGN4aXVWeDlFUElqUXlHSnFiRE9XRGdrV3NsTGxsejFKSWhIZVd2OEZQQ1R3?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-30T16:23:00+10:00",
+      "score": 33,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/australia-s-banana-industry-warns-of-risks-posed-by-impo-c756879b98.svg"
+    },
+    {
+      "id": "bradley-walsh-s-first-question-to-an-alien-what-s-your-f-b48ad1d93e",
+      "title": "Bradley Walsh's first question to an alien ‘What’s your favourite biscuit? Mine’s custard cream’",
+      "url": "https://www.mirror.co.uk/news/weird-news/bradley-walsh-ufos-sky-history-37812706",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-28T04:18:34+10:00",
+      "score": 28,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "A wonderfully specific detail has taken centre stage.",
+        "The question mark makes it feel like the host has paused for the room."
+      ],
+      "image": "assets/data/headline-images/bradley-walsh-s-first-question-to-an-alien-what-s-your-f-b48ad1d93e.svg"
+    },
+    {
+      "id": "black-alien-tattoo-addict-shows-what-he-looked-like-15-y-7045b8d57e",
+      "title": "'Black alien' tattoo addict shows what he looked like 15 years before extreme body mods",
+      "url": "https://www.dailystar.co.uk/real-life/black-alien-tattoo-addict-shows-37808342",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-25T21:32:59+10:00",
+      "score": 22,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/black-alien-tattoo-addict-shows-what-he-looked-like-15-y-7045b8d57e.svg"
+    },
+    {
+      "id": "first-fossil-evidence-of-marine-amphibian-stuns-paleonto-83dbb8dc97",
+      "title": "First fossil evidence of marine amphibian stuns paleontologists: ‘Very unusual’",
+      "url": "https://nypost.com/2026/10/27/science/chunky-fossils-provide-first-evidence-of-sea-going-amphibian/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-28T00:18:08+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/first-fossil-evidence-of-marine-amphibian-stuns-paleonto-83dbb8dc97.svg"
+    },
+    {
+      "id": "usa-wants-to-develop-star-trek-style-space-travel-to-hun-a3049462c9",
+      "title": "USA wants to develop Star Trek-style space travel to hunt down aliens, documents show",
+      "url": "https://www.dailystar.co.uk/news/latest-news/usa-wants-develop-star-trek-37808677",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-26T07:55:24+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/usa-wants-to-develop-star-trek-style-space-travel-to-hun-a3049462c9.svg"
+    },
+    {
+      "id": "she-wouldn-t-let-go-bride-nearly-borne-aloft-by-giant-ba-ca40ae9af1",
+      "title": "‘She wouldn’t let go:’ Bride nearly borne aloft by giant balloons during windy wedding photo-op",
+      "url": "https://nypost.com/2026/10/29/lifestyle/bride-nearly-borne-aloft-by-giant-balloons-during-windy-wedding-photo-op/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-30T00:32:23+10:00",
+      "score": 17,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/she-wouldn-t-let-go-bride-nearly-borne-aloft-by-giant-ba-ca40ae9af1.svg"
+    },
+    {
+      "id": "a-giant-ball-of-2-800-000-eels-is-having-an-orgy-off-the-578480aba5",
+      "title": "A giant ball of 2,800,000 eels is having an orgy off the coast of Australia",
+      "url": "https://metro.co.uk/2026/10/28/a-giant-ball-2-800-000-eels-orgy-off-coast-australia-29745511/",
+      "source": "Metro Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-28T22:36:43+10:00",
+      "score": 17,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/a-giant-ball-of-2-800-000-eels-is-having-an-orgy-off-the-578480aba5.svg"
+    },
+    {
+      "id": "britain-braces-for-a-winter-of-chaos-after-two-deadly-st-50474f1eb6",
+      "title": "Britain braces for a winter of chaos: After two deadly storms, scientists warn record-breaking Super El Niño could bring even more destructive weather",
+      "url": "https://www.dailymail.com/sciencetech/article-16241889/Britain-braces-winter-storms-el-nino.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-27T21:42:59+10:00",
+      "score": 16,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/britain-braces-for-a-winter-of-chaos-after-two-deadly-st-50474f1eb6.svg"
+    },
+    {
+      "id": "new-ufo-files-detail-eerie-sightings-near-california-isl-fec71f7b33",
+      "title": "New UFO files detail eerie sightings near California island at heart of 'underwater alien base' theory",
+      "url": "https://www.dailymail.com/sciencetech/article-16239937/ufo-sightings-catalina-island-california.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-27T22:07:10+10:00",
+      "score": 15,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/new-ufo-files-detail-eerie-sightings-near-california-isl-fec71f7b33.svg"
+    },
+    {
+      "id": "ufos-could-be-hiding-in-our-oceans-says-retired-us-navy--fb922c7efa",
+      "title": "UFOs could be hiding in our oceans, says retired US Navy admiral... as researcher claims to have discovered 'alien base entrance' off Canada",
+      "url": "https://www.dailymail.com/sciencetech/article-16252773/ufos-ocean-alien-base-canada.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-31T02:40:07+10:00",
+      "score": 13,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/ufos-could-be-hiding-in-our-oceans-says-retired-us-navy--fb922c7efa.svg"
+    },
+    {
+      "id": "crypto-giant-binance-attempting-to-recover-6-3bn-stolen--1d301638e9",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-31T07:13:14+10:00",
+      "score": 12,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/crypto-giant-binance-attempting-to-recover-6-3bn-stolen--1d301638e9.svg"
+    },
+    {
+      "id": "mysterious-pill-shaped-ufo-caught-on-camera-by-pilots-fl-fb3a2eb403",
+      "title": "Mysterious pill-shaped UFO caught on camera by pilots flying above Middle America",
+      "url": "https://www.dailymail.com/sciencetech/article-16243559/ufo-pilots-ohio-airplane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-29T15:07:33+10:00",
+      "score": 12,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/mysterious-pill-shaped-ufo-caught-on-camera-by-pilots-fl-fb3a2eb403.svg"
+    },
+    {
+      "id": "dino-mite-discovery-belgian-tourists-discover-the-remain-642afddfcf",
+      "title": "Dino-mite discovery! Belgian tourists discover the remains of a 174 million-year-old giant ichthyosaur while strolling on a beach in Dorset",
+      "url": "https://www.dailymail.com/sciencetech/article-16226753/tourists-discover-giant-ichthyosaur-fossil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-22T03:04:50+10:00",
+      "score": 12,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "The specific number gives the line a dry little thud.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/dino-mite-discovery-belgian-tourists-discover-the-remain-642afddfcf.svg"
+    },
+    {
+      "id": "norway-trolls-trump-with-toilet-humour-after-his-foul-mo-7f19124157",
+      "title": "Norway trolls Trump with toilet humour after his foul-mouthed jibe",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/30/norway-trolls-trump-with-toilet-humour-after-his-foul-mouthed-jibe/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-30T18:30:22+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk."
+      ],
+      "image": "assets/data/headline-images/norway-trolls-trump-with-toilet-humour-after-his-foul-mo-7f19124157.svg"
+    },
+    {
+      "id": "three-flown-to-melbourne-hospitals-after-tourist-mini-va-8afb3bc7c6",
+      "title": "Three flown to Melbourne hospitals after tourist mini-van rolls on island",
+      "url": "https://www.abc.net.au/news/2026-10-31/king-island-crash-victims-flown-to-melbourne-hospitals/107331326",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-31T06:54:58+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/three-flown-to-melbourne-hospitals-after-tourist-mini-va-8afb3bc7c6.svg"
+    },
+    {
+      "id": "surprise-discovery-at-walton-school-captures-imagination-bbdc849803",
+      "title": "Surprise discovery at Walton School captures imaginations across the world",
+      "url": "https://www.rnz.co.nz/news/education/2243683/surprise-discovery-at-walton-school-captures-imaginations-across-the-world",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-10-30T17:06:39+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/surprise-discovery-at-walton-school-captures-imagination-bbdc849803.svg"
+    },
+    {
+      "id": "people-are-frightened-the-tiny-scottish-village-fighting-355170d382",
+      "title": "‘People are frightened’: The tiny Scottish village fighting plans for one of Europe’s largest data centres",
+      "url": "https://www.irishtimes.com/world/uk/2026/10/30/people-are-frightened-the-tiny-scottish-village-fighting-plans-for-one-of-europes-largest-data-centres/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-30T22:30:00+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/people-are-frightened-the-tiny-scottish-village-fighting-355170d382.svg"
+    }
+  ],
+  "feed_errors": [
+    {
+      "source": "The Independent",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
+}
