@@ -1,27 +1,62 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T07:36:16.585473+10:00",
-  "generated_label": "31 Oct 2026, 07:36 AM AEST",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T07:35:40.327752+10:00",
+  "generated_label": "01 Nov 2026, 07:35 AM AEST",
   "source_count": 14,
-  "headline_count": 17,
+  "headline_count": 21,
   "headlines": [
     {
-      "id": "australia-s-banana-industry-warns-of-risks-posed-by-impo-c756879b98",
-      "title": "Australia’s banana industry warns of risks posed by imported fruit",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeDVYdkFSQjQ3X3dFc0pBM3d3QmFWTnhQc1JlZ25xMlZiTHFOVFBQZEQ0bTl0aHFmQjBZMlJzQWhrTEtnS0tNTmlDTEh2NUNYQWNIOWI5N1Ata2hsckhwbE5PNTV0T0ctQXJ1NVFyREhnQ244YmEyX2tfU0hLTk9Sak50MnZlWGRwdm5MWC1xV2JBYmxOaDVfS3FrNW00aWhqMWNpSVppR0t0OE5CTzdlNGN4aXVWeDlFUElqUXlHSnFiRE9XRGdrV3NsTGxsejFKSWhIZVd2OEZQQ1R3?oc=5",
+      "id": "secret-nt-outback-spy-base-expansion-mystery-a4e63597bc",
+      "title": "Secret NT outback spy base expansion mystery",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUjNZRjVQWTVVd2Rwb193VjNKRy1XY2NkQ0YtSF93cFRfdTBDa1BPNlY0ZUxJTzB5VEhyVDhsTDZlTjJ1Q2lTaG5oVmRaMk1jakJxVkt3anl6aTVSLTlVeXAwdTNXeVg5SGZGR2dKSU5SUkZWcEpYV1RWYU4yUUpoR014SzdQeVhVQlZMbXpORzNJQjQ2Z3pxcWdHdHhBMVp0b3FQQ19Vb2JEMllsOHQ5d0ViV1psNkNMNG1vM1JqYkJwMEpjNTg5Vkw0dF9hZUhsaGhFRFhCR2xZa0x4WmViU3JBS3VBRHR3Qkg3RHRzSVVtUQ?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-10-30T16:23:00+10:00",
+      "published": "2026-10-27T09:51:00+10:00",
       "score": 33,
-      "why": "A very ordinary object has wandered into serious news.",
+      "why": "A mystery is doing a lot of work in a very small sentence.",
       "signals": [
-        "A very ordinary object has wandered into serious news.",
+        "A mystery is doing a lot of work in a very small sentence.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/australia-s-banana-industry-warns-of-risks-posed-by-impo-c756879b98.svg"
+      "image": "assets/data/headline-images/secret-nt-outback-spy-base-expansion-mystery-a4e63597bc.svg"
+    },
+    {
+      "id": "darwin-real-estate-the-latest-auction-and-sales-results--5987b85d71",
+      "title": "Darwin real estate: The latest auction and sales results for week ending October 31",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPdng4bndHZWxTbGhPaEpWemF5ZDJpejZMZ3N2eVVYNzR3Ykk4cnJyNHk0UjQycElvbGhXdWJmU3RIY2VJN1F4NmhQLXZfLXA5WlNVLXRjWjFZWFc3NUEtalUtaXgwa19IZEViTmEtSkxVSjNWWmhfTkxmcHY2UTdLRV9VeVNIcEp5TlhIVUhoMEN5X196cjU1LTJScW9SdzRtS3Y0WlpmUnB2dHRvX1VCMkpSV2tydDVTcnR3czJ0MFh1NjZWN0E5RHdnMlBPRE1nU05jZUVWYzRPci1HUUowYVJtRXQ4WEozaHkzWEliOWNTbFQ1eXdwLTVoaEdVQngxaHR4WUlhWVF0dVE1TE9aVWJCUVYtZw?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-01T03:48:31+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--5987b85d71.svg"
+    },
+    {
+      "id": "a-saturday-decider-will-there-be-day-5-heroics-follow-on-b8f0928605",
+      "title": "A Saturday decider: Will there be day 5 heroics? | Follow On Podcast",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSHFrbnpMbDZLenUxSmRINmpwTFRaekQ1S3paZUdxdXgzNmFOdUFaclJ5SFNGeS03UURUMUpQR2NOVXYydklTOFZrZHgyWTByZU5TWEIxZmlmRzdNdlRnTUQzbTdZb0RCUi1YVmUwaUtON3BXWkVwdVJ5TlEwbjdEWXdmeVhHTmMtSnNvYXpIZG5SU2ltaFFsSHlfakFrMkROZkRXempyc2xrcHVOUmI4S25GRzJzYnBLaWFwN1dEbTJrVzZ0cUpHd0h0V2laQ3BO?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-10-31T09:42:24+10:00",
+      "score": 29,
+      "why": "The question mark makes it feel like the host has paused for the room.",
+      "signals": [
+        "The question mark makes it feel like the host has paused for the room.",
+        "The specific number gives the line a dry little thud.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/a-saturday-decider-will-there-be-day-5-heroics-follow-on-b8f0928605.svg"
     },
     {
       "id": "bradley-walsh-s-first-question-to-an-alien-what-s-your-f-b48ad1d93e",
@@ -75,6 +110,23 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/first-fossil-evidence-of-marine-amphibian-stuns-paleonto-83dbb8dc97.svg"
+    },
+    {
+      "id": "tv-star-vows-to-haunt-trump-from-beyond-the-grave-and-cl-304da33258",
+      "title": "TV star vows to 'haunt' Trump from beyond the grave and claims aliens 'live among us'",
+      "url": "https://www.dailystar.co.uk/news/latest-news/tv-star-vows-haunt-trump-37820784",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-31T18:00:00+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/tv-star-vows-to-haunt-trump-from-beyond-the-grave-and-cl-304da33258.svg"
     },
     {
       "id": "usa-wants-to-develop-star-trek-style-space-travel-to-hun-a3049462c9",
@@ -146,6 +198,23 @@
       "image": "assets/data/headline-images/britain-braces-for-a-winter-of-chaos-after-two-deadly-st-50474f1eb6.svg"
     },
     {
+      "id": "brace-yourself-for-an-unusual-election-dfbc7e2e53",
+      "title": "Brace Yourself for an ‘Unusual Election’",
+      "url": "https://www.nytimes.com/2026/10/31/opinion/midterms-races-democrats-election.html",
+      "source": "The New York Times",
+      "country": "United States",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-31T21:46:38+10:00",
+      "score": 15,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "A serious-news word is sharing a sentence with something very ordinary."
+      ],
+      "image": "assets/data/headline-images/brace-yourself-for-an-unusual-election-dfbc7e2e53.svg"
+    },
+    {
       "id": "new-ufo-files-detail-eerie-sightings-near-california-isl-fec71f7b33",
       "title": "New UFO files detail eerie sightings near California island at heart of 'underwater alien base' theory",
       "url": "https://www.dailymail.com/sciencetech/article-16239937/ufo-sightings-catalina-island-california.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -180,21 +249,21 @@
       "image": "assets/data/headline-images/ufos-could-be-hiding-in-our-oceans-says-retired-us-navy--fb922c7efa.svg"
     },
     {
-      "id": "crypto-giant-binance-attempting-to-recover-6-3bn-stolen--1d301638e9",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "id": "tiny-zebra-striped-bee-sighting-a-huge-surprise-523e486afe",
+      "title": "Tiny zebra-striped bee sighting a 'huge surprise'",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "country": "United Kingdom",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-31T07:13:14+10:00",
+      "published": "2026-10-28T02:50:13+10:00",
       "score": 12,
       "why": "The scale is doing deadpan comedy.",
       "signals": [
         "The scale is doing deadpan comedy.",
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/crypto-giant-binance-attempting-to-recover-6-3bn-stolen--1d301638e9.svg"
+      "image": "assets/data/headline-images/tiny-zebra-striped-bee-sighting-a-huge-surprise-523e486afe.svg"
     },
     {
       "id": "mysterious-pill-shaped-ufo-caught-on-camera-by-pilots-fl-fb3a2eb403",
@@ -214,86 +283,87 @@
       "image": "assets/data/headline-images/mysterious-pill-shaped-ufo-caught-on-camera-by-pilots-fl-fb3a2eb403.svg"
     },
     {
-      "id": "dino-mite-discovery-belgian-tourists-discover-the-remain-642afddfcf",
-      "title": "Dino-mite discovery! Belgian tourists discover the remains of a 174 million-year-old giant ichthyosaur while strolling on a beach in Dorset",
-      "url": "https://www.dailymail.com/sciencetech/article-16226753/tourists-discover-giant-ichthyosaur-fossil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "id": "look-familiar-scientists-reconstruct-the-face-of-a-man-w-0eaddfb4b4",
+      "title": "Look familiar? Scientists reconstruct the face of a man who was decapitated in Scotland 2,000 years ago",
+      "url": "https://www.dailymail.com/sciencetech/article-16251817/Scientists-reconstruct-face-man-decapitated-Scotland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "source": "Daily Mail Science",
       "country": "United Kingdom",
       "source_type": "newspaper science / odd discoveries",
       "priority": "tabloid",
-      "published": "2026-10-22T03:04:50+10:00",
-      "score": 12,
-      "why": "The scale is doing deadpan comedy.",
+      "published": "2026-10-31T01:20:42+10:00",
+      "score": 10,
+      "why": "The question mark makes it feel like the host has paused for the room.",
       "signals": [
-        "The scale is doing deadpan comedy.",
+        "The question mark makes it feel like the host has paused for the room.",
         "The specific number gives the line a dry little thud.",
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/dino-mite-discovery-belgian-tourists-discover-the-remain-642afddfcf.svg"
+      "image": "assets/data/headline-images/look-familiar-scientists-reconstruct-the-face-of-a-man-w-0eaddfb4b4.svg"
     },
     {
-      "id": "norway-trolls-trump-with-toilet-humour-after-his-foul-mo-7f19124157",
-      "title": "Norway trolls Trump with toilet humour after his foul-mouthed jibe",
-      "url": "https://www.irishtimes.com/world/europe/2026/10/30/norway-trolls-trump-with-toilet-humour-after-his-foul-mouthed-jibe/",
+      "id": "b-ibhinn-parsons-scores-hat-trick-as-ireland-beat-south--4c9b854461",
+      "title": "Béibhinn Parsons scores hat-trick as Ireland beat South Africa in second Test",
+      "url": "https://www.irishtimes.com/sport/rugby/2026/10/31/beibhinn-parsons-scores-hat-trick-as-ireland-beat-south-africa-in-second-test/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-30T18:30:22+10:00",
+      "published": "2026-11-01T02:45:21+10:00",
       "score": 10,
       "why": "A household object has somehow reached the news desk.",
       "signals": [
         "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/norway-trolls-trump-with-toilet-humour-after-his-foul-mo-7f19124157.svg"
+      "image": "assets/data/headline-images/b-ibhinn-parsons-scores-hat-trick-as-ireland-beat-south--4c9b854461.svg"
     },
     {
-      "id": "three-flown-to-melbourne-hospitals-after-tourist-mini-va-8afb3bc7c6",
-      "title": "Three flown to Melbourne hospitals after tourist mini-van rolls on island",
-      "url": "https://www.abc.net.au/news/2026-10-31/king-island-crash-victims-flown-to-melbourne-hospitals/107331326",
-      "source": "ABC News",
-      "country": "Australia",
-      "source_type": "public broadcaster / print-style newsroom",
+      "id": "mark-moriarty-s-halloween-recipe-for-70-chocolate-and-pu-36eec94fec",
+      "title": "Mark Moriarty’s Halloween recipe for 70% chocolate and pumpkin brownies",
+      "url": "https://www.irishtimes.com/food/recipes/2026/10/31/mark-moriartys-halloween-recipe-for-70-chocolate-and-pumpkin-brownies/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-31T06:54:58+10:00",
-      "score": 7,
+      "published": "2026-10-31T14:54:00+10:00",
+      "score": 9,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news."
+      ],
+      "image": "assets/data/headline-images/mark-moriarty-s-halloween-recipe-for-70-chocolate-and-pu-36eec94fec.svg"
+    },
+    {
+      "id": "the-story-of-ai-giant-anthropic-in-three-numbers-bb39005400",
+      "title": "The story of AI giant Anthropic in three numbers",
+      "url": "https://www.irishtimes.com/business/markets/2026/10/31/the-story-of-ai-giant-anthropic-in-three-numbers/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-10-31T16:00:00+10:00",
+      "score": 8,
       "why": "The scale is doing deadpan comedy.",
       "signals": [
-        "The scale is doing deadpan comedy."
+        "The scale is doing deadpan comedy.",
+        "Technology is present, which means dignity may be optional."
       ],
-      "image": "assets/data/headline-images/three-flown-to-melbourne-hospitals-after-tourist-mini-va-8afb3bc7c6.svg"
+      "image": "assets/data/headline-images/the-story-of-ai-giant-anthropic-in-three-numbers-bb39005400.svg"
     },
     {
-      "id": "surprise-discovery-at-walton-school-captures-imagination-bbdc849803",
-      "title": "Surprise discovery at Walton School captures imaginations across the world",
-      "url": "https://www.rnz.co.nz/news/education/2243683/surprise-discovery-at-walton-school-captures-imaginations-across-the-world",
-      "source": "RNZ News",
-      "country": "New Zealand",
-      "source_type": "public broadcaster / print-style newsroom",
+      "id": "crafted-to-last-norman-cherner-chairs-among-mid-century--a61e911205",
+      "title": "Crafted-to-last Norman Cherner chairs among mid-century design treasures at auction",
+      "url": "https://www.irishtimes.com/life-style/fine-art-antiques/2026/10/31/crafted-to-last-norman-cherner-chairs-among-mid-century-design-treasures-at-auction/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-10-30T17:06:39+10:00",
+      "published": "2026-10-31T15:00:00+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/surprise-discovery-at-walton-school-captures-imagination-bbdc849803.svg"
-    },
-    {
-      "id": "people-are-frightened-the-tiny-scottish-village-fighting-355170d382",
-      "title": "‘People are frightened’: The tiny Scottish village fighting plans for one of Europe’s largest data centres",
-      "url": "https://www.irishtimes.com/world/uk/2026/10/30/people-are-frightened-the-tiny-scottish-village-fighting-plans-for-one-of-europes-largest-data-centres/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-30T22:30:00+10:00",
-      "score": 7,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy."
-      ],
-      "image": "assets/data/headline-images/people-are-frightened-the-tiny-scottish-village-fighting-355170d382.svg"
+      "image": "assets/data/headline-images/crafted-to-last-norman-cherner-chairs-among-mid-century--a61e911205.svg"
     }
   ],
   "feed_errors": [
