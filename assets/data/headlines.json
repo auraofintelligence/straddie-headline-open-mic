@@ -1,28 +1,11 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T07:35:40.327752+10:00",
-  "generated_label": "01 Nov 2026, 07:35 AM AEST",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T07:35:44.137147+10:00",
+  "generated_label": "02 Nov 2026, 07:35 AM AEST",
   "source_count": 14,
-  "headline_count": 21,
+  "headline_count": 18,
   "headlines": [
-    {
-      "id": "secret-nt-outback-spy-base-expansion-mystery-a4e63597bc",
-      "title": "Secret NT outback spy base expansion mystery",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUjNZRjVQWTVVd2Rwb193VjNKRy1XY2NkQ0YtSF93cFRfdTBDa1BPNlY0ZUxJTzB5VEhyVDhsTDZlTjJ1Q2lTaG5oVmRaMk1jakJxVkt3anl6aTVSLTlVeXAwdTNXeVg5SGZGR2dKSU5SUkZWcEpYV1RWYU4yUUpoR014SzdQeVhVQlZMbXpORzNJQjQ2Z3pxcWdHdHhBMVp0b3FQQ19Vb2JEMllsOHQ5d0ViV1psNkNMNG1vM1JqYkJwMEpjNTg5Vkw0dF9hZUhsaGhFRFhCR2xZa0x4WmViU3JBS3VBRHR3Qkg3RHRzSVVtUQ?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-27T09:51:00+10:00",
-      "score": 33,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
-      "signals": [
-        "A mystery is doing a lot of work in a very small sentence.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/secret-nt-outback-spy-base-expansion-mystery-a4e63597bc.svg"
-    },
     {
       "id": "darwin-real-estate-the-latest-auction-and-sales-results--5987b85d71",
       "title": "Darwin real estate: The latest auction and sales results for week ending October 31",
@@ -31,7 +14,7 @@
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-11-01T03:48:31+10:00",
+      "published": "2026-11-01T10:00:00+10:00",
       "score": 31,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
@@ -39,24 +22,6 @@
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
       "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--5987b85d71.svg"
-    },
-    {
-      "id": "a-saturday-decider-will-there-be-day-5-heroics-follow-on-b8f0928605",
-      "title": "A Saturday decider: Will there be day 5 heroics? | Follow On Podcast",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSHFrbnpMbDZLenUxSmRINmpwTFRaekQ1S3paZUdxdXgzNmFOdUFaclJ5SFNGeS03UURUMUpQR2NOVXYydklTOFZrZHgyWTByZU5TWEIxZmlmRzdNdlRnTUQzbTdZb0RCUi1YVmUwaUtON3BXWkVwdVJ5TlEwbjdEWXdmeVhHTmMtSnNvYXpIZG5SU2ltaFFsSHlfakFrMkROZkRXempyc2xrcHVOUmI4S25GRzJzYnBLaWFwN1dEbTJrVzZ0cUpHd0h0V2laQ3BO?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-10-31T09:42:24+10:00",
-      "score": 29,
-      "why": "The question mark makes it feel like the host has paused for the room.",
-      "signals": [
-        "The question mark makes it feel like the host has paused for the room.",
-        "The specific number gives the line a dry little thud.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/a-saturday-decider-will-there-be-day-5-heroics-follow-on-b8f0928605.svg"
     },
     {
       "id": "bradley-walsh-s-first-question-to-an-alien-what-s-your-f-b48ad1d93e",
@@ -198,23 +163,6 @@
       "image": "assets/data/headline-images/britain-braces-for-a-winter-of-chaos-after-two-deadly-st-50474f1eb6.svg"
     },
     {
-      "id": "brace-yourself-for-an-unusual-election-dfbc7e2e53",
-      "title": "Brace Yourself for an ‘Unusual Election’",
-      "url": "https://www.nytimes.com/2026/10/31/opinion/midterms-races-democrats-election.html",
-      "source": "The New York Times",
-      "country": "United States",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-31T21:46:38+10:00",
-      "score": 15,
-      "why": "The headline is already trying not to laugh.",
-      "signals": [
-        "The headline is already trying not to laugh.",
-        "A serious-news word is sharing a sentence with something very ordinary."
-      ],
-      "image": "assets/data/headline-images/brace-yourself-for-an-unusual-election-dfbc7e2e53.svg"
-    },
-    {
       "id": "new-ufo-files-detail-eerie-sightings-near-california-isl-fec71f7b33",
       "title": "New UFO files detail eerie sightings near California island at heart of 'underwater alien base' theory",
       "url": "https://www.dailymail.com/sciencetech/article-16239937/ufo-sightings-catalina-island-california.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -247,23 +195,6 @@
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
       "image": "assets/data/headline-images/ufos-could-be-hiding-in-our-oceans-says-retired-us-navy--fb922c7efa.svg"
-    },
-    {
-      "id": "tiny-zebra-striped-bee-sighting-a-huge-surprise-523e486afe",
-      "title": "Tiny zebra-striped bee sighting a 'huge surprise'",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "country": "United Kingdom",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-10-28T02:50:13+10:00",
-      "score": 12,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "It has the shape of a tiny adventure reported with a straight face."
-      ],
-      "image": "assets/data/headline-images/tiny-zebra-striped-bee-sighting-a-huge-surprise-523e486afe.svg"
     },
     {
       "id": "mysterious-pill-shaped-ufo-caught-on-camera-by-pilots-fl-fb3a2eb403",
@@ -301,6 +232,22 @@
       "image": "assets/data/headline-images/look-familiar-scientists-reconstruct-the-face-of-a-man-w-0eaddfb4b4.svg"
     },
     {
+      "id": "loughrea-complete-hat-trick-of-galway-hurling-titles-as--d871302b35",
+      "title": "Loughrea complete hat-trick of Galway hurling titles as long wait continues for Tommy Larkin’s",
+      "url": "https://www.irishtimes.com/sport/gaelic-games/2026/11/01/loughrea-complete-hat-trick-of-galway-hurling-titles-as-long-wait-continues-for-tommy-larkins/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-02T04:21:25+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk."
+      ],
+      "image": "assets/data/headline-images/loughrea-complete-hat-trick-of-galway-hurling-titles-as--d871302b35.svg"
+    },
+    {
       "id": "b-ibhinn-parsons-scores-hat-trick-as-ireland-beat-south--4c9b854461",
       "title": "Béibhinn Parsons scores hat-trick as Ireland beat South Africa in second Test",
       "url": "https://www.irishtimes.com/sport/rugby/2026/10/31/beibhinn-parsons-scores-hat-trick-as-ireland-beat-south-africa-in-second-test/",
@@ -317,53 +264,53 @@
       "image": "assets/data/headline-images/b-ibhinn-parsons-scores-hat-trick-as-ireland-beat-south--4c9b854461.svg"
     },
     {
-      "id": "mark-moriarty-s-halloween-recipe-for-70-chocolate-and-pu-36eec94fec",
-      "title": "Mark Moriarty’s Halloween recipe for 70% chocolate and pumpkin brownies",
-      "url": "https://www.irishtimes.com/food/recipes/2026/10/31/mark-moriartys-halloween-recipe-for-70-chocolate-and-pumpkin-brownies/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
+      "id": "i-ve-been-stuck-on-a-tiny-pacific-island-for-years-becau-1672711ead",
+      "title": "I've been stuck on a tiny Pacific island for years because of visa rules",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-31T14:54:00+10:00",
-      "score": 9,
-      "why": "A very ordinary object has wandered into serious news.",
-      "signals": [
-        "A very ordinary object has wandered into serious news."
-      ],
-      "image": "assets/data/headline-images/mark-moriarty-s-halloween-recipe-for-70-chocolate-and-pu-36eec94fec.svg"
-    },
-    {
-      "id": "the-story-of-ai-giant-anthropic-in-three-numbers-bb39005400",
-      "title": "The story of AI giant Anthropic in three numbers",
-      "url": "https://www.irishtimes.com/business/markets/2026/10/31/the-story-of-ai-giant-anthropic-in-three-numbers/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-10-31T16:00:00+10:00",
-      "score": 8,
+      "published": "2026-11-01T09:06:13+10:00",
+      "score": 7,
       "why": "The scale is doing deadpan comedy.",
       "signals": [
-        "The scale is doing deadpan comedy.",
-        "Technology is present, which means dignity may be optional."
+        "The scale is doing deadpan comedy."
       ],
-      "image": "assets/data/headline-images/the-story-of-ai-giant-anthropic-in-three-numbers-bb39005400.svg"
+      "image": "assets/data/headline-images/i-ve-been-stuck-on-a-tiny-pacific-island-for-years-becau-1672711ead.svg"
     },
     {
-      "id": "crafted-to-last-norman-cherner-chairs-among-mid-century--a61e911205",
-      "title": "Crafted-to-last Norman Cherner chairs among mid-century design treasures at auction",
-      "url": "https://www.irishtimes.com/life-style/fine-art-antiques/2026/10/31/crafted-to-last-norman-cherner-chairs-among-mid-century-design-treasures-at-auction/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
+      "id": "watch-heidi-klum-as-giant-severed-hand-for-halloween-bas-06714dc423",
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-10-31T15:00:00+10:00",
+      "published": "2026-11-01T15:26:02+10:00",
       "score": 7,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "why": "The scale is doing deadpan comedy.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
+        "The scale is doing deadpan comedy."
       ],
-      "image": "assets/data/headline-images/crafted-to-last-norman-cherner-chairs-among-mid-century--a61e911205.svg"
+      "image": "assets/data/headline-images/watch-heidi-klum-as-giant-severed-hand-for-halloween-bas-06714dc423.svg"
+    },
+    {
+      "id": "how-saintly-the-horse-from-heaven-won-the-melbourne-cup--45f44481de",
+      "title": "How Saintly, the 'horse from heaven', won the Melbourne Cup 30 years ago",
+      "url": "https://www.abc.net.au/news/2026-11-02/saintly-melbourne-cup-win-30-years-ago/107315230",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-02T04:40:37+10:00",
+      "score": 5,
+      "why": "It reads like the setup to a very dry question.",
+      "signals": [
+        "It reads like the setup to a very dry question.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/how-saintly-the-horse-from-heaven-won-the-melbourne-cup--45f44481de.svg"
     }
   ],
   "feed_errors": [
