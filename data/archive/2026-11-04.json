@@ -1,0 +1,374 @@
+{
+  "site": "Straddie Headline Open Mic",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T11:33:21.201465+10:00",
+  "generated_label": "04 Nov 2026, 11:33 AM AEST",
+  "source_count": 14,
+  "headline_count": 21,
+  "headlines": [
+    {
+      "id": "mystery-ticket-wins-60-million-oz-lotto-a8c422a607",
+      "title": "Mystery ticket wins $60 million Oz Lotto",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEFYYXEyTkJ6MG9SWFg5eDZZU3R0SHB1WHE5S3FZQld5T2dJM0pYdkxnTVFZeTRCdG9XNHdzaHhHNXJfY3k4VzB0S2NUZmpSdzQ5b0QtdEl2czBEd21UdnVLMkJqRWQ0Rk43aHJ1TXluVGRyc2xxWFJhQmsydVgtemVWQm9DSDk1dHBTRmowS2hTdFBmU3hUZTROT0dSdHAxZXZYMTEzLUJMLVBLOWxtVmxMRzhKY2k2bWVHdDN5LWp5WE1ndnJoVWJGRXJHNzJBeDJIZmhnT2NIaHUy?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-03T21:38:57+10:00",
+      "score": 33,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/mystery-ticket-wins-60-million-oz-lotto-a8c422a607.svg"
+    },
+    {
+      "id": "70-pics-how-the-top-end-celebrated-melbourne-cup-day-13e2c36a4f",
+      "title": "70+ pics: How the Top End celebrated Melbourne Cup Day",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ3lGM0hTdlF6eUVmQmFWVWRyYkk2WWVUZl9hZjNfb0ExRk4xYm11WTJyMnl2ZWpYMzlJTnc4eGlOWmRGdEhTcnlWMUtxTWhHVlpRSHZiTTdDZVNGV1NkTGVwSC1zTmRmQUhITmlHamVYLWotM0xKQmJQcjJfNWtiUktzYjh3M09nM2FwelF3eXhmVG5xWTNOZ3pRR19wNXYzWDhoMnNiYUdHMDVXcmV4bDlvNE5RVGJRMGNCclFYN2tkY0NSTkFsZlhDQnhzZ3hjZ1k4SVF0WGctZFY5bFdIb0YtZVdvc202WDE5eHA5ZXpkc3lHdkN5dW03MEpoUy1COEJHamNDZl8?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-04T06:04:34+10:00",
+      "score": 29,
+      "why": "It reads like the setup to a very dry question.",
+      "signals": [
+        "It reads like the setup to a very dry question.",
+        "The specific number gives the line a dry little thud.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/70-pics-how-the-top-end-celebrated-melbourne-cup-day-13e2c36a4f.svg"
+    },
+    {
+      "id": "man-24-filmed-410-male-victims-using-the-toilet-as-370-v-f94f11da7a",
+      "title": "Man, 24, 'filmed 410 male victims using the toilet as 370 videos recorded in a year'",
+      "url": "https://www.dailystar.co.uk/news/world-news/man-24-filmed-410-male-37835392",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-03T02:33:13+10:00",
+      "score": 22,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/man-24-filmed-410-male-victims-using-the-toilet-as-370-v-f94f11da7a.svg"
+    },
+    {
+      "id": "fan-favourite-cadbury-chocolate-returns-to-shelves-for-t-b2774928ba",
+      "title": "Fan-favourite Cadbury chocolate returns to shelves for the first time in 24 years",
+      "url": "https://www.mirror.co.uk/lifestyle/food-drink/fan-favourite-cadbury-chocolate-returns-37831854",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-02T01:28:08+10:00",
+      "score": 21,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/fan-favourite-cadbury-chocolate-returns-to-shelves-for-t-b2774928ba.svg"
+    },
+    {
+      "id": "first-fossil-evidence-of-marine-amphibian-stuns-paleonto-83dbb8dc97",
+      "title": "First fossil evidence of marine amphibian stuns paleontologists: ‘Very unusual’",
+      "url": "https://nypost.com/2026/10/27/science/chunky-fossils-provide-first-evidence-of-sea-going-amphibian/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-28T00:18:08+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/first-fossil-evidence-of-marine-amphibian-stuns-paleonto-83dbb8dc97.svg"
+    },
+    {
+      "id": "tv-star-vows-to-haunt-trump-from-beyond-the-grave-and-cl-304da33258",
+      "title": "TV star vows to 'haunt' Trump from beyond the grave and claims aliens 'live among us'",
+      "url": "https://www.dailystar.co.uk/news/latest-news/tv-star-vows-haunt-trump-37820784",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-31T18:00:00+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/tv-star-vows-to-haunt-trump-from-beyond-the-grave-and-cl-304da33258.svg"
+    },
+    {
+      "id": "molly-mae-hague-paid-for-my-petrol-after-card-mistake-at-a7b86f2de7",
+      "title": "Molly-Mae Hague paid for my petrol after card mistake at garage",
+      "url": "https://www.mirror.co.uk/incoming/molly-mae-hague-paid-petrol-37837590",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-03T20:41:48+10:00",
+      "score": 18,
+      "why": "The second half quietly trips over the first half.",
+      "signals": [
+        "The second half quietly trips over the first half.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/molly-mae-hague-paid-for-my-petrol-after-card-mistake-at-a7b86f2de7.svg"
+    },
+    {
+      "id": "she-wouldn-t-let-go-bride-nearly-borne-aloft-by-giant-ba-ca40ae9af1",
+      "title": "‘She wouldn’t let go:’ Bride nearly borne aloft by giant balloons during windy wedding photo-op",
+      "url": "https://nypost.com/2026/10/29/lifestyle/bride-nearly-borne-aloft-by-giant-balloons-during-windy-wedding-photo-op/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-30T00:32:23+10:00",
+      "score": 17,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/she-wouldn-t-let-go-bride-nearly-borne-aloft-by-giant-ba-ca40ae9af1.svg"
+    },
+    {
+      "id": "a-giant-ball-of-2-800-000-eels-is-having-an-orgy-off-the-578480aba5",
+      "title": "A giant ball of 2,800,000 eels is having an orgy off the coast of Australia",
+      "url": "https://metro.co.uk/2026/10/28/a-giant-ball-2-800-000-eels-orgy-off-coast-australia-29745511/",
+      "source": "Metro Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-10-28T22:36:43+10:00",
+      "score": 17,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/a-giant-ball-of-2-800-000-eels-is-having-an-orgy-off-the-578480aba5.svg"
+    },
+    {
+      "id": "real-life-jurassic-park-scientists-discover-dinosaur-blo-b2c5e665bf",
+      "title": "Real-life Jurassic Park? Scientists discover dinosaur BLOOD inside 115-million-year old bones",
+      "url": "https://www.dailymail.com/sciencetech/article-16259143/Real-life-Jurassic-Park-Scientists-dinosaur-BLOOD.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-03T06:00:46+10:00",
+      "score": 17,
+      "why": "The object list sounds like someone shuffled three different stories together.",
+      "signals": [
+        "The object list sounds like someone shuffled three different stories together.",
+        "The question mark makes it feel like the host has paused for the room.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/real-life-jurassic-park-scientists-discover-dinosaur-blo-b2c5e665bf.svg"
+    },
+    {
+      "id": "britain-braces-for-a-winter-of-chaos-after-two-deadly-st-50474f1eb6",
+      "title": "Britain braces for a winter of chaos: After two deadly storms, scientists warn record-breaking Super El Niño could bring even more destructive weather",
+      "url": "https://www.dailymail.com/sciencetech/article-16241889/Britain-braces-winter-storms-el-nino.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-27T21:42:59+10:00",
+      "score": 16,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/britain-braces-for-a-winter-of-chaos-after-two-deadly-st-50474f1eb6.svg"
+    },
+    {
+      "id": "scientists-detect-mysterious-radio-signal-in-search-of-a-461dacf74b",
+      "title": "Scientists detect mysterious radio signal in search of alien life",
+      "url": "https://www.dailymail.com/sciencetech/article-16262905/signal-scientists-alien-civilizations-space.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-04T05:58:12+10:00",
+      "score": 15,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/scientists-detect-mysterious-radio-signal-in-search-of-a-461dacf74b.svg"
+    },
+    {
+      "id": "new-ufo-files-detail-eerie-sightings-near-california-isl-fec71f7b33",
+      "title": "New UFO files detail eerie sightings near California island at heart of 'underwater alien base' theory",
+      "url": "https://www.dailymail.com/sciencetech/article-16239937/ufo-sightings-catalina-island-california.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-10-27T22:07:10+10:00",
+      "score": 15,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/new-ufo-files-detail-eerie-sightings-near-california-isl-fec71f7b33.svg"
+    },
+    {
+      "id": "an-interspecies-gay-love-story-scientists-discover-an-un-7577dca8f8",
+      "title": "An interspecies gay love story: Scientists discover an 'unusual sexual bond' between a bull and a male donkey",
+      "url": "https://www.dailymail.com/sciencetech/article-16258617/interspecies-gay-love-story-bull-male-donkey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-03T02:00:46+10:00",
+      "score": 13,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/an-interspecies-gay-love-story-scientists-discover-an-un-7577dca8f8.svg"
+    },
+    {
+      "id": "code-cracked-for-shipwreck-padlock-solving-400-year-old--68c4318949",
+      "title": "Code cracked for shipwreck padlock solving 400-year-old mystery",
+      "url": "https://www.bbc.co.uk/news/articles/c69qz9jzq4jro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-04T09:02:55+10:00",
+      "score": 11,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/code-cracked-for-shipwreck-padlock-solving-400-year-old--68c4318949.svg"
+    },
+    {
+      "id": "fossilised-red-blood-cells-found-in-115m-year-old-dinosa-865434fdc1",
+      "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+      "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-03T06:00:27+10:00",
+      "score": 9,
+      "why": "The object list sounds like someone shuffled three different stories together.",
+      "signals": [
+        "The object list sounds like someone shuffled three different stories together."
+      ],
+      "image": "assets/data/headline-images/fossilised-red-blood-cells-found-in-115m-year-old-dinosa-865434fdc1.svg"
+    },
+    {
+      "id": "ai-panic-back-office-jobs-cut-but-not-the-expected-roles-e72871897d",
+      "title": "AI 'panic': Back office jobs cut - but not the expected roles",
+      "url": "https://www.rnz.co.nz/news/science-and-technology/2327983/ai-panic-back-office-jobs-cut-but-not-the-expected-roles",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-04T05:22:39+10:00",
+      "score": 8,
+      "why": "Technology is present, which means dignity may be optional.",
+      "signals": [
+        "Technology is present, which means dignity may be optional.",
+        "The headline has a neat little reversal."
+      ],
+      "image": "assets/data/headline-images/ai-panic-back-office-jobs-cut-but-not-the-expected-roles-e72871897d.svg"
+    },
+    {
+      "id": "luas-red-line-services-disrupted-after-car-gets-stuck-on-85af9d8740",
+      "title": "Luas red line services disrupted after car gets stuck on track",
+      "url": "https://www.irishtimes.com/ireland/dublin/2026/11/03/luas-red-line-services-disrupted-after-car-gets-stuck-on-track/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-04T06:39:54+10:00",
+      "score": 8,
+      "why": "The second half quietly trips over the first half.",
+      "signals": [
+        "The second half quietly trips over the first half."
+      ],
+      "image": "assets/data/headline-images/luas-red-line-services-disrupted-after-car-gets-stuck-on-85af9d8740.svg"
+    },
+    {
+      "id": "canva-layoffs-design-giant-to-cut-or-relocate-more-than--858aba49b6",
+      "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+      "source": "The Guardian Australia",
+      "country": "Australia",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-04T10:14:49+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/canva-layoffs-design-giant-to-cut-or-relocate-more-than--858aba49b6.svg"
+    },
+    {
+      "id": "us-midterm-elections-2026-live-updates-democrats-flip-no-71730159fe",
+      "title": "US midterm elections 2026 live updates: Democrats flip North Carolina Senate seat amid early wins in bid to control chamber",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-04T11:28:37+10:00",
+      "score": 5,
+      "why": "It has that classic official-plan-meets-real-life shape.",
+      "signals": [
+        "It has that classic official-plan-meets-real-life shape."
+      ],
+      "image": "assets/data/headline-images/us-midterm-elections-2026-live-updates-democrats-flip-no-71730159fe.svg"
+    },
+    {
+      "id": "mogging-is-collins-word-of-the-year-for-2026-what-does-i-5d98141688",
+      "title": "‘Mogging’ is Collins’ Word of the Year for 2026. What does it mean?",
+      "url": "https://www.irishtimes.com/culture/books/2026/11/03/mogging-collins-word-of-the-year-for-2026-has-roots-in-the-manosphere/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-03T10:01:00+10:00",
+      "score": 5,
+      "why": "The question mark makes it feel like the host has paused for the room.",
+      "signals": [
+        "The question mark makes it feel like the host has paused for the room.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/mogging-is-collins-word-of-the-year-for-2026-what-does-i-5d98141688.svg"
+    }
+  ],
+  "feed_errors": [
+    {
+      "source": "The Independent",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
+}
