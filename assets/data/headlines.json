@@ -1,11 +1,45 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T11:42:34.300727+10:00",
-  "generated_label": "06 Nov 2026, 11:42 AM AEST",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T11:02:57.619996+10:00",
+  "generated_label": "07 Nov 2026, 11:02 AM AEST",
   "source_count": 14,
-  "headline_count": 15,
+  "headline_count": 18,
   "headlines": [
+    {
+      "id": "we-re-not-in-italy-boss-who-sacked-chef-who-refused-to-p-f5069b81e0",
+      "title": "‘We’re not in Italy’: Boss who sacked chef who refused to put pineapple on pizza",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWnVOaTJDMFR0QmJxVGRlWENCdmIyZ0pfY0dGQ1IxZVd3NEJCRk1mTklXZGxCNDlzWUdrMUc3TDEtYk04N0RuRWc5LUR6cG9aZGhWZ3l3UWw4WlVScXl4UnB5bThYZGd3c3FfdTVGSkZoRnUxaHhnT0NmUFIxU0tocjZBMDJXb0dLMHVwdG8wa0lEa2JCX2ZUQ2c3aTF2Y1lLc3Y2bHR4bkFrdTNFWnBUbC1jdTRCcUtaXzZsZDFYcVBldUZyZWt3RjNzXzA2U1hROTBySVJrbHUwdXpNVFlKc0dzX0IzMGY0MnlfZl9GeHZ1d0M5ZHc?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-06T15:27:32+10:00",
+      "score": 33,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/we-re-not-in-italy-boss-who-sacked-chef-who-refused-to-p-f5069b81e0.svg"
+    },
+    {
+      "id": "new-us-economic-data-a-surprise-but-too-late-for-midterm-5ce13b2253",
+      "title": "New US economic data a surprise – but too late for midterms",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSTctWGYzdFQtQ0o3ZTRRRTlTcmVSYVB1bUpoUUFmd2pNaUhEZ21jVG9IaDdLbFhEQWEzM1VVQXYycHdNT2VnX3B4T2xWd3NuaHA3OVdrYkp6SXoxNldwX3EzRFB2SWdmZ3JyS2pvZnNTN0xaRnNKb0tEdG1rOGdFb0ZRZHBqQnlja3UtcUZyMUIzeGd5SkFBM0x1UVllVlZxMVc0bG9tYUhKeUQxdjl5N0NnZXpJWFQwNzhSaTFOWnc0YktzNHBJaTRB?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-07T02:18:03+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/new-us-economic-data-a-surprise-but-too-late-for-midterm-5ce13b2253.svg"
+    },
     {
       "id": "70-pics-how-the-top-end-celebrated-melbourne-cup-day-13e2c36a4f",
       "title": "70+ pics: How the Top End celebrated Melbourne Cup Day",
@@ -23,6 +57,24 @@
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
       "image": "assets/data/headline-images/70-pics-how-the-top-end-celebrated-melbourne-cup-day-13e2c36a4f.svg"
+    },
+    {
+      "id": "richmond-council-issues-warning-after-fining-man-100-for-39af08a4a4",
+      "title": "Richmond Council issues warning after fining man £100 for leaving two bags next to bin",
+      "url": "https://www.mirror.co.uk/news/uk-news/richmond-council-fines-man-100-37850901",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-06T22:33:03+10:00",
+      "score": 25,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk.",
+        "A serious-news word is sharing a sentence with something very ordinary.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/richmond-council-issues-warning-after-fining-man-100-for-39af08a4a4.svg"
     },
     {
       "id": "man-24-filmed-410-male-victims-using-the-toilet-as-370-v-f94f11da7a",
@@ -43,23 +95,6 @@
       "image": "assets/data/headline-images/man-24-filmed-410-male-victims-using-the-toilet-as-370-v-f94f11da7a.svg"
     },
     {
-      "id": "first-fossil-evidence-of-marine-amphibian-stuns-paleonto-83dbb8dc97",
-      "title": "First fossil evidence of marine amphibian stuns paleontologists: ‘Very unusual’",
-      "url": "https://nypost.com/2026/10/27/science/chunky-fossils-provide-first-evidence-of-sea-going-amphibian/",
-      "source": "New York Post Weird But True",
-      "country": "United States",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-28T00:18:08+10:00",
-      "score": 20,
-      "why": "The headline is already trying not to laugh.",
-      "signals": [
-        "The headline is already trying not to laugh.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/first-fossil-evidence-of-marine-amphibian-stuns-paleonto-83dbb8dc97.svg"
-    },
-    {
       "id": "tv-star-vows-to-haunt-trump-from-beyond-the-grave-and-cl-304da33258",
       "title": "TV star vows to 'haunt' Trump from beyond the grave and claims aliens 'live among us'",
       "url": "https://www.dailystar.co.uk/news/latest-news/tv-star-vows-haunt-trump-37820784",
@@ -75,6 +110,23 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/tv-star-vows-to-haunt-trump-from-beyond-the-grave-and-cl-304da33258.svg"
+    },
+    {
+      "id": "family-chocolate-maker-in-battle-with-cadbury-s-as-winte-f954b7dfcf",
+      "title": "Family chocolate maker in battle with Cadbury's as winter word is trademarked",
+      "url": "https://www.mirror.co.uk/news/uk-news/family-chocolate-maker-battle-cadburys-37849316",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-06T18:24:37+10:00",
+      "score": 19,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/family-chocolate-maker-in-battle-with-cadbury-s-as-winte-f954b7dfcf.svg"
     },
     {
       "id": "she-wouldn-t-let-go-bride-nearly-borne-aloft-by-giant-ba-ca40ae9af1",
@@ -146,42 +198,6 @@
       "image": "assets/data/headline-images/real-life-jurassic-park-scientists-discover-dinosaur-blo-b2c5e665bf.svg"
     },
     {
-      "id": "britain-braces-for-a-winter-of-chaos-after-two-deadly-st-50474f1eb6",
-      "title": "Britain braces for a winter of chaos: After two deadly storms, scientists warn record-breaking Super El Niño could bring even more destructive weather",
-      "url": "https://www.dailymail.com/sciencetech/article-16241889/Britain-braces-winter-storms-el-nino.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-10-27T21:42:59+10:00",
-      "score": 16,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy.",
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/britain-braces-for-a-winter-of-chaos-after-two-deadly-st-50474f1eb6.svg"
-    },
-    {
-      "id": "mum-cleared-12-000-debt-in-a-year-and-explains-exactly-h-e031958656",
-      "title": "Mum cleared £12,000 debt in a year and explains exactly how she did it",
-      "url": "https://www.mirror.co.uk/money/mum-cleared-12000-debt-year-37840607",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-04T17:15:35+10:00",
-      "score": 15,
-      "why": "It reads like the setup to a very dry question.",
-      "signals": [
-        "It reads like the setup to a very dry question.",
-        "The specific number gives the line a dry little thud.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/mum-cleared-12-000-debt-in-a-year-and-explains-exactly-h-e031958656.svg"
-    },
-    {
       "id": "mars-volcanoes-could-contain-the-ingredients-needed-for--e1be64a0f2",
       "title": "Mars' volcanoes could contain the ingredients needed for alien life to develop, scientists say",
       "url": "https://www.dailymail.com/sciencetech/article-16264609/Scientists-Mars-volcanoes-ingredients-alien-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -216,53 +232,87 @@
       "image": "assets/data/headline-images/scientists-detect-mysterious-radio-signal-in-search-of-a-461dacf74b.svg"
     },
     {
-      "id": "new-ufo-files-detail-eerie-sightings-near-california-isl-fec71f7b33",
-      "title": "New UFO files detail eerie sightings near California island at heart of 'underwater alien base' theory",
-      "url": "https://www.dailymail.com/sciencetech/article-16239937/ufo-sightings-catalina-island-california.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "id": "the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0",
+      "title": "The 'mermaid' that fooled the world: Scientists reveal the true identity of a bizarre creature once hailed as a missing link between humans and fish",
+      "url": "https://www.dailymail.com/sciencetech/article-16268309/mermaid-fooled-world-Scientists-true-identity.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "source": "Daily Mail Science",
       "country": "United Kingdom",
       "source_type": "newspaper science / odd discoveries",
       "priority": "tabloid",
-      "published": "2026-10-27T22:07:10+10:00",
-      "score": 15,
-      "why": "A wonderfully specific detail has taken centre stage.",
+      "published": "2026-11-06T06:29:36+10:00",
+      "score": 13,
+      "why": "The headline is already trying not to laugh.",
       "signals": [
-        "A wonderfully specific detail has taken centre stage.",
+        "The headline is already trying not to laugh.",
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/new-ufo-files-detail-eerie-sightings-near-california-isl-fec71f7b33.svg"
+      "image": "assets/data/headline-images/the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0.svg"
     },
     {
-      "id": "profits-at-irish-arm-of-high-street-giant-next-rise-7-to-e95d783f32",
-      "title": "Profits at Irish arm of high street giant Next rise 7% to €3.4m",
-      "url": "https://www.irishtimes.com/business/2026/11/05/profits-at-irish-arm-of-high-street-giant-next-rise-7-per-cent-to-34m/",
+      "id": "an-interspecies-gay-love-story-scientists-discover-an-un-7577dca8f8",
+      "title": "An interspecies gay love story: Scientists discover an 'unusual sexual bond' between a bull and a male donkey",
+      "url": "https://www.dailymail.com/sciencetech/article-16258617/interspecies-gay-love-story-bull-male-donkey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-03T02:00:46+10:00",
+      "score": 13,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/an-interspecies-gay-love-story-scientists-discover-an-un-7577dca8f8.svg"
+    },
+    {
+      "id": "irish-player-ratings-v-argentina-hugo-keenan-impresses-i-b21e199118",
+      "title": "Irish player ratings v Argentina: Hugo Keenan impresses in hat-trick display",
+      "url": "https://www.irishtimes.com/sport/rugby/2026/11/06/irish-player-ratings-v-argentina-hugo-keenan-impresses-in-hat-trick-display/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-06T02:31:54+10:00",
-      "score": 7,
-      "why": "The scale is doing deadpan comedy.",
+      "published": "2026-11-07T08:43:17+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
       "signals": [
-        "The scale is doing deadpan comedy."
+        "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/profits-at-irish-arm-of-high-street-giant-next-rise-7-to-e95d783f32.svg"
+      "image": "assets/data/headline-images/irish-player-ratings-v-argentina-hugo-keenan-impresses-i-b21e199118.svg"
     },
     {
-      "id": "an-insult-to-his-culture-italian-chef-sacked-for-not-put-f8cb881242",
-      "title": "‘An insult to his culture’: Italian chef sacked for not putting pineapple on pizza loses bid to get job back",
-      "url": "https://www.irishtimes.com/food/2026/11/05/an-insult-to-his-culture-italian-chef-sacked-for-not-putting-pineapple-on-pizza-loses-bid-to-get-job-back/",
+      "id": "ireland-42-12-argentina-ft-as-it-happened-hugo-keenan-s--0550bd60a2",
+      "title": "Ireland 42-12 Argentina (FT) as it happened: Hugo Keenan’s hat-trick headlines comfortable Irish win",
+      "url": "https://www.irishtimes.com/sport/rugby/2026/11/06/ireland-v-argentina-live-updates-nations-championship-gets-underway-in-dublin/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-06T01:22:25+10:00",
-      "score": 7,
-      "why": "A very ordinary object has wandered into serious news.",
+      "published": "2026-11-07T08:40:56+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
       "signals": [
-        "A very ordinary object has wandered into serious news."
+        "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/an-insult-to-his-culture-italian-chef-sacked-for-not-put-f8cb881242.svg"
+      "image": "assets/data/headline-images/ireland-42-12-argentina-ft-as-it-happened-hugo-keenan-s--0550bd60a2.svg"
+    },
+    {
+      "id": "after-fine-gael-s-15-years-in-government-are-the-miles-o-6753247f7b",
+      "title": "After Fine Gael’s 15 years in Government, are the miles on the clock showing?",
+      "url": "https://www.irishtimes.com/politics/2026/11/06/after-fine-gaels-15-years-in-government-are-the-miles-on-the-clock-showing/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-07T02:51:26+10:00",
+      "score": 5,
+      "why": "The question mark makes it feel like the host has paused for the room.",
+      "signals": [
+        "The question mark makes it feel like the host has paused for the room.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/after-fine-gael-s-15-years-in-government-are-the-miles-o-6753247f7b.svg"
     }
   ],
   "feed_errors": [
