@@ -1,44 +1,61 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T11:02:57.619996+10:00",
-  "generated_label": "07 Nov 2026, 11:02 AM AEST",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T10:50:03.560896+10:00",
+  "generated_label": "08 Nov 2026, 10:50 AM AEST",
   "source_count": 14,
-  "headline_count": 18,
+  "headline_count": 19,
   "headlines": [
     {
-      "id": "we-re-not-in-italy-boss-who-sacked-chef-who-refused-to-p-f5069b81e0",
-      "title": "‘We’re not in Italy’: Boss who sacked chef who refused to put pineapple on pizza",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWnVOaTJDMFR0QmJxVGRlWENCdmIyZ0pfY0dGQ1IxZVd3NEJCRk1mTklXZGxCNDlzWUdrMUc3TDEtYk04N0RuRWc5LUR6cG9aZGhWZ3l3UWw4WlVScXl4UnB5bThYZGd3c3FfdTVGSkZoRnUxaHhnT0NmUFIxU0tocjZBMDJXb0dLMHVwdG8wa0lEa2JCX2ZUQ2c3aTF2Y1lLc3Y2bHR4bkFrdTNFWnBUbC1jdTRCcUtaXzZsZDFYcVBldUZyZWt3RjNzXzA2U1hROTBySVJrbHUwdXpNVFlKc0dzX0IzMGY0MnlfZl9GeHZ1d0M5ZHc?oc=5",
+      "id": "waaka-hat-trick-books-nz-a-spot-in-world-cup-final-b74825cfac",
+      "title": "Waaka hat-trick books NZ a spot in World Cup final",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXVrZlJrNkY2UzloQTZxemlqalgxQ3k2R2phc2l5d3d1R0haZU42UDduZ0hZZWpybXN0c0l1ZDhNcTB4aVdtUDNuUGFjdjE5cWI4YW82eUg3cXp0NFlFY25CeC1tSmRMOHNJYlUwSFVhS3FRMWpRSDN0blJsdjFwTEhoTGd1dF9yR1NoV1ZBVnh6d0w1U3M1ZXpZbzlUUFQ2c0paWHlDZlFiZkVUS3cxNG5TdFNPMzJxRnlqWmkxd3dyY2xGTV9kWWhaTUkwQ1p0dTJHdW9kMUZrWUtOTjlaTGJudmZGcTRy?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-11-06T15:27:32+10:00",
-      "score": 33,
-      "why": "A very ordinary object has wandered into serious news.",
+      "published": "2026-11-07T19:14:23+10:00",
+      "score": 34,
+      "why": "A household object has somehow reached the news desk.",
       "signals": [
-        "A very ordinary object has wandered into serious news.",
+        "A household object has somehow reached the news desk.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/we-re-not-in-italy-boss-who-sacked-chef-who-refused-to-p-f5069b81e0.svg"
+      "image": "assets/data/headline-images/waaka-hat-trick-books-nz-a-spot-in-world-cup-final-b74825cfac.svg"
     },
     {
-      "id": "new-us-economic-data-a-surprise-but-too-late-for-midterm-5ce13b2253",
-      "title": "New US economic data a surprise – but too late for midterms",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSTctWGYzdFQtQ0o3ZTRRRTlTcmVSYVB1bUpoUUFmd2pNaUhEZ21jVG9IaDdLbFhEQWEzM1VVQXYycHdNT2VnX3B4T2xWd3NuaHA3OVdrYkp6SXoxNldwX3EzRFB2SWdmZ3JyS2pvZnNTN0xaRnNKb0tEdG1rOGdFb0ZRZHBqQnlja3UtcUZyMUIzeGd5SkFBM0x1UVllVlZxMVc0bG9tYUhKeUQxdjl5N0NnZXpJWFQwNzhSaTFOWnc0YktzNHBJaTRB?oc=5",
+      "id": "nz-election-chaos-as-result-leaves-rivals-in-deadlock-f67ae30573",
+      "title": "NZ election chaos as result leaves rivals in deadlock",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaFM3WV9WXzhULTRHWUZGTHdlRGt3VlFpVFJfWVpNMWJ5UW1FYWdnNFlSSlljZkJRT290ZUpPbnMzTEpXNTFuaS1BYUdmYmZzVDNkTzlzYlVUWUxWeE1CX2k3UGxuMFJCUVJmTXZmMTJkX0FCWllSWHNOcUp1MkpIcjdjWXI1dzhLWXNNX3k3RjNRZWtOcmpnR3hxVjAxUmlRUjRrQ3ktejVMWTVub29vTV8welMtWXFPbEFCeFVwWTI0UzRZRnB6WUY4SzhSQkVXaVNyR0JmSTh6Y19ES3NkTjdqLTdDcjcydHFGVlNsWDkyWllEcWFjU0FaNA?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-11-07T02:18:03+10:00",
+      "published": "2026-11-07T19:13:40+10:00",
+      "score": 32,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/nz-election-chaos-as-result-leaves-rivals-in-deadlock-f67ae30573.svg"
+    },
+    {
+      "id": "darwin-real-estate-the-latest-auction-and-sales-results--fd97f5a712",
+      "title": "Darwin real estate: The latest auction and sales results for week ending November 7",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNmtLXzdtc1ROTjdPa3cxZ3FsTm5YaU9rTDZ0RlBfT3pXa0U2aVpDLVZRZXFNUVlBOUFhY2lUbXQ5REM3XzlyNUpVNGh2TkFTQ19XSkdZUm56Q1dDVDdSSVhWWXdjSEo4ODZmdnZmZjl6Y0o0VTQ5eHNaM183TzZyOUxFQ3lSNUtObGVwY0Q4V1BOSmtVZ3VkcmEzanN0NGMtbUY4bnNVVkVkclNvUkEteTFMa2dUcG9Vck9hblFkbEpqd0I0QlV4amZMTGlzZGR1UW1YaFY0Zk1hSmVGY2hveWNiR3NHTm84LVRZRTJKQ2wwTzhIdkFzdFlhRzJYVElxbXI0NFc0SEozUTFxMUdHa25aNWsxUQ?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-08T07:02:19+10:00",
       "score": 31,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/new-us-economic-data-a-surprise-but-too-late-for-midterm-5ce13b2253.svg"
+      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--fd97f5a712.svg"
     },
     {
       "id": "70-pics-how-the-top-end-celebrated-melbourne-cup-day-13e2c36a4f",
@@ -95,23 +112,6 @@
       "image": "assets/data/headline-images/man-24-filmed-410-male-victims-using-the-toilet-as-370-v-f94f11da7a.svg"
     },
     {
-      "id": "tv-star-vows-to-haunt-trump-from-beyond-the-grave-and-cl-304da33258",
-      "title": "TV star vows to 'haunt' Trump from beyond the grave and claims aliens 'live among us'",
-      "url": "https://www.dailystar.co.uk/news/latest-news/tv-star-vows-haunt-trump-37820784",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-31T18:00:00+10:00",
-      "score": 20,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/tv-star-vows-to-haunt-trump-from-beyond-the-grave-and-cl-304da33258.svg"
-    },
-    {
       "id": "family-chocolate-maker-in-battle-with-cadbury-s-as-winte-f954b7dfcf",
       "title": "Family chocolate maker in battle with Cadbury's as winter word is trademarked",
       "url": "https://www.mirror.co.uk/news/uk-news/family-chocolate-maker-battle-cadburys-37849316",
@@ -161,23 +161,6 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/we-could-soon-see-zeptoverse-tiny-world-a-billionth-of-a-b4e101f338.svg"
-    },
-    {
-      "id": "a-giant-ball-of-2-800-000-eels-is-having-an-orgy-off-the-578480aba5",
-      "title": "A giant ball of 2,800,000 eels is having an orgy off the coast of Australia",
-      "url": "https://metro.co.uk/2026/10/28/a-giant-ball-2-800-000-eels-orgy-off-coast-australia-29745511/",
-      "source": "Metro Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-10-28T22:36:43+10:00",
-      "score": 17,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/a-giant-ball-of-2-800-000-eels-is-having-an-orgy-off-the-578480aba5.svg"
     },
     {
       "id": "real-life-jurassic-park-scientists-discover-dinosaur-blo-b2c5e665bf",
@@ -232,6 +215,24 @@
       "image": "assets/data/headline-images/scientists-detect-mysterious-radio-signal-in-search-of-a-461dacf74b.svg"
     },
     {
+      "id": "unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33",
+      "title": "Unravelling the mystery of Egypt's 'Braided Lady': Archaeologists use 3D CT scans to digitally unwrap a mummy after 3,000 years",
+      "url": "https://www.dailymail.com/sciencetech/article-16262481/Mystery-Egypt-Braided-Lady-Mummy-unpicked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-07T18:46:19+10:00",
+      "score": 14,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The specific number gives the line a dry little thud.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33.svg"
+    },
+    {
       "id": "the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0",
       "title": "The 'mermaid' that fooled the world: Scientists reveal the true identity of a bizarre creature once hailed as a missing link between humans and fish",
       "url": "https://www.dailymail.com/sciencetech/article-16268309/mermaid-fooled-world-Scientists-true-identity.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -249,25 +250,24 @@
       "image": "assets/data/headline-images/the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0.svg"
     },
     {
-      "id": "an-interspecies-gay-love-story-scientists-discover-an-un-7577dca8f8",
-      "title": "An interspecies gay love story: Scientists discover an 'unusual sexual bond' between a bull and a male donkey",
-      "url": "https://www.dailymail.com/sciencetech/article-16258617/interspecies-gay-love-story-bull-male-donkey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-11-03T02:00:46+10:00",
-      "score": 13,
-      "why": "The headline is already trying not to laugh.",
+      "id": "ah-kiong-hat-trick-helps-samoa-beat-zimbabwe-8a7ef7b26c",
+      "title": "Ah Kiong hat-trick helps Samoa beat Zimbabwe",
+      "url": "https://www.rnz.co.nz/news/pacific/2429374/ah-kiong-hat-trick-helps-samoa-beat-zimbabwe",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-08T06:14:38+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
       "signals": [
-        "The headline is already trying not to laugh.",
-        "Tabloid target: ranked up when the wording already has a wobble."
+        "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/an-interspecies-gay-love-story-scientists-discover-an-un-7577dca8f8.svg"
+      "image": "assets/data/headline-images/ah-kiong-hat-trick-helps-samoa-beat-zimbabwe-8a7ef7b26c.svg"
     },
     {
-      "id": "irish-player-ratings-v-argentina-hugo-keenan-impresses-i-b21e199118",
-      "title": "Irish player ratings v Argentina: Hugo Keenan impresses in hat-trick display",
+      "id": "ireland-player-ratings-v-argentina-hugo-keenan-impresses-c5c87d4e1f",
+      "title": "Ireland player ratings v Argentina: Hugo Keenan impresses in hat-trick display",
       "url": "https://www.irishtimes.com/sport/rugby/2026/11/06/irish-player-ratings-v-argentina-hugo-keenan-impresses-in-hat-trick-display/",
       "source": "The Irish Times",
       "country": "Ireland",
@@ -279,40 +279,56 @@
       "signals": [
         "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/irish-player-ratings-v-argentina-hugo-keenan-impresses-i-b21e199118.svg"
+      "image": "assets/data/headline-images/ireland-player-ratings-v-argentina-hugo-keenan-impresses-c5c87d4e1f.svg"
     },
     {
-      "id": "ireland-42-12-argentina-ft-as-it-happened-hugo-keenan-s--0550bd60a2",
-      "title": "Ireland 42-12 Argentina (FT) as it happened: Hugo Keenan’s hat-trick headlines comfortable Irish win",
-      "url": "https://www.irishtimes.com/sport/rugby/2026/11/06/ireland-v-argentina-live-updates-nations-championship-gets-underway-in-dublin/",
+      "id": "hugo-keenan-hat-trick-sees-ireland-into-the-clear-agains-e94243e185",
+      "title": "Hugo Keenan hat-trick sees Ireland into the clear against disjointed Argentina",
+      "url": "https://www.irishtimes.com/sport/rugby/2026/11/07/hugo-keenan-hat-trick-sees-ireland-into-the-clear-against-disjointed-argentina/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-07T08:40:56+10:00",
+      "published": "2026-11-07T16:00:00+10:00",
       "score": 10,
       "why": "A household object has somehow reached the news desk.",
       "signals": [
         "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/ireland-42-12-argentina-ft-as-it-happened-hugo-keenan-s--0550bd60a2.svg"
+      "image": "assets/data/headline-images/hugo-keenan-hat-trick-sees-ireland-into-the-clear-agains-e94243e185.svg"
     },
     {
-      "id": "after-fine-gael-s-15-years-in-government-are-the-miles-o-6753247f7b",
-      "title": "After Fine Gael’s 15 years in Government, are the miles on the clock showing?",
-      "url": "https://www.irishtimes.com/politics/2026/11/06/after-fine-gaels-15-years-in-government-are-the-miles-on-the-clock-showing/",
+      "id": "con-n-o-donnell-s-45-minute-ireland-career-i-m-very-grat-50d2b4b4c6",
+      "title": "Conán O’Donnell’s 45-minute Ireland career: ‘I’m very grateful I was caught out’",
+      "url": "https://www.irishtimes.com/sport/rugby/2026/11/07/conan-odonnells-45-minute-ireland-career-im-very-grateful-i-was-caught-out/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-07T02:51:26+10:00",
-      "score": 5,
-      "why": "The question mark makes it feel like the host has paused for the room.",
+      "published": "2026-11-07T16:00:00+10:00",
+      "score": 9,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "The question mark makes it feel like the host has paused for the room.",
+        "It has the shape of a tiny adventure reported with a straight face.",
         "The specific number gives the line a dry little thud."
       ],
-      "image": "assets/data/headline-images/after-fine-gael-s-15-years-in-government-are-the-miles-o-6753247f7b.svg"
+      "image": "assets/data/headline-images/con-n-o-donnell-s-45-minute-ireland-career-i-m-very-grat-50d2b4b4c6.svg"
+    },
+    {
+      "id": "wet-weather-chaos-in-qualifying-for-brazilian-grand-prix-a217c93243",
+      "title": "Wet-weather chaos in qualifying for Brazilian Grand Prix",
+      "url": "https://www.abc.net.au/news/2026-11-08/f1-s%C3%A3o-paulo-brazil-grand-prix-qualifying/106998738",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-08T07:06:05+10:00",
+      "score": 8,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy."
+      ],
+      "image": "assets/data/headline-images/wet-weather-chaos-in-qualifying-for-brazilian-grand-prix-a217c93243.svg"
     }
   ],
   "feed_errors": [
