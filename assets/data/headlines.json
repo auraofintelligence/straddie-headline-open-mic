@@ -1,45 +1,11 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T10:50:03.560896+10:00",
-  "generated_label": "08 Nov 2026, 10:50 AM AEST",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T11:07:03.144987+10:00",
+  "generated_label": "09 Nov 2026, 11:07 AM AEST",
   "source_count": 14,
-  "headline_count": 19,
+  "headline_count": 18,
   "headlines": [
-    {
-      "id": "waaka-hat-trick-books-nz-a-spot-in-world-cup-final-b74825cfac",
-      "title": "Waaka hat-trick books NZ a spot in World Cup final",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXVrZlJrNkY2UzloQTZxemlqalgxQ3k2R2phc2l5d3d1R0haZU42UDduZ0hZZWpybXN0c0l1ZDhNcTB4aVdtUDNuUGFjdjE5cWI4YW82eUg3cXp0NFlFY25CeC1tSmRMOHNJYlUwSFVhS3FRMWpRSDN0blJsdjFwTEhoTGd1dF9yR1NoV1ZBVnh6d0w1U3M1ZXpZbzlUUFQ2c0paWHlDZlFiZkVUS3cxNG5TdFNPMzJxRnlqWmkxd3dyY2xGTV9kWWhaTUkwQ1p0dTJHdW9kMUZrWUtOTjlaTGJudmZGcTRy?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-11-07T19:14:23+10:00",
-      "score": 34,
-      "why": "A household object has somehow reached the news desk.",
-      "signals": [
-        "A household object has somehow reached the news desk.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/waaka-hat-trick-books-nz-a-spot-in-world-cup-final-b74825cfac.svg"
-    },
-    {
-      "id": "nz-election-chaos-as-result-leaves-rivals-in-deadlock-f67ae30573",
-      "title": "NZ election chaos as result leaves rivals in deadlock",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaFM3WV9WXzhULTRHWUZGTHdlRGt3VlFpVFJfWVpNMWJ5UW1FYWdnNFlSSlljZkJRT290ZUpPbnMzTEpXNTFuaS1BYUdmYmZzVDNkTzlzYlVUWUxWeE1CX2k3UGxuMFJCUVJmTXZmMTJkX0FCWllSWHNOcUp1MkpIcjdjWXI1dzhLWXNNX3k3RjNRZWtOcmpnR3hxVjAxUmlRUjRrQ3ktejVMWTVub29vTV8welMtWXFPbEFCeFVwWTI0UzRZRnB6WUY4SzhSQkVXaVNyR0JmSTh6Y19ES3NkTjdqLTdDcjcydHFGVlNsWDkyWllEcWFjU0FaNA?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-11-07T19:13:40+10:00",
-      "score": 32,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/nz-election-chaos-as-result-leaves-rivals-in-deadlock-f67ae30573.svg"
-    },
     {
       "id": "darwin-real-estate-the-latest-auction-and-sales-results--fd97f5a712",
       "title": "Darwin real estate: The latest auction and sales results for week ending November 7",
@@ -56,24 +22,6 @@
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
       "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--fd97f5a712.svg"
-    },
-    {
-      "id": "70-pics-how-the-top-end-celebrated-melbourne-cup-day-13e2c36a4f",
-      "title": "70+ pics: How the Top End celebrated Melbourne Cup Day",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ3lGM0hTdlF6eUVmQmFWVWRyYkk2WWVUZl9hZjNfb0ExRk4xYm11WTJyMnl2ZWpYMzlJTnc4eGlOWmRGdEhTcnlWMUtxTWhHVlpRSHZiTTdDZVNGV1NkTGVwSC1zTmRmQUhITmlHamVYLWotM0xKQmJQcjJfNWtiUktzYjh3M09nM2FwelF3eXhmVG5xWTNOZ3pRR19wNXYzWDhoMnNiYUdHMDVXcmV4bDlvNE5RVGJRMGNCclFYN2tkY0NSTkFsZlhDQnhzZ3hjZ1k4SVF0WGctZFY5bFdIb0YtZVdvc202WDE5eHA5ZXpkc3lHdkN5dW03MEpoUy1COEJHamNDZl8?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-11-04T13:01:00+10:00",
-      "score": 29,
-      "why": "It reads like the setup to a very dry question.",
-      "signals": [
-        "It reads like the setup to a very dry question.",
-        "The specific number gives the line a dry little thud.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/70-pics-how-the-top-end-celebrated-melbourne-cup-day-13e2c36a4f.svg"
     },
     {
       "id": "richmond-council-issues-warning-after-fining-man-100-for-39af08a4a4",
@@ -112,6 +60,23 @@
       "image": "assets/data/headline-images/man-24-filmed-410-male-victims-using-the-toilet-as-370-v-f94f11da7a.svg"
     },
     {
+      "id": "desperate-donald-trump-could-wheel-out-real-life-alien-t-ecd2875227",
+      "title": "Desperate Donald Trump 'could wheel out real-life alien' to save face after midterm wipeout",
+      "url": "https://www.dailystar.co.uk/news/latest-news/desperate-donald-trump-could-wheel-37855171",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-08T20:22:42+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/desperate-donald-trump-could-wheel-out-real-life-alien-t-ecd2875227.svg"
+    },
+    {
       "id": "family-chocolate-maker-in-battle-with-cadbury-s-as-winte-f954b7dfcf",
       "title": "Family chocolate maker in battle with Cadbury's as winter word is trademarked",
       "url": "https://www.mirror.co.uk/news/uk-news/family-chocolate-maker-battle-cadburys-37849316",
@@ -129,21 +94,21 @@
       "image": "assets/data/headline-images/family-chocolate-maker-in-battle-with-cadbury-s-as-winte-f954b7dfcf.svg"
     },
     {
-      "id": "she-wouldn-t-let-go-bride-nearly-borne-aloft-by-giant-ba-ca40ae9af1",
-      "title": "‘She wouldn’t let go:’ Bride nearly borne aloft by giant balloons during windy wedding photo-op",
-      "url": "https://nypost.com/2026/10/29/lifestyle/bride-nearly-borne-aloft-by-giant-balloons-during-windy-wedding-photo-op/",
+      "id": "california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298",
+      "title": "California airport sparks online frenzy with peculiar hardware auction",
+      "url": "https://nypost.com/2026/11/08/lifestyle/oakland-airport-auctions-off-baggage-tugs-for-as-little-as-750-as-social-media-users-go-wild/",
       "source": "New York Post Weird But True",
       "country": "United States",
       "source_type": "newspaper offbeat section",
       "priority": "tabloid-offbeat",
-      "published": "2026-10-30T00:32:23+10:00",
+      "published": "2026-11-09T00:45:00+10:00",
       "score": 17,
-      "why": "The scale is doing deadpan comedy.",
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "The scale is doing deadpan comedy.",
+        "It has the shape of a tiny adventure reported with a straight face.",
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
-      "image": "assets/data/headline-images/she-wouldn-t-let-go-bride-nearly-borne-aloft-by-giant-ba-ca40ae9af1.svg"
+      "image": "assets/data/headline-images/california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298.svg"
     },
     {
       "id": "we-could-soon-see-zeptoverse-tiny-world-a-billionth-of-a-b4e101f338",
@@ -250,85 +215,102 @@
       "image": "assets/data/headline-images/the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0.svg"
     },
     {
-      "id": "ah-kiong-hat-trick-helps-samoa-beat-zimbabwe-8a7ef7b26c",
-      "title": "Ah Kiong hat-trick helps Samoa beat Zimbabwe",
-      "url": "https://www.rnz.co.nz/news/pacific/2429374/ah-kiong-hat-trick-helps-samoa-beat-zimbabwe",
+      "id": "bizarre-and-thrilling-theatre-with-carrick-s-man-utd-fut-a1e7b593e2",
+      "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-09T07:50:05+10:00",
+      "score": 10,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh."
+      ],
+      "image": "assets/data/headline-images/bizarre-and-thrilling-theatre-with-carrick-s-man-utd-fut-a1e7b593e2.svg"
+    },
+    {
+      "id": "banana-producers-in-latin-america-want-better-pay-to-cop-2037d51abc",
+      "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-08T17:00:34+10:00",
+      "score": 9,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news."
+      ],
+      "image": "assets/data/headline-images/banana-producers-in-latin-america-want-better-pay-to-cop-2037d51abc.svg"
+    },
+    {
+      "id": "morning-mail-queensland-critics-face-alleged-culture-of--96171fd2e1",
+      "title": "Morning Mail: Queensland critics face alleged ‘culture of fear’; extreme specialist fees revealed; and Bluey co-creator’s new alien",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/09/morning-mail-monday-ntwnfb",
+      "source": "The Guardian Australia",
+      "country": "Australia",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-09T05:52:29+10:00",
+      "score": 8,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage."
+      ],
+      "image": "assets/data/headline-images/morning-mail-queensland-critics-face-alleged-culture-of--96171fd2e1.svg"
+    },
+    {
+      "id": "trump-set-to-lurch-further-right-claiming-us-took-giant--3550a1e805",
+      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-09T03:58:43+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/trump-set-to-lurch-further-right-claiming-us-took-giant--3550a1e805.svg"
+    },
+    {
+      "id": "when-the-boss-on-the-phone-isn-t-real-how-more-than-129--99378b2f49",
+      "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
+      "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
+      "source": "The New York Times",
+      "country": "United States",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-09T09:34:09+10:00",
+      "score": 6,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "It reads like the setup to a very dry question."
+      ],
+      "image": "assets/data/headline-images/when-the-boss-on-the-phone-isn-t-real-how-more-than-129--99378b2f49.svg"
+    },
+    {
+      "id": "from-15-minute-drones-to-instant-kill-chains-what-does-n-0f4ea9abc3",
+      "title": "From 15-minute drones to instant kill chains: What does NZ's future army look like?",
+      "url": "https://www.rnz.co.nz/news/political/2449141/from-15-minute-drones-to-instant-kill-chains-what-does-nz-s-future-army-look-like",
       "source": "RNZ News",
       "country": "New Zealand",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-08T06:14:38+10:00",
-      "score": 10,
-      "why": "A household object has somehow reached the news desk.",
+      "published": "2026-11-09T04:04:48+10:00",
+      "score": 5,
+      "why": "The question mark makes it feel like the host has paused for the room.",
       "signals": [
-        "A household object has somehow reached the news desk."
-      ],
-      "image": "assets/data/headline-images/ah-kiong-hat-trick-helps-samoa-beat-zimbabwe-8a7ef7b26c.svg"
-    },
-    {
-      "id": "ireland-player-ratings-v-argentina-hugo-keenan-impresses-c5c87d4e1f",
-      "title": "Ireland player ratings v Argentina: Hugo Keenan impresses in hat-trick display",
-      "url": "https://www.irishtimes.com/sport/rugby/2026/11/06/irish-player-ratings-v-argentina-hugo-keenan-impresses-in-hat-trick-display/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-07T08:43:17+10:00",
-      "score": 10,
-      "why": "A household object has somehow reached the news desk.",
-      "signals": [
-        "A household object has somehow reached the news desk."
-      ],
-      "image": "assets/data/headline-images/ireland-player-ratings-v-argentina-hugo-keenan-impresses-c5c87d4e1f.svg"
-    },
-    {
-      "id": "hugo-keenan-hat-trick-sees-ireland-into-the-clear-agains-e94243e185",
-      "title": "Hugo Keenan hat-trick sees Ireland into the clear against disjointed Argentina",
-      "url": "https://www.irishtimes.com/sport/rugby/2026/11/07/hugo-keenan-hat-trick-sees-ireland-into-the-clear-against-disjointed-argentina/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-07T16:00:00+10:00",
-      "score": 10,
-      "why": "A household object has somehow reached the news desk.",
-      "signals": [
-        "A household object has somehow reached the news desk."
-      ],
-      "image": "assets/data/headline-images/hugo-keenan-hat-trick-sees-ireland-into-the-clear-agains-e94243e185.svg"
-    },
-    {
-      "id": "con-n-o-donnell-s-45-minute-ireland-career-i-m-very-grat-50d2b4b4c6",
-      "title": "Conán O’Donnell’s 45-minute Ireland career: ‘I’m very grateful I was caught out’",
-      "url": "https://www.irishtimes.com/sport/rugby/2026/11/07/conan-odonnells-45-minute-ireland-career-im-very-grateful-i-was-caught-out/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-07T16:00:00+10:00",
-      "score": 9,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
+        "The question mark makes it feel like the host has paused for the room.",
         "The specific number gives the line a dry little thud."
       ],
-      "image": "assets/data/headline-images/con-n-o-donnell-s-45-minute-ireland-career-i-m-very-grat-50d2b4b4c6.svg"
-    },
-    {
-      "id": "wet-weather-chaos-in-qualifying-for-brazilian-grand-prix-a217c93243",
-      "title": "Wet-weather chaos in qualifying for Brazilian Grand Prix",
-      "url": "https://www.abc.net.au/news/2026-11-08/f1-s%C3%A3o-paulo-brazil-grand-prix-qualifying/106998738",
-      "source": "ABC News",
-      "country": "Australia",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-11-08T07:06:05+10:00",
-      "score": 8,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy."
-      ],
-      "image": "assets/data/headline-images/wet-weather-chaos-in-qualifying-for-brazilian-grand-prix-a217c93243.svg"
+      "image": "assets/data/headline-images/from-15-minute-drones-to-instant-kill-chains-what-does-n-0f4ea9abc3.svg"
     }
   ],
   "feed_errors": [

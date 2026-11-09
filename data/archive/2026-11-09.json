@@ -1,0 +1,322 @@
+{
+  "site": "Straddie Headline Open Mic",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T11:07:03.144987+10:00",
+  "generated_label": "09 Nov 2026, 11:07 AM AEST",
+  "source_count": 14,
+  "headline_count": 18,
+  "headlines": [
+    {
+      "id": "darwin-real-estate-the-latest-auction-and-sales-results--fd97f5a712",
+      "title": "Darwin real estate: The latest auction and sales results for week ending November 7",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNmtLXzdtc1ROTjdPa3cxZ3FsTm5YaU9rTDZ0RlBfT3pXa0U2aVpDLVZRZXFNUVlBOUFhY2lUbXQ5REM3XzlyNUpVNGh2TkFTQ19XSkdZUm56Q1dDVDdSSVhWWXdjSEo4ODZmdnZmZjl6Y0o0VTQ5eHNaM183TzZyOUxFQ3lSNUtObGVwY0Q4V1BOSmtVZ3VkcmEzanN0NGMtbUY4bnNVVkVkclNvUkEteTFMa2dUcG9Vck9hblFkbEpqd0I0QlV4amZMTGlzZGR1UW1YaFY0Zk1hSmVGY2hveWNiR3NHTm84LVRZRTJKQ2wwTzhIdkFzdFlhRzJYVElxbXI0NFc0SEozUTFxMUdHa25aNWsxUQ?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-08T07:02:19+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--fd97f5a712.svg"
+    },
+    {
+      "id": "richmond-council-issues-warning-after-fining-man-100-for-39af08a4a4",
+      "title": "Richmond Council issues warning after fining man £100 for leaving two bags next to bin",
+      "url": "https://www.mirror.co.uk/news/uk-news/richmond-council-fines-man-100-37850901",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-06T22:33:03+10:00",
+      "score": 25,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk.",
+        "A serious-news word is sharing a sentence with something very ordinary.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/richmond-council-issues-warning-after-fining-man-100-for-39af08a4a4.svg"
+    },
+    {
+      "id": "man-24-filmed-410-male-victims-using-the-toilet-as-370-v-f94f11da7a",
+      "title": "Man, 24, 'filmed 410 male victims using the toilet as 370 videos recorded in a year'",
+      "url": "https://www.dailystar.co.uk/news/world-news/man-24-filmed-410-male-37835392",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-03T02:33:13+10:00",
+      "score": 22,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/man-24-filmed-410-male-victims-using-the-toilet-as-370-v-f94f11da7a.svg"
+    },
+    {
+      "id": "desperate-donald-trump-could-wheel-out-real-life-alien-t-ecd2875227",
+      "title": "Desperate Donald Trump 'could wheel out real-life alien' to save face after midterm wipeout",
+      "url": "https://www.dailystar.co.uk/news/latest-news/desperate-donald-trump-could-wheel-37855171",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-08T20:22:42+10:00",
+      "score": 20,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/desperate-donald-trump-could-wheel-out-real-life-alien-t-ecd2875227.svg"
+    },
+    {
+      "id": "family-chocolate-maker-in-battle-with-cadbury-s-as-winte-f954b7dfcf",
+      "title": "Family chocolate maker in battle with Cadbury's as winter word is trademarked",
+      "url": "https://www.mirror.co.uk/news/uk-news/family-chocolate-maker-battle-cadburys-37849316",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-06T18:24:37+10:00",
+      "score": 19,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/family-chocolate-maker-in-battle-with-cadbury-s-as-winte-f954b7dfcf.svg"
+    },
+    {
+      "id": "california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298",
+      "title": "California airport sparks online frenzy with peculiar hardware auction",
+      "url": "https://nypost.com/2026/11/08/lifestyle/oakland-airport-auctions-off-baggage-tugs-for-as-little-as-750-as-social-media-users-go-wild/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-09T00:45:00+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298.svg"
+    },
+    {
+      "id": "we-could-soon-see-zeptoverse-tiny-world-a-billionth-of-a-b4e101f338",
+      "title": "We could soon see 'zeptoverse' – tiny world a billionth of a trillionth of a metre",
+      "url": "https://www.dailystar.co.uk/news/latest-news/could-soon-see-zeptoverse--37842202",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-05T07:22:32+10:00",
+      "score": 17,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/we-could-soon-see-zeptoverse-tiny-world-a-billionth-of-a-b4e101f338.svg"
+    },
+    {
+      "id": "real-life-jurassic-park-scientists-discover-dinosaur-blo-b2c5e665bf",
+      "title": "Real-life Jurassic Park? Scientists discover dinosaur BLOOD inside 115-million-year old bones",
+      "url": "https://www.dailymail.com/sciencetech/article-16259143/Real-life-Jurassic-Park-Scientists-dinosaur-BLOOD.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-03T06:00:46+10:00",
+      "score": 17,
+      "why": "The object list sounds like someone shuffled three different stories together.",
+      "signals": [
+        "The object list sounds like someone shuffled three different stories together.",
+        "The question mark makes it feel like the host has paused for the room.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/real-life-jurassic-park-scientists-discover-dinosaur-blo-b2c5e665bf.svg"
+    },
+    {
+      "id": "mars-volcanoes-could-contain-the-ingredients-needed-for--e1be64a0f2",
+      "title": "Mars' volcanoes could contain the ingredients needed for alien life to develop, scientists say",
+      "url": "https://www.dailymail.com/sciencetech/article-16264609/Scientists-Mars-volcanoes-ingredients-alien-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-05T05:00:46+10:00",
+      "score": 15,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/mars-volcanoes-could-contain-the-ingredients-needed-for--e1be64a0f2.svg"
+    },
+    {
+      "id": "scientists-detect-mysterious-radio-signal-in-search-of-a-461dacf74b",
+      "title": "Scientists detect mysterious radio signal in search of alien life",
+      "url": "https://www.dailymail.com/sciencetech/article-16262905/signal-scientists-alien-civilizations-space.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-04T05:58:12+10:00",
+      "score": 15,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/scientists-detect-mysterious-radio-signal-in-search-of-a-461dacf74b.svg"
+    },
+    {
+      "id": "unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33",
+      "title": "Unravelling the mystery of Egypt's 'Braided Lady': Archaeologists use 3D CT scans to digitally unwrap a mummy after 3,000 years",
+      "url": "https://www.dailymail.com/sciencetech/article-16262481/Mystery-Egypt-Braided-Lady-Mummy-unpicked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-07T18:46:19+10:00",
+      "score": 14,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The specific number gives the line a dry little thud.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33.svg"
+    },
+    {
+      "id": "the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0",
+      "title": "The 'mermaid' that fooled the world: Scientists reveal the true identity of a bizarre creature once hailed as a missing link between humans and fish",
+      "url": "https://www.dailymail.com/sciencetech/article-16268309/mermaid-fooled-world-Scientists-true-identity.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-06T06:29:36+10:00",
+      "score": 13,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0.svg"
+    },
+    {
+      "id": "bizarre-and-thrilling-theatre-with-carrick-s-man-utd-fut-a1e7b593e2",
+      "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-09T07:50:05+10:00",
+      "score": 10,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh."
+      ],
+      "image": "assets/data/headline-images/bizarre-and-thrilling-theatre-with-carrick-s-man-utd-fut-a1e7b593e2.svg"
+    },
+    {
+      "id": "banana-producers-in-latin-america-want-better-pay-to-cop-2037d51abc",
+      "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-08T17:00:34+10:00",
+      "score": 9,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news."
+      ],
+      "image": "assets/data/headline-images/banana-producers-in-latin-america-want-better-pay-to-cop-2037d51abc.svg"
+    },
+    {
+      "id": "morning-mail-queensland-critics-face-alleged-culture-of--96171fd2e1",
+      "title": "Morning Mail: Queensland critics face alleged ‘culture of fear’; extreme specialist fees revealed; and Bluey co-creator’s new alien",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/09/morning-mail-monday-ntwnfb",
+      "source": "The Guardian Australia",
+      "country": "Australia",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-09T05:52:29+10:00",
+      "score": 8,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage."
+      ],
+      "image": "assets/data/headline-images/morning-mail-queensland-critics-face-alleged-culture-of--96171fd2e1.svg"
+    },
+    {
+      "id": "trump-set-to-lurch-further-right-claiming-us-took-giant--3550a1e805",
+      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-09T03:58:43+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/trump-set-to-lurch-further-right-claiming-us-took-giant--3550a1e805.svg"
+    },
+    {
+      "id": "when-the-boss-on-the-phone-isn-t-real-how-more-than-129--99378b2f49",
+      "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
+      "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
+      "source": "The New York Times",
+      "country": "United States",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-09T09:34:09+10:00",
+      "score": 6,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "It reads like the setup to a very dry question."
+      ],
+      "image": "assets/data/headline-images/when-the-boss-on-the-phone-isn-t-real-how-more-than-129--99378b2f49.svg"
+    },
+    {
+      "id": "from-15-minute-drones-to-instant-kill-chains-what-does-n-0f4ea9abc3",
+      "title": "From 15-minute drones to instant kill chains: What does NZ's future army look like?",
+      "url": "https://www.rnz.co.nz/news/political/2449141/from-15-minute-drones-to-instant-kill-chains-what-does-nz-s-future-army-look-like",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-09T04:04:48+10:00",
+      "score": 5,
+      "why": "The question mark makes it feel like the host has paused for the room.",
+      "signals": [
+        "The question mark makes it feel like the host has paused for the room.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/from-15-minute-drones-to-instant-kill-chains-what-does-n-0f4ea9abc3.svg"
+    }
+  ],
+  "feed_errors": [
+    {
+      "source": "The Independent",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
+}
