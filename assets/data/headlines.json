@@ -1,27 +1,61 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T11:07:03.144987+10:00",
-  "generated_label": "09 Nov 2026, 11:07 AM AEST",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T13:42:43.761925+10:00",
+  "generated_label": "10 Nov 2026, 01:42 PM AEST",
   "source_count": 14,
-  "headline_count": 18,
+  "headline_count": 17,
   "headlines": [
     {
-      "id": "darwin-real-estate-the-latest-auction-and-sales-results--fd97f5a712",
-      "title": "Darwin real estate: The latest auction and sales results for week ending November 7",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNmtLXzdtc1ROTjdPa3cxZ3FsTm5YaU9rTDZ0RlBfT3pXa0U2aVpDLVZRZXFNUVlBOUFhY2lUbXQ5REM3XzlyNUpVNGh2TkFTQ19XSkdZUm56Q1dDVDdSSVhWWXdjSEo4ODZmdnZmZjl6Y0o0VTQ5eHNaM183TzZyOUxFQ3lSNUtObGVwY0Q4V1BOSmtVZ3VkcmEzanN0NGMtbUY4bnNVVkVkclNvUkEteTFMa2dUcG9Vck9hblFkbEpqd0I0QlV4amZMTGlzZGR1UW1YaFY0Zk1hSmVGY2hveWNiR3NHTm84LVRZRTJKQ2wwTzhIdkFzdFlhRzJYVElxbXI0NFc0SEozUTFxMUdHa25aNWsxUQ?oc=5",
+      "id": "artist-unveils-historic-mural-after-locals-save-hall-fro-be0f9f610a",
+      "title": "Artist unveils historic mural after locals save hall from demolition",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlZab1lFWWpnLVJPb3FhUk1FZFFIejdmSU1uTHZhT1RWMWZRUl9UTXI1aXNFVUJobWVxTF9zc3FaUkNZTWZpSThFWnBzdW5zY0t1SGdkU3NHMnRQLTllYU1WczJidjUwNW03dDBQWlYyaE5lcnhReXNuam9WcTlrb0EtaVJYejlwMlZEbTM5VGR5YnpEbWtmUWVvZnpRRGMzalhnSkpLWFRJYUFmeGp0NWRVd1l2cjloY1FwbDkyYksyOVBFenY2TXZ6ZTNwcVdqM3B1cjJncXpITmhyVkE?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-11-08T07:02:19+10:00",
-      "score": 31,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "published": "2026-11-10T10:24:53+10:00",
+      "score": 33,
+      "why": "The object list sounds like someone shuffled three different stories together.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
+        "The object list sounds like someone shuffled three different stories together.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--fd97f5a712.svg"
+      "image": "assets/data/headline-images/artist-unveils-historic-mural-after-locals-save-hall-fro-be0f9f610a.svg"
+    },
+    {
+      "id": "curbing-cracker-night-chaos-councils-debate-territory-da-4da5268de4",
+      "title": "Curbing cracker night chaos: Councils debate Territory Day red tape",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUlJnN05JQm5zMGpYV1J0TVhMcUVoNHpIeTFYTHZZSG04SGhJeHZHT0NIOEFtaU9mQ0ZQQmJIYXl0SGw5c1BKLUpuaU9vZ0dzU1BuLUM3SE9DUEFSTjJHbnp0alVXWkhpX2FBTUw5dURSTnpQTHRYT0xzNzF3dTBLMDlkQW9BdjNVVDJiZW9CYWJmeU03N01FaGJ4N016T1ZOenlVYTJRS3djMTNzLWJTMzNWamJCOGc4SEc5bVN4dXRBMkdkVTVxYlJQNFV3dldhSmZ3Um12c2dTX0UyS0dIeDdEbmhMYS1IR1BIM0xfWndjR094R3psZ2F1RQ?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-10T13:18:56+10:00",
+      "score": 32,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/curbing-cracker-night-chaos-councils-debate-territory-da-4da5268de4.svg"
+    },
+    {
+      "id": "tiny-mallee-town-launches-400k-pub-rescue-through-commun-c18b93c017",
+      "title": "Tiny Mallee town launches $400k pub rescue through community co-operative",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUDlyWGdIbi1KQ0Y3Z25WUmJOY1ZNeXRta0E4Wm51Z1lMM2dObF9qcEtwMWNCUmNmeGlPd2k0OHJrMGdUM2Uwc1NjQTJPSERFUUNNT2dEZG92MWRrSmsteE5CWXd1V0RSbUVmeElNT2ZCLXhuTmdiVkN5dXZjOWZNLUhHMUV4bDkyQ3RTSXFTZWhfbjFSUWlObmo3RXV6WjVWZExRRHJPNXBBVHo0WTVOUlc4RG8tM09wRFAxVUVFNkRnSXJyNUg1cDBhcU4xancxcl9mX0lUSFVNMi1hS1lFbVVxcVNhR2hBQXJF?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-10T01:36:02+10:00",
+      "score": 31,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/tiny-mallee-town-launches-400k-pub-rescue-through-commun-c18b93c017.svg"
     },
     {
       "id": "richmond-council-issues-warning-after-fining-man-100-for-39af08a4a4",
@@ -42,24 +76,6 @@
       "image": "assets/data/headline-images/richmond-council-issues-warning-after-fining-man-100-for-39af08a4a4.svg"
     },
     {
-      "id": "man-24-filmed-410-male-victims-using-the-toilet-as-370-v-f94f11da7a",
-      "title": "Man, 24, 'filmed 410 male victims using the toilet as 370 videos recorded in a year'",
-      "url": "https://www.dailystar.co.uk/news/world-news/man-24-filmed-410-male-37835392",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-03T02:33:13+10:00",
-      "score": 22,
-      "why": "A household object has somehow reached the news desk.",
-      "signals": [
-        "A household object has somehow reached the news desk.",
-        "The specific number gives the line a dry little thud.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/man-24-filmed-410-male-victims-using-the-toilet-as-370-v-f94f11da7a.svg"
-    },
-    {
       "id": "desperate-donald-trump-could-wheel-out-real-life-alien-t-ecd2875227",
       "title": "Desperate Donald Trump 'could wheel out real-life alien' to save face after midterm wipeout",
       "url": "https://www.dailystar.co.uk/news/latest-news/desperate-donald-trump-could-wheel-37855171",
@@ -77,21 +93,21 @@
       "image": "assets/data/headline-images/desperate-donald-trump-could-wheel-out-real-life-alien-t-ecd2875227.svg"
     },
     {
-      "id": "family-chocolate-maker-in-battle-with-cadbury-s-as-winte-f954b7dfcf",
-      "title": "Family chocolate maker in battle with Cadbury's as winter word is trademarked",
-      "url": "https://www.mirror.co.uk/news/uk-news/family-chocolate-maker-battle-cadburys-37849316",
-      "source": "Mirror Weird News",
+      "id": "chaos-as-screaming-knifeman-tackled-by-security-after-tr-62ce773dd3",
+      "title": "Chaos as 'screaming' knifeman tackled by security after 'trying to enter crown court'",
+      "url": "https://www.dailystar.co.uk/news/latest-news/breaking-chaos-screaming-knifeman-tackled-37859351",
+      "source": "Daily Star Weird News",
       "country": "United Kingdom",
       "source_type": "newspaper offbeat section",
       "priority": "tabloid-offbeat",
-      "published": "2026-11-06T18:24:37+10:00",
-      "score": 19,
-      "why": "A very ordinary object has wandered into serious news.",
+      "published": "2026-11-10T01:40:54+10:00",
+      "score": 18,
+      "why": "The word chaos gives it open-mic energy.",
       "signals": [
-        "A very ordinary object has wandered into serious news.",
+        "The word chaos gives it open-mic energy.",
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
-      "image": "assets/data/headline-images/family-chocolate-maker-in-battle-with-cadbury-s-as-winte-f954b7dfcf.svg"
+      "image": "assets/data/headline-images/chaos-as-screaming-knifeman-tackled-by-security-after-tr-62ce773dd3.svg"
     },
     {
       "id": "california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298",
@@ -144,6 +160,23 @@
         "The specific number gives the line a dry little thud."
       ],
       "image": "assets/data/headline-images/real-life-jurassic-park-scientists-discover-dinosaur-blo-b2c5e665bf.svg"
+    },
+    {
+      "id": "police-investigate-as-nearly-30-santa-barbara-half-marat-5fcee1a472",
+      "title": "Police investigate as nearly 30 Santa Barbara half-marathon runners fall ill with ‘unusual symptoms’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/santa-barbara-half-marathon-illness-police",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-10T12:19:47+10:00",
+      "score": 15,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "A serious-news word is sharing a sentence with something very ordinary."
+      ],
+      "image": "assets/data/headline-images/police-investigate-as-nearly-30-santa-barbara-half-marat-5fcee1a472.svg"
     },
     {
       "id": "mars-volcanoes-could-contain-the-ingredients-needed-for--e1be64a0f2",
@@ -215,22 +248,6 @@
       "image": "assets/data/headline-images/the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0.svg"
     },
     {
-      "id": "bizarre-and-thrilling-theatre-with-carrick-s-man-utd-fut-a1e7b593e2",
-      "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "country": "United Kingdom",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-11-09T07:50:05+10:00",
-      "score": 10,
-      "why": "The headline is already trying not to laugh.",
-      "signals": [
-        "The headline is already trying not to laugh."
-      ],
-      "image": "assets/data/headline-images/bizarre-and-thrilling-theatre-with-carrick-s-man-utd-fut-a1e7b593e2.svg"
-    },
-    {
       "id": "banana-producers-in-latin-america-want-better-pay-to-cop-2037d51abc",
       "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
       "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
@@ -247,70 +264,36 @@
       "image": "assets/data/headline-images/banana-producers-in-latin-america-want-better-pay-to-cop-2037d51abc.svg"
     },
     {
-      "id": "morning-mail-queensland-critics-face-alleged-culture-of--96171fd2e1",
-      "title": "Morning Mail: Queensland critics face alleged ‘culture of fear’; extreme specialist fees revealed; and Bluey co-creator’s new alien",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/09/morning-mail-monday-ntwnfb",
-      "source": "The Guardian Australia",
-      "country": "Australia",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-09T05:52:29+10:00",
-      "score": 8,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage."
-      ],
-      "image": "assets/data/headline-images/morning-mail-queensland-critics-face-alleged-culture-of--96171fd2e1.svg"
-    },
-    {
-      "id": "trump-set-to-lurch-further-right-claiming-us-took-giant--3550a1e805",
-      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-09T03:58:43+10:00",
-      "score": 7,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy."
-      ],
-      "image": "assets/data/headline-images/trump-set-to-lurch-further-right-claiming-us-took-giant--3550a1e805.svg"
-    },
-    {
-      "id": "when-the-boss-on-the-phone-isn-t-real-how-more-than-129--99378b2f49",
-      "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
-      "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
-      "source": "The New York Times",
-      "country": "United States",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-09T09:34:09+10:00",
-      "score": 6,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "It reads like the setup to a very dry question."
-      ],
-      "image": "assets/data/headline-images/when-the-boss-on-the-phone-isn-t-real-how-more-than-129--99378b2f49.svg"
-    },
-    {
-      "id": "from-15-minute-drones-to-instant-kill-chains-what-does-n-0f4ea9abc3",
-      "title": "From 15-minute drones to instant kill chains: What does NZ's future army look like?",
-      "url": "https://www.rnz.co.nz/news/political/2449141/from-15-minute-drones-to-instant-kill-chains-what-does-nz-s-future-army-look-like",
+      "id": "media-minister-rules-out-coming-to-rnz-s-aid-after-budge-f081638c27",
+      "title": "Media Minister rules out coming to RNZ's aid after budget blowout: 'A colossal mistake'",
+      "url": "https://www.rnz.co.nz/news/political/2487361/media-minister-rules-out-coming-to-rnz-s-aid-after-budget-blowout-a-colossal-mistake",
       "source": "RNZ News",
       "country": "New Zealand",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-09T04:04:48+10:00",
-      "score": 5,
-      "why": "The question mark makes it feel like the host has paused for the room.",
+      "published": "2026-11-10T07:52:53+10:00",
+      "score": 8,
+      "why": "The second half quietly trips over the first half.",
       "signals": [
-        "The question mark makes it feel like the host has paused for the room.",
-        "The specific number gives the line a dry little thud."
+        "The second half quietly trips over the first half."
       ],
-      "image": "assets/data/headline-images/from-15-minute-drones-to-instant-kill-chains-what-does-n-0f4ea9abc3.svg"
+      "image": "assets/data/headline-images/media-minister-rules-out-coming-to-rnz-s-aid-after-budge-f081638c27.svg"
+    },
+    {
+      "id": "high-politics-and-traffic-chaos-europe-s-leaders-are-com-b1100a9003",
+      "title": "High politics and traffic chaos: Europe’s leaders are coming to Dublin",
+      "url": "https://www.irishtimes.com/politics/2026/11/09/high-politics-and-traffic-chaos-europes-leaders-are-coming-to-dublin/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-09T16:00:00+10:00",
+      "score": 8,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy."
+      ],
+      "image": "assets/data/headline-images/high-politics-and-traffic-chaos-europe-s-leaders-are-com-b1100a9003.svg"
     }
   ],
   "feed_errors": [
