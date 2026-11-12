@@ -1,28 +1,11 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T11:22:20.859308+10:00",
-  "generated_label": "11 Nov 2026, 11:22 AM AEST",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T12:23:04.822136+10:00",
+  "generated_label": "12 Nov 2026, 12:23 PM AEST",
   "source_count": 14,
   "headline_count": 22,
   "headlines": [
-    {
-      "id": "the-big-banana-whiterock-aims-for-serious-scale-with-can-d8aa78deef",
-      "title": "The Big Banana: WhiteRock aims for serious scale with Canadian lithium find",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdGI5d0NOdlMxdGV1LXd5VW9RTHItTmw0T0lHRkljZWJNekVkSENsYWtpM3ZGeGtaN3JvNU1tSlBDNVlKaVh0LUZSX3Q4ZEY5TmpjenhaMjB2eERSTDVsU3VYUWFwTERvaHE2NTZYRUI3cXMxVTJiWHNiM2pVcDRvbWVXTWFJdEc3TkdfeUhHMl9wM3I5SnFnMlZhLW5UWUlOV25heXgzRTNISDZ2RkRxektyZFljR3VLX3ZiWWFib0xUTVZLeGI5aWV6WjN4U05VUm51ZWd1R250VnVxRGtielhaaTc3bV9VWFN5T2tDSkNUREdtckE?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-11-11T06:30:26+10:00",
-      "score": 33,
-      "why": "A very ordinary object has wandered into serious news.",
-      "signals": [
-        "A very ordinary object has wandered into serious news.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/the-big-banana-whiterock-aims-for-serious-scale-with-can-d8aa78deef.svg"
-    },
     {
       "id": "curbing-cracker-night-chaos-councils-debate-territory-da-4da5268de4",
       "title": "Curbing cracker night chaos: Councils debate Territory Day red tape",
@@ -41,39 +24,39 @@
       "image": "assets/data/headline-images/curbing-cracker-night-chaos-councils-debate-territory-da-4da5268de4.svg"
     },
     {
-      "id": "darwin-real-estate-the-latest-auction-and-sales-results--fd97f5a712",
-      "title": "Darwin real estate: The latest auction and sales results for week ending November 7",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNmtLXzdtc1ROTjdPa3cxZ3FsTm5YaU9rTDZ0RlBfT3pXa0U2aVpDLVZRZXFNUVlBOUFhY2lUbXQ5REM3XzlyNUpVNGh2TkFTQ19XSkdZUm56Q1dDVDdSSVhWWXdjSEo4ODZmdnZmZjl6Y0o0VTQ5eHNaM183TzZyOUxFQ3lSNUtObGVwY0Q4V1BOSmtVZ3VkcmEzanN0NGMtbUY4bnNVVkVkclNvUkEteTFMa2dUcG9Vck9hblFkbEpqd0I0QlV4amZMTGlzZGR1UW1YaFY0Zk1hSmVGY2hveWNiR3NHTm84LVRZRTJKQ2wwTzhIdkFzdFlhRzJYVElxbXI0NFc0SEozUTFxMUdHa25aNWsxUQ?oc=5",
+      "id": "us-giant-buys-top-end-environmental-consultancy-049fd8fcb2",
+      "title": "US giant buys Top End environmental consultancy",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUndtcHNLUERZNU1zQTZhM0x5LXIzbWREQWxQZ19Ybzl0UGo4ejJTWDRZS0lkNEg4MkJPbWVNYjE4dV83RmFGbnJiRDdpcUdZcDkyc1ZpLW5WMVlqSGIwZlRsT0xKV01OWmtVOUZ1ZDNKX3o0TWlnU0pka2tIaGJ6Q3BDejgxbk5teDlsemJFWXlJc3FVZHVDWUhPVERxVVpPbkxrRnNHSUZpZm1YOEtwS1lEeENZaHUtemwyYmNoaVZqZFNqR3N0MWZqa0poX3Q0em1ycnhmRjI1MDNfYnVTSGlTLWg4OVNXWVJQaUEtb1l1WUg2bjI3VWZrcVRJMmR1Q2xSRmFTdldTOS0yNUFKQjRZZ1VZbDE2d2Rj?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-11-08T11:00:00+10:00",
+      "published": "2026-11-12T06:31:46+10:00",
       "score": 31,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "why": "The scale is doing deadpan comedy.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
+        "The scale is doing deadpan comedy.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--fd97f5a712.svg"
+      "image": "assets/data/headline-images/us-giant-buys-top-end-environmental-consultancy-049fd8fcb2.svg"
     },
     {
-      "id": "richmond-council-issues-warning-after-fining-man-100-for-39af08a4a4",
-      "title": "Richmond Council issues warning after fining man £100 for leaving two bags next to bin",
-      "url": "https://www.mirror.co.uk/news/uk-news/richmond-council-fines-man-100-37850901",
+      "id": "mystery-condition-left-me-needing-to-go-to-the-loo-40-ti-7dd05d5b75",
+      "title": "'Mystery condition left me needing to go to the loo 40 times a day'",
+      "url": "https://www.mirror.co.uk/news/real-life-stories/mystery-condition-left-needing-go-37863108",
       "source": "Mirror Weird News",
       "country": "United Kingdom",
       "source_type": "newspaper offbeat section",
       "priority": "tabloid-offbeat",
-      "published": "2026-11-06T22:33:03+10:00",
-      "score": 25,
-      "why": "A household object has somehow reached the news desk.",
+      "published": "2026-11-11T17:26:46+10:00",
+      "score": 21,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
       "signals": [
-        "A household object has somehow reached the news desk.",
-        "A serious-news word is sharing a sentence with something very ordinary.",
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The specific number gives the line a dry little thud.",
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
-      "image": "assets/data/headline-images/richmond-council-issues-warning-after-fining-man-100-for-39af08a4a4.svg"
+      "image": "assets/data/headline-images/mystery-condition-left-me-needing-to-go-to-the-loo-40-ti-7dd05d5b75.svg"
     },
     {
       "id": "desperate-donald-trump-could-wheel-out-real-life-alien-t-ecd2875227",
@@ -159,23 +142,6 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298.svg"
-    },
-    {
-      "id": "we-could-soon-see-zeptoverse-tiny-world-a-billionth-of-a-b4e101f338",
-      "title": "We could soon see 'zeptoverse' – tiny world a billionth of a trillionth of a metre",
-      "url": "https://www.dailystar.co.uk/news/latest-news/could-soon-see-zeptoverse--37842202",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-05T07:22:32+10:00",
-      "score": 17,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/we-could-soon-see-zeptoverse-tiny-world-a-billionth-of-a-b4e101f338.svg"
     },
     {
       "id": "real-life-jurassic-park-scientists-discover-dinosaur-blo-b2c5e665bf",
@@ -265,84 +231,116 @@
       "image": "assets/data/headline-images/the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0.svg"
     },
     {
-      "id": "odd-whale-season-alarming-marine-scientists-ad55228a5e",
-      "title": "'Odd' whale season alarming marine scientists",
-      "url": "https://www.abc.net.au/news/2026-11-11/declining-humpback-numbers-western-australia-experts-concerned/107356336",
-      "source": "ABC News",
-      "country": "Australia",
+      "id": "lego-marketplace-bricklink-offline-after-unusual-activit-964c690691",
+      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-11T10:02:13+10:00",
+      "published": "2026-11-12T08:26:18+10:00",
       "score": 10,
       "why": "The headline is already trying not to laugh.",
       "signals": [
         "The headline is already trying not to laugh."
       ],
-      "image": "assets/data/headline-images/odd-whale-season-alarming-marine-scientists-ad55228a5e.svg"
+      "image": "assets/data/headline-images/lego-marketplace-bricklink-offline-after-unusual-activit-964c690691.svg"
     },
     {
-      "id": "banana-producers-in-latin-america-want-better-pay-to-cop-2037d51abc",
-      "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
-      "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-08T17:00:34+10:00",
-      "score": 9,
-      "why": "A very ordinary object has wandered into serious news.",
-      "signals": [
-        "A very ordinary object has wandered into serious news."
-      ],
-      "image": "assets/data/headline-images/banana-producers-in-latin-america-want-better-pay-to-cop-2037d51abc.svg"
-    },
-    {
-      "id": "my-most-memorable-meal-dismayed-staff-calf-s-sweetbread--2229fce9d9",
-      "title": "My most memorable meal: Dismayed staff, calf’s sweetbread and cheese trolley of my life",
-      "url": "https://www.irishtimes.com/food/restaurants/2026/11/10/my-most-memorable-meal-dismayed-staff-calfs-sweetbread-and-cheese-trolley-of-my-life/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-10T22:00:00+10:00",
-      "score": 9,
-      "why": "A very ordinary object has wandered into serious news.",
-      "signals": [
-        "A very ordinary object has wandered into serious news."
-      ],
-      "image": "assets/data/headline-images/my-most-memorable-meal-dismayed-staff-calf-s-sweetbread--2229fce9d9.svg"
-    },
-    {
-      "id": "no-one-is-in-charge-social-care-system-in-england-in-cha-d6cc6dc77d",
-      "title": "‘No one is in charge’: social care system in England in chaos, Louise Casey to say",
-      "url": "https://www.theguardian.com/society/2026/nov/11/louise-casey-england-social-care-system",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-11T10:01:23+10:00",
-      "score": 8,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy."
-      ],
-      "image": "assets/data/headline-images/no-one-is-in-charge-social-care-system-in-england-in-cha-d6cc6dc77d.svg"
-    },
-    {
-      "id": "nz-rugby-and-kiwi-photographers-caught-up-in-tech-start--1f309c17d5",
-      "title": "NZ Rugby and Kiwi photographers caught up in tech start-up collapse",
-      "url": "https://www.rnz.co.nz/news/sport/2523492/nz-rugby-and-kiwi-photographers-caught-up-in-tech-start-up-collapse",
+      "id": "lyall-bay-group-looks-to-toilet-humour-in-wake-of-moa-po-081c7fb285",
+      "title": "Lyall Bay group looks to toilet humour in wake of Moa Point failure",
+      "url": "https://www.rnz.co.nz/news/environment/2553995/lyall-bay-group-looks-to-toilet-humour-in-wake-of-moa-point-failure",
       "source": "RNZ News",
       "country": "New Zealand",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-11T05:25:11+10:00",
+      "published": "2026-11-12T11:53:14+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk."
+      ],
+      "image": "assets/data/headline-images/lyall-bay-group-looks-to-toilet-humour-in-wake-of-moa-po-081c7fb285.svg"
+    },
+    {
+      "id": "gnawed-packaging-and-rodent-droppings-at-pizza-outlet-ci-86a15d4e97",
+      "title": "Gnawed packaging and rodent droppings at pizza outlet cited among reasons for closure order",
+      "url": "https://www.irishtimes.com/ireland/2026/11/11/gnawed-packaging-and-rodent-droppings-at-pizza-outlet-cited-among-reasons-for-closure-order/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-12T00:49:22+10:00",
+      "score": 9,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news."
+      ],
+      "image": "assets/data/headline-images/gnawed-packaging-and-rodent-droppings-at-pizza-outlet-ci-86a15d4e97.svg"
+    },
+    {
+      "id": "joyful-mum-says-teen-found-after-six-days-missing-in-bus-de8417481e",
+      "title": "Joyful mum says teen found after six days missing in bush is 'grounded for life'",
+      "url": "https://www.abc.net.au/news/2026-11-12/missing-teenager-william-found-gippsland-bush/107372518",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-12T11:04:31+10:00",
+      "score": 8,
+      "why": "The second half quietly trips over the first half.",
+      "signals": [
+        "The second half quietly trips over the first half."
+      ],
+      "image": "assets/data/headline-images/joyful-mum-says-teen-found-after-six-days-missing-in-bus-de8417481e.svg"
+    },
+    {
+      "id": "democrats-face-backlash-after-missing-hegseth-impeachmen-5c652b4a1b",
+      "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+      "url": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
+      "source": "The New York Times",
+      "country": "United States",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-12T10:21:37+10:00",
+      "score": 8,
+      "why": "The second half quietly trips over the first half.",
+      "signals": [
+        "The second half quietly trips over the first half."
+      ],
+      "image": "assets/data/headline-images/democrats-face-backlash-after-missing-hegseth-impeachmen-5c652b4a1b.svg"
+    },
+    {
+      "id": "i-had-to-have-it-boag-s-worker-wins-auction-for-last-tas-a5e3b5b75c",
+      "title": "'I had to have it': Boag's worker wins auction for last Tasmanian brew",
+      "url": "https://www.abc.net.au/news/2026-11-12/tas-last-boags-red-carton-sold-at-auction/107376544",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-12T11:42:56+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/nz-rugby-and-kiwi-photographers-caught-up-in-tech-start--1f309c17d5.svg"
+      "image": "assets/data/headline-images/i-had-to-have-it-boag-s-worker-wins-auction-for-last-tas-a5e3b5b75c.svg"
+    },
+    {
+      "id": "personal-data-stolen-after-national-parks-booking-servic-3e68e2753e",
+      "title": "Personal data stolen after National Parks booking service hacked in three states",
+      "url": "https://www.abc.net.au/news/2026-11-12/queensland-parks-booking-system-hacked/107376788",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-12T09:54:20+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/personal-data-stolen-after-national-parks-booking-servic-3e68e2753e.svg"
     },
     {
       "id": "former-us-president-joe-biden-makes-surprise-appearance--57ed5cecaf",
@@ -352,7 +350,7 @@
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-11T03:14:31+10:00",
+      "published": "2026-11-11T19:33:38+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
@@ -361,20 +359,20 @@
       "image": "assets/data/headline-images/former-us-president-joe-biden-makes-surprise-appearance--57ed5cecaf.svg"
     },
     {
-      "id": "six-nations-and-sanzaar-face-new-battle-with-world-rugby-c6c9d17196",
-      "title": "Six Nations and Sanzaar face new battle with World Rugby in bid to scrap relegation",
-      "url": "https://www.irishtimes.com/sport/rugby/2026/11/10/six-nations-and-sanzaar-face-new-battle-with-world-rugby-in-bid-to-scrap-relegation/",
-      "source": "The Irish Times",
-      "country": "Ireland",
+      "id": "nvidia-board-reportedly-meeting-to-decide-ceo-jensen-hua-b5fd9fba2a",
+      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-11T01:01:30+10:00",
-      "score": 7,
-      "why": "It has that classic official-plan-meets-real-life shape.",
+      "published": "2026-11-12T12:12:34+10:00",
+      "score": 5,
+      "why": "The scale is doing deadpan comedy.",
       "signals": [
-        "It has that classic official-plan-meets-real-life shape."
+        "The scale is doing deadpan comedy."
       ],
-      "image": "assets/data/headline-images/six-nations-and-sanzaar-face-new-battle-with-world-rugby-c6c9d17196.svg"
+      "image": "assets/data/headline-images/nvidia-board-reportedly-meeting-to-decide-ceo-jensen-hua-b5fd9fba2a.svg"
     }
   ],
   "feed_errors": [
