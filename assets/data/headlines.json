@@ -1,28 +1,11 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T12:23:04.822136+10:00",
-  "generated_label": "12 Nov 2026, 12:23 PM AEST",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T12:01:05.046303+10:00",
+  "generated_label": "13 Nov 2026, 12:01 PM AEST",
   "source_count": 14,
-  "headline_count": 22,
+  "headline_count": 23,
   "headlines": [
-    {
-      "id": "curbing-cracker-night-chaos-councils-debate-territory-da-4da5268de4",
-      "title": "Curbing cracker night chaos: Councils debate Territory Day red tape",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUlJnN05JQm5zMGpYV1J0TVhMcUVoNHpIeTFYTHZZSG04SGhJeHZHT0NIOEFtaU9mQ0ZQQmJIYXl0SGw5c1BKLUpuaU9vZ0dzU1BuLUM3SE9DUEFSTjJHbnp0alVXWkhpX2FBTUw5dURSTnpQTHRYT0xzNzF3dTBLMDlkQW9BdjNVVDJiZW9CYWJmeU03N01FaGJ4N016T1ZOenlVYTJRS3djMTNzLWJTMzNWamJCOGc4SEc5bVN4dXRBMkdkVTVxYlJQNFV3dldhSmZ3Um12c2dTX0UyS0dIeDdEbmhMYS1IR1BIM0xfWndjR094R3psZ2F1RQ?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-11-11T08:16:00+10:00",
-      "score": 32,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/curbing-cracker-night-chaos-councils-debate-territory-da-4da5268de4.svg"
-    },
     {
       "id": "us-giant-buys-top-end-environmental-consultancy-049fd8fcb2",
       "title": "US giant buys Top End environmental consultancy",
@@ -31,7 +14,7 @@
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-11-12T06:31:46+10:00",
+      "published": "2026-11-12T12:31:46+10:00",
       "score": 31,
       "why": "The scale is doing deadpan comedy.",
       "signals": [
@@ -39,6 +22,41 @@
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
       "image": "assets/data/headline-images/us-giant-buys-top-end-environmental-consultancy-049fd8fcb2.svg"
+    },
+    {
+      "id": "hemsworth-home-broken-into-3-cars-stolen-dead6b6058",
+      "title": "Hemsworth home broken into, 3 cars stolen",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQVBCR2NzSG9EUnBYSUZjX1JvRUhrVV9WenlBcDVlOEJNYURmekxCSGpVd3Y2aURGbVFJaU9BNGZQVmc0R1JuZ2UwVGtBZXlSVUdnR0dTNzRXMHN4d2gwMngtR0xiX2RVWDhIMkJFUGNHNm12eUtuQkpScGJMLXFzZ0o2Y1FpamtKaEhYR3BadHFTTnlzNzZjUVZXdXFaMG1mNXItZnRKeE9samRKNXRLQjBzTmM3MGtlRVliYmluWk81WElDTkRDZ3ZaVVRfRUhpaUQ3YXVybEo5X1h6eTFvTk56c0NCQmNNNW52T04xQ3JMSm5UUUwwV1k0cnFjMVppNktybA?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-12T19:51:36+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/hemsworth-home-broken-into-3-cars-stolen-dead6b6058.svg"
+    },
+    {
+      "id": "woman-44-develops-bizarre-symptoms-after-starting-an-ssr-384f93d89f",
+      "title": "Woman, 44, develops bizarre symptoms after starting an SSRI — and it happened every 15 minutes",
+      "url": "https://nypost.com/2026/11/12/health/woman-develops-bizarre-symptoms-on-ssri-with-six-episodes-every-15-minutes/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-13T07:04:47+10:00",
+      "score": 22,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/woman-44-develops-bizarre-symptoms-after-starting-an-ssr-384f93d89f.svg"
     },
     {
       "id": "mystery-condition-left-me-needing-to-go-to-the-loo-40-ti-7dd05d5b75",
@@ -93,23 +111,6 @@
       "image": "assets/data/headline-images/bizarre-urban-legend-saw-hundreds-try-to-free-a-man-trap-75ab149ee9.svg"
     },
     {
-      "id": "doctor-michael-mosley-chocolate-tip-that-may-lower-blood-1b5ce3fcb0",
-      "title": "Doctor Michael Mosley chocolate tip that may lower blood pressure",
-      "url": "https://www.mirror.co.uk/lifestyle/health/doctor-michael-mosley-chocolate-tip-37858280",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-10T17:39:14+10:00",
-      "score": 19,
-      "why": "A very ordinary object has wandered into serious news.",
-      "signals": [
-        "A very ordinary object has wandered into serious news.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/doctor-michael-mosley-chocolate-tip-that-may-lower-blood-1b5ce3fcb0.svg"
-    },
-    {
       "id": "chaos-as-screaming-knifeman-tackled-by-security-after-tr-62ce773dd3",
       "title": "Chaos as 'screaming' knifeman tackled by security after 'trying to enter crown court'",
       "url": "https://www.dailystar.co.uk/news/latest-news/breaking-chaos-screaming-knifeman-tackled-37859351",
@@ -144,22 +145,39 @@
       "image": "assets/data/headline-images/california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298.svg"
     },
     {
-      "id": "real-life-jurassic-park-scientists-discover-dinosaur-blo-b2c5e665bf",
-      "title": "Real-life Jurassic Park? Scientists discover dinosaur BLOOD inside 115-million-year old bones",
-      "url": "https://www.dailymail.com/sciencetech/article-16259143/Real-life-Jurassic-Park-Scientists-dinosaur-BLOOD.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
+      "id": "uk-s-best-pizza-named-by-national-pizza-awards-but-there-746c5dc3ab",
+      "title": "UK’s best pizza named by National Pizza Awards - but there's a catch if you want to visit",
+      "url": "https://www.mirror.co.uk/news/uk-news/uks-best-pizza-named-national-37858900",
+      "source": "Mirror Weird News",
       "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-11-03T06:00:46+10:00",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-12T18:31:15+10:00",
       "score": 17,
-      "why": "The object list sounds like someone shuffled three different stories together.",
+      "why": "A very ordinary object has wandered into serious news.",
       "signals": [
-        "The object list sounds like someone shuffled three different stories together.",
-        "The question mark makes it feel like the host has paused for the room.",
-        "The specific number gives the line a dry little thud."
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
       ],
-      "image": "assets/data/headline-images/real-life-jurassic-park-scientists-discover-dinosaur-blo-b2c5e665bf.svg"
+      "image": "assets/data/headline-images/uk-s-best-pizza-named-by-national-pizza-awards-but-there-746c5dc3ab.svg"
+    },
+    {
+      "id": "people-are-only-just-realising-why-bourbon-biscuits-have-8bbb2cbc63",
+      "title": "People are only just realising why bourbon biscuits have holes in after 116 years",
+      "url": "https://www.mirror.co.uk/lifestyle/food-drink/people-only-just-realising-bourbon-37859078",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-12T17:18:26+10:00",
+      "score": 15,
+      "why": "It reads like the setup to a very dry question.",
+      "signals": [
+        "It reads like the setup to a very dry question.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/people-are-only-just-realising-why-bourbon-biscuits-have-8bbb2cbc63.svg"
     },
     {
       "id": "mars-volcanoes-could-contain-the-ingredients-needed-for--e1be64a0f2",
@@ -231,148 +249,151 @@
       "image": "assets/data/headline-images/the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0.svg"
     },
     {
-      "id": "lego-marketplace-bricklink-offline-after-unusual-activit-964c690691",
-      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "id": "massive-see-through-ufo-caught-on-camera-over-oregon-hom-5b080836eb",
+      "title": "Massive 'see-through' UFO caught on camera over Oregon home before witnesses suffer mysterious symptoms",
+      "url": "https://www.dailymail.com/sciencetech/article-16288319/ufo-oregon-sighting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
       "country": "United Kingdom",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-11-12T08:26:18+10:00",
-      "score": 10,
-      "why": "The headline is already trying not to laugh.",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-13T06:43:56+10:00",
+      "score": 12,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "The headline is already trying not to laugh."
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/lego-marketplace-bricklink-offline-after-unusual-activit-964c690691.svg"
+      "image": "assets/data/headline-images/massive-see-through-ufo-caught-on-camera-over-oregon-hom-5b080836eb.svg"
     },
     {
-      "id": "lyall-bay-group-looks-to-toilet-humour-in-wake-of-moa-po-081c7fb285",
-      "title": "Lyall Bay group looks to toilet humour in wake of Moa Point failure",
-      "url": "https://www.rnz.co.nz/news/environment/2553995/lyall-bay-group-looks-to-toilet-humour-in-wake-of-moa-point-failure",
+      "id": "chicken-and-mushroom-takes-out-top-vegan-pie-award-68a9ae726c",
+      "title": "'Chicken’ and mushroom takes out top vegan pie award",
+      "url": "https://www.rnz.co.nz/life/food/chicken-and-mushroom-wins-best-vegan-pie",
       "source": "RNZ News",
       "country": "New Zealand",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-12T11:53:14+10:00",
-      "score": 10,
-      "why": "A household object has somehow reached the news desk.",
-      "signals": [
-        "A household object has somehow reached the news desk."
-      ],
-      "image": "assets/data/headline-images/lyall-bay-group-looks-to-toilet-humour-in-wake-of-moa-po-081c7fb285.svg"
-    },
-    {
-      "id": "gnawed-packaging-and-rodent-droppings-at-pizza-outlet-ci-86a15d4e97",
-      "title": "Gnawed packaging and rodent droppings at pizza outlet cited among reasons for closure order",
-      "url": "https://www.irishtimes.com/ireland/2026/11/11/gnawed-packaging-and-rodent-droppings-at-pizza-outlet-cited-among-reasons-for-closure-order/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-12T00:49:22+10:00",
+      "published": "2026-11-13T10:40:38+10:00",
       "score": 9,
       "why": "A very ordinary object has wandered into serious news.",
       "signals": [
         "A very ordinary object has wandered into serious news."
       ],
-      "image": "assets/data/headline-images/gnawed-packaging-and-rodent-droppings-at-pizza-outlet-ci-86a15d4e97.svg"
+      "image": "assets/data/headline-images/chicken-and-mushroom-takes-out-top-vegan-pie-award-68a9ae726c.svg"
     },
     {
-      "id": "joyful-mum-says-teen-found-after-six-days-missing-in-bus-de8417481e",
-      "title": "Joyful mum says teen found after six days missing in bush is 'grounded for life'",
-      "url": "https://www.abc.net.au/news/2026-11-12/missing-teenager-william-found-gippsland-bush/107372518",
-      "source": "ABC News",
-      "country": "Australia",
+      "id": "scandal-hit-nvidia-ceo-jensen-huang-quits-plunging-ai-ch-24c0e0e4bf",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-12T11:04:31+10:00",
+      "published": "2026-11-13T09:34:05+10:00",
       "score": 8,
-      "why": "The second half quietly trips over the first half.",
+      "why": "The scale is doing deadpan comedy.",
       "signals": [
-        "The second half quietly trips over the first half."
+        "The scale is doing deadpan comedy.",
+        "Technology is present, which means dignity may be optional."
       ],
-      "image": "assets/data/headline-images/joyful-mum-says-teen-found-after-six-days-missing-in-bus-de8417481e.svg"
+      "image": "assets/data/headline-images/scandal-hit-nvidia-ceo-jensen-huang-quits-plunging-ai-ch-24c0e0e4bf.svg"
     },
     {
-      "id": "democrats-face-backlash-after-missing-hegseth-impeachmen-5c652b4a1b",
-      "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
-      "url": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
-      "source": "The New York Times",
-      "country": "United States",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-12T10:21:37+10:00",
-      "score": 8,
-      "why": "The second half quietly trips over the first half.",
-      "signals": [
-        "The second half quietly trips over the first half."
-      ],
-      "image": "assets/data/headline-images/democrats-face-backlash-after-missing-hegseth-impeachmen-5c652b4a1b.svg"
-    },
-    {
-      "id": "i-had-to-have-it-boag-s-worker-wins-auction-for-last-tas-a5e3b5b75c",
-      "title": "'I had to have it': Boag's worker wins auction for last Tasmanian brew",
-      "url": "https://www.abc.net.au/news/2026-11-12/tas-last-boags-red-carton-sold-at-auction/107376544",
-      "source": "ABC News",
-      "country": "Australia",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-11-12T11:42:56+10:00",
-      "score": 7,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
-      ],
-      "image": "assets/data/headline-images/i-had-to-have-it-boag-s-worker-wins-auction-for-last-tas-a5e3b5b75c.svg"
-    },
-    {
-      "id": "personal-data-stolen-after-national-parks-booking-servic-3e68e2753e",
-      "title": "Personal data stolen after National Parks booking service hacked in three states",
-      "url": "https://www.abc.net.au/news/2026-11-12/queensland-parks-booking-system-hacked/107376788",
-      "source": "ABC News",
-      "country": "Australia",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-11-12T09:54:20+10:00",
-      "score": 7,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
-      ],
-      "image": "assets/data/headline-images/personal-data-stolen-after-national-parks-booking-servic-3e68e2753e.svg"
-    },
-    {
-      "id": "former-us-president-joe-biden-makes-surprise-appearance--57ed5cecaf",
-      "title": "Former US president Joe Biden makes surprise appearance in Dublin",
-      "url": "https://www.irishtimes.com/ireland/2026/11/10/former-us-president-joe-biden-makes-surprise-appearance-at-trinity-college/",
+      "id": "the-traffic-chaos-is-temporary-what-happens-this-week-in-20b552b4fb",
+      "title": "The traffic chaos is temporary. What happens this week in Dublin could have lasting impact",
+      "url": "https://www.irishtimes.com/opinion/2026/11/12/bobby-mcdonagh-the-traffic-chaos-is-temporary-what-happens-this-week-in-dublin-will-have-lasting-impact/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-11T19:33:38+10:00",
+      "published": "2026-11-12T16:00:01+10:00",
+      "score": 8,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy."
+      ],
+      "image": "assets/data/headline-images/the-traffic-chaos-is-temporary-what-happens-this-week-in-20b552b4fb.svg"
+    },
+    {
+      "id": "giant-corpse-flower-pete-set-to-bloom-in-regional-victor-0868e9e322",
+      "title": "Giant corpse flower 'Pete' set to bloom in regional Victoria",
+      "url": "https://www.abc.net.au/news/2026-11-13/giant-corpse-flower-about-to-bloom-in-geelong/107378284",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-13T07:32:48+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/giant-corpse-flower-pete-set-to-bloom-in-regional-victor-0868e9e322.svg"
+    },
+    {
+      "id": "skye-newman-gets-goosebumps-over-record-breaking-brixton-f4a5a09fc1",
+      "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-13T10:24:11+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/former-us-president-joe-biden-makes-surprise-appearance--57ed5cecaf.svg"
+      "image": "assets/data/headline-images/skye-newman-gets-goosebumps-over-record-breaking-brixton-f4a5a09fc1.svg"
     },
     {
-      "id": "nvidia-board-reportedly-meeting-to-decide-ceo-jensen-hua-b5fd9fba2a",
-      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
+      "id": "once-thought-safe-south-island-s-giant-w-t-are-disappear-1673bfe072",
+      "title": "Once thought safe, South Island's giant wētā are disappearing",
+      "url": "https://www.rnz.co.nz/news/environment/2567883/once-thought-safe-south-island-s-giant-weta-are-disappearing",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-12T12:12:34+10:00",
-      "score": 5,
+      "published": "2026-11-13T05:37:40+10:00",
+      "score": 7,
       "why": "The scale is doing deadpan comedy.",
       "signals": [
         "The scale is doing deadpan comedy."
       ],
-      "image": "assets/data/headline-images/nvidia-board-reportedly-meeting-to-decide-ceo-jensen-hua-b5fd9fba2a.svg"
+      "image": "assets/data/headline-images/once-thought-safe-south-island-s-giant-w-t-are-disappear-1673bfe072.svg"
+    },
+    {
+      "id": "cmat-joins-philomena-begley-for-surprise-performance-at--433518742b",
+      "title": "CMAT joins Philomena Begley for surprise performance at NI Music Prize in Belfast",
+      "url": "https://www.irishtimes.com/culture/music/2026/11/12/cmat-joins-philomena-begley-for-surprise-performance-in-belfast/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-13T04:55:50+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/cmat-joins-philomena-begley-for-surprise-performance-at--433518742b.svg"
+    },
+    {
+      "id": "why-mapas-still-matters-after-50-years-bringing-everyone-2d78e1de9d",
+      "title": "Why MAPAS still matters after 50 years: 'Bringing everyone to the same starting point'",
+      "url": "https://www.rnz.co.nz/news/pacific/2558347/why-mapas-still-matters-after-50-years-bringing-everyone-to-the-same-starting-point",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-13T09:49:03+10:00",
+      "score": 5,
+      "why": "It reads like the setup to a very dry question.",
+      "signals": [
+        "It reads like the setup to a very dry question.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/why-mapas-still-matters-after-50-years-bringing-everyone-2d78e1de9d.svg"
     }
   ],
   "feed_errors": [
