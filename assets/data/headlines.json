@@ -1,27 +1,27 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T11:35:07.778973+10:00",
-  "generated_label": "14 Nov 2026, 11:35 AM AEST",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T11:10:52.947207+10:00",
+  "generated_label": "15 Nov 2026, 11:10 AM AEST",
   "source_count": 14,
   "headline_count": 21,
   "headlines": [
     {
-      "id": "restaurant-owner-weighs-in-on-pineapple-pizza-debate-84d2841300",
-      "title": "Restaurant owner weighs in on pineapple-pizza debate",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUENMYzVSRkUwTjBFMGtwTlQ2eUJrZ1BndlAwdGI0azhEeXV0OFJzS0N0czVjRGE1RHNEVzBESjBaOFpLVnlXRjR0YnNkQlp0SF9uZmtWVC1IZ3ZsaUFoVWdCODN5VVpnbE50ZHlRR1hDQUxuVjdYOHBPcjVBQ2NKTFk4Tkh2NnlESVpZVlZzY1VVNzl5Q25WZ3A4NDZSU2YyY2NNd0xId0Y2aGRnWVpKRVZVMllrakUtRUhHcWdkVUtaeFdCdjMxY2RqS2g?oc=5",
+      "id": "darwin-real-estate-the-latest-auction-and-sales-results--32102eaafe",
+      "title": "Darwin real estate: The latest auction and sales results for week ending November 14",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQNWp3ak13d01XQ1lXMnZFc0lxMENxaVpreDhLNU9YNkF6WTU1bXlIazMteDUza3U0aGVub2hUUUUyS3hhMkh2ZkFnazZIaXJLY0ViTjlwVUpDMkxDdVpXejFiRnJyMmdtWlFGMFVFVTZWWGZ3X1M2aldBb1BoRlhva1QzMzFzTS1hMlkteGQ4NXJWY29nLVY1SW1JVVlabHAxTVNUMk9fZzE2YXVXMndlalRFRHhROW9yNm5VekhXbnAtdThfWllVeVJpdEIydHdQQlRLdGIwR0I0eDVsNUkwcV9hcnJGRlJtTFppRlVXTlowRV9GSHEtRjZwOFExYkR5WEhMWElqbUhibUVnVy1vR3pndG4zMHc?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-11-13T17:32:59+10:00",
-      "score": 33,
-      "why": "A very ordinary object has wandered into serious news.",
+      "published": "2026-11-15T07:34:25+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "A very ordinary object has wandered into serious news.",
+        "It has the shape of a tiny adventure reported with a straight face.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/restaurant-owner-weighs-in-on-pineapple-pizza-debate-84d2841300.svg"
+      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--32102eaafe.svg"
     },
     {
       "id": "us-giant-buys-top-end-environmental-consultancy-049fd8fcb2",
@@ -59,6 +59,23 @@
       "image": "assets/data/headline-images/woman-44-develops-bizarre-symptoms-after-starting-an-ssr-384f93d89f.svg"
     },
     {
+      "id": "mum-sitting-on-the-toilet-spooked-as-child-ghost-unfurls-beba071c4b",
+      "title": "Mum sitting on the toilet spooked as 'child ghost' unfurls loo roll on video",
+      "url": "https://www.dailystar.co.uk/news/latest-news/mum-spooked-whilst-toilet-claims-37865002",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-14T18:00:00+10:00",
+      "score": 20,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/mum-sitting-on-the-toilet-spooked-as-child-ghost-unfurls-beba071c4b.svg"
+    },
+    {
       "id": "7-of-the-world-s-most-bizarre-airports-with-disappearing-39448b2c06",
       "title": "7 of the world's most bizarre airports with 'disappearing' runways and lions near terminals",
       "url": "https://www.dailystar.co.uk/travel/gallery/7-worlds-most-bizarre-airports-37875159",
@@ -76,23 +93,6 @@
       "image": "assets/data/headline-images/7-of-the-world-s-most-bizarre-airports-with-disappearing-39448b2c06.svg"
     },
     {
-      "id": "desperate-donald-trump-could-wheel-out-real-life-alien-t-ecd2875227",
-      "title": "Desperate Donald Trump 'could wheel out real-life alien' to save face after midterm wipeout",
-      "url": "https://www.dailystar.co.uk/news/latest-news/desperate-donald-trump-could-wheel-37855171",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-08T20:22:42+10:00",
-      "score": 20,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/desperate-donald-trump-could-wheel-out-real-life-alien-t-ecd2875227.svg"
-    },
-    {
       "id": "bizarre-urban-legend-saw-hundreds-try-to-free-a-man-trap-75ab149ee9",
       "title": "Bizarre urban legend saw hundreds try to free a man ‘trapped inside a bean’",
       "url": "https://metro.co.uk/2026/11/09/bizarre-urban-legend-saw-hundreds-try-free-a-man-trapped-inside-a-bean-29778088/",
@@ -108,23 +108,6 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/bizarre-urban-legend-saw-hundreds-try-to-free-a-man-trap-75ab149ee9.svg"
-    },
-    {
-      "id": "chaos-as-screaming-knifeman-tackled-by-security-after-tr-62ce773dd3",
-      "title": "Chaos as 'screaming' knifeman tackled by security after 'trying to enter crown court'",
-      "url": "https://www.dailystar.co.uk/news/latest-news/breaking-chaos-screaming-knifeman-tackled-37859351",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-10T01:40:54+10:00",
-      "score": 18,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/chaos-as-screaming-knifeman-tackled-by-security-after-tr-62ce773dd3.svg"
     },
     {
       "id": "california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298",
@@ -196,23 +179,6 @@
       "image": "assets/data/headline-images/people-are-only-just-realising-why-bourbon-biscuits-have-8bbb2cbc63.svg"
     },
     {
-      "id": "mars-volcanoes-could-contain-the-ingredients-needed-for--e1be64a0f2",
-      "title": "Mars' volcanoes could contain the ingredients needed for alien life to develop, scientists say",
-      "url": "https://www.dailymail.com/sciencetech/article-16264609/Scientists-Mars-volcanoes-ingredients-alien-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-11-05T05:00:46+10:00",
-      "score": 15,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/mars-volcanoes-could-contain-the-ingredients-needed-for--e1be64a0f2.svg"
-    },
-    {
       "id": "unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33",
       "title": "Unravelling the mystery of Egypt's 'Braided Lady': Archaeologists use 3D CT scans to digitally unwrap a mummy after 3,000 years",
       "url": "https://www.dailymail.com/sciencetech/article-16262481/Mystery-Egypt-Braided-Lady-Mummy-unpicked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -282,85 +248,117 @@
       "image": "assets/data/headline-images/massive-see-through-ufo-caught-on-camera-over-oregon-hom-5b080836eb.svg"
     },
     {
-      "id": "chicken-and-mushroom-takes-out-top-vegan-pie-award-68a9ae726c",
-      "title": "'Chicken’ and mushroom takes out top vegan pie award",
-      "url": "https://www.rnz.co.nz/life/food/chicken-and-mushroom-wins-best-vegan-pie",
-      "source": "RNZ News",
-      "country": "New Zealand",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-11-13T10:40:38+10:00",
-      "score": 9,
-      "why": "A very ordinary object has wandered into serious news.",
+      "id": "stonehenge-mystery-deepens-scientists-say-the-altar-ston-a35304fce0",
+      "title": "Stonehenge mystery deepens: Scientists say the Altar Stone may come from northern ENGLAND after all - and not Scotland or Wales as previously thought",
+      "url": "https://www.dailymail.com/sciencetech/article-16271095/Stonehenge-mystery-altar-stone-northern-ENGLAND.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-07T01:04:03+10:00",
+      "score": 12,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
       "signals": [
-        "A very ordinary object has wandered into serious news."
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/chicken-and-mushroom-takes-out-top-vegan-pie-award-68a9ae726c.svg"
+      "image": "assets/data/headline-images/stonehenge-mystery-deepens-scientists-say-the-altar-ston-a35304fce0.svg"
     },
     {
-      "id": "giant-sequoias-return-to-hobart-s-st-david-s-park-in-cen-860efcbb37",
-      "title": "Giant sequoias return to Hobart's St David's Park in centenary celebrations",
-      "url": "https://www.abc.net.au/news/2026-11-14/new-sequoias-planted-in-st-davids-park-hobart/107382612",
-      "source": "ABC News",
-      "country": "Australia",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-11-14T07:41:00+10:00",
-      "score": 7,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy."
-      ],
-      "image": "assets/data/headline-images/giant-sequoias-return-to-hobart-s-st-david-s-park-in-cen-860efcbb37.svg"
-    },
-    {
-      "id": "a-cheese-that-s-been-sitting-on-a-shelf-for-two-years-is-d89fbfa461",
-      "title": "A cheese that’s been sitting on a shelf for two years is named the world’s best",
-      "url": "https://www.rnz.co.nz/life/food/a-cheese-that-s-been-sitting-on-a-shelf-for-two-years-is-named-the-world-s-best",
-      "source": "RNZ News",
-      "country": "New Zealand",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-11-13T12:47:00+10:00",
-      "score": 7,
-      "why": "A very ordinary object has wandered into serious news.",
-      "signals": [
-        "A very ordinary object has wandered into serious news."
-      ],
-      "image": "assets/data/headline-images/a-cheese-that-s-been-sitting-on-a-shelf-for-two-years-is-d89fbfa461.svg"
-    },
-    {
-      "id": "surprise-us-ukraine-talks-saw-armed-convoy-transport-jar-c2cfdcea03",
-      "title": "Surprise US-Ukraine talks saw armed convoy transport Jared Kushner across Dublin",
-      "url": "https://www.irishtimes.com/ireland/2026/11/13/garda-anti-drone-teams-and-snipers-sprang-into-action-for-surprise-us-ukraine-talks/",
+      "id": "new-york-based-fortress-emerges-as-ex-banker-duffy-s-mys-ef74691031",
+      "title": "New York-based Fortress emerges as ex-banker Duffy’s mystery potential PTSB backer",
+      "url": "https://www.irishtimes.com/business/2026/11/14/new-york-based-fortress-emerges-as-ex-banker-duffys-mystery-potential-ptsb-backer/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-14T00:25:22+10:00",
+      "published": "2026-11-14T16:00:00+10:00",
+      "score": 9,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence."
+      ],
+      "image": "assets/data/headline-images/new-york-based-fortress-emerges-as-ex-banker-duffy-s-mys-ef74691031.svg"
+    },
+    {
+      "id": "uk-eu-breakthrough-will-allow-airport-style-checks-at-eu-8fe8a0b700",
+      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-14T17:00:38+10:00",
+      "score": 8,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy."
+      ],
+      "image": "assets/data/headline-images/uk-eu-breakthrough-will-allow-airport-style-checks-at-eu-8fe8a0b700.svg"
+    },
+    {
+      "id": "us-officials-say-flight-stoppage-stemmed-from-routine-ma-7df19f080c",
+      "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
+      "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-15T03:11:18+10:00",
+      "score": 8,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy."
+      ],
+      "image": "assets/data/headline-images/us-officials-say-flight-stoppage-stemmed-from-routine-ma-7df19f080c.svg"
+    },
+    {
+      "id": "albanese-caught-between-climate-ambition-and-political-r-0869d6b73a",
+      "title": "Albanese caught between climate ambition and political reality at COP31",
+      "url": "https://www.abc.net.au/news/2026-11-15/climate-ambition-political-reality-cop31-albanese/107383424",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-15T04:50:21+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/surprise-us-ukraine-talks-saw-armed-convoy-transport-jar-c2cfdcea03.svg"
+      "image": "assets/data/headline-images/albanese-caught-between-climate-ambition-and-political-r-0869d6b73a.svg"
     },
     {
-      "id": "why-mapas-still-matters-after-50-years-bringing-everyone-2d78e1de9d",
-      "title": "Why MAPAS still matters after 50 years: 'Bringing everyone to the same starting point'",
-      "url": "https://www.rnz.co.nz/news/pacific/2558347/why-mapas-still-matters-after-50-years-bringing-everyone-to-the-same-starting-point",
-      "source": "RNZ News",
-      "country": "New Zealand",
+      "id": "judo-champion-shakes-up-french-presidential-race-with-su-9dbeb0d6ec",
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-13T13:02:16+10:00",
-      "score": 5,
-      "why": "It reads like the setup to a very dry question.",
+      "published": "2026-11-15T10:06:51+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "It reads like the setup to a very dry question.",
-        "The specific number gives the line a dry little thud."
+        "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/why-mapas-still-matters-after-50-years-bringing-everyone-2d78e1de9d.svg"
+      "image": "assets/data/headline-images/judo-champion-shakes-up-french-presidential-race-with-su-9dbeb0d6ec.svg"
+    },
+    {
+      "id": "sotheby-s-auction-of-180m-van-gogh-challenged-over-claim-408cc3a857",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-15T04:00:10+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/sotheby-s-auction-of-180m-van-gogh-challenged-over-claim-408cc3a857.svg"
     }
   ],
   "feed_errors": [

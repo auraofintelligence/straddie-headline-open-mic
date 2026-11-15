@@ -1,0 +1,370 @@
+{
+  "site": "Straddie Headline Open Mic",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T11:10:52.947207+10:00",
+  "generated_label": "15 Nov 2026, 11:10 AM AEST",
+  "source_count": 14,
+  "headline_count": 21,
+  "headlines": [
+    {
+      "id": "darwin-real-estate-the-latest-auction-and-sales-results--32102eaafe",
+      "title": "Darwin real estate: The latest auction and sales results for week ending November 14",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQNWp3ak13d01XQ1lXMnZFc0lxMENxaVpreDhLNU9YNkF6WTU1bXlIazMteDUza3U0aGVub2hUUUUyS3hhMkh2ZkFnazZIaXJLY0ViTjlwVUpDMkxDdVpXejFiRnJyMmdtWlFGMFVFVTZWWGZ3X1M2aldBb1BoRlhva1QzMzFzTS1hMlkteGQ4NXJWY29nLVY1SW1JVVlabHAxTVNUMk9fZzE2YXVXMndlalRFRHhROW9yNm5VekhXbnAtdThfWllVeVJpdEIydHdQQlRLdGIwR0I0eDVsNUkwcV9hcnJGRlJtTFppRlVXTlowRV9GSHEtRjZwOFExYkR5WEhMWElqbUhibUVnVy1vR3pndG4zMHc?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-15T07:34:25+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--32102eaafe.svg"
+    },
+    {
+      "id": "us-giant-buys-top-end-environmental-consultancy-049fd8fcb2",
+      "title": "US giant buys Top End environmental consultancy",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUndtcHNLUERZNU1zQTZhM0x5LXIzbWREQWxQZ19Ybzl0UGo4ejJTWDRZS0lkNEg4MkJPbWVNYjE4dV83RmFGbnJiRDdpcUdZcDkyc1ZpLW5WMVlqSGIwZlRsT0xKV01OWmtVOUZ1ZDNKX3o0TWlnU0pka2tIaGJ6Q3BDejgxbk5teDlsemJFWXlJc3FVZHVDWUhPVERxVVpPbkxrRnNHSUZpZm1YOEtwS1lEeENZaHUtemwyYmNoaVZqZFNqR3N0MWZqa0poX3Q0em1ycnhmRjI1MDNfYnVTSGlTLWg4OVNXWVJQaUEtb1l1WUg2bjI3VWZrcVRJMmR1Q2xSRmFTdldTOS0yNUFKQjRZZ1VZbDE2d2Rj?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-12T19:30:00+10:00",
+      "score": 31,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/us-giant-buys-top-end-environmental-consultancy-049fd8fcb2.svg"
+    },
+    {
+      "id": "woman-44-develops-bizarre-symptoms-after-starting-an-ssr-384f93d89f",
+      "title": "Woman, 44, develops bizarre symptoms after starting an SSRI — and it happened every 15 minutes",
+      "url": "https://nypost.com/2026/11/12/health/woman-develops-bizarre-symptoms-on-ssri-with-six-episodes-every-15-minutes/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-13T07:04:47+10:00",
+      "score": 22,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/woman-44-develops-bizarre-symptoms-after-starting-an-ssr-384f93d89f.svg"
+    },
+    {
+      "id": "mum-sitting-on-the-toilet-spooked-as-child-ghost-unfurls-beba071c4b",
+      "title": "Mum sitting on the toilet spooked as 'child ghost' unfurls loo roll on video",
+      "url": "https://www.dailystar.co.uk/news/latest-news/mum-spooked-whilst-toilet-claims-37865002",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-14T18:00:00+10:00",
+      "score": 20,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/mum-sitting-on-the-toilet-spooked-as-child-ghost-unfurls-beba071c4b.svg"
+    },
+    {
+      "id": "7-of-the-world-s-most-bizarre-airports-with-disappearing-39448b2c06",
+      "title": "7 of the world's most bizarre airports with 'disappearing' runways and lions near terminals",
+      "url": "https://www.dailystar.co.uk/travel/gallery/7-worlds-most-bizarre-airports-37875159",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-14T02:08:01+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/7-of-the-world-s-most-bizarre-airports-with-disappearing-39448b2c06.svg"
+    },
+    {
+      "id": "bizarre-urban-legend-saw-hundreds-try-to-free-a-man-trap-75ab149ee9",
+      "title": "Bizarre urban legend saw hundreds try to free a man ‘trapped inside a bean’",
+      "url": "https://metro.co.uk/2026/11/09/bizarre-urban-legend-saw-hundreds-try-free-a-man-trapped-inside-a-bean-29778088/",
+      "source": "Metro Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-10T04:02:31+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/bizarre-urban-legend-saw-hundreds-try-to-free-a-man-trap-75ab149ee9.svg"
+    },
+    {
+      "id": "california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298",
+      "title": "California airport sparks online frenzy with peculiar hardware auction",
+      "url": "https://nypost.com/2026/11/08/lifestyle/oakland-airport-auctions-off-baggage-tugs-for-as-little-as-750-as-social-media-users-go-wild/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-09T00:45:00+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298.svg"
+    },
+    {
+      "id": "uk-s-best-pizza-named-by-national-pizza-awards-but-there-746c5dc3ab",
+      "title": "UK’s best pizza named by National Pizza Awards - but there's a catch if you want to visit",
+      "url": "https://www.mirror.co.uk/news/uk-news/uks-best-pizza-named-national-37858900",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-12T18:31:15+10:00",
+      "score": 17,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/uk-s-best-pizza-named-by-national-pizza-awards-but-there-746c5dc3ab.svg"
+    },
+    {
+      "id": "family-left-nauseous-after-giant-see-through-ufo-shines--b58d934174",
+      "title": "Family left 'nauseous' after giant 'see-through' UFO shines bright lights into girl's bedroom",
+      "url": "https://www.dailystar.co.uk/news/latest-news/family-left-nauseous-after-giant-37874513",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-13T23:09:33+10:00",
+      "score": 17,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/family-left-nauseous-after-giant-see-through-ufo-shines--b58d934174.svg"
+    },
+    {
+      "id": "people-are-only-just-realising-why-bourbon-biscuits-have-8bbb2cbc63",
+      "title": "People are only just realising why bourbon biscuits have holes in after 116 years",
+      "url": "https://www.mirror.co.uk/lifestyle/food-drink/people-only-just-realising-bourbon-37859078",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-12T17:18:26+10:00",
+      "score": 15,
+      "why": "It reads like the setup to a very dry question.",
+      "signals": [
+        "It reads like the setup to a very dry question.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/people-are-only-just-realising-why-bourbon-biscuits-have-8bbb2cbc63.svg"
+    },
+    {
+      "id": "unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33",
+      "title": "Unravelling the mystery of Egypt's 'Braided Lady': Archaeologists use 3D CT scans to digitally unwrap a mummy after 3,000 years",
+      "url": "https://www.dailymail.com/sciencetech/article-16262481/Mystery-Egypt-Braided-Lady-Mummy-unpicked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-07T18:46:19+10:00",
+      "score": 14,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The specific number gives the line a dry little thud.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33.svg"
+    },
+    {
+      "id": "the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0",
+      "title": "The 'mermaid' that fooled the world: Scientists reveal the true identity of a bizarre creature once hailed as a missing link between humans and fish",
+      "url": "https://www.dailymail.com/sciencetech/article-16268309/mermaid-fooled-world-Scientists-true-identity.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-06T06:29:36+10:00",
+      "score": 13,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0.svg"
+    },
+    {
+      "id": "microsoft-says-efforts-to-fix-global-outage-not-going-as-107cd3be4e",
+      "title": "Microsoft says efforts to fix global outage 'not going as expected' with millions impacted worldwide",
+      "url": "https://www.dailymail.com/sciencetech/article-16289289/microsoft-outage-fix-struggles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-14T07:29:02+10:00",
+      "score": 12,
+      "why": "The headline has a neat little reversal.",
+      "signals": [
+        "The headline has a neat little reversal.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/microsoft-says-efforts-to-fix-global-outage-not-going-as-107cd3be4e.svg"
+    },
+    {
+      "id": "massive-see-through-ufo-caught-on-camera-over-oregon-hom-5b080836eb",
+      "title": "Massive 'see-through' UFO caught on camera over Oregon home before witnesses suffer mysterious symptoms",
+      "url": "https://www.dailymail.com/sciencetech/article-16288319/ufo-oregon-sighting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-13T06:43:56+10:00",
+      "score": 12,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/massive-see-through-ufo-caught-on-camera-over-oregon-hom-5b080836eb.svg"
+    },
+    {
+      "id": "stonehenge-mystery-deepens-scientists-say-the-altar-ston-a35304fce0",
+      "title": "Stonehenge mystery deepens: Scientists say the Altar Stone may come from northern ENGLAND after all - and not Scotland or Wales as previously thought",
+      "url": "https://www.dailymail.com/sciencetech/article-16271095/Stonehenge-mystery-altar-stone-northern-ENGLAND.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-07T01:04:03+10:00",
+      "score": 12,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/stonehenge-mystery-deepens-scientists-say-the-altar-ston-a35304fce0.svg"
+    },
+    {
+      "id": "new-york-based-fortress-emerges-as-ex-banker-duffy-s-mys-ef74691031",
+      "title": "New York-based Fortress emerges as ex-banker Duffy’s mystery potential PTSB backer",
+      "url": "https://www.irishtimes.com/business/2026/11/14/new-york-based-fortress-emerges-as-ex-banker-duffys-mystery-potential-ptsb-backer/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-14T16:00:00+10:00",
+      "score": 9,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence."
+      ],
+      "image": "assets/data/headline-images/new-york-based-fortress-emerges-as-ex-banker-duffy-s-mys-ef74691031.svg"
+    },
+    {
+      "id": "uk-eu-breakthrough-will-allow-airport-style-checks-at-eu-8fe8a0b700",
+      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-14T17:00:38+10:00",
+      "score": 8,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy."
+      ],
+      "image": "assets/data/headline-images/uk-eu-breakthrough-will-allow-airport-style-checks-at-eu-8fe8a0b700.svg"
+    },
+    {
+      "id": "us-officials-say-flight-stoppage-stemmed-from-routine-ma-7df19f080c",
+      "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
+      "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-15T03:11:18+10:00",
+      "score": 8,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy."
+      ],
+      "image": "assets/data/headline-images/us-officials-say-flight-stoppage-stemmed-from-routine-ma-7df19f080c.svg"
+    },
+    {
+      "id": "albanese-caught-between-climate-ambition-and-political-r-0869d6b73a",
+      "title": "Albanese caught between climate ambition and political reality at COP31",
+      "url": "https://www.abc.net.au/news/2026-11-15/climate-ambition-political-reality-cop31-albanese/107383424",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-15T04:50:21+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/albanese-caught-between-climate-ambition-and-political-r-0869d6b73a.svg"
+    },
+    {
+      "id": "judo-champion-shakes-up-french-presidential-race-with-su-9dbeb0d6ec",
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-15T10:06:51+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/judo-champion-shakes-up-french-presidential-race-with-su-9dbeb0d6ec.svg"
+    },
+    {
+      "id": "sotheby-s-auction-of-180m-van-gogh-challenged-over-claim-408cc3a857",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-15T04:00:10+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/sotheby-s-auction-of-180m-van-gogh-challenged-over-claim-408cc3a857.svg"
+    }
+  ],
+  "feed_errors": [
+    {
+      "source": "The Independent",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
+}
