@@ -1,45 +1,11 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T11:10:52.947207+10:00",
-  "generated_label": "15 Nov 2026, 11:10 AM AEST",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T11:17:05.943743+10:00",
+  "generated_label": "16 Nov 2026, 11:17 AM AEST",
   "source_count": 14,
   "headline_count": 21,
   "headlines": [
-    {
-      "id": "darwin-real-estate-the-latest-auction-and-sales-results--32102eaafe",
-      "title": "Darwin real estate: The latest auction and sales results for week ending November 14",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQNWp3ak13d01XQ1lXMnZFc0lxMENxaVpreDhLNU9YNkF6WTU1bXlIazMteDUza3U0aGVub2hUUUUyS3hhMkh2ZkFnazZIaXJLY0ViTjlwVUpDMkxDdVpXejFiRnJyMmdtWlFGMFVFVTZWWGZ3X1M2aldBb1BoRlhva1QzMzFzTS1hMlkteGQ4NXJWY29nLVY1SW1JVVlabHAxTVNUMk9fZzE2YXVXMndlalRFRHhROW9yNm5VekhXbnAtdThfWllVeVJpdEIydHdQQlRLdGIwR0I0eDVsNUkwcV9hcnJGRlJtTFppRlVXTlowRV9GSHEtRjZwOFExYkR5WEhMWElqbUhibUVnVy1vR3pndG4zMHc?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-11-15T07:34:25+10:00",
-      "score": 31,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--32102eaafe.svg"
-    },
-    {
-      "id": "us-giant-buys-top-end-environmental-consultancy-049fd8fcb2",
-      "title": "US giant buys Top End environmental consultancy",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUndtcHNLUERZNU1zQTZhM0x5LXIzbWREQWxQZ19Ybzl0UGo4ejJTWDRZS0lkNEg4MkJPbWVNYjE4dV83RmFGbnJiRDdpcUdZcDkyc1ZpLW5WMVlqSGIwZlRsT0xKV01OWmtVOUZ1ZDNKX3o0TWlnU0pka2tIaGJ6Q3BDejgxbk5teDlsemJFWXlJc3FVZHVDWUhPVERxVVpPbkxrRnNHSUZpZm1YOEtwS1lEeENZaHUtemwyYmNoaVZqZFNqR3N0MWZqa0poX3Q0em1ycnhmRjI1MDNfYnVTSGlTLWg4OVNXWVJQaUEtb1l1WUg2bjI3VWZrcVRJMmR1Q2xSRmFTdldTOS0yNUFKQjRZZ1VZbDE2d2Rj?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-11-12T19:30:00+10:00",
-      "score": 31,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/us-giant-buys-top-end-environmental-consultancy-049fd8fcb2.svg"
-    },
     {
       "id": "woman-44-develops-bizarre-symptoms-after-starting-an-ssr-384f93d89f",
       "title": "Woman, 44, develops bizarre symptoms after starting an SSRI — and it happened every 15 minutes",
@@ -197,23 +163,6 @@
       "image": "assets/data/headline-images/unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33.svg"
     },
     {
-      "id": "the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0",
-      "title": "The 'mermaid' that fooled the world: Scientists reveal the true identity of a bizarre creature once hailed as a missing link between humans and fish",
-      "url": "https://www.dailymail.com/sciencetech/article-16268309/mermaid-fooled-world-Scientists-true-identity.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-11-06T06:29:36+10:00",
-      "score": 13,
-      "why": "The headline is already trying not to laugh.",
-      "signals": [
-        "The headline is already trying not to laugh.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/the-mermaid-that-fooled-the-world-scientists-reveal-the--b32fcd21c0.svg"
-    },
-    {
       "id": "microsoft-says-efforts-to-fix-global-outage-not-going-as-107cd3be4e",
       "title": "Microsoft says efforts to fix global outage 'not going as expected' with millions impacted worldwide",
       "url": "https://www.dailymail.com/sciencetech/article-16289289/microsoft-outage-fix-struggles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -265,20 +214,54 @@
       "image": "assets/data/headline-images/stonehenge-mystery-deepens-scientists-say-the-altar-ston-a35304fce0.svg"
     },
     {
-      "id": "new-york-based-fortress-emerges-as-ex-banker-duffy-s-mys-ef74691031",
-      "title": "New York-based Fortress emerges as ex-banker Duffy’s mystery potential PTSB backer",
-      "url": "https://www.irishtimes.com/business/2026/11/14/new-york-based-fortress-emerges-as-ex-banker-duffys-mystery-potential-ptsb-backer/",
+      "id": "60-minutes-of-perfection-30-minutes-of-chaos-an-england--93870664ac",
+      "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-16T09:52:43+10:00",
+      "score": 10,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/60-minutes-of-perfection-30-minutes-of-chaos-an-england--93870664ac.svg"
+    },
+    {
+      "id": "giant-ufo-with-dangling-tentacles-hovers-near-us-militar-48b1a8ca95",
+      "title": "Giant UFO with dangling tentacles hovers near US military base before vanishing: 'Only God and the government know what it is'",
+      "url": "https://www.dailymail.com/sciencetech/article-16278729/ufo-hovers-alaska-military-base.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-14T14:01:43+10:00",
+      "score": 10,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/giant-ufo-with-dangling-tentacles-hovers-near-us-militar-48b1a8ca95.svg"
+    },
+    {
+      "id": "political-nature-calls-taoiseach-to-grandest-toilet-open-67461b3776",
+      "title": "Political nature calls Taoiseach to grandest toilet opening in recent memory",
+      "url": "https://www.irishtimes.com/ireland/2026/11/15/political-nature-calls-taoiseach-to-grandest-toilet-opening-in-recent-memory/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-14T16:00:00+10:00",
-      "score": 9,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "published": "2026-11-15T16:00:00+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
       "signals": [
-        "A mystery is doing a lot of work in a very small sentence."
+        "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/new-york-based-fortress-emerges-as-ex-banker-duffy-s-mys-ef74691031.svg"
+      "image": "assets/data/headline-images/political-nature-calls-taoiseach-to-grandest-toilet-open-67461b3776.svg"
     },
     {
       "id": "uk-eu-breakthrough-will-allow-airport-style-checks-at-eu-8fe8a0b700",
@@ -297,36 +280,36 @@
       "image": "assets/data/headline-images/uk-eu-breakthrough-will-allow-airport-style-checks-at-eu-8fe8a0b700.svg"
     },
     {
-      "id": "us-officials-say-flight-stoppage-stemmed-from-routine-ma-7df19f080c",
-      "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
-      "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-15T03:11:18+10:00",
-      "score": 8,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy."
-      ],
-      "image": "assets/data/headline-images/us-officials-say-flight-stoppage-stemmed-from-routine-ma-7df19f080c.svg"
-    },
-    {
-      "id": "albanese-caught-between-climate-ambition-and-political-r-0869d6b73a",
-      "title": "Albanese caught between climate ambition and political reality at COP31",
-      "url": "https://www.abc.net.au/news/2026-11-15/climate-ambition-political-reality-cop31-albanese/107383424",
+      "id": "giant-hail-heavy-rain-and-damaging-winds-possible-for-so-82f43cf950",
+      "title": "Giant hail, heavy rain and damaging winds possible for south-east Qld",
+      "url": "https://www.abc.net.au/news/2026-11-16/severe-storms-south-east-qld-heatwave-north/107387434",
       "source": "ABC News",
       "country": "Australia",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-15T04:50:21+10:00",
+      "published": "2026-11-16T05:45:20+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/giant-hail-heavy-rain-and-damaging-winds-possible-for-so-82f43cf950.svg"
+    },
+    {
+      "id": "trident-submarine-returns-home-after-record-breaking-und-a4b77cefea",
+      "title": "Trident submarine returns home after record-breaking undersea patrol",
+      "url": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-16T07:48:10+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/albanese-caught-between-climate-ambition-and-political-r-0869d6b73a.svg"
+      "image": "assets/data/headline-images/trident-submarine-returns-home-after-record-breaking-und-a4b77cefea.svg"
     },
     {
       "id": "judo-champion-shakes-up-french-presidential-race-with-su-9dbeb0d6ec",
@@ -345,23 +328,43 @@
       "image": "assets/data/headline-images/judo-champion-shakes-up-french-presidential-race-with-su-9dbeb0d6ec.svg"
     },
     {
-      "id": "sotheby-s-auction-of-180m-van-gogh-challenged-over-claim-408cc3a857",
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "country": "United Kingdom",
-      "source_type": "public broadcaster / print-style newsroom",
+      "id": "she-is-really-special-to-me-swimmer-ellen-keane-appeals--1e78573406",
+      "title": "‘She is really special to me’: Swimmer Ellen Keane appeals for help after custom bicycle stolen",
+      "url": "https://www.irishtimes.com/ireland/dublin/2026/11/15/she-is-really-special-to-me-swimmer-ellen-keane-appeals-for-help-after-custom-bicycle-stolen/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-15T04:00:10+10:00",
+      "published": "2026-11-15T22:04:48+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/sotheby-s-auction-of-180m-van-gogh-challenged-over-claim-408cc3a857.svg"
+      "image": "assets/data/headline-images/she-is-really-special-to-me-swimmer-ellen-keane-appeals--1e78573406.svg"
+    },
+    {
+      "id": "the-jimmy-cake-for-the-next-gig-we-were-going-to-call-ou-ef73073510",
+      "title": "The Jimmy Cake: ‘For the next gig we were going to call ourselves The French.’ ‘And then Bag of Mickeys’",
+      "url": "https://www.irishtimes.com/culture/music/2026/11/15/the-jimmy-cake-for-the-next-gig-we-were-going-to-call-ourselves-the-french-and-then-bag-of-mickeys/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-15T15:16:00+10:00",
+      "score": 7,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news."
+      ],
+      "image": "assets/data/headline-images/the-jimmy-cake-for-the-next-gig-we-were-going-to-call-ou-ef73073510.svg"
     }
   ],
   "feed_errors": [
+    {
+      "source": "NT News",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
     {
       "source": "The Independent",
       "error": "not well-formed (invalid token): line 1, column 0"
