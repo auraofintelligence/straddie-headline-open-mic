@@ -1,0 +1,338 @@
+{
+  "site": "Straddie Headline Open Mic",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T14:04:55.659778+10:00",
+  "generated_label": "17 Nov 2026, 02:04 PM AEST",
+  "source_count": 14,
+  "headline_count": 19,
+  "headlines": [
+    {
+      "id": "man-arrested-following-three-stolen-melbourne-cups-62f95386da",
+      "title": "Man arrested following three stolen Melbourne Cups",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVUFUc3lILU02YnhvdFRPb3h6NW5ESzJrZTdrREtCLUhwVWpCVHFQMnVKZWNRWlR0blJQYlRBT1FTcXlYVGszQm5SNDZyQnI1TVVmeG5Ldmp6Um9nZGE1aW5pM2d5TU1QSzIxSGhPQl9nUGw3ZVhfd3ZnOEF0M2syXzd5alhKUzhXVTZIcTliM3dIb2pWb2pQXzM2dmtjVk9ZNHNibDJ6QVZqM2NKSi1WX1lWYTl2V3VvaTU4cXVrbkN1WWRJd25DSko4eUF5MTg?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-17T06:22:00+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/man-arrested-following-three-stolen-melbourne-cups-62f95386da.svg"
+    },
+    {
+      "id": "shock-as-melb-cup-icon-s-trophies-stolen-61bfc665d7",
+      "title": "Shock as Melb Cup icon’s trophies stolen",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPenBNTTZ3TEYwMWV5UVJtdk9VaXA3TUVrOXhpYjFKUWZwMDlLOWRONVpMdWEweS0tUVNUWVZpd2x1cHlDcWFNd25lWG9HRWkzZG9XenRvYnhmWm1SSm1EMjBNQVZmcm5YM21VdVRXMlM4WGRfNjRIWHlNUDNRSDJMeXVYSjVSdG5lNlNZNFlHNVIzQVZtSUxhSTdIS1NmNTJCSndPN3dXRFNqVTZSMmN5ZmpBU003WHlNODB0WlNwdEt5SlltelhNR1JPYVhvNjFsMWd1NmRib1lQc3N5bFppLUhpX01yWmFBTEhodDVTcXVZZUJ1UkEtTmNwZDdRaHZpbWUw?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-17T03:53:26+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/shock-as-melb-cup-icon-s-trophies-stolen-61bfc665d7.svg"
+    },
+    {
+      "id": "darwin-real-estate-the-latest-auction-and-sales-results--043d9333c0",
+      "title": "Darwin real estate: The latest auction and sales results for week ending November 15",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNaklPb1lPNE9iUmE3aFZCZU84b0hidjBxbHJ1TzJhS3hIWXprdWY0LTdmeU16MklvdEc5WFRlNFQwd004X1JGdFN1MlhrWkZBN0lSa19LVF8xRzM3YTZWblhGckZiWjkzYVh5TE5hYmZyY055SklnRFNKQi02U0syWmdOUFRIZURFWTFobFlET01UREx2Y2wwTmQtcjhfRmNEaGpZa2t2R19CamZvTWNUQTl1djJQcWlVWlU0a0dTZldtdzdNdmtLRHJ2c2Y5VEZwQTlscUhLb2dYTW1QYnRlR1F3Zy1ycWZmdU1URnlNRlZYdWhURl9YZU1HTXgxdFhGN0RHWEdhQ1lSYldZYzVZQ2FuaDBvcE0?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-17T02:45:35+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--043d9333c0.svg"
+    },
+    {
+      "id": "harry-s-surprise-visit-going-to-win-35d8772e54",
+      "title": "Harry’s surprise visit: ‘Going to win’",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRnVQbF92VzFPeEtTZWJIRVBTVkRSNlJRYWtkY0hWTzJtbGVGUy1oVVppMmkwNVFVUDV1OG9PQ0pBMERfbGhNeTJNcDdGSXBzSV9MSXZLc2dZczV5WS04WGliTkVwTWp2SFluMDhtVTk4OE93OFU2R1hmU2xMWkJrQ1BzZ1dIeG12b3FIRFhfZTNTcHEwMmY2N296b1BHSnpNN1pfcW9OcF9Ya3BaYl96UTk1WUVhRzNIaTNjUTRWRkVNQlZ0TUZfS05DTHVHTlJTTmVSb29Hby1oNkRKeEhydFhucjU2SG9aYjVhRDNDajBQM3FscWRlekFfMDByS1BrVzRVcFgxajRlVXBJcFU1UVhNVjNGSGM?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-16T21:17:20+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/harry-s-surprise-visit-going-to-win-35d8772e54.svg"
+    },
+    {
+      "id": "woman-44-develops-bizarre-symptoms-after-starting-an-ssr-384f93d89f",
+      "title": "Woman, 44, develops bizarre symptoms after starting an SSRI — and it happened every 15 minutes",
+      "url": "https://nypost.com/2026/11/12/health/woman-develops-bizarre-symptoms-on-ssri-with-six-episodes-every-15-minutes/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-13T07:04:47+10:00",
+      "score": 22,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "The specific number gives the line a dry little thud.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/woman-44-develops-bizarre-symptoms-after-starting-an-ssr-384f93d89f.svg"
+    },
+    {
+      "id": "mum-sitting-on-the-toilet-spooked-as-child-ghost-unfurls-beba071c4b",
+      "title": "Mum sitting on the toilet spooked as 'child ghost' unfurls loo roll on video",
+      "url": "https://www.dailystar.co.uk/news/latest-news/mum-spooked-whilst-toilet-claims-37865002",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-14T18:00:00+10:00",
+      "score": 20,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/mum-sitting-on-the-toilet-spooked-as-child-ghost-unfurls-beba071c4b.svg"
+    },
+    {
+      "id": "7-of-the-world-s-most-bizarre-airports-with-disappearing-39448b2c06",
+      "title": "7 of the world's most bizarre airports with 'disappearing' runways and lions near terminals",
+      "url": "https://www.dailystar.co.uk/travel/gallery/7-worlds-most-bizarre-airports-37875159",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-14T02:08:01+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/7-of-the-world-s-most-bizarre-airports-with-disappearing-39448b2c06.svg"
+    },
+    {
+      "id": "bizarre-urban-legend-saw-hundreds-try-to-free-a-man-trap-75ab149ee9",
+      "title": "Bizarre urban legend saw hundreds try to free a man ‘trapped inside a bean’",
+      "url": "https://metro.co.uk/2026/11/09/bizarre-urban-legend-saw-hundreds-try-free-a-man-trapped-inside-a-bean-29778088/",
+      "source": "Metro Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-10T04:02:31+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/bizarre-urban-legend-saw-hundreds-try-to-free-a-man-trap-75ab149ee9.svg"
+    },
+    {
+      "id": "bizarre-pterodactyl-filmed-near-us-border-sparks-claims--00f53b174c",
+      "title": "Bizarre 'pterodactyl' filmed near US border sparks claims ancient predator is on the loose",
+      "url": "https://www.dailymail.com/sciencetech/article-16296509/pterodactyl-juarez-mexico-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-17T13:13:41+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/bizarre-pterodactyl-filmed-near-us-border-sparks-claims--00f53b174c.svg"
+    },
+    {
+      "id": "california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298",
+      "title": "California airport sparks online frenzy with peculiar hardware auction",
+      "url": "https://nypost.com/2026/11/08/lifestyle/oakland-airport-auctions-off-baggage-tugs-for-as-little-as-750-as-social-media-users-go-wild/",
+      "source": "New York Post Weird But True",
+      "country": "United States",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-09T00:45:00+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298.svg"
+    },
+    {
+      "id": "family-left-nauseous-after-giant-see-through-ufo-shines--b58d934174",
+      "title": "Family left 'nauseous' after giant 'see-through' UFO shines bright lights into girl's bedroom",
+      "url": "https://www.dailystar.co.uk/news/latest-news/family-left-nauseous-after-giant-37874513",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-13T23:09:33+10:00",
+      "score": 17,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/family-left-nauseous-after-giant-see-through-ufo-shines--b58d934174.svg"
+    },
+    {
+      "id": "unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33",
+      "title": "Unravelling the mystery of Egypt's 'Braided Lady': Archaeologists use 3D CT scans to digitally unwrap a mummy after 3,000 years",
+      "url": "https://www.dailymail.com/sciencetech/article-16262481/Mystery-Egypt-Braided-Lady-Mummy-unpicked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-07T18:46:19+10:00",
+      "score": 14,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The specific number gives the line a dry little thud.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33.svg"
+    },
+    {
+      "id": "microsoft-says-efforts-to-fix-global-outage-not-going-as-107cd3be4e",
+      "title": "Microsoft says efforts to fix global outage 'not going as expected' with millions impacted worldwide",
+      "url": "https://www.dailymail.com/sciencetech/article-16289289/microsoft-outage-fix-struggles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-14T07:29:02+10:00",
+      "score": 12,
+      "why": "The headline has a neat little reversal.",
+      "signals": [
+        "The headline has a neat little reversal.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/microsoft-says-efforts-to-fix-global-outage-not-going-as-107cd3be4e.svg"
+    },
+    {
+      "id": "massive-see-through-ufo-caught-on-camera-over-oregon-hom-5b080836eb",
+      "title": "Massive 'see-through' UFO caught on camera over Oregon home before witnesses suffer mysterious symptoms",
+      "url": "https://www.dailymail.com/sciencetech/article-16288319/ufo-oregon-sighting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-13T06:43:56+10:00",
+      "score": 12,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/massive-see-through-ufo-caught-on-camera-over-oregon-hom-5b080836eb.svg"
+    },
+    {
+      "id": "fiona-the-hippo-under-veterinary-care-after-eating-hat-a-32463ff1e4",
+      "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-17T11:18:28+10:00",
+      "score": 10,
+      "why": "A household object has somehow reached the news desk.",
+      "signals": [
+        "A household object has somehow reached the news desk."
+      ],
+      "image": "assets/data/headline-images/fiona-the-hippo-under-veterinary-care-after-eating-hat-a-32463ff1e4.svg"
+    },
+    {
+      "id": "giant-ufo-with-dangling-tentacles-hovers-near-us-militar-48b1a8ca95",
+      "title": "Giant UFO with dangling tentacles hovers near US military base before vanishing: 'Only God and the government know what it is'",
+      "url": "https://www.dailymail.com/sciencetech/article-16278729/ufo-hovers-alaska-military-base.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-14T14:01:43+10:00",
+      "score": 10,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/giant-ufo-with-dangling-tentacles-hovers-near-us-militar-48b1a8ca95.svg"
+    },
+    {
+      "id": "the-young-people-caught-up-in-britain-s-neets-crisis-db7e980e6b",
+      "title": "The young people caught up in Britain's Neets crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-17T10:06:34+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/the-young-people-caught-up-in-britain-s-neets-crisis-db7e980e6b.svg"
+    },
+    {
+      "id": "will-jordan-a-chance-to-make-surprise-comeback-for-all-b-ab351c5ce6",
+      "title": "Will Jordan a chance to make surprise comeback for All Blacks against England",
+      "url": "https://www.rnz.co.nz/news/sport/2639454/will-jordan-a-chance-to-make-surprise-comeback-for-all-blacks-against-england",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-17T13:35:38+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/will-jordan-a-chance-to-make-surprise-comeback-for-all-b-ab351c5ce6.svg"
+    },
+    {
+      "id": "it-s-like-the-16th-century-version-of-doomscrolling-the--9f4f6cf6ae",
+      "title": "‘It’s like the 16th-century version of doomscrolling’: the Book of Miracles may fetch £1m at auction",
+      "url": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-16T17:00:38+10:00",
+      "score": 5,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/it-s-like-the-16th-century-version-of-doomscrolling-the--9f4f6cf6ae.svg"
+    }
+  ],
+  "feed_errors": [
+    {
+      "source": "The Independent",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
+}
