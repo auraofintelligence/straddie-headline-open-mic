@@ -1,11 +1,28 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T14:04:55.659778+10:00",
-  "generated_label": "17 Nov 2026, 02:04 PM AEST",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T13:02:48.126878+10:00",
+  "generated_label": "18 Nov 2026, 01:02 PM AEST",
   "source_count": 14,
   "headline_count": 19,
   "headlines": [
+    {
+      "id": "arrest-made-for-stolen-melbourne-cups-a231741f12",
+      "title": "Arrest made for stolen Melbourne Cups",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbGs2WlpkOGVjUnJrZF84LUk4S1VCczhuWFlReVdZMVdBZnhCckNuQ2pfbElOOFRKSGhsd2ZuTnpuS3RsNVh6b1lQOFZrQWZ1RXNqbmNxV2pOWXVuV1VkaGo3RW53cnNUZGdOUDU2N2VfNWRxbzdPOHVNWldTQlp5UmU1cXNqRWZEV0hRTHpqendZVWd5SVNXMk8wbEdRdWJ6a2VJSkRVVXB2X2RRSlpRWTF5d18tSUp6VENPUnB3?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-17T16:33:00+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/arrest-made-for-stolen-melbourne-cups-a231741f12.svg"
+    },
     {
       "id": "man-arrested-following-three-stolen-melbourne-cups-62f95386da",
       "title": "Man arrested following three stolen Melbourne Cups",
@@ -39,40 +56,6 @@
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
       "image": "assets/data/headline-images/shock-as-melb-cup-icon-s-trophies-stolen-61bfc665d7.svg"
-    },
-    {
-      "id": "darwin-real-estate-the-latest-auction-and-sales-results--043d9333c0",
-      "title": "Darwin real estate: The latest auction and sales results for week ending November 15",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNaklPb1lPNE9iUmE3aFZCZU84b0hidjBxbHJ1TzJhS3hIWXprdWY0LTdmeU16MklvdEc5WFRlNFQwd004X1JGdFN1MlhrWkZBN0lSa19LVF8xRzM3YTZWblhGckZiWjkzYVh5TE5hYmZyY055SklnRFNKQi02U0syWmdOUFRIZURFWTFobFlET01UREx2Y2wwTmQtcjhfRmNEaGpZa2t2R19CamZvTWNUQTl1djJQcWlVWlU0a0dTZldtdzdNdmtLRHJ2c2Y5VEZwQTlscUhLb2dYTW1QYnRlR1F3Zy1ycWZmdU1URnlNRlZYdWhURl9YZU1HTXgxdFhGN0RHWEdhQ1lSYldZYzVZQ2FuaDBvcE0?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-11-17T02:45:35+10:00",
-      "score": 31,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--043d9333c0.svg"
-    },
-    {
-      "id": "harry-s-surprise-visit-going-to-win-35d8772e54",
-      "title": "Harry’s surprise visit: ‘Going to win’",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRnVQbF92VzFPeEtTZWJIRVBTVkRSNlJRYWtkY0hWTzJtbGVGUy1oVVppMmkwNVFVUDV1OG9PQ0pBMERfbGhNeTJNcDdGSXBzSV9MSXZLc2dZczV5WS04WGliTkVwTWp2SFluMDhtVTk4OE93OFU2R1hmU2xMWkJrQ1BzZ1dIeG12b3FIRFhfZTNTcHEwMmY2N296b1BHSnpNN1pfcW9OcF9Ya3BaYl96UTk1WUVhRzNIaTNjUTRWRkVNQlZ0TUZfS05DTHVHTlJTTmVSb29Hby1oNkRKeEhydFhucjU2SG9aYjVhRDNDajBQM3FscWRlekFfMDByS1BrVzRVcFgxajRlVXBJcFU1UVhNVjNGSGM?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-11-16T21:17:20+10:00",
-      "score": 31,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/harry-s-surprise-visit-going-to-win-35d8772e54.svg"
     },
     {
       "id": "woman-44-develops-bizarre-symptoms-after-starting-an-ssr-384f93d89f",
@@ -196,24 +179,6 @@
       "image": "assets/data/headline-images/family-left-nauseous-after-giant-see-through-ufo-shines--b58d934174.svg"
     },
     {
-      "id": "unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33",
-      "title": "Unravelling the mystery of Egypt's 'Braided Lady': Archaeologists use 3D CT scans to digitally unwrap a mummy after 3,000 years",
-      "url": "https://www.dailymail.com/sciencetech/article-16262481/Mystery-Egypt-Braided-Lady-Mummy-unpicked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-11-07T18:46:19+10:00",
-      "score": 14,
-      "why": "A mystery is doing a lot of work in a very small sentence.",
-      "signals": [
-        "A mystery is doing a lot of work in a very small sentence.",
-        "The specific number gives the line a dry little thud.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/unravelling-the-mystery-of-egypt-s-braided-lady-archaeol-d711829d33.svg"
-    },
-    {
       "id": "microsoft-says-efforts-to-fix-global-outage-not-going-as-107cd3be4e",
       "title": "Microsoft says efforts to fix global outage 'not going as expected' with millions impacted worldwide",
       "url": "https://www.dailymail.com/sciencetech/article-16289289/microsoft-outage-fix-struggles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -248,20 +213,20 @@
       "image": "assets/data/headline-images/massive-see-through-ufo-caught-on-camera-over-oregon-hom-5b080836eb.svg"
     },
     {
-      "id": "fiona-the-hippo-under-veterinary-care-after-eating-hat-a-32463ff1e4",
-      "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+      "id": "heads-should-roll-owner-of-melbourne-cup-horse-found-dum-04ff6daea9",
+      "title": "‘Heads should roll’: owner of Melbourne Cup horse found dumped in skip bin demands investigation",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/18/stuart-ramsey-calls-for-investigation-so-you-are-melbourne-cup-horse-found-skip-bin-ntwnfb",
       "source": "The Guardian World",
       "country": "United Kingdom",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-17T11:18:28+10:00",
+      "published": "2026-11-18T07:23:47+10:00",
       "score": 10,
       "why": "A household object has somehow reached the news desk.",
       "signals": [
         "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/fiona-the-hippo-under-veterinary-care-after-eating-hat-a-32463ff1e4.svg"
+      "image": "assets/data/headline-images/heads-should-roll-owner-of-melbourne-cup-horse-found-dum-04ff6daea9.svg"
     },
     {
       "id": "giant-ufo-with-dangling-tentacles-hovers-near-us-militar-48b1a8ca95",
@@ -281,52 +246,86 @@
       "image": "assets/data/headline-images/giant-ufo-with-dangling-tentacles-hovers-near-us-militar-48b1a8ca95.svg"
     },
     {
-      "id": "the-young-people-caught-up-in-britain-s-neets-crisis-db7e980e6b",
-      "title": "The young people caught up in Britain's Neets crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "id": "fin-tastic-find-one-in-a-million-fish-caught-in-new-york-4c32b25c4f",
+      "title": "Fin-tastic find! 'One-in-a-million' fish caught in New York is bright yellow thanks to a rare genetic mutation",
+      "url": "https://www.dailymail.com/sciencetech/article-16289931/One-million-fish-yellow-rare-genetic-mutation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
       "country": "United Kingdom",
-      "source_type": "public broadcaster / print-style newsroom",
-      "priority": "standard",
-      "published": "2026-11-17T10:06:34+10:00",
-      "score": 7,
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-13T21:28:13+10:00",
+      "score": 10,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/the-young-people-caught-up-in-britain-s-neets-crisis-db7e980e6b.svg"
+      "image": "assets/data/headline-images/fin-tastic-find-one-in-a-million-fish-caught-in-new-york-4c32b25c4f.svg"
     },
     {
-      "id": "will-jordan-a-chance-to-make-surprise-comeback-for-all-b-ab351c5ce6",
-      "title": "Will Jordan a chance to make surprise comeback for All Blacks against England",
-      "url": "https://www.rnz.co.nz/news/sport/2639454/will-jordan-a-chance-to-make-surprise-comeback-for-all-blacks-against-england",
+      "id": "life-sentence-for-parnell-square-attacker-riad-bouchaker-51f1ba0d9c",
+      "title": "Life sentence for Parnell Square attacker Riad Bouchaker ‘unusual but not unprecedented’",
+      "url": "https://www.irishtimes.com/crime-law/courts/2026/11/17/analysis-life-sentence-for-parnell-square-attacker-unusual-but-not-unprecedented/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-18T03:30:00+10:00",
+      "score": 10,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh."
+      ],
+      "image": "assets/data/headline-images/life-sentence-for-parnell-square-attacker-riad-bouchaker-51f1ba0d9c.svg"
+    },
+    {
+      "id": "will-a-spy-scandal-trade-friction-and-a-surprise-guest-r-1038169461",
+      "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+      "source": "The New York Times",
+      "country": "United States",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-18T12:11:26+10:00",
+      "score": 8,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "The question mark makes it feel like the host has paused for the room."
+      ],
+      "image": "assets/data/headline-images/will-a-spy-scandal-trade-friction-and-a-surprise-guest-r-1038169461.svg"
+    },
+    {
+      "id": "nvidia-shares-rise-as-chip-giant-beats-forecasts-7b0df4bc8e",
+      "title": "Nvidia shares rise as chip giant beats forecasts",
+      "url": "https://www.rnz.co.nz/news/world/2655966/nvidia-shares-rise-as-chip-giant-beats-forecasts",
       "source": "RNZ News",
       "country": "New Zealand",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-17T13:35:38+10:00",
+      "published": "2026-11-18T12:00:20+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/nvidia-shares-rise-as-chip-giant-beats-forecasts-7b0df4bc8e.svg"
+    },
+    {
+      "id": "all-thanks-to-you-guys-stolen-custom-bike-of-paralympian-a9f3fe0722",
+      "title": "‘All thanks to you guys’: Stolen custom bike of Paralympian Ellen Keane found",
+      "url": "https://www.irishtimes.com/crime-law/2026/11/17/all-thanks-to-you-guys-stolen-custom-bike-of-paralympian-ellen-keane-found/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-18T04:36:00+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/will-jordan-a-chance-to-make-surprise-comeback-for-all-b-ab351c5ce6.svg"
-    },
-    {
-      "id": "it-s-like-the-16th-century-version-of-doomscrolling-the--9f4f6cf6ae",
-      "title": "‘It’s like the 16th-century version of doomscrolling’: the Book of Miracles may fetch £1m at auction",
-      "url": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
-      "source": "The Guardian World",
-      "country": "United Kingdom",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-16T17:00:38+10:00",
-      "score": 5,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
-      ],
-      "image": "assets/data/headline-images/it-s-like-the-16th-century-version-of-doomscrolling-the--9f4f6cf6ae.svg"
+      "image": "assets/data/headline-images/all-thanks-to-you-guys-stolen-custom-bike-of-paralympian-a9f3fe0722.svg"
     }
   ],
   "feed_errors": [
