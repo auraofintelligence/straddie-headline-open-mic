@@ -1,10 +1,10 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T13:02:48.126878+10:00",
-  "generated_label": "18 Nov 2026, 01:02 PM AEST",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T12:43:12.065081+10:00",
+  "generated_label": "19 Nov 2026, 12:43 PM AEST",
   "source_count": 14,
-  "headline_count": 19,
+  "headline_count": 16,
   "headlines": [
     {
       "id": "arrest-made-for-stolen-melbourne-cups-a231741f12",
@@ -93,23 +93,6 @@
       "image": "assets/data/headline-images/mum-sitting-on-the-toilet-spooked-as-child-ghost-unfurls-beba071c4b.svg"
     },
     {
-      "id": "7-of-the-world-s-most-bizarre-airports-with-disappearing-39448b2c06",
-      "title": "7 of the world's most bizarre airports with 'disappearing' runways and lions near terminals",
-      "url": "https://www.dailystar.co.uk/travel/gallery/7-worlds-most-bizarre-airports-37875159",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-14T02:08:01+10:00",
-      "score": 20,
-      "why": "The headline is already trying not to laugh.",
-      "signals": [
-        "The headline is already trying not to laugh.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/7-of-the-world-s-most-bizarre-airports-with-disappearing-39448b2c06.svg"
-    },
-    {
       "id": "bizarre-urban-legend-saw-hundreds-try-to-free-a-man-trap-75ab149ee9",
       "title": "Bizarre urban legend saw hundreds try to free a man ‘trapped inside a bean’",
       "url": "https://metro.co.uk/2026/11/09/bizarre-urban-legend-saw-hundreds-try-free-a-man-trapped-inside-a-bean-29778088/",
@@ -143,40 +126,6 @@
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
       "image": "assets/data/headline-images/bizarre-pterodactyl-filmed-near-us-border-sparks-claims--00f53b174c.svg"
-    },
-    {
-      "id": "california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298",
-      "title": "California airport sparks online frenzy with peculiar hardware auction",
-      "url": "https://nypost.com/2026/11/08/lifestyle/oakland-airport-auctions-off-baggage-tugs-for-as-little-as-750-as-social-media-users-go-wild/",
-      "source": "New York Post Weird But True",
-      "country": "United States",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-09T00:45:00+10:00",
-      "score": 17,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/california-airport-sparks-online-frenzy-with-peculiar-ha-9a9f2d3298.svg"
-    },
-    {
-      "id": "family-left-nauseous-after-giant-see-through-ufo-shines--b58d934174",
-      "title": "Family left 'nauseous' after giant 'see-through' UFO shines bright lights into girl's bedroom",
-      "url": "https://www.dailystar.co.uk/news/latest-news/family-left-nauseous-after-giant-37874513",
-      "source": "Daily Star Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-13T23:09:33+10:00",
-      "score": 17,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/family-left-nauseous-after-giant-see-through-ufo-shines--b58d934174.svg"
     },
     {
       "id": "microsoft-says-efforts-to-fix-global-outage-not-going-as-107cd3be4e",
@@ -213,119 +162,120 @@
       "image": "assets/data/headline-images/massive-see-through-ufo-caught-on-camera-over-oregon-hom-5b080836eb.svg"
     },
     {
-      "id": "heads-should-roll-owner-of-melbourne-cup-horse-found-dum-04ff6daea9",
-      "title": "‘Heads should roll’: owner of Melbourne Cup horse found dumped in skip bin demands investigation",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/18/stuart-ramsey-calls-for-investigation-so-you-are-melbourne-cup-horse-found-skip-bin-ntwnfb",
-      "source": "The Guardian World",
+      "id": "america-s-tech-apocalypse-has-already-started-experts-so-59836e14a0",
+      "title": "America's tech apocalypse 'has already started': Experts sound alarm and warn more catastrophic outages are coming to plunge nation deeper into chaos",
+      "url": "https://www.dailymail.com/sciencetech/article-16302837/americas-tech-apocalypse-expert-warning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
       "country": "United Kingdom",
-      "source_type": "newspaper",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-19T11:24:00+10:00",
+      "score": 11,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/america-s-tech-apocalypse-has-already-started-experts-so-59836e14a0.svg"
+    },
+    {
+      "id": "first-snowstorm-of-the-season-impacts-19-us-states-and-t-bb7b5a3b63",
+      "title": "First snowstorm of the season impacts 19 US states and triggers flight chaos as four-hour delays hit East Coast airports",
+      "url": "https://www.dailymail.com/sciencetech/article-16287319/winter-snowstorm-flight-delays-eastern-us.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-14T13:58:09+10:00",
+      "score": 11,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/first-snowstorm-of-the-season-impacts-19-us-states-and-t-bb7b5a3b63.svg"
+    },
+    {
+      "id": "general-pants-co-collapses-into-voluntary-administration-4a5f415f28",
+      "title": "General Pants Co collapses into voluntary administration",
+      "url": "https://www.abc.net.au/news/2026-11-19/general-pants-co-administration/107402800",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-18T07:23:47+10:00",
+      "published": "2026-11-19T12:17:43+10:00",
       "score": 10,
       "why": "A household object has somehow reached the news desk.",
       "signals": [
         "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/heads-should-roll-owner-of-melbourne-cup-horse-found-dum-04ff6daea9.svg"
+      "image": "assets/data/headline-images/general-pants-co-collapses-into-voluntary-administration-4a5f415f28.svg"
     },
     {
-      "id": "giant-ufo-with-dangling-tentacles-hovers-near-us-militar-48b1a8ca95",
-      "title": "Giant UFO with dangling tentacles hovers near US military base before vanishing: 'Only God and the government know what it is'",
-      "url": "https://www.dailymail.com/sciencetech/article-16278729/ufo-hovers-alaska-military-base.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-11-14T14:01:43+10:00",
-      "score": 10,
-      "why": "The scale is doing deadpan comedy.",
-      "signals": [
-        "The scale is doing deadpan comedy.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/giant-ufo-with-dangling-tentacles-hovers-near-us-militar-48b1a8ca95.svg"
-    },
-    {
-      "id": "fin-tastic-find-one-in-a-million-fish-caught-in-new-york-4c32b25c4f",
-      "title": "Fin-tastic find! 'One-in-a-million' fish caught in New York is bright yellow thanks to a rare genetic mutation",
-      "url": "https://www.dailymail.com/sciencetech/article-16289931/One-million-fish-yellow-rare-genetic-mutation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-11-13T21:28:13+10:00",
-      "score": 10,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/fin-tastic-find-one-in-a-million-fish-caught-in-new-york-4c32b25c4f.svg"
-    },
-    {
-      "id": "life-sentence-for-parnell-square-attacker-riad-bouchaker-51f1ba0d9c",
-      "title": "Life sentence for Parnell Square attacker Riad Bouchaker ‘unusual but not unprecedented’",
-      "url": "https://www.irishtimes.com/crime-law/courts/2026/11/17/analysis-life-sentence-for-parnell-square-attacker-unusual-but-not-unprecedented/",
-      "source": "The Irish Times",
-      "country": "Ireland",
+      "id": "general-pants-co-enters-voluntary-administration-putting-e88ce4ef6a",
+      "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
+      "url": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
+      "source": "The Guardian Australia",
+      "country": "Australia",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-18T03:30:00+10:00",
+      "published": "2026-11-19T11:46:21+10:00",
       "score": 10,
-      "why": "The headline is already trying not to laugh.",
+      "why": "A household object has somehow reached the news desk.",
       "signals": [
-        "The headline is already trying not to laugh."
+        "A household object has somehow reached the news desk."
       ],
-      "image": "assets/data/headline-images/life-sentence-for-parnell-square-attacker-riad-bouchaker-51f1ba0d9c.svg"
+      "image": "assets/data/headline-images/general-pants-co-enters-voluntary-administration-putting-e88ce4ef6a.svg"
     },
     {
-      "id": "will-a-spy-scandal-trade-friction-and-a-surprise-guest-r-1038169461",
-      "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
-      "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
-      "source": "The New York Times",
-      "country": "United States",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-18T12:11:26+10:00",
-      "score": 8,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "The question mark makes it feel like the host has paused for the room."
-      ],
-      "image": "assets/data/headline-images/will-a-spy-scandal-trade-friction-and-a-surprise-guest-r-1038169461.svg"
-    },
-    {
-      "id": "nvidia-shares-rise-as-chip-giant-beats-forecasts-7b0df4bc8e",
-      "title": "Nvidia shares rise as chip giant beats forecasts",
-      "url": "https://www.rnz.co.nz/news/world/2655966/nvidia-shares-rise-as-chip-giant-beats-forecasts",
-      "source": "RNZ News",
-      "country": "New Zealand",
+      "id": "can-anthropic-s-record-breaking-ipo-stop-the-ai-bubble-b-7d36ef3c9a",
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-18T12:00:20+10:00",
-      "score": 7,
-      "why": "The scale is doing deadpan comedy.",
+      "published": "2026-11-19T07:28:08+10:00",
+      "score": 9,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "The scale is doing deadpan comedy."
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Technology is present, which means dignity may be optional.",
+        "The question mark makes it feel like the host has paused for the room."
       ],
-      "image": "assets/data/headline-images/nvidia-shares-rise-as-chip-giant-beats-forecasts-7b0df4bc8e.svg"
+      "image": "assets/data/headline-images/can-anthropic-s-record-breaking-ipo-stop-the-ai-bubble-b-7d36ef3c9a.svg"
     },
     {
-      "id": "all-thanks-to-you-guys-stolen-custom-bike-of-paralympian-a9f3fe0722",
-      "title": "‘All thanks to you guys’: Stolen custom bike of Paralympian Ellen Keane found",
-      "url": "https://www.irishtimes.com/crime-law/2026/11/17/all-thanks-to-you-guys-stolen-custom-bike-of-paralympian-ellen-keane-found/",
-      "source": "The Irish Times",
-      "country": "Ireland",
+      "id": "record-breaking-rain-lashes-california-s-bay-area-as-atm-3eb030381c",
+      "title": "Record-breaking rain lashes California’s Bay area as ‘atmospheric river’ arrives",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-18T04:36:00+10:00",
+      "published": "2026-11-19T11:03:34+10:00",
       "score": 7,
       "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
         "It has the shape of a tiny adventure reported with a straight face."
       ],
-      "image": "assets/data/headline-images/all-thanks-to-you-guys-stolen-custom-bike-of-paralympian-a9f3fe0722.svg"
+      "image": "assets/data/headline-images/record-breaking-rain-lashes-california-s-bay-area-as-atm-3eb030381c.svg"
+    },
+    {
+      "id": "van-gogh-painting-sells-for-record-190-4m-after-row-over-6df144ec87",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-19T10:49:19+10:00",
+      "score": 7,
+      "why": "It turns a small thing into a public argument.",
+      "signals": [
+        "It turns a small thing into a public argument."
+      ],
+      "image": "assets/data/headline-images/van-gogh-painting-sells-for-record-190-4m-after-row-over-6df144ec87.svg"
     }
   ],
   "feed_errors": [
