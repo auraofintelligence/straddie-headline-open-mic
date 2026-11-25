@@ -1,44 +1,27 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T15:25:37.201245+10:00",
-  "generated_label": "24 Nov 2026, 03:25 PM AEST",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T14:27:45.862340+10:00",
+  "generated_label": "25 Nov 2026, 02:27 PM AEST",
   "source_count": 14,
-  "headline_count": 12,
+  "headline_count": 21,
   "headlines": [
     {
-      "id": "chaos-as-airline-suffers-major-outage-amid-intel-chief-s-74bff999e1",
-      "title": "Chaos as airline suffers major outage amid intel chief’s warning",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPR0luQlFMaHlQRU1kcUJFbmhPTThLa2VQaDBROFFCbmc4VlBHb3JENnBhTS1hWjI2dzZGRnV3YXBLTTBmQ0tqXzBZWll4aU9WVnY2dkl1VDJSNFQ0U3BPMVBEZFBqWWdxUWlkcHBURWFiUjR4cjZINVRWNnBWNEgyWC1aMVdWMzMyMG9OVHlucko4ZnlkUHVoMnNGWEVBTE5neEdsTEo3bUhVTWRzNjJxVG1DTDdoS1lmd3Y0MGVtNGFTWExNUVdfdFBoLTgxSWMxZkM2eFBIQjdNSHhDVlltUW9mdHRBMTNNTmYySXhiWnZMeUpHZ0p0OWNoVko2NlJRQi1kZmxYS2d1dmdCeXc?oc=5",
+      "id": "william-tyrrell-inquest-major-development-in-long-runnin-8063768870",
+      "title": "William Tyrrell inquest: Major development in long-running mystery",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV0x1WjdEbnRRcEx6T0t4ZXlBUnowOVMzTEY0MDl4dk8wUU92MGhHQm0zRFpMWlpQcGV2dlFjbXRVUmp0VGFMZVRXYXhYRWswbXhXQlpBQlFzT0ItUlBLWFR6MWQyUzRNbGY5RUhxcms0NnEtSG1Qb0R5eDZPNGFsV0dQcjhwR2cwVzZFa0xBdll0WUFORHBHd195eU1HcTBRT1lnVjFIWXFpZXF2al81Y3IweFRERjYzRHFBSnVmQ0tVMXdnM0NNc3FucWVQTTV4RUkzYWk4NWhWOG9hNjM4Z1hHVlF3MlNMVDl5YnBGVVVjT3hOQVRCMDdwejFXUEVkSGdoRXY4UmVHdDZsellMczRR?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-11-23T12:29:29+10:00",
-      "score": 32,
-      "why": "The word chaos gives it open-mic energy.",
+      "published": "2026-11-25T12:16:43+10:00",
+      "score": 33,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
       "signals": [
-        "The word chaos gives it open-mic energy.",
+        "A mystery is doing a lot of work in a very small sentence.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/chaos-as-airline-suffers-major-outage-amid-intel-chief-s-74bff999e1.svg"
-    },
-    {
-      "id": "darwin-real-estate-the-latest-auction-and-sales-results--b23bedec40",
-      "title": "Darwin real estate: The latest auction and sales results for week ending November 22",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQVFkalBTdldTaXVpblpfaVVQZ25DWkpPRFQ5WHVlSG0ycksxQ2Vub3ZuNERoZFJlaERlbjZzdmJ1cnhzSHR4bzNXWHk0WV82Y0EteGZfakxRbVJkRUZJbWVfNGJpOUw3N0U1M2NxWW1iUEM3aHpKQklUdG1HVDhlY25rMW1jdUNWZ1NYbm5XVmZmVm5tajYweURtUzJGU1N2WmN0d2g1R29WZzluYWpmNzhOTHJqaDdSMGhWZVRBVW9wS0phbjVMcE8zWkV1OG5jQ0VGdEtrQ0wtbDNHY0laLUtzdGJxRHhhTXFmWTcxd1hHT29SdHBtRVV6ZTVzcU9tNUw5STNKNnViQy1Cb3ppeV92ZnlYVDA?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-11-24T04:30:00+10:00",
-      "score": 31,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/darwin-real-estate-the-latest-auction-and-sales-results--b23bedec40.svg"
+      "image": "assets/data/headline-images/william-tyrrell-inquest-major-development-in-long-runnin-8063768870.svg"
     },
     {
       "id": "active-police-pursue-stolen-yaris-after-red-centre-crime-070c61d532",
@@ -58,21 +41,21 @@
       "image": "assets/data/headline-images/active-police-pursue-stolen-yaris-after-red-centre-crime-070c61d532.svg"
     },
     {
-      "id": "sh-tshow-car-giant-quits-as-sales-fall-90pc-00a1e17e80",
-      "title": "‘Sh*tshow’: Car giant quits as sales fall 90pc",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQkFhQ1B2c3hDOFJWeXducng5UHpuQ1ZXaFB6MjQyajlfYnNUZWRQSkI3WVE2SmFkb09xYzlVczVmS3drVXd6cXNHOTB1THpnLUtBVDJyUnNUYjdJOF95RmNrdlNZbDZCbVQ5NjNGbFVrU19mWjFmdl94QjlndjM1X1FMekZsbi1UVDlyank1REd2ZDdvbElVOG05NzFGNm9RVUpmVW9QdkROWDQ2VmxnRVlNUXpwRUdKS0NSbm5VQWg2Xy00bWZzT0FaRFdkWWU3?oc=5",
+      "id": "aus-rocked-by-nasty-inflation-surprise-bc758af8f3",
+      "title": "Aus rocked by nasty inflation surprise",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ3MwN2FtM1V6NHBDbEtQamlfbGlOd0otd2p0X0MtMjE5S0tLZ1ZHTmlwaDZFM2haQ3Jab3NnNUs4LW9yeU82Qkd3ME1jc0lOcHRrT0hIeV9saU04YjFjbkdVR240ZGV0bjVHdm1VM2VHejUtMHBWbFdSTVhnQlhiLVJuTmxrZHJ6ZmszeUdMaW1zQXdvelNzQmc3bWxwcDUyMlhjOHBOamxDYmpaVTloMkliSXl5eFVSdFZlRl9vM3QyT2I3QVBaV0NrMTZUMzRXbkwzVlpra3pXTnZVb0FXUlJrY29hN1hPRFRpQUhlclFqNHdQVjU4bWxJNW9JYVRHRFlIWG56Mm5zQQ?oc=5",
       "source": "NT News",
       "country": "Australia",
       "source_type": "Darwin newspaper / prime front-page target",
       "priority": "prime",
-      "published": "2026-11-24T11:21:54+10:00",
+      "published": "2026-11-25T12:16:43+10:00",
       "score": 31,
-      "why": "The scale is doing deadpan comedy.",
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
       "signals": [
-        "The scale is doing deadpan comedy.",
+        "It has the shape of a tiny adventure reported with a straight face.",
         "Prime NT News target: Darwin front-page energy gets first look."
       ],
-      "image": "assets/data/headline-images/sh-tshow-car-giant-quits-as-sales-fall-90pc-00a1e17e80.svg"
+      "image": "assets/data/headline-images/aus-rocked-by-nasty-inflation-surprise-bc758af8f3.svg"
     },
     {
       "id": "giant-turtle-is-asda-s-most-unusual-customer-and-has-con-b120e1e3a9",
@@ -128,6 +111,23 @@
       "image": "assets/data/headline-images/bizarre-pterodactyl-filmed-near-us-border-sparks-claims--00f53b174c.svg"
     },
     {
+      "id": "not-m-s-tesco-or-lidl-i-found-best-mince-pie-to-buy-afte-b6ed3dd4d7",
+      "title": "'Not M&S, Tesco or Lidl – I found best mince pie to buy after taste-testing 34'",
+      "url": "https://www.mirror.co.uk/lifestyle/food-drink/not-ms-tesco-lidl--37909732",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-24T23:04:21+10:00",
+      "score": 19,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/not-m-s-tesco-or-lidl-i-found-best-mince-pie-to-buy-afte-b6ed3dd4d7.svg"
+    },
+    {
       "id": "surprise-tropical-storm-forming-near-us-coast-threatens--dec1a2ea51",
       "title": "Surprise tropical storm forming near US coast threatens to throw Thanksgiving travel into chaos for millions",
       "url": "https://www.dailymail.com/sciencetech/article-16305877/tropical-storm-thanksgiving-travel-chaos-east-coast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -144,6 +144,75 @@
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
       "image": "assets/data/headline-images/surprise-tropical-storm-forming-near-us-coast-threatens--dec1a2ea51.svg"
+    },
+    {
+      "id": "loose-women-presenter-congratulates-co-star-after-baby-n-6df8bb85b0",
+      "title": "Loose Women presenter congratulates co-star after baby news",
+      "url": "https://www.mirror.co.uk/tv/tv-news/loose-women-presenter-congratulates-co-37910148",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-24T23:20:11+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/loose-women-presenter-congratulates-co-star-after-baby-n-6df8bb85b0.svg"
+    },
+    {
+      "id": "man-caught-taking-snaps-at-gig-in-adorable-moment-then-p-1ff390193a",
+      "title": "Man caught taking snaps at gig in 'adorable' moment then people realise who he is",
+      "url": "https://www.mirror.co.uk/lifestyle/man-caught-taking-snaps-gig-37909773",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-24T22:28:27+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/man-caught-taking-snaps-at-gig-in-adorable-moment-then-p-1ff390193a.svg"
+    },
+    {
+      "id": "people-have-finally-uncovered-reason-tiny-holes-keep-app-ebee10d2c9",
+      "title": "People have finally uncovered reason tiny holes keep appearing on T-shirts",
+      "url": "https://www.mirror.co.uk/lifestyle/people-finally-uncovered-reason-tiny-37905194",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-24T18:58:18+10:00",
+      "score": 17,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/people-have-finally-uncovered-reason-tiny-holes-keep-app-ebee10d2c9.svg"
+    },
+    {
+      "id": "forget-oysters-or-dark-chocolate-why-your-partner-s-body-3c19e1b58a",
+      "title": "Forget oysters or dark chocolate! Why your partner's BODY ODOUR is the ultimate aphrodisiac, according to science",
+      "url": "https://www.dailymail.com/sciencetech/article-16317505/partners-BODY-ODOUR-aphrodisiac-science.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-24T20:12:22+10:00",
+      "score": 15,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "It reads like the setup to a very dry question.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/forget-oysters-or-dark-chocolate-why-your-partner-s-body-3c19e1b58a.svg"
     },
     {
       "id": "meet-the-frankenhamster-scientists-create-bizarre-planim-84622f7b1e",
@@ -163,54 +232,137 @@
       "image": "assets/data/headline-images/meet-the-frankenhamster-scientists-create-bizarre-planim-84622f7b1e.svg"
     },
     {
-      "id": "former-pentagon-contractor-claims-aliens-are-living-amon-00c109fcc4",
-      "title": "Former Pentagon contractor claims aliens are living among us and 'taunting' US Navy to conceal chilling plan to repopulate Earth",
-      "url": "https://www.dailymail.com/sciencetech/article-16268203/Former-Pentagon-contractor-claims-aliens-living-taunting-US-Navy-conceal-chilling-plan-repopulate-Earth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "id": "thanksgiving-travel-chaos-as-ground-stop-at-chicago-o-ha-8141ddf605",
+      "title": "Thanksgiving travel chaos as ground stop at Chicago O'Hare Airport for equipment outage causes delays",
+      "url": "https://www.dailymail.com/sciencetech/article-16319559/thanksgiving-travel-chaos-chicago-ohare-ground-stop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "source": "Daily Mail Science",
       "country": "United Kingdom",
       "source_type": "newspaper science / odd discoveries",
       "priority": "tabloid",
-      "published": "2026-11-23T22:53:10+10:00",
-      "score": 13,
-      "why": "A wonderfully specific detail has taken centre stage.",
-      "signals": [
-        "A wonderfully specific detail has taken centre stage.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/former-pentagon-contractor-claims-aliens-are-living-amon-00c109fcc4.svg"
-    },
-    {
-      "id": "thanksgiving-nor-easter-threatens-travel-chaos-for-milli-e7c5164ace",
-      "title": "Thanksgiving nor'easter threatens travel chaos for millions as forecasters warn of thousands of flight delays",
-      "url": "https://www.dailymail.com/sciencetech/article-16315197/thanksgiving-travel-storm-chaos.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
-      "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-11-24T07:09:12+10:00",
+      "published": "2026-11-25T10:22:29+10:00",
       "score": 13,
       "why": "The word chaos gives it open-mic energy.",
       "signals": [
         "The word chaos gives it open-mic energy.",
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
-      "image": "assets/data/headline-images/thanksgiving-nor-easter-threatens-travel-chaos-for-milli-e7c5164ace.svg"
+      "image": "assets/data/headline-images/thanksgiving-travel-chaos-as-ground-stop-at-chicago-o-ha-8141ddf605.svg"
     },
     {
-      "id": "the-jimmy-cake-for-the-next-gig-we-were-going-to-call-ou-ef73073510",
-      "title": "The Jimmy Cake: ‘For the next gig we were going to call ourselves The French.’ ‘And then Bag of Mickeys’",
-      "url": "https://www.irishtimes.com/culture/music/2026/11/15/the-jimmy-cake-for-the-next-gig-we-were-going-to-call-ourselves-the-french-and-then-bag-of-mickeys/",
+      "id": "why-inflation-is-up-but-interest-rates-are-not-expected--5e3d4486f1",
+      "title": "Why inflation is up, but interest rates are not expected to follow",
+      "url": "https://www.abc.net.au/news/2026-11-25/inflation-up-but-rates-not-expected-to-follow/107424642",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-25T13:32:26+10:00",
+      "score": 8,
+      "why": "It reads like the setup to a very dry question.",
+      "signals": [
+        "It reads like the setup to a very dry question.",
+        "The headline has a neat little reversal."
+      ],
+      "image": "assets/data/headline-images/why-inflation-is-up-but-interest-rates-are-not-expected--5e3d4486f1.svg"
+    },
+    {
+      "id": "why-tiny-cars-are-taking-off-across-europe-2d1fa18c11",
+      "title": "Why tiny cars are taking off across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "country": "United Kingdom",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-25T10:34:05+10:00",
+      "score": 8,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "It reads like the setup to a very dry question."
+      ],
+      "image": "assets/data/headline-images/why-tiny-cars-are-taking-off-across-europe-2d1fa18c11.svg"
+    },
+    {
+      "id": "one-tiny-piece-of-metadata-undid-beau-lamarre-condon-6dc7713cea",
+      "title": "One tiny piece of metadata undid Beau Lamarre-Condon",
+      "url": "https://www.abc.net.au/news/2026-11-25/beau-lamarre-condon-lost-out-to-facts-double-murder-trial/107415888",
+      "source": "ABC News",
+      "country": "Australia",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-25T12:40:12+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/one-tiny-piece-of-metadata-undid-beau-lamarre-condon-6dc7713cea.svg"
+    },
+    {
+      "id": "is-albo-terminal-no-but-the-world-is-in-chaos-and-he-wil-4529985895",
+      "title": "Is Albo terminal? No – but the world is in chaos and he will need to find his way through wicked problems | Peter Lewis",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/25/anthony-albanese-approval-rating-poll-results",
+      "source": "The Guardian Australia",
+      "country": "Australia",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-25T09:22:51+10:00",
+      "score": 7,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "The question mark makes it feel like the host has paused for the room."
+      ],
+      "image": "assets/data/headline-images/is-albo-terminal-no-but-the-world-is-in-chaos-and-he-wil-4529985895.svg"
+    },
+    {
+      "id": "i-just-can-t-comprehend-lifesaving-beach-buoys-stolen-e296ef3a93",
+      "title": "'I just can't comprehend': Lifesaving beach buoys stolen",
+      "url": "https://www.rnz.co.nz/news/community/2770281/i-just-can-t-comprehend-lifesaving-beach-buoys-stolen",
+      "source": "RNZ News",
+      "country": "New Zealand",
+      "source_type": "public broadcaster / print-style newsroom",
+      "priority": "standard",
+      "published": "2026-11-25T08:01:10+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/i-just-can-t-comprehend-lifesaving-beach-buoys-stolen-e296ef3a93.svg"
+    },
+    {
+      "id": "horse-sport-ireland-staff-to-protest-at-martin-heydon-s--eff1b3f24c",
+      "title": "Horse Sport Ireland staff to protest at Martin Heydon’s office in bid to save jobs",
+      "url": "https://www.irishtimes.com/ireland/2026/11/24/horse-sport-ireland-staff-to-protest-at-martin-heydons-office-in-bid-to-save-jobs/",
       "source": "The Irish Times",
       "country": "Ireland",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-15T15:16:00+10:00",
+      "published": "2026-11-24T18:43:46+10:00",
       "score": 7,
-      "why": "A very ordinary object has wandered into serious news.",
+      "why": "It has that classic official-plan-meets-real-life shape.",
       "signals": [
-        "A very ordinary object has wandered into serious news."
+        "It has that classic official-plan-meets-real-life shape."
       ],
-      "image": "assets/data/headline-images/the-jimmy-cake-for-the-next-gig-we-were-going-to-call-ou-ef73073510.svg"
+      "image": "assets/data/headline-images/horse-sport-ireland-staff-to-protest-at-martin-heydon-s--eff1b3f24c.svg"
+    },
+    {
+      "id": "i-lived-in-the-us-for-10-years-here-s-how-australian-sup-ca8b8e89f2",
+      "title": "I lived in the US for 10 years – here’s how Australian supermarkets compare",
+      "url": "https://www.theguardian.com/food/2026/nov/24/australian-vs-us-supermarkets-how-do-they-compare-bread-bacon",
+      "source": "The Guardian Australia",
+      "country": "Australia",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-25T05:00:53+10:00",
+      "score": 5,
+      "why": "It reads like the setup to a very dry question.",
+      "signals": [
+        "It reads like the setup to a very dry question.",
+        "The specific number gives the line a dry little thud."
+      ],
+      "image": "assets/data/headline-images/i-lived-in-the-us-for-10-years-here-s-how-australian-sup-ca8b8e89f2.svg"
     }
   ],
   "feed_errors": [
