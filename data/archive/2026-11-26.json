@@ -1,0 +1,340 @@
+{
+  "site": "Straddie Headline Open Mic",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T13:41:45.382036+10:00",
+  "generated_label": "26 Nov 2026, 01:41 PM AEST",
+  "source_count": 14,
+  "headline_count": 19,
+  "headlines": [
+    {
+      "id": "car-allegedly-stolen-from-alice-springs-hotel-744798c0fc",
+      "title": "Car allegedly stolen from Alice Springs hotel",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNS1lzcnBhb0Rmb0VLODRGLVNhZFdpVkhhQmdJSHp3cHFabXVCcTJlZFJLVm1uakdva2lGeV82OF9hTW5EQnQzcmdBRFNWaTJUOXgxZXJqbzBXTEJmQWlNbzI3ZkVrdDFaem05ZEtCMWpaMmQ2OWZJNUhxaENOQUEwOVlJcHJhZ296SmF0b080QnpHeWVsbDBDUlowX3VIUmZpbkJ0V21JZ0lpY1pqbldNNlVBaUxhdXhxRjJRdUd1dUFpb1hoMHJwUkI5RUhLcTlHZFBzMjNPMEYtQUF6ZE1ZX3RTNWRpOTVFUDZfLWdMVE9oVlh0RXZhZHZHQ3ZsejZZUFdLSS1wZWRRMTR2REY2TTJQXzY?oc=5",
+      "source": "NT News",
+      "country": "Australia",
+      "source_type": "Darwin newspaper / prime front-page target",
+      "priority": "prime",
+      "published": "2026-11-25T10:06:00+10:00",
+      "score": 31,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Prime NT News target: Darwin front-page energy gets first look."
+      ],
+      "image": "assets/data/headline-images/car-allegedly-stolen-from-alice-springs-hotel-744798c0fc.svg"
+    },
+    {
+      "id": "politician-s-bizarre-eye-roll-video-sparks-viral-lizard--ecd52751b0",
+      "title": "Politician's bizarre 'eye roll' video sparks viral 'lizard people' conspiracy",
+      "url": "https://www.dailystar.co.uk/news/weird-news/politicians-bizarre-eye-roll-video-37906437",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-24T01:48:51+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/politician-s-bizarre-eye-roll-video-sparks-viral-lizard--ecd52751b0.svg"
+    },
+    {
+      "id": "could-this-new-discovery-solve-the-mystery-of-noah-s-ark-208d76faa5",
+      "title": "Could this new discovery solve the mystery of Noah’s Ark?",
+      "url": "https://metro.co.uk/2026/11/24/wood-found-final-resting-place-noahs-ark-matches-old-testament-timeline-29814881/",
+      "source": "Metro Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-24T23:46:47+10:00",
+      "score": 20,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "The question mark makes it feel like the host has paused for the room.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/could-this-new-discovery-solve-the-mystery-of-noah-s-ark-208d76faa5.svg"
+    },
+    {
+      "id": "bizarre-pterodactyl-filmed-near-us-border-sparks-claims--00f53b174c",
+      "title": "Bizarre 'pterodactyl' filmed near US border sparks claims ancient predator is on the loose",
+      "url": "https://www.dailymail.com/sciencetech/article-16296509/pterodactyl-juarez-mexico-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-17T13:13:41+10:00",
+      "score": 20,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/bizarre-pterodactyl-filmed-near-us-border-sparks-claims--00f53b174c.svg"
+    },
+    {
+      "id": "cheapest-supermarkets-for-christmas-chocolate-tubs-from--6478a1f0c7",
+      "title": "Cheapest supermarkets for Christmas chocolate tubs – from Roses to Quality Street",
+      "url": "https://www.mirror.co.uk/lifestyle/food-drink/cheapest-supermarkets-christmas-chocolate-tubs-37913231",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-25T22:00:00+10:00",
+      "score": 19,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/cheapest-supermarkets-for-christmas-chocolate-tubs-from--6478a1f0c7.svg"
+    },
+    {
+      "id": "not-m-s-tesco-or-lidl-i-found-best-mince-pie-to-buy-afte-b6ed3dd4d7",
+      "title": "'Not M&S, Tesco or Lidl – I found best mince pie to buy after taste-testing 34'",
+      "url": "https://www.mirror.co.uk/lifestyle/food-drink/not-ms-tesco-lidl--37909732",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-24T23:04:21+10:00",
+      "score": 19,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/not-m-s-tesco-or-lidl-i-found-best-mince-pie-to-buy-afte-b6ed3dd4d7.svg"
+    },
+    {
+      "id": "woman-got-letter-saying-mystery-cousin-had-left-a-fortun-8e60cf1d4b",
+      "title": "Woman got letter saying mystery cousin had left a fortune, and it wasn't a scam",
+      "url": "https://www.dailystar.co.uk/news/latest-news/woman-letter-saying-mystery-cousin-37912261",
+      "source": "Daily Star Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-25T17:13:29+10:00",
+      "score": 19,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/woman-got-letter-saying-mystery-cousin-had-left-a-fortun-8e60cf1d4b.svg"
+    },
+    {
+      "id": "unimpressed-cat-peers-out-of-hole-in-street-after-gettin-fa75fc4f3c",
+      "title": "Unimpressed cat peers out of hole in street after getting stuck in drainpipe",
+      "url": "https://metro.co.uk/2026/11/25/unimpressed-cat-peers-hole-street-getting-stuck-drainpipe-29817774/",
+      "source": "Metro Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-25T22:31:52+10:00",
+      "score": 18,
+      "why": "The second half quietly trips over the first half.",
+      "signals": [
+        "The second half quietly trips over the first half.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/unimpressed-cat-peers-out-of-hole-in-street-after-gettin-fa75fc4f3c.svg"
+    },
+    {
+      "id": "surprise-tropical-storm-forming-near-us-coast-threatens--dec1a2ea51",
+      "title": "Surprise tropical storm forming near US coast threatens to throw Thanksgiving travel into chaos for millions",
+      "url": "https://www.dailymail.com/sciencetech/article-16305877/tropical-storm-thanksgiving-travel-chaos-east-coast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-20T06:17:59+10:00",
+      "score": 18,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/surprise-tropical-storm-forming-near-us-coast-threatens--dec1a2ea51.svg"
+    },
+    {
+      "id": "loose-women-presenter-congratulates-co-star-after-baby-n-6df8bb85b0",
+      "title": "Loose Women presenter congratulates co-star after baby news",
+      "url": "https://www.mirror.co.uk/tv/tv-news/loose-women-presenter-congratulates-co-37910148",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-24T23:20:11+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/loose-women-presenter-congratulates-co-star-after-baby-n-6df8bb85b0.svg"
+    },
+    {
+      "id": "man-caught-taking-snaps-at-gig-in-adorable-moment-then-p-1ff390193a",
+      "title": "Man caught taking snaps at gig in 'adorable' moment then people realise who he is",
+      "url": "https://www.mirror.co.uk/lifestyle/man-caught-taking-snaps-gig-37909773",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-24T22:28:27+10:00",
+      "score": 17,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/man-caught-taking-snaps-at-gig-in-adorable-moment-then-p-1ff390193a.svg"
+    },
+    {
+      "id": "people-have-finally-uncovered-reason-tiny-holes-keep-app-ebee10d2c9",
+      "title": "People have finally uncovered reason tiny holes keep appearing on T-shirts",
+      "url": "https://www.mirror.co.uk/lifestyle/people-finally-uncovered-reason-tiny-37905194",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-24T18:58:18+10:00",
+      "score": 17,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/people-have-finally-uncovered-reason-tiny-holes-keep-app-ebee10d2c9.svg"
+    },
+    {
+      "id": "forget-oysters-or-dark-chocolate-why-your-partner-s-body-3c19e1b58a",
+      "title": "Forget oysters or dark chocolate! Why your partner's BODY ODOUR is the ultimate aphrodisiac, according to science",
+      "url": "https://www.dailymail.com/sciencetech/article-16317505/partners-BODY-ODOUR-aphrodisiac-science.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-24T20:12:22+10:00",
+      "score": 15,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "It reads like the setup to a very dry question.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/forget-oysters-or-dark-chocolate-why-your-partner-s-body-3c19e1b58a.svg"
+    },
+    {
+      "id": "meet-the-frankenhamster-scientists-create-bizarre-planim-84622f7b1e",
+      "title": "Meet the Frankenhamster: Scientists create bizarre 'planimal' by fusing together hamster and algae DNA",
+      "url": "https://www.dailymail.com/sciencetech/article-16314681/Frankenhamster-planimal-hamster-algae-DNA.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-23T20:21:50+10:00",
+      "score": 15,
+      "why": "The headline is already trying not to laugh.",
+      "signals": [
+        "The headline is already trying not to laugh.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/meet-the-frankenhamster-scientists-create-bizarre-planim-84622f7b1e.svg"
+    },
+    {
+      "id": "former-pentagon-contractor-claims-aliens-are-living-amon-00c109fcc4",
+      "title": "Former Pentagon contractor claims aliens are living among us and 'taunting' US Navy to conceal chilling plan to repopulate Earth",
+      "url": "https://www.dailymail.com/sciencetech/article-16268203/Former-Pentagon-contractor-claims-aliens-living-taunting-US-Navy-conceal-chilling-plan-repopulate-Earth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-23T22:53:10+10:00",
+      "score": 13,
+      "why": "A wonderfully specific detail has taken centre stage.",
+      "signals": [
+        "A wonderfully specific detail has taken centre stage.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/former-pentagon-contractor-claims-aliens-are-living-amon-00c109fcc4.svg"
+    },
+    {
+      "id": "is-albo-terminal-no-but-the-world-is-in-chaos-and-he-wil-4529985895",
+      "title": "Is Albo terminal? No – but the world is in chaos and he will need to find his way through wicked problems | Peter Lewis",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/25/anthony-albanese-approval-rating-poll-results",
+      "source": "The Guardian Australia",
+      "country": "Australia",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-25T09:22:51+10:00",
+      "score": 7,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "The question mark makes it feel like the host has paused for the room."
+      ],
+      "image": "assets/data/headline-images/is-albo-terminal-no-but-the-world-is-in-chaos-and-he-wil-4529985895.svg"
+    },
+    {
+      "id": "record-breaking-california-tides-cause-major-flooding-of-3475431e94",
+      "title": "Record-breaking California tides cause major flooding of roads and businesses",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+      "source": "The Guardian World",
+      "country": "United Kingdom",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-26T08:56:36+10:00",
+      "score": 7,
+      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "signals": [
+        "It has the shape of a tiny adventure reported with a straight face."
+      ],
+      "image": "assets/data/headline-images/record-breaking-california-tides-cause-major-flooding-of-3475431e94.svg"
+    },
+    {
+      "id": "green-giant-frank-mcnally-on-an-unsung-masterpiece-of-du-ac16b9e33d",
+      "title": "Green giant: Frank McNally on an unsung masterpiece of Dublin art",
+      "url": "https://www.irishtimes.com/opinion/an-irish-diary/2026/11/25/green-giant-frank-mcnally-on-an-unsung-masterpiece-of-dublin-art/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-26T05:02:00+10:00",
+      "score": 7,
+      "why": "The scale is doing deadpan comedy.",
+      "signals": [
+        "The scale is doing deadpan comedy."
+      ],
+      "image": "assets/data/headline-images/green-giant-frank-mcnally-on-an-unsung-masterpiece-of-du-ac16b9e33d.svg"
+    },
+    {
+      "id": "horse-sport-ireland-staff-protest-at-martin-heydon-s-off-0489818539",
+      "title": "Horse Sport Ireland staff protest at Martin Heydon’s office in bid to save jobs",
+      "url": "https://www.irishtimes.com/ireland/2026/11/24/horse-sport-ireland-staff-to-protest-at-martin-heydons-office-in-bid-to-save-jobs/",
+      "source": "The Irish Times",
+      "country": "Ireland",
+      "source_type": "newspaper",
+      "priority": "standard",
+      "published": "2026-11-24T18:43:46+10:00",
+      "score": 7,
+      "why": "It has that classic official-plan-meets-real-life shape.",
+      "signals": [
+        "It has that classic official-plan-meets-real-life shape."
+      ],
+      "image": "assets/data/headline-images/horse-sport-ireland-staff-protest-at-martin-heydon-s-off-0489818539.svg"
+    }
+  ],
+  "feed_errors": [
+    {
+      "source": "The Independent",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    }
+  ]
+}
