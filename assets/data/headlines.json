@@ -1,31 +1,14 @@
 {
   "site": "Straddie Headline Open Mic",
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T13:43:01.270332+10:00",
-  "generated_label": "27 Nov 2026, 01:43 PM AEST",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T13:25:58.476798+10:00",
+  "generated_label": "28 Nov 2026, 01:25 PM AEST",
   "source_count": 14,
-  "headline_count": 19,
+  "headline_count": 15,
   "headlines": [
     {
-      "id": "gone-with-the-wind-cyclone-risk-home-sites-cleared-for-a-c68979079e",
-      "title": "Gone with the wind: Cyclone-risk home sites cleared for auction",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOeS00Y1E2X2lQbkxDY2ZEQnkzamtBSEJBcTl6c1hrSzNYTFVJSTZqYURXdVczSVg0aFJYVEdWTDk2ZDN2c0Z6OE9vc2ZYS0tWZzRidlJlRkJGRGtTc296SkR3Z3ZGMWhubnRVN2FvQVdmMWJnTm1oS0tzYl9xal9nVnhNdExFRkFNTHVsaFY4bjV6T1Jxd3VuaDVJV3BCTE5abzNYZUZmWHFCMUxGVC11X1lydVphbVh4THNQNGhhXzZiMkt6cnVhWjhSOU44aWJHbjA3VExCNzdRZG50SWxGc3l6OE8yaWZPdXhlSUZsZ1JHRS1HaFJZMGstdHY2WDd6MVBBcmhiMnFHT0RwYXdv?oc=5",
-      "source": "NT News",
-      "country": "Australia",
-      "source_type": "Darwin newspaper / prime front-page target",
-      "priority": "prime",
-      "published": "2026-11-27T04:18:05+10:00",
-      "score": 31,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Prime NT News target: Darwin front-page energy gets first look."
-      ],
-      "image": "assets/data/headline-images/gone-with-the-wind-cyclone-risk-home-sites-cleared-for-a-c68979079e.svg"
-    },
-    {
-      "id": "structures-spotted-on-mars-by-nasa-proof-of-alien-life-s-7a67ed82cd",
-      "title": "Structures spotted on Mars by Nasa ‘proof’ of alien life, says Ufologist",
+      "id": "strange-doorway-and-tool-spotted-on-mars-could-be-proof--fd24fff618",
+      "title": "Strange ‘doorway’ and ‘tool’ spotted on Mars could be ‘proof’ of alien life",
       "url": "https://metro.co.uk/2026/11/26/structures-spotted-mars-nasa-proof-alien-life-says-ufologist-29821361/",
       "source": "Metro Weird News",
       "country": "United Kingdom",
@@ -38,7 +21,7 @@
         "A wonderfully specific detail has taken centre stage.",
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
-      "image": "assets/data/headline-images/structures-spotted-on-mars-by-nasa-proof-of-alien-life-s-7a67ed82cd.svg"
+      "image": "assets/data/headline-images/strange-doorway-and-tool-spotted-on-mars-could-be-proof--fd24fff618.svg"
     },
     {
       "id": "could-this-new-discovery-solve-the-mystery-of-noah-s-ark-208d76faa5",
@@ -59,6 +42,23 @@
       "image": "assets/data/headline-images/could-this-new-discovery-solve-the-mystery-of-noah-s-ark-208d76faa5.svg"
     },
     {
+      "id": "m-s-introduces-new-sweet-sandwich-for-christmas-as-shopp-b51e7060b0",
+      "title": "M&S introduces new sweet sandwich for Christmas as shoppers left divided",
+      "url": "https://www.mirror.co.uk/money/shopping-deals/ms-introduces-new-sweet-sandwich-37921498",
+      "source": "Mirror Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-27T21:29:09+10:00",
+      "score": 19,
+      "why": "A very ordinary object has wandered into serious news.",
+      "signals": [
+        "A very ordinary object has wandered into serious news.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/m-s-introduces-new-sweet-sandwich-for-christmas-as-shopp-b51e7060b0.svg"
+    },
+    {
       "id": "cheapest-supermarkets-for-christmas-chocolate-tubs-from--6478a1f0c7",
       "title": "Cheapest supermarkets for Christmas chocolate tubs – from Roses to Quality Street",
       "url": "https://www.mirror.co.uk/lifestyle/food-drink/cheapest-supermarkets-christmas-chocolate-tubs-37913231",
@@ -76,23 +76,6 @@
       "image": "assets/data/headline-images/cheapest-supermarkets-for-christmas-chocolate-tubs-from--6478a1f0c7.svg"
     },
     {
-      "id": "not-m-s-tesco-or-lidl-i-found-best-mince-pie-to-buy-afte-b6ed3dd4d7",
-      "title": "'Not M&S, Tesco or Lidl – I found best mince pie to buy after taste-testing 34'",
-      "url": "https://www.mirror.co.uk/lifestyle/food-drink/not-ms-tesco-lidl--37909732",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-24T23:04:21+10:00",
-      "score": 19,
-      "why": "A very ordinary object has wandered into serious news.",
-      "signals": [
-        "A very ordinary object has wandered into serious news.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/not-m-s-tesco-or-lidl-i-found-best-mince-pie-to-buy-afte-b6ed3dd4d7.svg"
-    },
-    {
       "id": "woman-got-letter-saying-mystery-cousin-had-left-a-fortun-e1fd8048b0",
       "title": "Woman got letter saying mystery cousin had left a fortune, and it wasn't a scam",
       "url": "https://www.dailystar.co.uk/news/latest-news/woman-letter-saying-mystery-cousin-37918610",
@@ -108,6 +91,23 @@
         "Offbeat tabloid target: this source is built for odd headline wording."
       ],
       "image": "assets/data/headline-images/woman-got-letter-saying-mystery-cousin-had-left-a-fortun-e1fd8048b0.svg"
+    },
+    {
+      "id": "mystery-of-alexander-the-great-s-tomb-may-finally-be-sol-f8fc14508a",
+      "title": "Mystery of Alexander the Great’s tomb may finally be solved after major discovery",
+      "url": "https://metro.co.uk/2026/11/27/mystery-alexander-greats-tomb-may-finally-solved-major-discovery-29820850/",
+      "source": "Metro Weird News",
+      "country": "United Kingdom",
+      "source_type": "newspaper offbeat section",
+      "priority": "tabloid-offbeat",
+      "published": "2026-11-28T00:55:02+10:00",
+      "score": 19,
+      "why": "A mystery is doing a lot of work in a very small sentence.",
+      "signals": [
+        "A mystery is doing a lot of work in a very small sentence.",
+        "Offbeat tabloid target: this source is built for odd headline wording."
+      ],
+      "image": "assets/data/headline-images/mystery-of-alexander-the-great-s-tomb-may-finally-be-sol-f8fc14508a.svg"
     },
     {
       "id": "unimpressed-cat-peers-out-of-hole-in-street-after-gettin-fa75fc4f3c",
@@ -143,40 +143,6 @@
         "Tabloid target: ranked up when the wording already has a wobble."
       ],
       "image": "assets/data/headline-images/surprise-tropical-storm-forming-near-us-coast-threatens--dec1a2ea51.svg"
-    },
-    {
-      "id": "loose-women-presenter-congratulates-co-star-after-baby-n-6df8bb85b0",
-      "title": "Loose Women presenter congratulates co-star after baby news",
-      "url": "https://www.mirror.co.uk/tv/tv-news/loose-women-presenter-congratulates-co-37910148",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-24T23:20:11+10:00",
-      "score": 17,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/loose-women-presenter-congratulates-co-star-after-baby-n-6df8bb85b0.svg"
-    },
-    {
-      "id": "man-caught-taking-snaps-at-gig-in-adorable-moment-then-p-1ff390193a",
-      "title": "Man caught taking snaps at gig in 'adorable' moment then people realise who he is",
-      "url": "https://www.mirror.co.uk/lifestyle/man-caught-taking-snaps-gig-37909773",
-      "source": "Mirror Weird News",
-      "country": "United Kingdom",
-      "source_type": "newspaper offbeat section",
-      "priority": "tabloid-offbeat",
-      "published": "2026-11-24T22:28:27+10:00",
-      "score": 17,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
-      "signals": [
-        "It has the shape of a tiny adventure reported with a straight face.",
-        "Offbeat tabloid target: this source is built for odd headline wording."
-      ],
-      "image": "assets/data/headline-images/man-caught-taking-snaps-at-gig-in-adorable-moment-then-p-1ff390193a.svg"
     },
     {
       "id": "humans-could-live-over-1-400-years-old-if-we-let-ai-take-b4dd8f0242",
@@ -232,6 +198,23 @@
       "image": "assets/data/headline-images/meet-the-frankenhamster-scientists-create-bizarre-planim-84622f7b1e.svg"
     },
     {
+      "id": "nine-us-states-struggle-to-restore-power-after-thanksgiv-6e0a63b445",
+      "title": "Nine US states struggle to restore power after Thanksgiving storm as weekend travel chaos looms for millions",
+      "url": "https://www.dailymail.com/sciencetech/article-16326797/thanksgiving-storm-power-outage-east-coast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "source": "Daily Mail Science",
+      "country": "United Kingdom",
+      "source_type": "newspaper science / odd discoveries",
+      "priority": "tabloid",
+      "published": "2026-11-28T02:54:11+10:00",
+      "score": 13,
+      "why": "The word chaos gives it open-mic energy.",
+      "signals": [
+        "The word chaos gives it open-mic energy.",
+        "Tabloid target: ranked up when the wording already has a wobble."
+      ],
+      "image": "assets/data/headline-images/nine-us-states-struggle-to-restore-power-after-thanksgiv-6e0a63b445.svg"
+    },
+    {
       "id": "former-pentagon-contractor-claims-aliens-are-living-amon-00c109fcc4",
       "title": "Former Pentagon contractor claims aliens are living among us and 'taunting' US Navy to conceal chilling plan to repopulate Earth",
       "url": "https://www.dailymail.com/sciencetech/article-16268203/Former-Pentagon-contractor-claims-aliens-living-taunting-US-Navy-conceal-chilling-plan-repopulate-Earth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -249,85 +232,36 @@
       "image": "assets/data/headline-images/former-pentagon-contractor-claims-aliens-are-living-amon-00c109fcc4.svg"
     },
     {
-      "id": "thanksgiving-travel-chaos-as-ground-stop-at-chicago-o-ha-8141ddf605",
-      "title": "Thanksgiving travel chaos as ground stop at Chicago O'Hare Airport for equipment outage causes delays",
-      "url": "https://www.dailymail.com/sciencetech/article-16319559/thanksgiving-travel-chaos-chicago-ohare-ground-stop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "source": "Daily Mail Science",
+      "id": "purse-found-of-woman-24-swept-from-california-beach-thre-a4ee8a04cc",
+      "title": "Purse found of woman, 24, swept from California beach three weeks ago",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
+      "source": "The Guardian World",
       "country": "United Kingdom",
-      "source_type": "newspaper science / odd discoveries",
-      "priority": "tabloid",
-      "published": "2026-11-25T10:22:29+10:00",
-      "score": 13,
-      "why": "The word chaos gives it open-mic energy.",
-      "signals": [
-        "The word chaos gives it open-mic energy.",
-        "Tabloid target: ranked up when the wording already has a wobble."
-      ],
-      "image": "assets/data/headline-images/thanksgiving-travel-chaos-as-ground-stop-at-chicago-o-ha-8141ddf605.svg"
-    },
-    {
-      "id": "after-the-iowa-detonation-a-family-gathered-for-an-unusu-0d984bc74e",
-      "title": "After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving",
-      "url": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html",
-      "source": "The New York Times",
-      "country": "United States",
       "source_type": "newspaper",
       "priority": "standard",
-      "published": "2026-11-27T10:33:25+10:00",
-      "score": 10,
-      "why": "The headline is already trying not to laugh.",
-      "signals": [
-        "The headline is already trying not to laugh."
-      ],
-      "image": "assets/data/headline-images/after-the-iowa-detonation-a-family-gathered-for-an-unusu-0d984bc74e.svg"
-    },
-    {
-      "id": "pumpkin-pie-is-disgusting-and-other-unpopular-opinions-43290f9011",
-      "title": "‘Pumpkin Pie Is Disgusting’ and Other Unpopular Opinions",
-      "url": "https://www.nytimes.com/2026/11/26/opinion/thanksgiving-america-education-disabilities.html",
-      "source": "The New York Times",
-      "country": "United States",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-26T20:04:24+10:00",
+      "published": "2026-11-28T09:43:00+10:00",
       "score": 9,
-      "why": "A very ordinary object has wandered into serious news.",
+      "why": "The object list sounds like someone shuffled three different stories together.",
       "signals": [
-        "A very ordinary object has wandered into serious news."
+        "The object list sounds like someone shuffled three different stories together."
       ],
-      "image": "assets/data/headline-images/pumpkin-pie-is-disgusting-and-other-unpopular-opinions-43290f9011.svg"
+      "image": "assets/data/headline-images/purse-found-of-woman-24-swept-from-california-beach-thre-a4ee8a04cc.svg"
     },
     {
-      "id": "stolen-melbourne-cup-parts-and-melted-gold-found-by-dete-d2fd66077a",
-      "title": "Stolen Melbourne Cup parts and melted gold found by detectives",
-      "url": "https://www.abc.net.au/news/2026-11-27/parts-of-stolen-melbourne-cups-found-by-victoria-police/107434604",
-      "source": "ABC News",
-      "country": "Australia",
+      "id": "the-giant-turtles-travelling-12-000km-to-new-zealand-nee-e0ee45d607",
+      "title": "The giant turtles travelling 12,000km to New Zealand need our help",
+      "url": "https://www.rnz.co.nz/news/environment/2852566/the-giant-turtles-travelling-12-000km-to-new-zealand-need-our-help",
+      "source": "RNZ News",
+      "country": "New Zealand",
       "source_type": "public broadcaster / print-style newsroom",
       "priority": "standard",
-      "published": "2026-11-27T11:18:45+10:00",
+      "published": "2026-11-28T09:08:21+10:00",
       "score": 7,
-      "why": "It has the shape of a tiny adventure reported with a straight face.",
+      "why": "The scale is doing deadpan comedy.",
       "signals": [
-        "It has the shape of a tiny adventure reported with a straight face."
+        "The scale is doing deadpan comedy."
       ],
-      "image": "assets/data/headline-images/stolen-melbourne-cup-parts-and-melted-gold-found-by-dete-d2fd66077a.svg"
-    },
-    {
-      "id": "judge-threatens-to-put-solicitor-in-a-cell-in-row-over-n-73745cfd58",
-      "title": "Judge threatens to put solicitor ‘in a cell’ in row over not being ‘dressed properly’ in court",
-      "url": "https://www.irishtimes.com/crime-law/courts/2026/11/26/judge-threatens-to-put-solicitor-in-a-cell-in-row-over-not-being-dressed-properly-in-court/",
-      "source": "The Irish Times",
-      "country": "Ireland",
-      "source_type": "newspaper",
-      "priority": "standard",
-      "published": "2026-11-26T22:16:46+10:00",
-      "score": 7,
-      "why": "It turns a small thing into a public argument.",
-      "signals": [
-        "It turns a small thing into a public argument."
-      ],
-      "image": "assets/data/headline-images/judge-threatens-to-put-solicitor-in-a-cell-in-row-over-n-73745cfd58.svg"
+      "image": "assets/data/headline-images/the-giant-turtles-travelling-12-000km-to-new-zealand-nee-e0ee45d607.svg"
     }
   ],
   "feed_errors": [
